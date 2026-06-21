@@ -1,0 +1,199 @@
+# intents.yaml
+#
+# Predefined intent taxonomy. Edit/extend this directly -- ingest_intents.py
+# reads this file, validates it, embeds every utterance, and writes it to
+# pgvector. Re-running ingestion after editing this file is safe (idempotent
+# on utterance text + intent code).
+#
+# Structure: top-level intents each have their own example utterances
+# (caught when the query is general, e.g. "transfer money") PLUS optional
+# subintents with their own utterances (caught when the query is specific,
+# e.g. "transfer to a mobile number").
+#
+# Note on near-neighbor intents: block_card vs report_fraud, and
+# apply_for_loan vs check_loan_status, are deliberately written with
+# distinct phrasing (one is "do this action," the other is "tell me a
+# status/dispute something") -- but real user queries WILL blur these
+# in production. That's exactly what check_cross_intent_ambiguity() in
+# test_intent_matching.py is for; run it after any taxonomy edit.
+
+intents:
+  - code: check_balance
+    display_name: Check Balance
+    description: User wants to know an account balance.
+    utterances:
+      - "what is my account balance"
+      - "show my balance"
+      - "how much money do i have"
+      - "check balance"
+      - "balance enquiry"
+      - "current balance please"
+    subintents:
+      - code: check_balance_savings
+        display_name: Check Savings Account Balance
+        utterances:
+          - "what is my savings account balance"
+          - "show savings balance"
+          - "how much is in my savings account"
+      - code: check_balance_credit_card
+        display_name: Check Credit Card Balance
+        utterances:
+          - "what is my credit card balance"
+          - "how much do i owe on my credit card"
+          - "credit card outstanding amount"
+
+  - code: make_payment
+    display_name: Make Payment
+    description: User wants to transfer money or pay someone.
+    utterances:
+      - "send money to john"
+      - "transfer funds"
+      - "i want to make a payment"
+      - "transfer money"
+      - "pay someone"
+    subintents:
+      - code: make_payment_mobile
+        display_name: Pay via Mobile Number
+        utterances:
+          - "send money to a mobile number"
+          - "transfer using phone number"
+          - "pay someone using their mobile number"
+      - code: make_payment_bank_account
+        display_name: Pay to Bank Account
+        utterances:
+          - "transfer to bank account"
+          - "send money to account number"
+          - "neft transfer to another bank"
+      - code: make_payment_bill
+        display_name: Pay a Bill
+        utterances:
+          - "pay my electricity bill"
+          - "pay my water bill"
+          - "i want to pay my phone bill"
+          - "bill payment"
+          - "pay my utility bill"
+
+  - code: block_card
+    display_name: Block Card
+    description: User wants to block or freeze a lost/stolen card. Action-oriented -- contrast with report_fraud, which is about disputing a transaction that already happened.
+    utterances:
+      - "block my debit card"
+      - "i lost my card please block it"
+      - "freeze my card immediately"
+      - "my card is stolen block it"
+      - "deactivate my credit card"
+      - "temporarily block my card"
+
+  - code: report_fraud
+    display_name: Report Fraud / Dispute Transaction
+    description: User wants to flag a transaction they don't recognize or dispute a charge. Contrast with block_card, which is about stopping further use of a lost/stolen card.
+    utterances:
+      - "i see an unauthorized transaction"
+      - "i don't recognize this charge on my statement"
+      - "dispute a transaction on my account"
+      - "report a fraudulent transaction"
+      - "raise a complaint for an unauthorized debit"
+      - "someone made a payment i didn't authorize"
+
+  - code: view_transaction_history
+    display_name: View Transaction History
+    description: User wants to see past transactions or a statement.
+    utterances:
+      - "show my recent transactions"
+      - "transaction history"
+      - "what did i spend last month"
+      - "mini statement"
+      - "list my recent payments"
+      - "show my account statement"
+
+  - code: update_contact_details
+    display_name: Update Contact Details
+    description: User wants to update phone, email, or address on file.
+    utterances:
+      - "update my phone number"
+      - "change my registered email"
+      - "update my address"
+      - "change my contact details"
+      - "update my mobile number on file"
+
+  - code: apply_for_loan
+    display_name: Apply for a Loan
+    description: User wants to start a new loan application. Contrast with check_loan_status, which is about an existing loan.
+    utterances:
+      - "i want to apply for a loan"
+      - "loan application"
+      - "how do i apply for a loan"
+      - "start a loan application"
+    subintents:
+      - code: apply_for_loan_personal
+        display_name: Apply for a Personal Loan
+        utterances:
+          - "apply for a personal loan"
+          - "personal loan application"
+          - "i need a personal loan"
+      - code: apply_for_loan_home
+        display_name: Apply for a Home Loan
+        utterances:
+          - "apply for a home loan"
+          - "home loan application"
+          - "i want a mortgage"
+
+  - code: check_loan_status
+    display_name: Check Loan Status
+    description: User wants status/balance info on an EXISTING loan. Contrast with apply_for_loan, which is about starting a new application.
+    utterances:
+      - "what is my loan emi"
+      - "check my outstanding loan balance"
+      - "when is my next emi due"
+      - "loan balance enquiry"
+      - "how much do i still owe on my loan"
+
+  - code: open_fixed_deposit
+    display_name: Open Fixed Deposit
+    description: User wants to open a new fixed deposit / term deposit.
+    utterances:
+      - "open a fixed deposit"
+      - "start an fd"
+      - "i want to invest in a fixed deposit"
+      - "create a new fd account"
+      - "what are the fixed deposit interest rates"
+
+  - code: find_branch_atm
+    display_name: Find Branch or ATM
+    description: User wants the nearest physical branch or ATM.
+    utterances:
+      - "nearest atm"
+      - "find a branch near me"
+      - "branch locations"
+      - "atm near me"
+      - "where is the nearest branch"
+
+  - code: change_pin
+    display_name: Change Card PIN
+    description: User wants to change or reset their card PIN.
+    utterances:
+      - "change my debit card pin"
+      - "reset my atm pin"
+      - "i forgot my card pin"
+      - "set a new pin for my card"
+      - "update my card pin"
+
+  - code: manage_standing_instructions
+    display_name: Manage Standing Instructions
+    description: User wants to set up, modify, or cancel recurring/automatic payments.
+    utterances:
+      - "set up auto pay for my bill"
+      - "cancel a standing instruction"
+      - "set up a recurring payment"
+      - "modify my auto debit"
+      - "stop an automatic payment"
+
+  - code: talk_to_agent
+    display_name: Talk to a Human Agent
+    description: User wants to escalate to a human, outside of self-service intents.
+    utterances:
+      - "connect me to customer support"
+      - "i want to talk to a human"
+      - "speak to a bank representative"
+      - "connect me with an agent"
+      - "i need help from customer care"
