@@ -1,0 +1,13 @@
+The modules contains the business logic, transport logic lies here for separation.
+
+for e.g.
+# api/ingestion.py
+
+@router.post("/documents")
+async def ingest(doc: Document):
+    embedding = embeddings.embed(doc.text)
+    database.store(embedding)
+
+here, emebeddings module has business logic, and here we have transport logic
+
+
