@@ -1,36 +1,38 @@
--- db_schema.sql
--- Run once: psql -d ragdb -f db_schema.sql
+-- database/db_schema.sql
+--
+-- Applied automatically by Docker on first volume init via
+-- /docker-entrypoint-initdb.d. For an existing container:
+--   ./db.sh apply-schema
 
 CREATE EXTENSION IF NOT EXISTS vector;
 
--- Self-referencing taxonomy: top-level intents have parent_intent_code = NULL,
--- subintents point back to their parent's intent_code. Supports arbitrary
--- depth even though banking intents are realistically 2 levels.
+-- Flat intent structure: no parent_intent_code, no subintents.
+-- The intent taxonomy is managed entirely via the intent-service API.
 CREATE TABLE IF NOT EXISTS intents (
-    id                  SERIAL PRIMARY KEY,
-    intent_code         TEXT NOT NULL UNIQUE,
-    parent_intent_code  TEXT REFERENCES intents (intent_code),
-    display_name        TEXT NOT NULL,
-    description         TEXT,
-    is_active           BOOLEAN NOT NULL DEFAULT TRUE,
-    created_at          TIMESTAMPTZ DEFAULT now()
+    id           SERIAL      PRIMARY KEY,
+    intent_code  TEXT        NOT NULL UNIQUE,
+    display_name TEXT        NOT NULL,
+    description  TEXT        DEFAULT '',
+    is_active    BOOLEAN     NOT NULL DEFAULT TRUE,
+    created_at   TIMESTAMPTZ DEFAULT now()
 );
 
 CREATE TABLE IF NOT EXISTS intent_utterances (
-    id                    BIGSERIAL PRIMARY KEY,
-    intent_id             INT NOT NULL REFERENCES intents (id) ON DELETE CASCADE,
-    utterance_raw         TEXT NOT NULL,
-    utterance_normalized  TEXT NOT NULL,
-    utterance_hash        TEXT NOT NULL UNIQUE,   -- idempotent re-ingestion
-    embedding             VECTOR(1024) NOT NULL,  -- hard requirement, see config.py
-    embedding_model       TEXT NOT NULL,
+    id                    BIGSERIAL   PRIMARY KEY,
+    intent_id             INT         NOT NULL REFERENCES intents (id) ON DELETE CASCADE,
+    utterance_raw         TEXT        NOT NULL,
+    utterance_normalized  TEXT        NOT NULL,
+    -- sha256(intent_code + "::" + normalized_text) -- drives idempotent re-ingestion
+    utterance_hash        TEXT        NOT NULL UNIQUE,
+    embedding             VECTOR(1024) NOT NULL,
+    embedding_model       TEXT        NOT NULL,
     created_at            TIMESTAMPTZ DEFAULT now()
 );
 
-CREATE INDEX IF NOT EXISTS idx_utterances_intent_id ON intent_utterances (intent_id);
+CREATE INDEX IF NOT EXISTS idx_utterances_intent_id
+    ON intent_utterances (intent_id);
 
--- Deliberately NO HNSW/IVFFlat index here. A predefined intent taxonomy is
--- realistically tens to low hundreds of utterances -- exact cosine scan over
--- that is sub-millisecond and gives guaranteed-correct nearest neighbors,
--- which matters more for correctness testing than ANN's latency win. Add an
--- index later only if this taxonomy grows into the tens of thousands.
+-- No HNSW/IVFFlat: a predefined banking taxonomy is realistically tens to
+-- low hundreds of utterances. Exact cosine scan at that scale is
+-- sub-millisecond and gives guaranteed-correct nearest neighbors.
+-- Add an approximate index only if the taxonomy grows into the tens of thousands.

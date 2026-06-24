@@ -1,32 +1,28 @@
-# docker-compose.yml
+# database/docker-compose.yml
 #
-# Runs Postgres with the pgvector extension preinstalled. db_schema.sql is
-# mounted into /docker-entrypoint-initdb.d so it runs automatically the
-# FIRST time the container initializes an empty data volume -- you don't
-# need to manually psql -f it in.
+# Standalone database repository.
+# Run from this directory: docker compose up -d --wait
+# Or from project root with: ./db.sh up
 #
-# NOTE on that auto-init behavior: it only fires once, against an empty
-# volume. If you change db_schema.sql later, it will NOT be re-applied
-# automatically -- either run it manually (see db.sh apply-schema) or wipe
-# the volume with `docker compose down -v` and let it re-init from scratch.
+# db_schema.sql is bind-mounted into /docker-entrypoint-initdb.d so it runs
+# automatically the FIRST time the container initialises a fresh volume.
+# It will NOT re-run on an existing volume -- use ./db.sh apply-schema for that.
 
 services:
   pgvector:
     image: pgvector/pgvector:pg16
-    container_name: ragdb_pgvector
+    container_name: uiur_pgvector
     restart: unless-stopped
     environment:
-      POSTGRES_USER: ${DB_USER:-postgres}
+      POSTGRES_USER:     ${DB_USER:-postgres}
       POSTGRES_PASSWORD: ${DB_PASSWORD:-postgres}
-      POSTGRES_DB: ${DB_NAME:-ragdb}
+      POSTGRES_DB:       ${DB_NAME:-ragdb}
     ports:
       - "${DB_PORT:-5432}:5432"
     volumes:
       - pgvector_data:/var/lib/postgresql/data
-      # ":z" relabels this for SELinux (Fedora/RHEL/CentOS) so the container
-      # can actually read it -- without it, Postgres fails to start on an
-      # SELinux-enforcing host with a permission-denied error on this file.
-      # It's a no-op on Windows/non-SELinux Linux, safe to leave in either way.
+      # :ro  = read-only mount
+      # :z   = SELinux relabel (required on Fedora/RHEL/CentOS, no-op elsewhere)
       - ./db_schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro,z
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-postgres} -d ${DB_NAME:-ragdb}"]
