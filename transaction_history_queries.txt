@@ -1,0 +1,1000 @@
+Are there any pending charges on my account?
+Break down my dining spending last week
+Break down my dining spending yesterday
+Break down my healthcare spending last year
+Break down my healthcare spending the last quarter
+Break down my shopping spending today
+Break down my utilities spending the last 90 days
+Bring up my recent transaction list
+Can I see all the charges from Airbnb?
+Can I see all the charges from Amazon?
+Can I see all the charges from Apple?
+Can I see all the charges from Walmart?
+Can I see my account activity for last month?
+Can I see my account activity for last week?
+Can I see my account activity for recently?
+Can I see my account activity for this month?
+Can I see my account activity for this week?
+Can I see my account activity for today?
+Can I see my account activity for yesterday?
+Can I view my business account history?
+Can I view my credit card history?
+Can I view my debit card history?
+Can I view my primary account history?
+Can you display my last few transactions?
+Can you list all transactions on my business account?
+Can you list all transactions on my credit card account?
+Can you list all transactions on my credit card?
+Can you list all transactions on my debit card?
+Can you list all transactions on my primary account?
+Can you look up a payment I made to Airbnb?
+Can you look up a payment I made to Starbucks?
+Can you look up a payment I made to Uber?
+Can you look up a payment I made to the gas station?
+Can you retrieve my past transactions for the past 7 days?
+Can you retrieve my past transactions for the past year?
+Can you retrieve my past transactions for this month?
+Can you retrieve my past transactions for today?
+Can you show me everything that moved in or out of my account last month?
+Can you show me everything that moved in or out of my account last week?
+Can you show me everything that moved in or out of my account recently?
+Can you show me everything that moved in or out of my account this month?
+Can you show me everything that moved in or out of my account this week?
+Can you show me everything that moved in or out of my account today?
+Can you show me everything that moved in or out of my account yesterday?
+Compare my spending this month to last month
+Could you provide an itemized account activity report for the past 6 months?
+Could you provide an itemized account activity report for yesterday?
+Did David send me any money this month?
+Did I already pay my business account bill this month?
+Did I already pay my credit card account bill this month?
+Did I already pay my debit card bill this month?
+Did I already pay my joint account bill this month?
+Did I get charged any overdraft fees the past 30 days?
+Did I get charged any overdraft fees this month?
+Did I get charged by Costco the past 24 hours?
+Did I get charged by Zelle the last 90 days?
+Did I get charged by the gas station the past 30 days?
+Did I get charged by the pharmacy the past 24 hours?
+Did I get paid this week?
+Did I make a purchase at Costco the past 7 days?
+Did I make a purchase at Netflix the past 24 hours?
+Did I make a purchase at PayPal this week?
+Did I make a purchase at Starbucks the past 7 days?
+Did I make a purchase at Whole Foods the past 3 months?
+Did I make a purchase at my gym the past 24 hours?
+Did I make any purchases over $1,500 the past 7 days?
+Did I make any purchases over $100 last month?
+Did I make any purchases over $20 the past 30 days?
+Did I make any purchases over $25 the past 30 days?
+Did I make any purchases over $250 the past year?
+Did I make any purchases over $999 the last 90 days?
+Did I move money between accounts last year?
+Did I move money between accounts this year?
+Did I receive any payments the last quarter?
+Did I receive any payments the past 24 hours?
+Did I receive any payments yesterday?
+Did I send a transfer to David?
+Did I send a transfer to my brother?
+Did I send a transfer to my sister?
+Did I send any money to my brother this year?
+Did I send any money to my employer today?
+Did I send any money to my mom last month?
+Did I send any money to the contractor the past 6 months?
+Did I transfer any money to my employer the past 6 months?
+Did I transfer any money to my mom today?
+Did I transfer any money to the contractor the last quarter?
+Did I transfer any money to the contractor this month?
+Did John receive the money I sent?
+Did Sarah send me any money the past 30 days?
+Did any of my payments get declined last month?
+Did any of my payments get declined last week?
+Did any of my payments get declined this month?
+Did my brother receive the money I sent?
+Did my business partner send me any money the last 90 days?
+Did my direct deposit go through last week?
+Did my direct deposit go through the past 24 hours?
+Did my direct deposit go through today?
+Did my employer send me any money this month?
+Did my landlord receive the money I sent?
+Did my payment to Airbnb go through?
+Did my payment to Apple go through?
+Did my payment to Best Buy go through?
+Did my payment to Shell go through?
+Did my payment to Whole Foods go through?
+Did my roommate receive the money I sent?
+Did that $1,500 charge from Netflix clear?
+Did that $10,000 charge from Uber clear?
+Did that $100 charge from Airbnb clear?
+Did that $100 charge from my gym clear?
+Did that $300 charge from the gas station clear?
+Did that $75 charge from my gym clear?
+Did the contractor receive the money I sent?
+Did the transfer to my brother go through?
+Did the transfer to my business partner go through?
+Did the transfer to my landlord go through?
+Did the transfer to my roommate go through?
+Did the transfer to my sister go through?
+Display my account movements on screen for last year
+Display my account movements on screen for the past year
+Display my recent purchases and payments
+Filter my account activity to show only debits
+Filter my transaction history by ATM withdrawals
+Filter my transaction history by healthcare
+Filter my transaction history by insurance
+Filter my transaction history by rent
+Filter my transaction history by travel
+Filter my transactions to show only credits last month
+Filter my transactions to show only credits last year
+Filter my transactions to show only credits the past 24 hours
+Filter my transactions to show only credits the past 30 days
+Filter transactions to show only transfers last month
+Filter transactions to show only transfers last year
+Filter transactions to show only transfers the past 24 hours
+Filter transactions to show only transfers the past 3 months
+Find any payments to Apple
+Find any payments to Netflix
+Find any payments to Spotify
+Find any payments to my gym
+Find the transaction I made at Airbnb this year
+Find the transaction I made at Best Buy today
+Find the transaction I made at DoorDash last year
+Find the transaction I made at Starbucks this year
+Find the transaction I made at Venmo this week
+Find the transaction I made at Zelle yesterday
+For my expense report, show me all business charges last month
+For my expense report, show me all business charges last year
+For my expense report, show me all business charges the past 24 hours
+For my expense report, show me all business charges the past 7 days
+For my expense report, show me all business charges this month
+For my records, can you show all transfers last month?
+For my records, can you show all transfers last year?
+For my records, can you show all transfers the past 30 days?
+For my records, can you show all transfers the past 6 months?
+For my records, can you show all transfers today?
+Give me a rundown of my transactions last month
+Give me a rundown of my transactions last week
+Give me a rundown of my transactions recently
+Give me a rundown of my transactions this month
+Give me a rundown of my transactions this week
+Give me a rundown of my transactions yesterday
+Give me a summary of income and expenses the last 90 days
+Give me a summary of income and expenses this week
+Give me a summary of income and expenses today
+Give me an export-free view of my transactions last week
+Give me an export-free view of my transactions the past 7 days
+Has my direct deposit arrived yet?
+Has my refund from Best Buy posted?
+Has my refund from Shell come in yet?
+Has my refund from Walmart posted?
+Has my refund from Whole Foods posted?
+Has my refund from Zelle come in yet?
+Has my refund from the grocery store come in yet?
+Has my refund from the grocery store posted?
+Has my refund from the pharmacy come in yet?
+Has the charge from Apple posted yet?
+Has the charge from Costco posted yet?
+Has the charge from Netflix posted yet?
+Has the charge from Zelle posted yet?
+Has the charge from the grocery store posted yet?
+Help me find a transaction I can't remember the amount of
+How many times did I pay Netflix the past 30 days?
+How many times did I pay Venmo this week?
+How many times did I pay Zelle the past 3 months?
+How many times did I pay my gym the last 90 days?
+How many times did I pay the gas station the last quarter?
+How many times did I pay the grocery store this week?
+How many times did I use my credit card account the past 7 days?
+How many times did I use my joint account last year?
+How many times did I use my joint account the past 6 months?
+How many times did I use my joint account this week?
+How many times did I use my primary account last week?
+How many transactions did I make last year?
+How many transactions did I make the past 24 hours?
+How many transactions did I make the past 30 days?
+How many transactions did I make the past 7 days?
+How many transactions did I make this month?
+How much did I spend on gas this week?
+How much did I spend on online purchases last month?
+How much did I spend on rent this month?
+How much did I spend on subscriptions the last quarter?
+How much did I spend on travel today?
+How much did I spend on utilities the last quarter?
+How much have I spent at Airbnb total?
+How much have I spent at PayPal total?
+How much have I spent at Venmo total?
+How much have I spent at my landlord total?
+How much money came in vs went out the past 3 months?
+How much money came in vs went out the past 6 months?
+How much money came in vs went out the past 7 days?
+How much money came in vs went out this month?
+How much money came in vs went out today?
+I don't need a statement, just show me the transactions
+I need my transaction records for last year
+I need my transaction records for the last quarter
+I need my transaction records for the past 30 days
+I need my transaction records for this week
+I need my transaction records for this year
+I need proof of payment, show me the transaction to Airbnb
+I need proof of payment, show me the transaction to Shell
+I need proof of payment, show me the transaction to Target
+I need proof of payment, show me the transaction to Whole Foods
+I need to audit my account activity for the past 3 months.
+I need to audit my account activity for this year.
+I need to audit my account activity for yesterday.
+I need to dispute a charge, can you show me my recent transactions?
+I need to see my transaction log
+I need to verify a refund for a return, show me credits last year
+I need to verify a refund for a return, show me credits the past 30 days
+I need to verify a refund for a return, show me credits the past year
+I need to verify a refund for a return, show me credits this year
+I request access to view all financial transactions on my account for the last quarter.
+I request access to view all financial transactions on my account for the past 3 months.
+I request access to view all financial transactions on my account for this week.
+I think someone used my card without permission, show me recent activity
+I want a summary of my account activity last month
+I want a summary of my account activity last week
+I want a summary of my account activity recently
+I want a summary of my account activity this month
+I want a summary of my account activity this week
+I want a summary of my account activity today
+I want a summary of my account activity yesterday
+I want to make sure my rent payment cleared, show me recent debits
+I want to trace a payment I made last year
+I want to trace a payment I made the last 90 days
+I want to trace a payment I made the last quarter
+I want to trace a payment I made the past 24 hours
+I want to trace a payment I made the past 3 months
+I want to trace a payment I made this year
+I want to view my account activity
+I would like to reconcile my records against my account activity for the past 30 days.
+I would like to reconcile my records against my account activity for the past 6 months.
+I would like to reconcile my records against my account activity for this month.
+I would like to review the complete transaction history for my business account.
+I would like to review the complete transaction history for my checking account.
+I would like to review the complete transaction history for my credit card account.
+I'd like to check my recent activity
+I'm checking for fraud, show me any unfamiliar transactions last year
+I'm checking for fraud, show me any unfamiliar transactions the past 7 days
+I'm checking for fraud, show me any unfamiliar transactions the past year
+I'm doing my monthly budget review, show me my spending the last 90 days
+I'm doing my monthly budget review, show me my spending the past 3 months
+I'm doing my monthly budget review, show me my spending the past 6 months
+I'm doing my monthly budget review, show me my spending the past year
+I'm reconciling my checkbook, show me all transactions the last 90 days
+I'm reconciling my checkbook, show me all transactions the past 6 months
+I'm reconciling my checkbook, show me all transactions the past year
+I'm reconciling my checkbook, show me all transactions this week
+I'm reviewing my finances for tax season, show me all transactions for the past 3 months
+I'm reviewing my finances for tax season, show me all transactions for the past 7 days
+I'm reviewing my finances for tax season, show me all transactions for this week
+I'm reviewing my finances for tax season, show me all transactions for this year
+I'm reviewing my finances for tax season, show me all transactions for today
+I'm splitting bills with my roommate, show me shared expenses the past 24 hours
+I'm splitting bills with my roommate, show me shared expenses the past year
+I'm splitting bills with my roommate, show me shared expenses this month
+I'm splitting bills with my roommate, show me shared expenses this week
+I'm splitting bills with my roommate, show me shared expenses this year
+I'm tracking my savings goal, show me deposits to my savings the past 3 months
+I'm tracking my savings goal, show me deposits to my savings the past 30 days
+I'm tracking my savings goal, show me deposits to my savings this month
+I'm tracking my savings goal, show me deposits to my savings today
+I'm trying to budget, can you show me all my expenses last month?
+I'm trying to budget, can you show me all my expenses last year?
+I'm trying to budget, can you show me all my expenses the past 24 hours?
+I'm trying to budget, can you show me all my expenses the past 6 months?
+I'm trying to budget, can you show me all my expenses yesterday?
+I'm trying to locate a specific charge from the last 90 days
+I'm trying to locate a specific charge from the past 7 days
+I'm trying to locate a specific charge from this month
+I'm trying to locate a specific charge from this week
+I'm trying to locate a specific charge from yesterday
+Just show me the transactions on screen, not a PDF
+Kindly display all debit and credit entries recorded the past 7 days.
+Kindly display all debit and credit entries recorded today.
+Let me see all my transactions
+List all Zelle transfers I sent the past 3 months
+List all Zelle transfers I sent this month
+List all Zelle transfers I sent this week
+List all Zelle transfers I sent today
+List all activity from August 2025
+List all activity from February 2025
+List all activity from March 2025
+List all activity from October 2025
+List all activity from October 2026
+List all activity from September 2026
+List all cashback transactions the past 3 months
+List all cashback transactions the past 30 days
+List all charges to my credit card the last 90 days
+List all charges to my debit card this month
+List all charges to my joint account last week
+List all charges to my joint account yesterday
+List all check deposits last month
+List all check deposits yesterday
+List all completed transactions last month
+List all completed transactions the last 90 days
+List all completed transactions this week
+List all deposits over $100
+List all deposits over $25
+List all deposits over $5,000
+List all deposits over $50
+List all dining related charges the past 3 months
+List all gas related charges the past 3 months
+List all gas related charges yesterday
+List all internal transfers the last 90 days
+List all internal transfers the past 3 months
+List all internal transfers this year
+List all international transactions the past 24 hours
+List all my P2P payments the past 30 days
+List all my P2P payments the past 7 days
+List all my P2P payments the past year
+List all my P2P payments this week
+List all my bill payments the last 90 days
+List all my bill payments the last quarter
+List all my bill payments the past 6 months
+List all my bill payments the past 7 days
+List all my bill payments this month
+List all my incoming payments the past 24 hours
+List all my incoming payments the past 7 days
+List all my incoming payments today
+List all my recurring charges from Costco
+List all my recurring charges from Whole Foods
+List all my recurring charges from my landlord
+List all my subscription charges last week
+List all my subscription charges the past 24 hours
+List all my subscription charges the past year
+List all my subscription charges today
+List all my subscription charges yesterday
+List all payments larger than $1,500
+List all payments larger than $100
+List all payments larger than $300
+List all payments larger than $50
+List all payments larger than $75
+List all the money that went out of my account last month
+List all the money that went out of my account last year
+List all the money that went out of my account the past year
+List all transactions flagged as suspicious last month
+List all transactions flagged as suspicious this month
+List all travel related charges last week
+List all utilities related charges the past 6 months
+List all utilities related charges today
+List every charge from Best Buy
+List every charge from Netflix
+List every charge from Target
+List every charge from Uber
+List every charge from my gym
+List every charge on my business account
+List every charge on my credit card account
+List every charge on my debit card
+List every charge on my joint account
+List every deposit made the last quarter
+List every deposit made the past 30 days
+List every deposit made the past 6 months
+List every payment I sent the last quarter
+List every payment I sent the past 6 months
+List every payment I sent today
+List my ATM withdrawals expenses for today
+List my dining expenses for today
+List my gas expenses for the past year
+List my groceries expenses for the past 6 months
+List my transactions from last month
+List my transactions from last week
+List my transactions from recently
+List my transactions from this month
+List my transactions from this week
+List my transactions from today
+List my transactions from yesterday
+List my travel expenses for the past 7 days
+List my travel expenses for this week
+List transaction details for my checking account
+List transaction details for my debit card
+List transaction details for my primary account
+List transactions by merchant category the past 7 days
+List transactions by merchant category today
+List transactions exactly $100
+List transactions exactly $150
+List transactions exactly $20
+List transactions exactly $25
+List transactions exactly $500
+List transactions exactly $999
+List transactions from 11 August to 25 August
+List transactions from 11 January to 27 January
+List transactions from 13 April to 27 April
+List transactions from 13 August to 22 August
+List transactions from 3 September to 19 September
+List transactions from 5 August to 28 August
+List transactions from January 2025 to July 2025
+List transactions from January 2026 to August 2026
+List transactions from July 2025 to September 2025
+List transactions from June 2026 to October 2026
+List transactions from March 2026 to May 2026
+List transactions from November 2025 to June 2025
+List transactions under $150
+List transactions under $20
+List transactions under $50
+List transactions under $999
+List transactions where I paid someone the last quarter
+List transactions where I paid someone the past 30 days
+List transactions where I paid someone the past 6 months
+List transactions where I paid someone today
+List transfers between my accounts last month
+List transfers between my accounts the past 3 months
+List transfers between my accounts the past 30 days
+List transfers between my accounts the past 7 days
+Please provide a detailed list of all transactions processed on my account during the last quarter.
+Please provide a detailed list of all transactions processed on my account during this week.
+Please provide a detailed list of all transactions processed on my account during this year.
+Please retrieve the transaction log for my credit card account covering the past 24 hours.
+Please retrieve the transaction log for my credit card account covering the past 30 days.
+Please retrieve the transaction log for my joint account covering today.
+Please show all incoming and outgoing transactions associated with my credit card.
+Please show all incoming and outgoing transactions associated with my joint account.
+Please show all incoming and outgoing transactions associated with my primary account.
+Provide a comprehensive summary of account transactions for the last quarter.
+Provide a comprehensive summary of account transactions for the past 30 days.
+Provide a comprehensive summary of account transactions for yesterday.
+Pull up activity on my business account for today
+Pull up activity on my credit card account for recently
+Pull up activity on my credit card for last month
+Pull up activity on my debit card for this month
+Pull up activity on my joint account for last week
+Pull up activity on my primary account for this week
+Pull up activity on my primary account for yesterday
+Pull up my transaction history
+Pull up transactions without downloading anything
+Search for a transaction of $20 from the last quarter
+Search for a transaction of $25 from the last 90 days
+Search for a transaction of $250 from the last 90 days
+Search for a transaction of $50 from the past year
+Search for a transaction of $500 from the past year
+Search my account for a payment to John
+Search my account for a payment to my brother
+Search my account for a payment to my business partner
+Search my account for a payment to my roommate
+Search my history for the largest transaction last week
+Search my history for the largest transaction the past 7 days
+Search my history for the largest transaction the past year
+Search my history for the largest transaction this week
+Search my history for the largest transaction this year
+Search my history for the largest transaction yesterday
+Search my transactions for Best Buy
+Search my transactions for Starbucks
+Search my transactions for Target
+Search my transactions for Zelle
+Search my transactions for anything related to DoorDash
+Search my transactions for anything related to Starbucks
+Search my transactions for anything related to Target
+Search my transactions for anything related to the grocery store
+Search my transactions for anything related to the pharmacy
+Search my transactions for the gas station
+Search my transactions for the grocery store
+Show all activity on my business account
+Show all activity on my debit card
+Show all activity on my joint account
+Show all activity on my primary account
+Show all activity on my savings account
+Show all money received on my credit card
+Show all money received on my credit card account
+Show all money received on my joint account
+Show all money received on my primary account
+Show all my expenses the past 3 months
+Show all my expenses the past 7 days
+Show all the debits over $2,000
+Show all the debits over $20
+Show all the debits over $500
+Show all the debits over $75
+Show all wire transfers last week
+Show all wire transfers the past 30 days
+Show all wire transfers this month
+Show all wire transfers today
+Show me Venmo transactions last week
+Show me Venmo transactions the last 90 days
+Show me Venmo transactions today
+Show me Venmo transactions yesterday
+Show me a breakdown of my spending the last quarter
+Show me a breakdown of my spending the past 30 days
+Show me a breakdown of my spending the past 7 days
+Show me a breakdown of my spending this month
+Show me a chronological view of my finances the last quarter
+Show me a chronological view of my finances the past 3 months
+Show me a chronological view of my finances the past 30 days
+Show me a chronological view of my finances the past 7 days
+Show me a chronological view of my finances yesterday
+Show me a list of incoming payments from David
+Show me a list of incoming payments from Sarah
+Show me a list of incoming payments from my roommate
+Show me a log of my account activity
+Show me a quick view of what I spent the last 90 days
+Show me a quick view of what I spent the past year
+Show me a spending report for the past 24 hours
+Show me a spending report for the past 6 months
+Show me a spending report for the past 7 days
+Show me a spending report for this month
+Show me a spending report for yesterday
+Show me all ACH transactions the past 6 months
+Show me all ACH transactions today
+Show me all automatic payments the past 24 hours
+Show me all automatic payments the past 3 months
+Show me all automatic payments the past 7 days
+Show me all automatic payments this month
+Show me all automatic payments yesterday
+Show me all fees charged last week
+Show me all fees charged the past year
+Show me all incoming transfers the last quarter
+Show me all incoming transfers the past 3 months
+Show me all incoming transfers this year
+Show me all my ATM withdrawals the past 24 hours
+Show me all my ATM withdrawals this year
+Show me all my ATM withdrawals transactions last week
+Show me all my ATM withdrawals yesterday
+Show me all my debits last week
+Show me all my debits last year
+Show me all my debits the past year
+Show me all my debits this week
+Show me all my healthcare transactions the past year
+Show me all my online purchases transactions this month
+Show me all my subscriptions transactions this week
+Show me all my subscriptions transactions yesterday
+Show me all my transactions with Amazon
+Show me all my transactions with DoorDash
+Show me all my transactions with PayPal
+Show me all my transactions with Starbucks
+Show me all my transactions with the gas station
+Show me all my transactions with the pharmacy
+Show me all my travel transactions last week
+Show me all pending transactions
+Show me all the money I received from Sarah
+Show me all the money I received from my landlord
+Show me all the money I received from my roommate
+Show me all the money that came into my account the last quarter
+Show me all the money that came into my account the past 3 months
+Show me all the money that came into my account the past 6 months
+Show me all the money that came into my account the past year
+Show me all the reimbursements I received last month
+Show me all the reimbursements I received last year
+Show me all the reimbursements I received the last quarter
+Show me all the transfers I made the past 7 days
+Show me all the transfers I made this week
+Show me all the transfers I made yesterday
+Show me all transactions flagged as recurring
+Show me all transactions over $1,500
+Show me all transactions over $10,000
+Show me all transactions over $150
+Show me all transactions over $25
+Show me all transactions over $250
+Show me all transactions over $999
+Show me all withdrawals the past 30 days
+Show me all withdrawals the past 7 days
+Show me all withdrawals the past year
+Show me all withdrawals this month
+Show me any charges above $1,000 the past 3 months
+Show me any charges above $1,000 this year
+Show me any charges above $1,000 yesterday
+Show me any charges above $10,000 the past 30 days
+Show me any charges above $10,000 the past year
+Show me any charges above $2,000 the last quarter
+Show me any credits to my account last week
+Show me any credits to my account the past 6 months
+Show me any credits to my account the past 7 days
+Show me any credits to my account the past year
+Show me any suspicious large transactions the last quarter
+Show me any suspicious large transactions the past 30 days
+Show me any suspicious large transactions the past year
+Show me any suspicious large transactions this month
+Show me any suspicious large transactions this week
+Show me any transfers over $10,000
+Show me any transfers over $150
+Show me any transfers over $5,000
+Show me any transfers over $999
+Show me business account transactions last month
+Show me business account transactions the past 30 days
+Show me card-not-present transactions last month
+Show me card-not-present transactions the past 6 months
+Show me declined transactions last month
+Show me declined transactions the past 3 months
+Show me declined transactions the past 30 days
+Show me declined transactions the past 6 months
+Show me declined transactions the past 7 days
+Show me declined transactions this week
+Show me every payment I made the last 90 days
+Show me every payment I made the last quarter
+Show me every payment I made the past 6 months
+Show me every purchase related to ATM withdrawals
+Show me every purchase related to entertainment
+Show me every purchase related to groceries
+Show me every purchase related to rent
+Show me every purchase related to subscriptions
+Show me every purchase related to utilities
+Show me every transaction in chronological order
+Show me everything related to my checking account usage the past 3 months
+Show me everything related to my credit card account usage this week
+Show me everything related to my debit card usage last week
+Show me everything related to my joint account usage last month
+Show me everything related to my savings account usage the past 7 days
+Show me everything that happened in my account last month
+Show me everything that happened in my account last week
+Show me everything that happened in my account recently
+Show me everything that happened in my account this month
+Show me everything that happened in my account this week
+Show me everything that happened in my account today
+Show me everything that happened in my account yesterday
+Show me foreign currency transactions last month
+Show me foreign currency transactions this month
+Show me how much I spent at Zelle
+Show me how much I spent at the grocery store
+Show me how much I spent at the pharmacy
+Show me how much I've spent in total the past 3 months
+Show me how much I've spent in total the past 6 months
+Show me how much I've spent in total the past 7 days
+Show me how much I've spent in total the past year
+Show me how much I've spent in total this week
+Show me how much I've spent in total today
+Show me if there's a duplicate charge last week
+Show me if there's a duplicate charge last year
+Show me if there's a duplicate charge the past 24 hours
+Show me if there's a duplicate charge the past 3 months
+Show me if there's a duplicate charge the past 30 days
+Show me income that hit my account the past 30 days
+Show me income that hit my account the past 6 months
+Show me income that hit my account this month
+Show me income that hit my account yesterday
+Show me interest earned on my account last year
+Show me interest earned on my account this week
+Show me mobile deposit history last year
+Show me mobile deposit history the past 30 days
+Show me money I sent to John
+Show me money I sent to my brother
+Show me money I sent to my landlord
+Show me money I sent to my mom
+Show me my Airbnb purchase history
+Show me my Amazon purchase history
+Show me my Target purchase history
+Show me my Walmart purchase history
+Show me my account movements last month
+Show me my account movements last week
+Show me my account movements recently
+Show me my account movements this month
+Show me my account movements this week
+Show me my account movements today
+Show me my account movements yesterday
+Show me my average transaction amount last week
+Show me my average transaction amount the last quarter
+Show me my average transaction amount the past 3 months
+Show me my average transaction amount the past 30 days
+Show me my average transaction amount the past 6 months
+Show me my average transaction amount this month
+Show me my checking account transactions for the past 3 months
+Show me my checking account transactions for the past 6 months
+Show me my credit card statement activity for the past 24 hours
+Show me my credit card statement activity for the past 30 days
+Show me my joint account activity the last 90 days
+Show me my joint account activity the past year
+Show me my my gym purchase history
+Show me my outgoing payments last year
+Show me my outgoing payments the past 24 hours
+Show me my outgoing payments the past 30 days
+Show me my outgoing payments today
+Show me my paycheck deposits the last 90 days
+Show me my paycheck deposits the past year
+Show me my paycheck deposits today
+Show me my recent transactions
+Show me my savings account transactions for last week
+Show me my savings account transactions for the past 30 days
+Show me my spending between December and June 2025
+Show me my spending between December and November 2026
+Show me my spending between February and April 2026
+Show me my spending between July and January 2026
+Show me my spending between October and August 2026
+Show me my spending between September and February 2026
+Show me my transaction history for August 2025
+Show me my transaction history for December 2025
+Show me my transaction history for May 2026
+Show me my transaction history for November 2025
+Show me my transaction history for September 2026
+Show me my transfer history
+Show me recurring transactions on my credit card
+Show me recurring transactions on my credit card account
+Show me recurring transactions on my joint account
+Show me recurring transactions on my primary account
+Show me reward point transactions last month
+Show me reward point transactions this week
+Show me the biggest transaction the last quarter
+Show me the biggest transaction the past 3 months
+Show me the biggest transaction the past 6 months
+Show me the biggest transaction this month
+Show me the biggest transaction yesterday
+Show me the last 20 transactions
+Show me the last 5 transactions on my business account
+Show me the last 5 transactions on my credit card
+Show me the last 5 transactions on my credit card account
+Show me the last 5 transactions on my joint account
+Show me the last 5 transactions on my primary account
+Show me the last time I paid Best Buy
+Show me the last time I paid PayPal
+Show me the last time I paid Shell
+Show me the last time I paid Uber
+Show me the last time I paid Whole Foods
+Show me the last time I paid the gas station
+Show me the raw transaction data for last month
+Show me the raw transaction data for the last 90 days
+Show me transactions between $1,500 and $5,000
+Show me transactions between $100 and $20
+Show me transactions between $150 and $10,000
+Show me transactions between $250 and $150
+Show me transactions between $300 and $1,000
+Show me transactions between $5,000 and $75
+Show me transactions between April 1 and April 15
+Show me transactions between December 1 and December 15
+Show me transactions between July 1 and July 15
+Show me transactions between June 1 and June 15
+Show me transactions between September 1 and September 15
+Show me transactions sorted by amount
+Show me transactions sorted by date
+Show me transactions tagged as ATM withdrawals
+Show me transactions tagged as entertainment
+Show me transactions tagged as subscriptions
+Show me transactions that haven't cleared yet
+Show me transfers I made to my savings
+Show me what's happened in my account last month
+Show me what's happened in my account last week
+Show me what's happened in my account recently
+Show me what's happened in my account this month
+Show me what's happened in my account this week
+Show me what's happened in my account today
+Show me what's happened in my account yesterday
+Show my account activity for the week of 11 September
+Show my account activity for the week of 12 March
+Show my account activity for the week of 3 August
+Show my account activity for the week of 3 October
+Show my account activity for the week of 6 May
+Show my account activity for the week of 9 February
+Show my account activity from August 1st to August 31st
+Show my account activity from January 1st to January 31st
+Show my account activity from May 1st to May 31st
+Show my account activity from September 1st to September 31st
+Show my full account history
+Show my recent account activity
+Show my transactions right here in the app
+Show recent activity on my checking account
+Show recent activity on my debit card
+Show recent activity on my joint account
+Show recent activity on my savings account
+Show transactions from the first week of August
+Show transactions from the first week of June
+Show transactions from the first week of May
+Show transactions from the first week of November
+Show transactions from the first week of October
+Sort my recent transactions from newest to oldest
+Sort my transactions by amount for last year
+Sort my transactions by amount for the last 90 days
+Sort my transactions by amount for the past year
+Sort my transactions by amount for this year
+Sort my transactions by amount for yesterday
+Was I charged twice by Airbnb?
+Was I charged twice by Amazon?
+Was I charged twice by Venmo?
+Was I charged twice by Zelle?
+Was I charged twice by my gym?
+Was I charged twice by my landlord?
+Was there a withdrawal of $1,000 from my account?
+Was there a withdrawal of $1,500 from my account?
+Was there a withdrawal of $10,000 from my account?
+Was there a withdrawal of $150 from my account?
+Was there a withdrawal of $20 from my account?
+Was there a withdrawal of $250 from my account?
+Was there any unusual activity on my checking account?
+Was there any unusual activity on my credit card account?
+Was there any unusual activity on my primary account?
+Was there any unusual activity on my savings account?
+What are my recent outgoing transactions?
+What charges appeared on my checking account the past 6 months?
+What charges appeared on my joint account today?
+What charges appeared on my primary account the last quarter?
+What charges appeared on my savings account this year?
+What charges were made to my account last month?
+What charges were made to my account the last quarter?
+What charges were made to my account the past year?
+What charges were made to my account yesterday?
+What credits hit my checking account this week?
+What credits hit my credit card account the past 24 hours?
+What credits hit my credit card last year?
+What credits hit my debit card the past 7 days?
+What debits hit my account the last 90 days?
+What debits hit my account yesterday?
+What deposits did I get last month?
+What deposits did I get the last 90 days?
+What deposits did I get the past 7 days?
+What deposits did I get this year?
+What did I spend during December 2025?
+What did I spend during December 2026?
+What did I spend during July 2026?
+What did I spend during May 2026?
+What did I spend during November 2025?
+What did I spend during October 2025?
+What did I spend last month?
+What did I spend on dining last month?
+What did I spend on entertainment last month?
+What did I spend on shopping last month?
+What did I spend on subscriptions last month?
+What did I spend on utilities last month?
+What did I spend the past 3 months?
+What did I spend this week?
+What did I spend today?
+What does my recent activity look like?
+What happened in my account during April 2025?
+What happened in my account during April 2026?
+What happened in my account during August 2026?
+What happened in my account during March 2025?
+What happened in my account during November 2025?
+What money left my account last year?
+What money left my account the past 3 months?
+What money left my account the past 30 days?
+What outgoing transfers did I make last week?
+What outgoing transfers did I make last year?
+What outgoing transfers did I make the past 3 months?
+What outgoing transfers did I make today?
+What payments came in last year?
+What payments came in the last 90 days?
+What payments came in the last quarter?
+What payments came in the past year?
+What subscriptions am I being charged for?
+What transactions are associated with my debit card?
+What transactions are on my account right now?
+What transactions happened between December and November?
+What transactions happened between June and March?
+What transactions happened between June and October?
+What transactions happened between March and December?
+What transactions happened between September and April?
+What transactions happened last month?
+What transactions happened last week?
+What transactions happened this month?
+What transactions happened this week?
+What transactions happened today?
+What transactions happened yesterday?
+What transfers did I receive the past 24 hours?
+What transfers did I receive the past 30 days?
+What transfers did I receive this month?
+What transfers did I receive this week?
+What transfers went out of my business account the last quarter?
+What transfers went out of my credit card account the past 24 hours?
+What transfers went out of my credit card last week?
+What transfers went out of my credit card last year?
+What was my largest purchase last week?
+What was my largest purchase the past 7 days?
+What was my largest purchase the past year?
+What was my largest purchase this year?
+What was my largest purchase today?
+What was my last transaction?
+What was my very first transaction this month?
+What was the last thing I bought?
+What's been deposited into my account last month?
+What's been deposited into my account the past 24 hours?
+What's been deposited into my account this year?
+What's been deposited into my account today?
+What's been happening in my account last month?
+What's been happening in my account last week?
+What's been happening in my account recently?
+What's been happening in my account this month?
+What's been happening in my account this week?
+What's been happening in my account today?
+What's been happening in my account yesterday?
+What's my total spending last month?
+What's my total spending the last quarter?
+What's my total spending the past 30 days?
+What's my total spending this month?
+What's my total spending this year?
+What's my total spending yesterday?
+What's my transaction history for last month?
+What's my transaction history for last week?
+What's my transaction history for recently?
+What's my transaction history for this month?
+What's my transaction history for this week?
+What's my transaction history for yesterday?
+What's the most recent charge on my account?
+What's the total of all my deposits the past 24 hours?
+What's the total of all my deposits the past 6 months?
+What's the total of all my deposits the past 7 days?
+What's the total of all my deposits this year?
+What's the total of all my deposits yesterday?
+What's the total of all my withdrawals last month?
+What's the total of all my withdrawals the last 90 days?
+What's the total of all my withdrawals the past year?
+What's the total of all my withdrawals this month?
+What's the total of all my withdrawals today?
+account activity
+account statement activity
+activity log
+browse past transactions
+can u list out everything i bought this month
+can u pull up my transacton history
+can u show me wat i spent on food this month
+can you check if my rent payment went through
+can you check my account for any unauthorized transactions
+can you check my transactions, i think i got double billed
+can you list my spend by category this month
+check if i got refunded from target
+check my account timeline
+check my balance movements
+check recent purchases
+checking to see if a refund came through
+did any money leav my account today
+did i send money to my bro last week
+did my paycheck hit yet
+did my rent go out yet
+expand my recent transactions
+find a transaction
+gimme a list of my charges this week
+gimme my last few transactions
+go to account activity
+hey can you pull up what I've spent this week
+howmany times did i order doordash this month
+howmuch did i pay for netflix
+hows my spending looking this month
+i need to see my bank activity for taxes
+i think i got charged twice can you check my transactions
+i wanna double check a charge from last week
+i wanna see all the money movement on my account
+i want to review my spending before month end
+lemme see my spending for the week
+list my payments
+load more transactions
+load transactions from earlier this year
+money in and out
+my transactions
+need to see wat hit my card today
+need to see where all my money went last month
+not sure if i paid my phone bill, can you check
+open my activity feed
+open transaction history
+past transactions
+pull up what happened on my account last night
+quick, show me my last 10 transactions
+recent activity
+recent charges
+recent credits
+recent transactions
+refresh my transaction list
+scroll through my transaction history
+search transactions
+see full transaction history
+see my spending timeline
+show archived transactions
+show deposits
+show me a list of everything that hit my checking account
+show me if there's any weird charges on my account
+show me my card activity real quick
+show me my card statement for this billing cycle
+show me my checking account movements please
+show me my purchases
+show me older transactions
+show me stuff i bought this week
+show me wat i bought online recently
+show me what i spent this weekend
+show my acct activity plz
+show my spending
+show payments
+show transaction details
+show transaction details for my last purchase
+show transactions
+show transfers
+show withdrawals
+shw me my recnt transactions
+somethin's off with my account can you show recent activity
+spending history
+tap to view transaction details
+transaction history
+transaction search
+transactions last week
+transactions this month
+trying to figure out where all my cash went
+view all transactions
+view statement activity
+view transaction receipts
+view transactions
+wait did that Amazon charge go through yet
+wat came outta my acount this week
+wat did i spend at the mall
+wats my balance history look like
+wen did i get paid last
+wut transactions did i make yesterday
+yo what came out of my account yesterday
