@@ -1,0 +1,1001 @@
+query,intent
+List payments scheduled for the future due next week.,PENDING_STATEMENTS
+Look up payments in a pending state for this account.,PENDING_STATEMENTS
+Can you pull up payments awaiting authorization in my dashboard.,PENDING_STATEMENTS
+Bring up in-progress payments for invoices.,PENDING_STATEMENTS
+What payments are scheduled for later this month that are still in draft?,PENDING_STATEMENTS
+Give me payments due to be processed for this month.,PENDING_STATEMENTS
+What's still in the payment queue for account 4521?,PENDING_STATEMENTS
+Kindly list pending payment requests for this week.,PENDING_STATEMENTS
+Retrieve payments that are scheduled but not sent for vendor ABC Corp.,PENDING_STATEMENTS
+Bring up payments that haven't been executed yet tied to invoice #4521.,PENDING_STATEMENTS
+Kindly show me payments that are on hold that need approval.,PENDING_STATEMENTS
+Pull up queued payments awaiting my sign-off?,PENDING_STATEMENTS
+Can I get payments set to be paid later for the merchant account.,PENDING_STATEMENTS
+Pull up payments waiting on approval for today.,PENDING_STATEMENTS
+I'd like to see pending payment statements for this month.,PENDING_STATEMENTS
+Find scheduled payments?,PENDING_STATEMENTS
+Please list unprocessed payments for our vendors?,PENDING_STATEMENTS
+Can I view payments that haven't gone through yet for today.,PENDING_STATEMENTS
+View scheduled payments scheduled for next week.,PENDING_STATEMENTS
+I'm trying to check payments that are still processing that are still in draft.,PENDING_STATEMENTS
+Kindly show me open pending payments on my account.,PENDING_STATEMENTS
+Fetch undisbursed payments that need approval.,PENDING_STATEMENTS
+I want a list of future-dated payments for vendor ABC Corp.,PENDING_STATEMENTS
+Please show me payments not yet cleared on my account.,PENDING_STATEMENTS
+Can you list payments still pending for the finance team.,PENDING_STATEMENTS
+Kindly show me in-progress payments for vendor ABC Corp.,PENDING_STATEMENTS
+Display payments not yet completed linked to project Alpha.,PENDING_STATEMENTS
+Display payments in the queue on my account.,PENDING_STATEMENTS
+What future-dated payments are on file for payroll?,PENDING_STATEMENTS
+Would you list pending payment statements under $200.,PENDING_STATEMENTS
+Could you display payments scheduled for the future for vendor ABC Corp?,PENDING_STATEMENTS
+Find payments that haven't gone through yet that are overdue for approval.,PENDING_STATEMENTS
+I need a list of undisbursed payments in the system.,PENDING_STATEMENTS
+I'm trying to check payments in the queue scheduled for next month.,PENDING_STATEMENTS
+Retrieve payments pending approval scheduled for next week?,PENDING_STATEMENTS
+Get payments that haven't gone through yet in my dashboard.,PENDING_STATEMENTS
+Can you check queued payments for client Johnson & Sons.,PENDING_STATEMENTS
+I need to check which payments are still pending.,PENDING_STATEMENTS
+What payments are still pending due today?,PENDING_STATEMENTS
+I need to review payments that are still queued for our company.,PENDING_STATEMENTS
+List every payment that's still queued.,PENDING_STATEMENTS
+Would you list payments awaiting execution for my account.,PENDING_STATEMENTS
+What payments are still pending?,PENDING_STATEMENTS
+Pull up payments set to be paid later for today.,PENDING_STATEMENTS
+Pull up payments still awaiting execution for my account.,PENDING_STATEMENTS
+Can you pull up payments yet to be processed for the procurement department.,PENDING_STATEMENTS
+Are there any pending payments right now for account number 778812?,PENDING_STATEMENTS
+Which payments are scheduled but not yet sent for our company?,PENDING_STATEMENTS
+I'm trying to check payments that are incomplete for account 4521.,PENDING_STATEMENTS
+Can you pull up payments pending approval in the system.,PENDING_STATEMENTS
+Kindly list incomplete payments for the current billing cycle.,PENDING_STATEMENTS
+I want a list of payments set to be paid later that are awaiting manager sign-off.,PENDING_STATEMENTS
+Show me all transactions marked pending.,PENDING_STATEMENTS
+Pull up payments in transit in my queue.,PENDING_STATEMENTS
+Look up pending payment requests scheduled for next month.,PENDING_STATEMENTS
+Would you show me pending payments on hold.,PENDING_STATEMENTS
+Could you show me payments queued for processing for my account?,PENDING_STATEMENTS
+Can you list payments in the queue for today.,PENDING_STATEMENTS
+Look up undisbursed payments in the approval queue.,PENDING_STATEMENTS
+Can I see queued payments for our suppliers.,PENDING_STATEMENTS
+"Get payments that haven't gone through yet above $10,000?",PENDING_STATEMENTS
+List every payment that's still queued for client Johnson & Sons.,PENDING_STATEMENTS
+Do I have any payments pending approval for our suppliers?,PENDING_STATEMENTS
+What payments are waiting to be approved that are overdue for approval?,PENDING_STATEMENTS
+I'm trying to view pending payment requests.,PENDING_STATEMENTS
+I'd like a list of pending payments for this account?,PENDING_STATEMENTS
+I'd like to check payments still under review for invoices.,PENDING_STATEMENTS
+Show me payments set to be paid later that are still in draft.,PENDING_STATEMENTS
+I'm trying to view payments that are still processing for the finance team.,PENDING_STATEMENTS
+Can you check payments awaiting confirmation for the finance team.,PENDING_STATEMENTS
+Give me payments awaiting processing.,PENDING_STATEMENTS
+Can you list payments that are incomplete for vendor ABC Corp.,PENDING_STATEMENTS
+I'm trying to check payments still queued awaiting my sign-off.,PENDING_STATEMENTS
+List every payment that's still queued for account 4521.,PENDING_STATEMENTS
+Pull payments in transit awaiting my sign-off?,PENDING_STATEMENTS
+Please show payments in progress from this quarter?,PENDING_STATEMENTS
+View scheduled payments for account number 778812.,PENDING_STATEMENTS
+Which payments are still awaiting approval?,PENDING_STATEMENTS
+Please show payments queued for processing for this week.,PENDING_STATEMENTS
+Can I see payments that are still processing for the merchant account?,PENDING_STATEMENTS
+Can you pull up unprocessed payments flagged as pending.,PENDING_STATEMENTS
+Do I have any payments pending approval?,PENDING_STATEMENTS
+I need a list of queued payments.,PENDING_STATEMENTS
+Can you get me payments due to be processed in the approval queue.,PENDING_STATEMENTS
+I'm trying to view payments set to be paid later that are awaiting manager sign-off.,PENDING_STATEMENTS
+"I'm trying to check payments in progress above $10,000.",PENDING_STATEMENTS
+Show me all transactions marked pending over $500.,PENDING_STATEMENTS
+I'm trying to view payments not yet completed.,PENDING_STATEMENTS
+View outstanding payments scheduled for tomorrow.,PENDING_STATEMENTS
+Look up payments waiting for approval for payroll.,PENDING_STATEMENTS
+I want a list of payments awaiting processing on hold.,PENDING_STATEMENTS
+List payments awaiting approval due this week.,PENDING_STATEMENTS
+Could you display payments that are on hold that are awaiting manager sign-off.,PENDING_STATEMENTS
+Please show undisbursed payments over $1000.,PENDING_STATEMENTS
+Pull up payments that are on hold over $500.,PENDING_STATEMENTS
+Would you list payments that are on hold for our company?,PENDING_STATEMENTS
+Would you show me payments that haven't gone through yet scheduled for next week.,PENDING_STATEMENTS
+Do I have any pending transactions for the current billing cycle?,PENDING_STATEMENTS
+I want a list of pending payment requests for payroll.,PENDING_STATEMENTS
+Please show payments awaiting authorization that are overdue for approval.,PENDING_STATEMENTS
+Can I view payments set to be paid later due today.,PENDING_STATEMENTS
+Can you show me incomplete payments flagged as pending.,PENDING_STATEMENTS
+Let me see payments still under review for our vendors.,PENDING_STATEMENTS
+Could you display payments awaiting review for the procurement department.,PENDING_STATEMENTS
+Could you show me pending payment requests for our suppliers.,PENDING_STATEMENTS
+Check payments that are on hold due this week.,PENDING_STATEMENTS
+Show me payments waiting to be processed in the system.,PENDING_STATEMENTS
+I'm trying to check payments that are scheduled but not sent scheduled for tomorrow.,PENDING_STATEMENTS
+Fetch open pending payments for account 4521.,PENDING_STATEMENTS
+Look up incomplete payments in my queue.,PENDING_STATEMENTS
+Please show payments that are scheduled but not sent that need approval.,PENDING_STATEMENTS
+Can I see payments that are still open for the merchant account.,PENDING_STATEMENTS
+What are the payments not yet disbursed for account 4521.,PENDING_STATEMENTS
+Can you pull up payments not yet settled for account 4521.,PENDING_STATEMENTS
+What are the payments awaiting authorization.,PENDING_STATEMENTS
+Pull upcoming payments that are still in draft.,PENDING_STATEMENTS
+Find undisbursed payments due today.,PENDING_STATEMENTS
+What are the payments not yet completed awaiting my sign-off.,PENDING_STATEMENTS
+List every payment that's still queued for this week.,PENDING_STATEMENTS
+What payments are scheduled for later this month scheduled for next month?,PENDING_STATEMENTS
+Kindly show me open pending payments in my queue.,PENDING_STATEMENTS
+I'm trying to check payments awaiting review flagged as pending.,PENDING_STATEMENTS
+Could you get in-progress payments due this week.,PENDING_STATEMENTS
+Can I view payments that are still processing on the payments dashboard.,PENDING_STATEMENTS
+Give me payments pending review.,PENDING_STATEMENTS
+Could you show me payments not yet settled for vendor ABC Corp.,PENDING_STATEMENTS
+Could you display payments in transit in the approval queue.,PENDING_STATEMENTS
+Find payments that are still processing for the procurement department.,PENDING_STATEMENTS
+Can you pull up payments not yet completed for the finance team.,PENDING_STATEMENTS
+Retrieve payments awaiting authorization scheduled for next week.,PENDING_STATEMENTS
+Can I get upcoming payments flagged as pending.,PENDING_STATEMENTS
+I need to review payments that are still queued on the payments dashboard.,PENDING_STATEMENTS
+"Are there any pending payments right now above $10,000?",PENDING_STATEMENTS
+Pull payments that are incomplete due this week.,PENDING_STATEMENTS
+Can you get me incomplete payments for today.,PENDING_STATEMENTS
+Please show payments still pending under $200.,PENDING_STATEMENTS
+Find pending payment requests on my account.,PENDING_STATEMENTS
+Can I view payments still pending for our vendors.,PENDING_STATEMENTS
+Could you get pending payments for this week.,PENDING_STATEMENTS
+Can I see payments in transit under $200.,PENDING_STATEMENTS
+Pull up unprocessed payments that need approval.,PENDING_STATEMENTS
+I'm trying to view pending transaction statements in my queue.,PENDING_STATEMENTS
+Are there any payments still awaiting approval?,PENDING_STATEMENTS
+Can I view upcoming payments that are still in draft.,PENDING_STATEMENTS
+Show me payments still under review due today.,PENDING_STATEMENTS
+Can you list incomplete payments in the system.,PENDING_STATEMENTS
+Could you get payments waiting on approval for this month.,PENDING_STATEMENTS
+Let me see payments that are still open for our vendors?,PENDING_STATEMENTS
+Can I view payments in a pending state awaiting my sign-off.,PENDING_STATEMENTS
+Could you list payments awaiting approval on hold.,PENDING_STATEMENTS
+Could you show me future-dated payments for this week.,PENDING_STATEMENTS
+Show me payments scheduled for the future due tomorrow.,PENDING_STATEMENTS
+Could you display payments awaiting confirmation over $500.,PENDING_STATEMENTS
+I want a list of undisbursed payments over $1000.,PENDING_STATEMENTS
+Can you check payments not yet cleared for invoices?,PENDING_STATEMENTS
+I want to see pending payments in the approval queue.,PENDING_STATEMENTS
+Could you display future-dated payments on my account.,PENDING_STATEMENTS
+Please list payments that haven't been executed yet awaiting my sign-off.,PENDING_STATEMENTS
+Would you show me payments pending review scheduled for next week.,PENDING_STATEMENTS
+Retrieve pending payment statements in the approval queue.,PENDING_STATEMENTS
+I want to see payments waiting for approval in my dashboard.,PENDING_STATEMENTS
+Give me an overview of payments awaiting approval for this week.,PENDING_STATEMENTS
+I'd like to check payments not yet settled for this month.,PENDING_STATEMENTS
+Can you check payments yet to be processed for account 4521.,PENDING_STATEMENTS
+Which payments are scheduled but not yet sent?,PENDING_STATEMENTS
+Let me know what payments are still outstanding for vendor ABC Corp.,PENDING_STATEMENTS
+I want to see payments in progress for our suppliers?,PENDING_STATEMENTS
+I'm trying to view payments queued for processing that are awaiting manager sign-off.,PENDING_STATEMENTS
+Which invoices have payments still pending?,PENDING_STATEMENTS
+Which transactions are still pending flagged as pending?,PENDING_STATEMENTS
+Kindly list pending payment requests for account 4521.,PENDING_STATEMENTS
+Pull unprocessed payments on my account.,PENDING_STATEMENTS
+What future-dated payments are on file flagged as pending?,PENDING_STATEMENTS
+Please show me payments still queued tied to invoice #4521.,PENDING_STATEMENTS
+What payments are currently pending awaiting my sign-off?,PENDING_STATEMENTS
+What payments haven't gone through yet over $500?,PENDING_STATEMENTS
+Bring up payments in a pending state in USD.,PENDING_STATEMENTS
+Give me payments awaiting approval over $1000?,PENDING_STATEMENTS
+Can I view payments awaiting review for our company.,PENDING_STATEMENTS
+Could you get payments that are on hold for our vendors.,PENDING_STATEMENTS
+Can you list payments yet to be processed for payroll.,PENDING_STATEMENTS
+I want a list of payments still queued.,PENDING_STATEMENTS
+Which invoices have payments still pending that are overdue for approval?,PENDING_STATEMENTS
+Retrieve payments awaiting authorization for this account.,PENDING_STATEMENTS
+Could you show me payments due to be processed for the procurement department.,PENDING_STATEMENTS
+What's currently in my pending payments queue in my dashboard?,PENDING_STATEMENTS
+Would you list undisbursed payments flagged as pending.,PENDING_STATEMENTS
+What future-dated payments are on file?,PENDING_STATEMENTS
+I'm trying to check pending payments due this week.,PENDING_STATEMENTS
+Please show me unprocessed payments for this account.,PENDING_STATEMENTS
+Pull payments that are still open for vendor ABC Corp.,PENDING_STATEMENTS
+Kindly show me pending payment statements for account number 778812?,PENDING_STATEMENTS
+I'd like to see pending transaction statements.,PENDING_STATEMENTS
+I need a list of incomplete payments for account 4521.,PENDING_STATEMENTS
+Can you show me payments queued for processing awaiting my sign-off.,PENDING_STATEMENTS
+Look up payments in a pending state for account 4521.,PENDING_STATEMENTS
+I need a list of payments not yet cleared for the finance team.,PENDING_STATEMENTS
+"I want to see payments in a pending state above $10,000.",PENDING_STATEMENTS
+Pull payments awaiting execution for the finance team.,PENDING_STATEMENTS
+Could you display payments scheduled for the future for the merchant account.,PENDING_STATEMENTS
+What's currently in my pending payments queue in my queue?,PENDING_STATEMENTS
+"Can you check pending transaction statements above $10,000.",PENDING_STATEMENTS
+I want a list of payments in a pending state that are awaiting manager sign-off.,PENDING_STATEMENTS
+Kindly show me payments awaiting processing for this month.,PENDING_STATEMENTS
+Can you check payments waiting to be processed from this quarter.,PENDING_STATEMENTS
+I'd like to see payments that haven't been executed yet flagged as pending.,PENDING_STATEMENTS
+I want to see payments that are scheduled but not sent for my account.,PENDING_STATEMENTS
+I'd like a list of payments that haven't gone through yet in my queue?,PENDING_STATEMENTS
+Give me a status report on pending payments flagged as pending.,PENDING_STATEMENTS
+I'm trying to check pending payment statements.,PENDING_STATEMENTS
+Give me payments not yet finalized scheduled for next week.,PENDING_STATEMENTS
+Would you show me scheduled payments scheduled for tomorrow.,PENDING_STATEMENTS
+Kindly show me payments awaiting processing for account number 778812.,PENDING_STATEMENTS
+Fetch payments awaiting execution from this quarter?,PENDING_STATEMENTS
+What upcoming payments do I have scheduled linked to project Alpha?,PENDING_STATEMENTS
+I want a list of payments not yet settled on the payments dashboard.,PENDING_STATEMENTS
+Can I view payments that haven't gone through yet for payroll.,PENDING_STATEMENTS
+Can you get me future-dated payments on my account.,PENDING_STATEMENTS
+Which payments are scheduled but not yet sent for last week?,PENDING_STATEMENTS
+Would you list payments queued for processing due today.,PENDING_STATEMENTS
+View payments waiting to be processed scheduled for tomorrow.,PENDING_STATEMENTS
+Give me pending transaction statements due this week.,PENDING_STATEMENTS
+I'm trying to view payments due to be processed scheduled for next week.,PENDING_STATEMENTS
+Can I view payments waiting to be processed for this week?,PENDING_STATEMENTS
+Can I get pending payment statements for this account.,PENDING_STATEMENTS
+Find pending payment statements for this month.,PENDING_STATEMENTS
+Bring up payments queued for processing.,PENDING_STATEMENTS
+Kindly list unsettled payments awaiting my sign-off.,PENDING_STATEMENTS
+Retrieve payments not yet disbursed for client Johnson & Sons.,PENDING_STATEMENTS
+What payments are waiting to be approved in the approval queue?,PENDING_STATEMENTS
+Look up pending transaction statements in the approval queue.,PENDING_STATEMENTS
+What pending payments do I have?,PENDING_STATEMENTS
+Retrieve pending payment statements for invoices.,PENDING_STATEMENTS
+Could you show me scheduled payments scheduled for next month.,PENDING_STATEMENTS
+I want a list of payments waiting for approval for our company.,PENDING_STATEMENTS
+Get payments awaiting review linked to project Alpha.,PENDING_STATEMENTS
+Would you list future-dated payments for invoices?,PENDING_STATEMENTS
+I'd like to see payments that are still open for our suppliers.,PENDING_STATEMENTS
+Check queued payments in the approval queue.,PENDING_STATEMENTS
+Retrieve payments waiting on approval for client Johnson & Sons.,PENDING_STATEMENTS
+Retrieve payments awaiting approval for client Johnson & Sons.,PENDING_STATEMENTS
+Show me payments that are incomplete tied to invoice #4521.,PENDING_STATEMENTS
+I'd like to check payments due to be processed for client Johnson & Sons.,PENDING_STATEMENTS
+Please show payments waiting to be processed for account number 778812.,PENDING_STATEMENTS
+I'm trying to view unsettled payments that are awaiting manager sign-off?,PENDING_STATEMENTS
+Kindly show me pending transaction statements that need approval?,PENDING_STATEMENTS
+Retrieve scheduled payments linked to project Alpha.,PENDING_STATEMENTS
+Could you show me payments that are still processing for account 4521.,PENDING_STATEMENTS
+Could you show me scheduled payments for last week.,PENDING_STATEMENTS
+Would you show me payments queued for processing for payroll.,PENDING_STATEMENTS
+I need a summary of pending payment activity.,PENDING_STATEMENTS
+Bring up unprocessed payments in my dashboard.,PENDING_STATEMENTS
+Display payments yet to be processed awaiting my sign-off.,PENDING_STATEMENTS
+I need to check which payments are still pending that are still in draft.,PENDING_STATEMENTS
+Do I have any pending transactions for client Johnson & Sons?,PENDING_STATEMENTS
+Pull up payments waiting for approval due today.,PENDING_STATEMENTS
+I want a list of payments that haven't been executed yet.,PENDING_STATEMENTS
+Pull up pending payment requests on hold.,PENDING_STATEMENTS
+List unprocessed payments over $1000.,PENDING_STATEMENTS
+Can you check payments yet to be processed.,PENDING_STATEMENTS
+Find payments awaiting processing for my account.,PENDING_STATEMENTS
+Retrieve payments not yet settled in my dashboard.,PENDING_STATEMENTS
+Can you get me payments that are on hold in my queue.,PENDING_STATEMENTS
+Could you get payments in progress.,PENDING_STATEMENTS
+Can I get payments awaiting review.,PENDING_STATEMENTS
+Show me payments that are scheduled but not sent on my account?,PENDING_STATEMENTS
+Kindly show me payments that are scheduled but not sent scheduled for next week.,PENDING_STATEMENTS
+Can you check payments still pending in the approval queue.,PENDING_STATEMENTS
+Which invoices have payments still pending for my account?,PENDING_STATEMENTS
+Find open pending payments.,PENDING_STATEMENTS
+I need to view payments still queued under $200.,PENDING_STATEMENTS
+I want to see incomplete payments.,PENDING_STATEMENTS
+Can you get me payments that are still open.,PENDING_STATEMENTS
+Can I view payments that are still open for payroll.,PENDING_STATEMENTS
+What are the payments awaiting review for our company?,PENDING_STATEMENTS
+Get payments still pending due today.,PENDING_STATEMENTS
+Get payments that are on hold in my dashboard.,PENDING_STATEMENTS
+Fetch payments not yet finalized over $1000?,PENDING_STATEMENTS
+Pull up in-progress payments on the payments dashboard.,PENDING_STATEMENTS
+Could you display payments in progress for this week?,PENDING_STATEMENTS
+I need a list of payments awaiting review for the current billing cycle.,PENDING_STATEMENTS
+Could you get payments still pending for this month.,PENDING_STATEMENTS
+Would you list payments not yet disbursed for my account?,PENDING_STATEMENTS
+Kindly list payments that are still processing due this week.,PENDING_STATEMENTS
+Pull payments not yet cleared due tomorrow?,PENDING_STATEMENTS
+Please show payments still pending for our suppliers.,PENDING_STATEMENTS
+Can you get me payments still under review tied to invoice #4521.,PENDING_STATEMENTS
+Bring up payments awaiting authorization scheduled for next month.,PENDING_STATEMENTS
+Look up payments not yet finalized tied to invoice #4521.,PENDING_STATEMENTS
+Could you show me upcoming payments for this week?,PENDING_STATEMENTS
+Fetch payments waiting to be processed for the procurement department.,PENDING_STATEMENTS
+I want a list of payments that are on hold from this quarter.,PENDING_STATEMENTS
+Could you display payments set to be paid later that are overdue for approval.,PENDING_STATEMENTS
+Can you get me payments still awaiting execution for this account.,PENDING_STATEMENTS
+Let me see payments awaiting review that are awaiting manager sign-off.,PENDING_STATEMENTS
+Can I get payments waiting to be processed due today.,PENDING_STATEMENTS
+What payments are waiting to be approved for vendor ABC Corp?,PENDING_STATEMENTS
+I'd like a list of open pending payments for our vendors.,PENDING_STATEMENTS
+I want to see pending payment statements scheduled for next month.,PENDING_STATEMENTS
+What payments are currently pending?,PENDING_STATEMENTS
+Give me incomplete payments.,PENDING_STATEMENTS
+List payments not yet completed for client Johnson & Sons.,PENDING_STATEMENTS
+Look up payments that haven't been executed yet due tomorrow.,PENDING_STATEMENTS
+Bring up scheduled payments linked to project Alpha.,PENDING_STATEMENTS
+Would you list payments awaiting authorization on hold.,PENDING_STATEMENTS
+Can I view upcoming payments for last week.,PENDING_STATEMENTS
+Look up payments awaiting execution due tomorrow.,PENDING_STATEMENTS
+Can I get payments still queued in the approval queue.,PENDING_STATEMENTS
+Can you show me payments awaiting processing for today.,PENDING_STATEMENTS
+I want to see payments awaiting review for my account.,PENDING_STATEMENTS
+I want a list of payments waiting for approval for this month.,PENDING_STATEMENTS
+Kindly list scheduled payments under $200.,PENDING_STATEMENTS
+I want a list of open pending payments in my dashboard.,PENDING_STATEMENTS
+I need a summary of pending payment activity over $500.,PENDING_STATEMENTS
+Pull payments that haven't been executed yet in USD?,PENDING_STATEMENTS
+Can you list payments that haven't been executed yet for account number 778812.,PENDING_STATEMENTS
+I'd like to check payments not yet completed on hold.,PENDING_STATEMENTS
+Fetch open pending payments.,PENDING_STATEMENTS
+Check upcoming payments due this week.,PENDING_STATEMENTS
+Are there any pending payments right now?,PENDING_STATEMENTS
+Can you check payments not yet completed.,PENDING_STATEMENTS
+I'm trying to view in-progress payments for this account.,PENDING_STATEMENTS
+Please list future-dated payments for our vendors.,PENDING_STATEMENTS
+Can you get me payments not yet completed for this month.,PENDING_STATEMENTS
+Could you show me payments that are still open tied to invoice #4521.,PENDING_STATEMENTS
+Could you show me payments that haven't been executed yet.,PENDING_STATEMENTS
+Fetch payments not yet completed for vendor ABC Corp.,PENDING_STATEMENTS
+Can you check payments awaiting authorization due tomorrow.,PENDING_STATEMENTS
+Which invoices have payments still pending due next week?,PENDING_STATEMENTS
+Could you get payments that haven't been executed yet for today.,PENDING_STATEMENTS
+Please show me payments not yet settled for the current billing cycle.,PENDING_STATEMENTS
+I need to know what payments haven't cleared yet for vendor ABC Corp.,PENDING_STATEMENTS
+I'd like to see queued payments on my account.,PENDING_STATEMENTS
+Show me anything still marked as pending due tomorrow.,PENDING_STATEMENTS
+Pull pending payment requests for invoices.,PENDING_STATEMENTS
+What are the future-dated payments in my dashboard?,PENDING_STATEMENTS
+Display payments queued for processing due this week.,PENDING_STATEMENTS
+Can you check payments set to be paid later due today.,PENDING_STATEMENTS
+List payments that are on hold flagged as pending?,PENDING_STATEMENTS
+Can you get me payments pending approval from this quarter.,PENDING_STATEMENTS
+Retrieve payments in transit due tomorrow.,PENDING_STATEMENTS
+What are the in-progress payments on the payments dashboard.,PENDING_STATEMENTS
+Can you check payments scheduled for the future for the procurement department?,PENDING_STATEMENTS
+Please show payments that are incomplete for this week.,PENDING_STATEMENTS
+Which transactions are still pending in my dashboard?,PENDING_STATEMENTS
+Kindly list payments awaiting execution for the current billing cycle?,PENDING_STATEMENTS
+Pull payments set to be paid later due next week.,PENDING_STATEMENTS
+I'd like a list of payments not yet cleared linked to project Alpha.,PENDING_STATEMENTS
+I want to see upcoming payments for invoices.,PENDING_STATEMENTS
+Pull payments still pending scheduled for next month.,PENDING_STATEMENTS
+Kindly list pending transaction statements for the procurement department.,PENDING_STATEMENTS
+Retrieve payments set to be paid later over $500.,PENDING_STATEMENTS
+Could you get open pending payments in USD.,PENDING_STATEMENTS
+Which payments haven't been processed yet due today?,PENDING_STATEMENTS
+Can I get outstanding payments for my account.,PENDING_STATEMENTS
+Look up payments not yet cleared for this month.,PENDING_STATEMENTS
+I'd like to see payments waiting on approval scheduled for next week.,PENDING_STATEMENTS
+Can I get undisbursed payments for payroll.,PENDING_STATEMENTS
+Can I get pending payment statements for our suppliers.,PENDING_STATEMENTS
+Pull in-progress payments for this month.,PENDING_STATEMENTS
+Get payments in progress.,PENDING_STATEMENTS
+Can you pull up payments not yet completed under $200.,PENDING_STATEMENTS
+Pull incomplete payments scheduled for tomorrow?,PENDING_STATEMENTS
+What payments are still waiting on authorization?,PENDING_STATEMENTS
+Kindly show me pending payment requests for vendor ABC Corp.,PENDING_STATEMENTS
+Show me all transactions marked pending for vendor ABC Corp.,PENDING_STATEMENTS
+Pull payments waiting on approval for the current billing cycle.,PENDING_STATEMENTS
+Kindly show me payments awaiting review for account number 778812.,PENDING_STATEMENTS
+Get incomplete payments for the finance team.,PENDING_STATEMENTS
+I'm trying to check payments waiting for approval for payroll.,PENDING_STATEMENTS
+Kindly list payments due to be processed on my account.,PENDING_STATEMENTS
+Pull up payments queued for processing tied to invoice #4521.,PENDING_STATEMENTS
+Could you show me undisbursed payments tied to invoice #4521.,PENDING_STATEMENTS
+What are the queued payments for the current billing cycle.,PENDING_STATEMENTS
+Kindly show me payments scheduled for the future linked to project Alpha.,PENDING_STATEMENTS
+Can you pull up payments that haven't gone through yet in my queue.,PENDING_STATEMENTS
+Let me see payments pending review for account 4521.,PENDING_STATEMENTS
+Could you display payments pending approval for the finance team.,PENDING_STATEMENTS
+View payments still awaiting execution on the payments dashboard.,PENDING_STATEMENTS
+Could you get payments waiting on approval for payroll.,PENDING_STATEMENTS
+I need to know what payments haven't cleared yet that are awaiting manager sign-off.,PENDING_STATEMENTS
+Can I view payments still queued for my account.,PENDING_STATEMENTS
+What are the payments yet to be processed for our suppliers.,PENDING_STATEMENTS
+Can I see payments in transit.,PENDING_STATEMENTS
+I'm trying to view payments pending review over $500.,PENDING_STATEMENTS
+Could you display payments awaiting review for the current billing cycle.,PENDING_STATEMENTS
+Look up payments awaiting confirmation for client Johnson & Sons.,PENDING_STATEMENTS
+Can you list payments not yet disbursed for the merchant account.,PENDING_STATEMENTS
+Show me all transactions marked pending for the current billing cycle.,PENDING_STATEMENTS
+Could you show me payments not yet finalized on my account.,PENDING_STATEMENTS
+Please list payments yet to be processed for the current billing cycle.,PENDING_STATEMENTS
+I'm trying to check unprocessed payments for payroll.,PENDING_STATEMENTS
+Kindly show me payments not yet cleared due this week.,PENDING_STATEMENTS
+Look up pending payments for account 4521?,PENDING_STATEMENTS
+I want to see unprocessed payments scheduled for next week.,PENDING_STATEMENTS
+I need to view incomplete payments under $200.,PENDING_STATEMENTS
+List unsettled payments due tomorrow.,PENDING_STATEMENTS
+Would you show me payments awaiting approval scheduled for next month.,PENDING_STATEMENTS
+View payments that haven't gone through yet due this week.,PENDING_STATEMENTS
+Check in-progress payments from this quarter.,PENDING_STATEMENTS
+What payments are scheduled for later this month?,PENDING_STATEMENTS
+Do I have any payments pending approval for account 4521?,PENDING_STATEMENTS
+What are the payments scheduled for the future in my queue.,PENDING_STATEMENTS
+Pull up in-progress payments for this week.,PENDING_STATEMENTS
+Bring up payments waiting on approval on hold.,PENDING_STATEMENTS
+Find payments queued for processing for vendor ABC Corp.,PENDING_STATEMENTS
+What payments are waiting to be approved due next week?,PENDING_STATEMENTS
+I want to check on payments still awaiting processing flagged as pending.,PENDING_STATEMENTS
+Kindly list open pending payments for the merchant account?,PENDING_STATEMENTS
+I need a list of payments still awaiting execution awaiting my sign-off.,PENDING_STATEMENTS
+Can I get payments in the queue that are still in draft.,PENDING_STATEMENTS
+Bring up payments still pending.,PENDING_STATEMENTS
+Do I have any pending transactions?,PENDING_STATEMENTS
+Get pending payments scheduled for next week.,PENDING_STATEMENTS
+I'd like to check payments in transit linked to project Alpha.,PENDING_STATEMENTS
+I need to view payments awaiting confirmation for today.,PENDING_STATEMENTS
+Check payments still under review on my account.,PENDING_STATEMENTS
+What payments are waiting to be approved scheduled for tomorrow?,PENDING_STATEMENTS
+What are the scheduled payments for payroll.,PENDING_STATEMENTS
+What payments are still waiting on authorization for this week?,PENDING_STATEMENTS
+Are there any pending payments right now tied to invoice #4521?,PENDING_STATEMENTS
+Can you show me payments in a pending state for account number 778812.,PENDING_STATEMENTS
+Display payments queued for processing under $200?,PENDING_STATEMENTS
+Display undisbursed payments flagged as pending.,PENDING_STATEMENTS
+View unsettled payments flagged as pending.,PENDING_STATEMENTS
+Would you show me payments not yet finalized for the current billing cycle.,PENDING_STATEMENTS
+Please show pending payment statements over $1000.,PENDING_STATEMENTS
+Can you check payments waiting on approval due next week.,PENDING_STATEMENTS
+Can I view payments in a pending state.,PENDING_STATEMENTS
+I'd like to check payments pending approval scheduled for next week?,PENDING_STATEMENTS
+Can I get pending payment requests for my account.,PENDING_STATEMENTS
+What are the in-progress payments?,PENDING_STATEMENTS
+Get payments not yet finalized from this quarter.,PENDING_STATEMENTS
+Get payments that are scheduled but not sent under $200?,PENDING_STATEMENTS
+I'd like a list of payments waiting on approval under $200.,PENDING_STATEMENTS
+Find outstanding payments linked to project Alpha.,PENDING_STATEMENTS
+What's still in the payment queue?,PENDING_STATEMENTS
+Would you show me payments in transit that need approval?,PENDING_STATEMENTS
+Could you display payments that are scheduled but not sent in USD.,PENDING_STATEMENTS
+Pull up pending payments that need approval.,PENDING_STATEMENTS
+Fetch payments scheduled for the future tied to invoice #4521.,PENDING_STATEMENTS
+Pull payments awaiting authorization in the system?,PENDING_STATEMENTS
+Can I see payments in a pending state for account 4521.,PENDING_STATEMENTS
+Can I view payments that are scheduled but not sent.,PENDING_STATEMENTS
+Kindly show me payments waiting to be processed that are overdue for approval.,PENDING_STATEMENTS
+I want to see payments that are incomplete in my dashboard.,PENDING_STATEMENTS
+Pull payments that are still processing.,PENDING_STATEMENTS
+Can I get payments that haven't been executed yet scheduled for tomorrow.,PENDING_STATEMENTS
+Bring up payments not yet completed for last week.,PENDING_STATEMENTS
+Please show me unprocessed payments linked to project Alpha.,PENDING_STATEMENTS
+Would you show me payments queued for processing in the approval queue.,PENDING_STATEMENTS
+Show pending payment statuses for this account in my queue.,PENDING_STATEMENTS
+Give me payments still queued for my account.,PENDING_STATEMENTS
+I'm trying to check outstanding payments that are overdue for approval.,PENDING_STATEMENTS
+Kindly list payments due to be processed for this week.,PENDING_STATEMENTS
+Could you display payments not yet finalized due this week.,PENDING_STATEMENTS
+Could you list scheduled payments?,PENDING_STATEMENTS
+How many payments are still pending over $1000?,PENDING_STATEMENTS
+Can you list payments queued for processing that are awaiting manager sign-off.,PENDING_STATEMENTS
+I need a list of payments awaiting authorization on the payments dashboard.,PENDING_STATEMENTS
+I'd like to check payments that are still open for my account.,PENDING_STATEMENTS
+Can I get a status update on pending payments for payroll?,PENDING_STATEMENTS
+Kindly show me payments yet to be processed under $200.,PENDING_STATEMENTS
+Bring up payments scheduled for the future.,PENDING_STATEMENTS
+Check undisbursed payments for invoices.,PENDING_STATEMENTS
+Could you list payments still pending.,PENDING_STATEMENTS
+Please show payments in transit that need approval.,PENDING_STATEMENTS
+Which payments are scheduled but not yet sent for account number 778812?,PENDING_STATEMENTS
+I need a list of payments awaiting confirmation over $1000.,PENDING_STATEMENTS
+I need to view pending payment requests for account number 778812.,PENDING_STATEMENTS
+Can you get me payments waiting to be processed over $1000.,PENDING_STATEMENTS
+Fetch payments in transit for the current billing cycle.,PENDING_STATEMENTS
+Pull up payments awaiting review in the approval queue.,PENDING_STATEMENTS
+Could you get payments not yet settled due next week.,PENDING_STATEMENTS
+Could you list payments scheduled for the future for account 4521?,PENDING_STATEMENTS
+I want to check on payments still awaiting processing for account number 778812.,PENDING_STATEMENTS
+Get payments not yet completed for client Johnson & Sons.,PENDING_STATEMENTS
+Get payments awaiting processing due tomorrow.,PENDING_STATEMENTS
+Kindly show me future-dated payments for this week.,PENDING_STATEMENTS
+Pull payments due to be processed from this quarter.,PENDING_STATEMENTS
+I need to check which payments are still pending scheduled for tomorrow.,PENDING_STATEMENTS
+Please show me payments not yet disbursed for this account.,PENDING_STATEMENTS
+Give me an overview of payments awaiting approval for the finance team.,PENDING_STATEMENTS
+Pull queued payments for the merchant account.,PENDING_STATEMENTS
+Find payments that haven't gone through yet that need approval.,PENDING_STATEMENTS
+Retrieve payments queued for processing linked to project Alpha.,PENDING_STATEMENTS
+Can I see payments in a pending state.,PENDING_STATEMENTS
+I'm trying to view payments in progress.,PENDING_STATEMENTS
+Would you list pending transaction statements for last week.,PENDING_STATEMENTS
+Check payments awaiting authorization for account number 778812.,PENDING_STATEMENTS
+What future-dated payments are on file on the payments dashboard?,PENDING_STATEMENTS
+Can I view payments not yet completed for the procurement department.,PENDING_STATEMENTS
+Can you pull up payments still pending for invoices.,PENDING_STATEMENTS
+I'd like to see scheduled payments for the procurement department.,PENDING_STATEMENTS
+Can you check payments not yet finalized due this week.,PENDING_STATEMENTS
+Kindly show me payments waiting to be processed for today.,PENDING_STATEMENTS
+Could you show me pending transaction statements scheduled for next week.,PENDING_STATEMENTS
+Would you list payments pending review for account number 778812.,PENDING_STATEMENTS
+Can I see in-progress payments.,PENDING_STATEMENTS
+View payments that are on hold for the current billing cycle.,PENDING_STATEMENTS
+View scheduled payments for the merchant account.,PENDING_STATEMENTS
+Pull up queued payments awaiting my sign-off.,PENDING_STATEMENTS
+Pull up open pending payments scheduled for next week.,PENDING_STATEMENTS
+Get payments that are incomplete due today.,PENDING_STATEMENTS
+Can you get me payments that are still open on hold.,PENDING_STATEMENTS
+Which payments haven't been processed yet awaiting my sign-off?,PENDING_STATEMENTS
+List every payment that's still queued on the payments dashboard.,PENDING_STATEMENTS
+Could you display payments that haven't been executed yet over $500.,PENDING_STATEMENTS
+What payments are scheduled for later this month that need approval?,PENDING_STATEMENTS
+Look up unprocessed payments for the merchant account.,PENDING_STATEMENTS
+I want to see payments awaiting approval for payroll.,PENDING_STATEMENTS
+Which payments haven't been processed yet?,PENDING_STATEMENTS
+Display undisbursed payments for the current billing cycle.,PENDING_STATEMENTS
+List unprocessed payments flagged as pending.,PENDING_STATEMENTS
+Please list future-dated payments from this quarter.,PENDING_STATEMENTS
+Can I see scheduled payments in USD.,PENDING_STATEMENTS
+Can I see payments awaiting authorization from this quarter.,PENDING_STATEMENTS
+View payments pending approval on the payments dashboard.,PENDING_STATEMENTS
+Pull payments queued for processing for this month.,PENDING_STATEMENTS
+Could you list unprocessed payments over $500.,PENDING_STATEMENTS
+Let me know what payments are still outstanding in the system.,PENDING_STATEMENTS
+Please show me payments that are scheduled but not sent in the system.,PENDING_STATEMENTS
+Pull payments not yet finalized over $500.,PENDING_STATEMENTS
+Which payments are on hold right now?,PENDING_STATEMENTS
+What future-dated payments are on file that are overdue for approval?,PENDING_STATEMENTS
+Can you pull up payments that haven't gone through yet that are awaiting manager sign-off.,PENDING_STATEMENTS
+I want to see payments waiting for approval?,PENDING_STATEMENTS
+Please show me payments waiting to be processed due this week.,PENDING_STATEMENTS
+Could you show me payments awaiting confirmation?,PENDING_STATEMENTS
+I need to review payments that are still queued in the system.,PENDING_STATEMENTS
+Can you get me unsettled payments for account number 778812.,PENDING_STATEMENTS
+Check payments that are still processing over $500.,PENDING_STATEMENTS
+Can you get me pending transaction statements.,PENDING_STATEMENTS
+Can you list future-dated payments in the approval queue.,PENDING_STATEMENTS
+Get payments not yet disbursed for payroll.,PENDING_STATEMENTS
+Can I see payments awaiting processing for the procurement department.,PENDING_STATEMENTS
+I'd like to see future-dated payments that need approval.,PENDING_STATEMENTS
+View payments still pending that are overdue for approval?,PENDING_STATEMENTS
+Can I see payments that haven't gone through yet that need approval.,PENDING_STATEMENTS
+Please show me payments still under review for our suppliers.,PENDING_STATEMENTS
+I want a list of payments waiting to be processed that are overdue for approval?,PENDING_STATEMENTS
+I need a list of undisbursed payments on hold?,PENDING_STATEMENTS
+Can I view in-progress payments from this quarter.,PENDING_STATEMENTS
+View payments waiting on approval for my account.,PENDING_STATEMENTS
+Pull pending payments for this account.,PENDING_STATEMENTS
+Give me an overview of payments awaiting approval.,PENDING_STATEMENTS
+Display payments awaiting approval due next week.,PENDING_STATEMENTS
+Can you get me payments not yet completed in the system.,PENDING_STATEMENTS
+How many payments are still pending?,PENDING_STATEMENTS
+I need to view payments in a pending state for last week.,PENDING_STATEMENTS
+Can you list outstanding payments for the procurement department.,PENDING_STATEMENTS
+Show me in-progress payments in the approval queue.,PENDING_STATEMENTS
+Pull scheduled payments for our company.,PENDING_STATEMENTS
+Can I see payments due to be processed for our company.,PENDING_STATEMENTS
+View upcoming payments in the system.,PENDING_STATEMENTS
+Can you list pending payments due tomorrow.,PENDING_STATEMENTS
+Bring up unprocessed payments scheduled for next month.,PENDING_STATEMENTS
+Which invoices have payments still pending that need approval?,PENDING_STATEMENTS
+Bring up payments awaiting confirmation for account 4521.,PENDING_STATEMENTS
+Bring up payments awaiting execution scheduled for tomorrow?,PENDING_STATEMENTS
+"Can I view payments still under review above $10,000.",PENDING_STATEMENTS
+Display payments not yet cleared in my dashboard.,PENDING_STATEMENTS
+Give me pending payment requests for the current billing cycle.,PENDING_STATEMENTS
+What are the undisbursed payments for our vendors.,PENDING_STATEMENTS
+Please show payments yet to be processed scheduled for tomorrow.,PENDING_STATEMENTS
+Look up payments not yet settled?,PENDING_STATEMENTS
+Let me see pending payments in USD.,PENDING_STATEMENTS
+Look up open pending payments for today.,PENDING_STATEMENTS
+I need a list of payments that haven't gone through yet for my account.,PENDING_STATEMENTS
+Can I view future-dated payments that are awaiting manager sign-off?,PENDING_STATEMENTS
+Can you show me payments awaiting approval due next week.,PENDING_STATEMENTS
+Which payments are scheduled but not yet sent on hold?,PENDING_STATEMENTS
+Display payments still awaiting execution for this account.,PENDING_STATEMENTS
+Could you show me payments in transit.,PENDING_STATEMENTS
+Can I get payments that are scheduled but not sent for the current billing cycle.,PENDING_STATEMENTS
+View payments not yet cleared under $200.,PENDING_STATEMENTS
+I'm trying to check scheduled payments for today.,PENDING_STATEMENTS
+Could you list payments still awaiting execution that are still in draft.,PENDING_STATEMENTS
+I'd like to check payments pending review linked to project Alpha?,PENDING_STATEMENTS
+Could you display payments not yet disbursed for our vendors.,PENDING_STATEMENTS
+Retrieve payments that haven't been executed yet due this week.,PENDING_STATEMENTS
+I need a list of payments in a pending state.,PENDING_STATEMENTS
+Can you list future-dated payments linked to project Alpha.,PENDING_STATEMENTS
+I'd like to see unprocessed payments tied to invoice #4521.,PENDING_STATEMENTS
+What payments are waiting to be approved?,PENDING_STATEMENTS
+Fetch in-progress payments that are still in draft.,PENDING_STATEMENTS
+"Fetch payments awaiting execution above $10,000?",PENDING_STATEMENTS
+Can I get a status update on pending payments due this week?,PENDING_STATEMENTS
+Can you get me payments not yet completed from this quarter.,PENDING_STATEMENTS
+Display undisbursed payments on the payments dashboard.,PENDING_STATEMENTS
+I want a list of payments still queued over $1000.,PENDING_STATEMENTS
+Can you get me outstanding payments for invoices.,PENDING_STATEMENTS
+Can you get me payments awaiting authorization for payroll.,PENDING_STATEMENTS
+Can you check payments not yet finalized under $200.,PENDING_STATEMENTS
+Give me payments still awaiting execution.,PENDING_STATEMENTS
+List scheduled payments due today.,PENDING_STATEMENTS
+List payments pending approval under $200.,PENDING_STATEMENTS
+Could you list incomplete payments due today?,PENDING_STATEMENTS
+Do I have any pending transactions for my account?,PENDING_STATEMENTS
+Let me know what payments are still outstanding tied to invoice #4521.,PENDING_STATEMENTS
+Kindly show me unprocessed payments tied to invoice #4521.,PENDING_STATEMENTS
+Could you show me payments not yet finalized for client Johnson & Sons?,PENDING_STATEMENTS
+Can you get me payments due to be processed scheduled for next month.,PENDING_STATEMENTS
+I need to view payments not yet cleared scheduled for next month.,PENDING_STATEMENTS
+"Could you list undisbursed payments above $10,000?",PENDING_STATEMENTS
+Can I see payments not yet completed for the finance team.,PENDING_STATEMENTS
+Can you check incomplete payments for last week.,PENDING_STATEMENTS
+Show me payments not yet completed for this week.,PENDING_STATEMENTS
+Can you check payments still under review that are overdue for approval.,PENDING_STATEMENTS
+Look up payments still under review on the payments dashboard.,PENDING_STATEMENTS
+Would you list payments still pending for the current billing cycle.,PENDING_STATEMENTS
+Find outstanding payments in my dashboard.,PENDING_STATEMENTS
+Look up payments still awaiting execution that need approval.,PENDING_STATEMENTS
+Could you show me payments awaiting processing due tomorrow.,PENDING_STATEMENTS
+Kindly show me payments in a pending state on the payments dashboard.,PENDING_STATEMENTS
+I'd like to check payments pending approval due next week.,PENDING_STATEMENTS
+Can I view payments in transit in USD.,PENDING_STATEMENTS
+List pending transaction statements for last week.,PENDING_STATEMENTS
+Give me a status report on pending payments that are overdue for approval.,PENDING_STATEMENTS
+Let me see payments pending approval on my account?,PENDING_STATEMENTS
+Which payments are still awaiting approval for this account?,PENDING_STATEMENTS
+Give me payments that haven't gone through yet scheduled for next week.,PENDING_STATEMENTS
+Kindly show me payments in transit due tomorrow.,PENDING_STATEMENTS
+Show me payments waiting on approval.,PENDING_STATEMENTS
+Let me see payments not yet settled flagged as pending.,PENDING_STATEMENTS
+View payments that are on hold for today.,PENDING_STATEMENTS
+Find payments not yet finalized for this week.,PENDING_STATEMENTS
+I need to review payments that are still queued.,PENDING_STATEMENTS
+Please show me payments awaiting approval in my queue.,PENDING_STATEMENTS
+Please show me payments yet to be processed for our suppliers.,PENDING_STATEMENTS
+Can you check payments not yet completed due today.,PENDING_STATEMENTS
+Let me know what payments are still outstanding over $500.,PENDING_STATEMENTS
+Can I see payments not yet finalized for the finance team?,PENDING_STATEMENTS
+Let me see unsettled payments linked to project Alpha.,PENDING_STATEMENTS
+What payments are currently pending scheduled for tomorrow?,PENDING_STATEMENTS
+What are the payments not yet cleared.,PENDING_STATEMENTS
+Show me payments pending review over $1000.,PENDING_STATEMENTS
+Please show me payments not yet settled for our suppliers.,PENDING_STATEMENTS
+Could you list payments still pending for payroll?,PENDING_STATEMENTS
+Would you show me future-dated payments for last week.,PENDING_STATEMENTS
+I need a list of payments in progress for last week.,PENDING_STATEMENTS
+Which payments are on hold right now scheduled for next month?,PENDING_STATEMENTS
+How many payments are awaiting processing for this month?,PENDING_STATEMENTS
+Can you list payments awaiting review scheduled for next week.,PENDING_STATEMENTS
+Can you show me upcoming payments in the system?,PENDING_STATEMENTS
+Can I see payments that are still open in the approval queue.,PENDING_STATEMENTS
+What payments are queued up right now?,PENDING_STATEMENTS
+"I need a list of outstanding payments above $10,000.",PENDING_STATEMENTS
+What payments are waiting to be approved that are awaiting manager sign-off?,PENDING_STATEMENTS
+Could you show me payments still pending in the system.,PENDING_STATEMENTS
+I need a list of payments not yet completed tied to invoice #4521.,PENDING_STATEMENTS
+What are the payments queued for processing from this quarter.,PENDING_STATEMENTS
+Please show pending payment statements under $200.,PENDING_STATEMENTS
+What's the status of payments still in progress for payroll?,PENDING_STATEMENTS
+Show me anything still marked as pending for account number 778812.,PENDING_STATEMENTS
+Would you list payments pending review for vendor ABC Corp.,PENDING_STATEMENTS
+Fetch pending payments.,PENDING_STATEMENTS
+Bring up open pending payments due next week.,PENDING_STATEMENTS
+I'm trying to view payments that are incomplete from this quarter.,PENDING_STATEMENTS
+I'd like a list of undisbursed payments over $500.,PENDING_STATEMENTS
+Kindly list payments set to be paid later for this week.,PENDING_STATEMENTS
+I need to view payments set to be paid later for client Johnson & Sons.,PENDING_STATEMENTS
+Could you display payments awaiting review in my queue.,PENDING_STATEMENTS
+What are the payments awaiting confirmation for my account.,PENDING_STATEMENTS
+Retrieve payments still queued for invoices.,PENDING_STATEMENTS
+Which invoices have payments still pending that are still in draft?,PENDING_STATEMENTS
+Get payments that are incomplete on my account?,PENDING_STATEMENTS
+Can you list scheduled payments for account number 778812.,PENDING_STATEMENTS
+I need to view payments not yet disbursed in my queue.,PENDING_STATEMENTS
+What payments haven't gone through yet for the finance team?,PENDING_STATEMENTS
+Could you display payments awaiting execution for the finance team.,PENDING_STATEMENTS
+Display payments in a pending state due tomorrow.,PENDING_STATEMENTS
+Bring up payments not yet settled from this quarter.,PENDING_STATEMENTS
+Can you pull up payments that are still processing in the approval queue.,PENDING_STATEMENTS
+How many payments are awaiting processing under $200?,PENDING_STATEMENTS
+I need to view payments in transit for account 4521.,PENDING_STATEMENTS
+Would you list scheduled payments for invoices.,PENDING_STATEMENTS
+Pull up payments set to be paid later for invoices.,PENDING_STATEMENTS
+Can I see payments queued for processing.,PENDING_STATEMENTS
+Can I view payments awaiting approval due today.,PENDING_STATEMENTS
+Would you list payments in a pending state for last week.,PENDING_STATEMENTS
+I want a list of payments not yet completed for the current billing cycle?,PENDING_STATEMENTS
+I need to know what payments haven't cleared yet.,PENDING_STATEMENTS
+Can I see future-dated payments for client Johnson & Sons.,PENDING_STATEMENTS
+List payments that are still open for vendor ABC Corp.,PENDING_STATEMENTS
+Pull up payments due to be processed for account number 778812.,PENDING_STATEMENTS
+Find payments yet to be processed due tomorrow?,PENDING_STATEMENTS
+I'm trying to check scheduled payments on hold.,PENDING_STATEMENTS
+Please show payments waiting to be processed due today?,PENDING_STATEMENTS
+What's still in the payment queue scheduled for tomorrow?,PENDING_STATEMENTS
+I want a list of payments that are scheduled but not sent linked to project Alpha.,PENDING_STATEMENTS
+Kindly show me payments that are still processing scheduled for next week.,PENDING_STATEMENTS
+I need a list of payments awaiting processing due today.,PENDING_STATEMENTS
+Let me see incomplete payments for the procurement department.,PENDING_STATEMENTS
+Would you show me payments that are incomplete for today.,PENDING_STATEMENTS
+Find payments awaiting review due this week.,PENDING_STATEMENTS
+Pull up payments awaiting confirmation that need approval.,PENDING_STATEMENTS
+Which payments are on hold right now tied to invoice #4521?,PENDING_STATEMENTS
+Give me an overview of payments awaiting approval scheduled for tomorrow.,PENDING_STATEMENTS
+Could you show me payments still queued for vendor ABC Corp.,PENDING_STATEMENTS
+I need a list of pending payment requests for vendor ABC Corp.,PENDING_STATEMENTS
+Find unprocessed payments for our company?,PENDING_STATEMENTS
+"What are the payments in transit above $10,000.",PENDING_STATEMENTS
+Find payments waiting to be processed in USD.,PENDING_STATEMENTS
+Display payments that are incomplete for invoices?,PENDING_STATEMENTS
+Kindly show me payments that are still open in my queue.,PENDING_STATEMENTS
+Find scheduled payments for our suppliers.,PENDING_STATEMENTS
+Show me payments not yet settled in my dashboard.,PENDING_STATEMENTS
+Can I get a status update on pending payments scheduled for next month?,PENDING_STATEMENTS
+Would you list payments pending approval for the procurement department.,PENDING_STATEMENTS
+I'm trying to check future-dated payments.,PENDING_STATEMENTS
+Give me payments that are on hold for my account.,PENDING_STATEMENTS
+Which transactions are still pending for last week?,PENDING_STATEMENTS
+Pull up upcoming payments for our company.,PENDING_STATEMENTS
+Give me undisbursed payments for the procurement department.,PENDING_STATEMENTS
+Look up open pending payments for our vendors.,PENDING_STATEMENTS
+Pull unsettled payments that are awaiting manager sign-off?,PENDING_STATEMENTS
+Pull payments that are still processing scheduled for next week.,PENDING_STATEMENTS
+Please show incomplete payments for account number 778812?,PENDING_STATEMENTS
+List queued payments in my queue.,PENDING_STATEMENTS
+Could you list queued payments for the finance team.,PENDING_STATEMENTS
+Can I get future-dated payments.,PENDING_STATEMENTS
+Please show payments awaiting approval for the current billing cycle.,PENDING_STATEMENTS
+Check payments still awaiting execution scheduled for tomorrow.,PENDING_STATEMENTS
+How many payments are awaiting processing for this week?,PENDING_STATEMENTS
+I want to check on payments still awaiting processing.,PENDING_STATEMENTS
+Can you list payments still awaiting execution scheduled for next month.,PENDING_STATEMENTS
+Please show me payments due to be processed for this month.,PENDING_STATEMENTS
+Which transactions are still pending scheduled for tomorrow?,PENDING_STATEMENTS
+Can you pull up payments pending approval for this account.,PENDING_STATEMENTS
+Could you display payments in a pending state for this account.,PENDING_STATEMENTS
+Find payments awaiting review in my dashboard.,PENDING_STATEMENTS
+Bring up payments awaiting authorization.,PENDING_STATEMENTS
+Show pending payment statuses for this account.,PENDING_STATEMENTS
+Fetch unsettled payments for account number 778812.,PENDING_STATEMENTS
+What are the payments not yet cleared for our suppliers.,PENDING_STATEMENTS
+Pull upcoming payments tied to invoice #4521.,PENDING_STATEMENTS
+Can you pull up payments queued for processing for our suppliers.,PENDING_STATEMENTS
+Let me see unsettled payments on the payments dashboard.,PENDING_STATEMENTS
+Pull up undisbursed payments for the procurement department?,PENDING_STATEMENTS
+Get payments waiting for approval for our suppliers?,PENDING_STATEMENTS
+List payments not yet cleared on my account.,PENDING_STATEMENTS
+I need to view undisbursed payments for account number 778812.,PENDING_STATEMENTS
+I'm trying to view unsettled payments under $200.,PENDING_STATEMENTS
+Check outstanding payments for our suppliers.,PENDING_STATEMENTS
+Pull up payments still awaiting execution tied to invoice #4521.,PENDING_STATEMENTS
+Pull up payments still queued on hold.,PENDING_STATEMENTS
+View payments queued for processing for the merchant account.,PENDING_STATEMENTS
+Could you list payments that haven't gone through yet that are awaiting manager sign-off?,PENDING_STATEMENTS
+Can I get a status update on pending payments?,PENDING_STATEMENTS
+Let me see payments awaiting review for this account.,PENDING_STATEMENTS
+Can I get pending transaction statements linked to project Alpha.,PENDING_STATEMENTS
+Show me payments waiting on approval for payroll.,PENDING_STATEMENTS
+Kindly show me payments awaiting processing for client Johnson & Sons.,PENDING_STATEMENTS
+Find unprocessed payments tied to invoice #4521.,PENDING_STATEMENTS
+I'd like to see payments awaiting execution under $200.,PENDING_STATEMENTS
+I need to review payments that are still queued that are awaiting manager sign-off.,PENDING_STATEMENTS
+Check payments awaiting review scheduled for next week.,PENDING_STATEMENTS
+"Can I get payments not yet settled above $10,000.",PENDING_STATEMENTS
+I need a list of payments awaiting execution for the finance team.,PENDING_STATEMENTS
+Give me payments pending approval scheduled for tomorrow.,PENDING_STATEMENTS
+Can I get payments in transit.,PENDING_STATEMENTS
+Kindly show me payments that are incomplete scheduled for next month.,PENDING_STATEMENTS
+Can you get me future-dated payments.,PENDING_STATEMENTS
+Please list payments not yet completed due next week.,PENDING_STATEMENTS
+Which transactions are still pending?,PENDING_STATEMENTS
+Can you show me payments pending review scheduled for next week.,PENDING_STATEMENTS
+Get in-progress payments over $1000.,PENDING_STATEMENTS
+Pull up payments in progress over $1000.,PENDING_STATEMENTS
+How many payments are awaiting processing?,PENDING_STATEMENTS
+I'd like to see unsettled payments for vendor ABC Corp.,PENDING_STATEMENTS
+Can you list payments awaiting review in USD.,PENDING_STATEMENTS
+Retrieve payments yet to be processed.,PENDING_STATEMENTS
+Can I view payments still awaiting execution.,PENDING_STATEMENTS
+I want a list of payments in the queue?,PENDING_STATEMENTS
+Could you list upcoming payments on my account.,PENDING_STATEMENTS
+Display payments awaiting confirmation for last week?,PENDING_STATEMENTS
+Please list payments still under review over $1000.,PENDING_STATEMENTS
+I want a list of pending payment requests for the current billing cycle?,PENDING_STATEMENTS
+Could you list payments awaiting execution for the finance team.,PENDING_STATEMENTS
+Would you show me payments awaiting confirmation?,PENDING_STATEMENTS
+Kindly list payments still queued.,PENDING_STATEMENTS
+Please show me unsettled payments over $500.,PENDING_STATEMENTS
+Let me see payments awaiting review on my account.,PENDING_STATEMENTS
+Do I have any payments pending approval awaiting my sign-off?,PENDING_STATEMENTS
+Can you pull up payments that are scheduled but not sent in my dashboard?,PENDING_STATEMENTS
+Can I get payments that are still open scheduled for next month.,PENDING_STATEMENTS
+What are the payments that are on hold scheduled for next week.,PENDING_STATEMENTS
+I need a list of payments still under review for account 4521.,PENDING_STATEMENTS
+Fetch payments awaiting authorization under $200?,PENDING_STATEMENTS
+Could you get payments awaiting processing for payroll.,PENDING_STATEMENTS
+I'd like to see scheduled payments.,PENDING_STATEMENTS
+Kindly list payments waiting on approval for the merchant account?,PENDING_STATEMENTS
+Please show payments still under review for the merchant account.,PENDING_STATEMENTS
+Give me a status report on pending payments.,PENDING_STATEMENTS
+Check payments still pending from this quarter.,PENDING_STATEMENTS
+Please list pending transaction statements for client Johnson & Sons.,PENDING_STATEMENTS
+What future-dated payments are on file due this week?,PENDING_STATEMENTS
+Retrieve payments in a pending state on the payments dashboard.,PENDING_STATEMENTS
+Can I get pending transaction statements for our vendors.,PENDING_STATEMENTS
+Would you show me payments in progress tied to invoice #4521.,PENDING_STATEMENTS
+Can you pull up payments not yet disbursed from this quarter.,PENDING_STATEMENTS
+Bring up pending payments for our suppliers.,PENDING_STATEMENTS
+Would you show me pending payment requests for our vendors?,PENDING_STATEMENTS
+Pull payments not yet completed awaiting my sign-off.,PENDING_STATEMENTS
+Show pending payment statuses for this account for the procurement department.,PENDING_STATEMENTS
+I'd like to check in-progress payments in the system.,PENDING_STATEMENTS
+"Show me anything still marked as pending above $10,000.",PENDING_STATEMENTS
+I'd like to check payments still under review in USD.,PENDING_STATEMENTS
+What pending payments do I have awaiting my sign-off?,PENDING_STATEMENTS
+What payments are waiting to be approved for our vendors?,PENDING_STATEMENTS
+Please show me scheduled payments for our company.,PENDING_STATEMENTS
+Pull payments not yet cleared for the merchant account.,PENDING_STATEMENTS
+I'd like to see open pending payments scheduled for next month.,PENDING_STATEMENTS
+Let me know what payments are still outstanding for account 4521.,PENDING_STATEMENTS
+Get payments that haven't gone through yet for account number 778812.,PENDING_STATEMENTS
+What's currently in my pending payments queue that are overdue for approval?,PENDING_STATEMENTS
+Can you check upcoming payments for last week.,PENDING_STATEMENTS
+Get payments queued for processing.,PENDING_STATEMENTS
+Would you list payments still awaiting execution?,PENDING_STATEMENTS
+List payments not yet cleared for account 4521.,PENDING_STATEMENTS
+Display payments awaiting authorization in the system.,PENDING_STATEMENTS
+Look up payments awaiting approval scheduled for next week.,PENDING_STATEMENTS
+I'm trying to check future-dated payments that are still in draft.,PENDING_STATEMENTS
+What are the payments that are incomplete for today?,PENDING_STATEMENTS
+"Could you display payments queued for processing above $10,000.",PENDING_STATEMENTS
+Kindly list payments not yet finalized for my account.,PENDING_STATEMENTS
+I need a summary of pending payment activity from this quarter.,PENDING_STATEMENTS
+Can you show me unprocessed payments for invoices?,PENDING_STATEMENTS
+Which invoices have payments still pending on the payments dashboard?,PENDING_STATEMENTS
+List payments awaiting approval scheduled for tomorrow.,PENDING_STATEMENTS
+Let me see payments awaiting processing for today.,PENDING_STATEMENTS
+I want a list of payments awaiting processing.,PENDING_STATEMENTS
+Could you get outstanding payments for the current billing cycle.,PENDING_STATEMENTS
+Pull payments not yet settled for our vendors.,PENDING_STATEMENTS
+I'd like to check payments awaiting review over $500.,PENDING_STATEMENTS
+Check payments still pending in my dashboard.,PENDING_STATEMENTS
+Show me payments that are incomplete for the current billing cycle?,PENDING_STATEMENTS
+Give me open pending payments scheduled for next week.,PENDING_STATEMENTS
+I'd like to see payments still awaiting execution.,PENDING_STATEMENTS
+Please show me in-progress payments in USD.,PENDING_STATEMENTS
+Kindly list payments not yet finalized for the merchant account?,PENDING_STATEMENTS
+Can I get payments pending approval on my account.,PENDING_STATEMENTS
+Which transactions are still pending from this quarter?,PENDING_STATEMENTS
+View payments awaiting confirmation for our suppliers.,PENDING_STATEMENTS
+Can you show me payments waiting to be processed for last week?,PENDING_STATEMENTS
+Which transactions are still pending for the merchant account?,PENDING_STATEMENTS
+Kindly show me payments still awaiting execution for this month.,PENDING_STATEMENTS
+Get unsettled payments that need approval.,PENDING_STATEMENTS
+Pull up payments awaiting review that are still in draft?,PENDING_STATEMENTS
+I want a list of payments due to be processed for the merchant account.,PENDING_STATEMENTS
+Is there a list of payments awaiting execution for my account?,PENDING_STATEMENTS
+I'd like a list of payments awaiting processing on hold.,PENDING_STATEMENTS
+Can I see pending payment statements due this week.,PENDING_STATEMENTS
+Could you display payments that are scheduled but not sent in the system.,PENDING_STATEMENTS
+Can I see unsettled payments for our vendors.,PENDING_STATEMENTS
+Show me payments set to be paid later for client Johnson & Sons.,PENDING_STATEMENTS
+Can you list payments still under review linked to project Alpha.,PENDING_STATEMENTS
+Give me an overview of payments awaiting approval on hold.,PENDING_STATEMENTS
+Would you list payments still pending that are awaiting manager sign-off.,PENDING_STATEMENTS
+Let me know what payments are still outstanding.,PENDING_STATEMENTS
+Get pending transaction statements on my account.,PENDING_STATEMENTS
+Let me see payments not yet settled.,PENDING_STATEMENTS
+Pull up payments that are scheduled but not sent.,PENDING_STATEMENTS
+List every payment that's still queued for invoices.,PENDING_STATEMENTS
+Can I get payments that are still open from this quarter.,PENDING_STATEMENTS
+Please show payments awaiting approval on hold.,PENDING_STATEMENTS
+Can you pull up future-dated payments.,PENDING_STATEMENTS
+I'm trying to view payments not yet finalized for my account.,PENDING_STATEMENTS
+Please show payments in a pending state in my dashboard.,PENDING_STATEMENTS
+Would you show me payments that are incomplete for vendor ABC Corp.,PENDING_STATEMENTS
+Kindly list incomplete payments due today.,PENDING_STATEMENTS
+I'd like to see payments awaiting confirmation that are still in draft.,PENDING_STATEMENTS
+I'd like to see in-progress payments for the procurement department.,PENDING_STATEMENTS
+I need a list of payments awaiting processing awaiting my sign-off.,PENDING_STATEMENTS
+List payments waiting to be processed from this quarter.,PENDING_STATEMENTS
+Kindly show me payments awaiting processing for this account.,PENDING_STATEMENTS
+Retrieve scheduled payments.,PENDING_STATEMENTS
+Could you display payments not yet disbursed scheduled for tomorrow.,PENDING_STATEMENTS
+Could you show me payments not yet cleared for our company.,PENDING_STATEMENTS
+Can I view payments yet to be processed scheduled for next month.,PENDING_STATEMENTS
+Kindly list payments not yet disbursed for this month.,PENDING_STATEMENTS
+I'd like a list of payments that are scheduled but not sent for our company.,PENDING_STATEMENTS
+Can I view payments that are on hold.,PENDING_STATEMENTS
+I need to view payments waiting for approval for account 4521.,PENDING_STATEMENTS
+Could you list payments still awaiting execution that are overdue for approval?,PENDING_STATEMENTS
+Can you list payments still queued on my account?,PENDING_STATEMENTS
+Please list payments not yet cleared for today.,PENDING_STATEMENTS
+Could you display payments awaiting approval scheduled for tomorrow.,PENDING_STATEMENTS
+Give me undisbursed payments from this quarter.,PENDING_STATEMENTS
+Let me see payments that are on hold on my account.,PENDING_STATEMENTS
+I want a list of payments that haven't been executed yet scheduled for next week.,PENDING_STATEMENTS
+Kindly show me payments not yet finalized scheduled for next week.,PENDING_STATEMENTS
+Look up queued payments scheduled for tomorrow.,PENDING_STATEMENTS
+I want a list of payments still under review due tomorrow?,PENDING_STATEMENTS
+What payments haven't gone through yet?,PENDING_STATEMENTS
+Can you show me incomplete payments on hold.,PENDING_STATEMENTS
+Can I view upcoming payments that need approval.,PENDING_STATEMENTS
+Can you list in-progress payments for our vendors?,PENDING_STATEMENTS
+Display payments set to be paid later in the approval queue.,PENDING_STATEMENTS
+Can I see payments pending review scheduled for tomorrow.,PENDING_STATEMENTS
+Show me anything still marked as pending.,PENDING_STATEMENTS
+What future-dated payments are on file over $500?,PENDING_STATEMENTS
+Bring up payments that are still open for client Johnson & Sons.,PENDING_STATEMENTS
+Give me payments still under review for account 4521.,PENDING_STATEMENTS
+Fetch queued payments in my dashboard.,PENDING_STATEMENTS
+Could you show me payments awaiting authorization over $1000.,PENDING_STATEMENTS
+I'd like to check payments that are on hold that are still in draft?,PENDING_STATEMENTS
+Check payments still pending on my account.,PENDING_STATEMENTS
+Bring up payments pending approval for invoices.,PENDING_STATEMENTS
+I need a list of payments that are on hold for account number 778812.,PENDING_STATEMENTS
+Check payments still awaiting execution for the finance team.,PENDING_STATEMENTS
+Pull up payments waiting for approval on hold.,PENDING_STATEMENTS
+Could you get payments waiting for approval for my account.,PENDING_STATEMENTS
+List all payments currently under review.,PENDING_STATEMENTS
+What's the status of payments still in progress?,PENDING_STATEMENTS
+Could you list pending payment statements for the finance team.,PENDING_STATEMENTS
+Can I see payments pending approval for this account.,PENDING_STATEMENTS
+Can you check upcoming payments for our vendors.,PENDING_STATEMENTS
+Find payments awaiting processing on hold?,PENDING_STATEMENTS
+What upcoming payments do I have scheduled?,PENDING_STATEMENTS
+What are the payments pending approval on my account?,PENDING_STATEMENTS
+Look up payments that are still open?,PENDING_STATEMENTS
+I'd like a list of payments pending approval for the finance team.,PENDING_STATEMENTS
+I'm trying to view payments that are scheduled but not sent in my dashboard.,PENDING_STATEMENTS
+View payments in transit from this quarter.,PENDING_STATEMENTS
+Can I get queued payments for account number 778812.,PENDING_STATEMENTS
+Display payments awaiting approval for last week.,PENDING_STATEMENTS
+Can you show me payments awaiting confirmation for the current billing cycle.,PENDING_STATEMENTS
+Find open pending payments for my account.,PENDING_STATEMENTS
+Can you get me payments not yet disbursed for last week.,PENDING_STATEMENTS
+Can I get in-progress payments for the finance team.,PENDING_STATEMENTS
+Can you get me payments that are scheduled but not sent for the current billing cycle?,PENDING_STATEMENTS
+Which payments are on hold right now in my queue?,PENDING_STATEMENTS
+I'd like to check payments awaiting approval for today.,PENDING_STATEMENTS
+Give me a status report on pending payments due next week.,PENDING_STATEMENTS
+Look up incomplete payments for today.,PENDING_STATEMENTS
+Could you list payments not yet cleared for the current billing cycle?,PENDING_STATEMENTS
+Could you display scheduled payments linked to project Alpha.,PENDING_STATEMENTS
+I'd like a list of payments still pending in my queue.,PENDING_STATEMENTS
+Kindly show me payments that are incomplete in the system.,PENDING_STATEMENTS
+I want a list of payments awaiting authorization on my account.,PENDING_STATEMENTS
+Which payments are still awaiting approval from this quarter?,PENDING_STATEMENTS
+Pull up incomplete payments?,PENDING_STATEMENTS
+Can you show me scheduled payments for last week.,PENDING_STATEMENTS
+Please list payments that are still open scheduled for tomorrow.,PENDING_STATEMENTS
+What payments are queued up right now for client Johnson & Sons?,PENDING_STATEMENTS
+Pull up payments awaiting processing from this quarter.,PENDING_STATEMENTS
+Can I see payments pending review in the approval queue.,PENDING_STATEMENTS
+Are there any pending payments right now for vendor ABC Corp?,PENDING_STATEMENTS
+Can you pull up pending payment statements for today.,PENDING_STATEMENTS
+Can you get me payments due to be processed for account 4521.,PENDING_STATEMENTS
+What pending payments do I have that are overdue for approval?,PENDING_STATEMENTS
+I need to view payments waiting on approval in the system.,PENDING_STATEMENTS
+Retrieve in-progress payments in the approval queue.,PENDING_STATEMENTS
+Display payments that are on hold that need approval?,PENDING_STATEMENTS
+Look up payments still pending due tomorrow.,PENDING_STATEMENTS
+Can you show me payments in the queue for this month.,PENDING_STATEMENTS
+Can I get payments in progress in my queue?,PENDING_STATEMENTS
+Can you get me payments due to be processed in the system.,PENDING_STATEMENTS
+Can you show me payments pending review in my dashboard.,PENDING_STATEMENTS
+Retrieve payments queued for processing for today.,PENDING_STATEMENTS
+Please show payments still awaiting execution from this quarter.,PENDING_STATEMENTS
+Pull payments not yet cleared due today.,PENDING_STATEMENTS
+Look up payments due to be processed for the finance team.,PENDING_STATEMENTS
+Display payments awaiting confirmation for the finance team.,PENDING_STATEMENTS
+Pull future-dated payments for my account.,PENDING_STATEMENTS
+Pull payments that are still processing for invoices?,PENDING_STATEMENTS
+Could you get payments in transit for vendor ABC Corp.,PENDING_STATEMENTS
+I'd like to see future-dated payments for our company.,PENDING_STATEMENTS
+Look up payments still queued on hold?,PENDING_STATEMENTS
+I'd like a list of payments yet to be processed in my dashboard.,PENDING_STATEMENTS
+What are the payments still awaiting execution in my queue.,PENDING_STATEMENTS
+Which payments are scheduled but not yet sent for client Johnson & Sons?,PENDING_STATEMENTS
+Can you list payments in a pending state on my account.,PENDING_STATEMENTS
+Can you check payments in a pending state under $200.,PENDING_STATEMENTS
+I'm trying to check pending payment statements for last week.,PENDING_STATEMENTS
+Could you get payments set to be paid later for last week.,PENDING_STATEMENTS
+Could you show me payments pending review for today.,PENDING_STATEMENTS
+Display pending payment statements for my account.,PENDING_STATEMENTS
+Could you show me payments pending review awaiting my sign-off.,PENDING_STATEMENTS
+I'm trying to view payments not yet cleared that need approval.,PENDING_STATEMENTS
+Please list payments waiting on approval for the merchant account?,PENDING_STATEMENTS
+What payments are scheduled for later this month for our suppliers?,PENDING_STATEMENTS
+I'm trying to view payments awaiting processing over $1000.,PENDING_STATEMENTS
+What are the payments still pending for invoices.,PENDING_STATEMENTS
+Can you pull up pending payment requests.,PENDING_STATEMENTS
+List all payments currently under review for last week.,PENDING_STATEMENTS
+What payments are queued up right now due this week?,PENDING_STATEMENTS
+I'd like a list of payments scheduled for the future for vendor ABC Corp.,PENDING_STATEMENTS
+Would you list payments waiting on approval due today?,PENDING_STATEMENTS
+What payments are queued up right now for account number 778812?,PENDING_STATEMENTS
+Kindly show me outstanding payments.,PENDING_STATEMENTS
+Look up payments pending approval on my account.,PENDING_STATEMENTS
+Fetch payments that are still processing due this week.,PENDING_STATEMENTS
+Can I see payments in progress for our vendors.,PENDING_STATEMENTS
+Could you get unprocessed payments over $1000.,PENDING_STATEMENTS
+Can you list payments still awaiting execution on hold.,PENDING_STATEMENTS
+Can you show me payments due to be processed due next week.,PENDING_STATEMENTS
+Pull payments not yet settled due this week.,PENDING_STATEMENTS
