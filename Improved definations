@@ -1,0 +1,15 @@
+"NEW_PAYMENT": "Send money, transfer funds, pay a vendor, pay an invoice, pay salary, make a one-off payment. Includes recipient, amount, currency, source account, payment date, payment rail, invoice number, batch payment, release funds, initiate transfer. Fresh payment created from scratch, not from a saved template and not repeating a previous transaction.",
+
+"PAY_FROM_TEMPLATE": "Pay using a saved template, stored beneficiary, predefined payment setup, saved payment instruction, recurring payment template, named payment arrangement, favorite payee. Trigger words: template, saved beneficiary, preset, stored payee, standing instruction. Payment details come from an existing saved setup, not typed fresh and not copying a past transaction.",
+
+"REPEAT_PAYMENT": "Repeat, redo, resend, duplicate, recreate, or reuse a previous payment, past transaction, last transfer, earlier beneficiary payment. Trigger words: again, same as last time, like before, previous payment, last month's payment, redo transaction. Copies a specific historical payment, not a saved template and not a brand-new payment.",
+
+"ACCOUNT_BALANCE": "Check account balance, available balance, current balance, ledger balance, book balance, closing balance, cleared funds, spendable amount, remaining funds, how much money is in the account. Balance enquiry only, not transactions, not statements, not payments.",
+
+"CANCEL_PAYMENT": "Cancel, revoke, withdraw, delete, remove, stop, or halt a scheduled, pending, future-dated, submitted, or awaiting-approval payment. Trigger words: cancel payment, stop transfer, undo payment, remove scheduled payment. Stops an existing payment instruction, not creating or viewing payments.",
+
+"TRANSACTION_HISTORY": "View, list, or search recent transactions, debits, credits, incoming payments, outgoing payments, account activity, transfers made, money received, charges, transactions within a date range. On-screen or in-app record lookup, not a downloadable file or document.",
+
+"DOWNLOAD_STATEMENT": "Generate, export, download, print, or retrieve an account statement as a file or document: PDF statement, CSV export, Excel statement, MT940, CAMT, monthly statement, quarterly statement, year-end statement, statement for a date range. Produces a downloadable document, not on-screen transaction viewing.",
+
+"PENDING_PAYMENTS": "View or list pending payments, scheduled payments, future-dated payments, payments in progress, payments awaiting approval, awaiting authorization, awaiting processing, queued payments. Checking status of incomplete payments only, not paying, cancelling, or creating them."
