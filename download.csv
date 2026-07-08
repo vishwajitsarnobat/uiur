@@ -1,0 +1,1001 @@
+query,intent
+How do I download my mini statement from March to June 2025?,DOWNLOAD_STATEMENT
+Send me my transaction history document for the past 30 days.,DOWNLOAD_STATEMENT
+Fetch my TXT format SOA for my current account for last week.,DOWNLOAD_STATEMENT
+I need to save my SOA for FY 2024-25 to my computer.,DOWNLOAD_STATEMENT
+I want to print my transaction statement for a specific date range.,DOWNLOAD_STATEMENT
+Could you generate my statement for account ending 4532.,DOWNLOAD_STATEMENT
+I want to print my statement for last year.,DOWNLOAD_STATEMENT
+I'd like an export of my statement of account for Q1 in PDF format.,DOWNLOAD_STATEMENT
+Share the MT904 consolidated statement for the last quarter.,DOWNLOAD_STATEMENT
+Pull my account summary statement for Q2 today itself.,DOWNLOAD_STATEMENT
+Requesting statement in PDF for loan processing.,DOWNLOAD_STATEMENT
+I need to save my bank statement year to date to my computer.,DOWNLOAD_STATEMENT
+Show me how to export my account statement in Excel format.,DOWNLOAD_STATEMENT
+Please share my e-statement for my joint account.,DOWNLOAD_STATEMENT
+Get statement download for the current year XLSX.,DOWNLOAD_STATEMENT
+I want my statement copy for the past 3 months for audit purposes.,DOWNLOAD_STATEMENT
+I'd like an export of my mini statement for the period 01-04-2024 to 30-04-2024 in PDF format.,DOWNLOAD_STATEMENT
+I'd like to download a PDF copy of my SOA for this month.,DOWNLOAD_STATEMENT
+Need my statement of account for account 998877 in CAMT053 from March to June 2025.,DOWNLOAD_STATEMENT
+I want my printable PDF e-statement for account 998877 for the past 30 days.,DOWNLOAD_STATEMENT
+Generate the CAMT053 consolidated statement for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+Help me download the CAMT053 version of my account statement quarterly.,DOWNLOAD_STATEMENT
+Provide my statement document for today.,DOWNLOAD_STATEMENT
+Need my digital statement in camt.054 for the past 3 months.,DOWNLOAD_STATEMENT
+Kindly share my digital statement for my NRE account for last quarter in MT940.,DOWNLOAD_STATEMENT
+How do I export my transaction history as an Excel file?,DOWNLOAD_STATEMENT
+Please generate my digital statement for my primary account for the last quarter so I can print it.,DOWNLOAD_STATEMENT
+How can I get my transaction history document SWIFT MT940 format custom date range?,DOWNLOAD_STATEMENT
+How can I get my statement of account PDF for this month?,DOWNLOAD_STATEMENT
+Need my SOA for my salary account in camt.054 for the past 6 months.,DOWNLOAD_STATEMENT
+Where can I download my account statement for my current account?,DOWNLOAD_STATEMENT
+I need my statement of account in CAMT053 for a specific date range for visa application.,DOWNLOAD_STATEMENT
+I'd like to download my digital statement for account 998877 for this month in SWIFT MT940 format.,DOWNLOAD_STATEMENT
+Please send a XLSX copy of my statement document for last year.,DOWNLOAD_STATEMENT
+Statement download request for Q4 for my NRE account.,DOWNLOAD_STATEMENT
+Email me my camt.054 mini statement for the last quarter.,DOWNLOAD_STATEMENT
+Need my transaction statement for account ending 4532 in CAMT053 for FY 2024-25.,DOWNLOAD_STATEMENT
+Please export my Excel statement document for account number 1234567890 for the financial year.,DOWNLOAD_STATEMENT
+Is it possible to get my e-statement as text file for the current year?,DOWNLOAD_STATEMENT
+Email me my bank statement for my joint account.,DOWNLOAD_STATEMENT
+Save the ISO 20022 CAMT format digital statement for the past 6 months for account 998877.,DOWNLOAD_STATEMENT
+Could you generate a Excel copy of my account statement for the month of April.,DOWNLOAD_STATEMENT
+Email me my account statement for the past week for my current account.,DOWNLOAD_STATEMENT
+Need my statement document for my savings account in XLSX for last week.,DOWNLOAD_STATEMENT
+Where can I download my digital statement for my current account?,DOWNLOAD_STATEMENT
+Help me download the CSV version of my statement copy for last week.,DOWNLOAD_STATEMENT
+I'd like an export of my statement of account for this quarter urgently.,DOWNLOAD_STATEMENT
+Print my statement copy for my NRE account for a specific date range in text file and email it to me.,DOWNLOAD_STATEMENT
+Requesting MT904 account statement for Q3 for my NRE account.,DOWNLOAD_STATEMENT
+Please generate my mini statement for my primary account for FY 2024-25 today itself.,DOWNLOAD_STATEMENT
+Please download my SOA from last Monday to today for account number 1234567890.,DOWNLOAD_STATEMENT
+Share my transaction statement for my business account.,DOWNLOAD_STATEMENT
+Is it possible to get my account statement as MT904 for last year?,DOWNLOAD_STATEMENT
+Requesting XLSX account statement for this month for account number 1234567890.,DOWNLOAD_STATEMENT
+How can I get my statement document XML for this quarter?,DOWNLOAD_STATEMENT
+Mail me my statement copy for Q3.,DOWNLOAD_STATEMENT
+Generate CAMT.053 statement for the past 30 days for account 998877.,DOWNLOAD_STATEMENT
+Show me how to export my SOA in XML format.,DOWNLOAD_STATEMENT
+How do I download my transaction history document for this month?,DOWNLOAD_STATEMENT
+Send me the Excel detailed statement for the last 2 years for my savings account.,DOWNLOAD_STATEMENT
+Statement download request year to date for account number 1234567890.,DOWNLOAD_STATEMENT
+Statement download request monthly for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Please generate my bank statement for account ending 4532 for last month and email it to me.,DOWNLOAD_STATEMENT
+Please download a spreadsheet format copy of my statement for the past 90 days.,DOWNLOAD_STATEMENT
+Generate PDF statement for the last 12 months for my checking account.,DOWNLOAD_STATEMENT
+Statement download request for yesterday for my savings account.,DOWNLOAD_STATEMENT
+Please generate my statement copy from March to June 2025.,DOWNLOAD_STATEMENT
+I'd like an export of my transaction history document for the period 01-04-2024 to 30-04-2024 in CSV format.,DOWNLOAD_STATEMENT
+I need to save my SOA for December 2024 to my computer.,DOWNLOAD_STATEMENT
+Where can I download my account summary statement for my joint account?,DOWNLOAD_STATEMENT
+Help me download the XLSX version of my bank statement for Q1.,DOWNLOAD_STATEMENT
+Get statement download for the date range 1 June to 30 June MT940.,DOWNLOAD_STATEMENT
+Get me a downloadable statement for tax filing.,DOWNLOAD_STATEMENT
+Share my digital statement for my primary account from Jan 1 2025 to Mar 31 2025 in text file in CSV format.,DOWNLOAD_STATEMENT
+Could you generate my consolidated statement for the past 3 months.,DOWNLOAD_STATEMENT
+Generate spreadsheet format statement for the last 12 months.,DOWNLOAD_STATEMENT
+Get statement download for the last quarter SWIFT MT940 format.,DOWNLOAD_STATEMENT
+Generate my SWIFT MT940 format bank statement for my corporate account for this month.,DOWNLOAD_STATEMENT
+Show me how to export my detailed statement in XLSX format.,DOWNLOAD_STATEMENT
+I want my account statement for account ending 4532.,DOWNLOAD_STATEMENT
+I need my statement in XLSX for the period 01-04-2024 to 30-04-2024 and email it to me.,DOWNLOAD_STATEMENT
+Create my bank statement year to date.,DOWNLOAD_STATEMENT
+I need my account statement in MT940 for the past week for tax filing purposes.,DOWNLOAD_STATEMENT
+Please generate my account summary statement monthly for my current account.,DOWNLOAD_STATEMENT
+I need to save my statement of account for the past 6 months to my computer.,DOWNLOAD_STATEMENT
+Is it possible to get my transaction statement as CAMT.053 for the period 01-04-2024 to 30-04-2024?,DOWNLOAD_STATEMENT
+Please provide a CSV copy of my statement copy for the previous financial year.,DOWNLOAD_STATEMENT
+How do I download my digital statement for the period 01-04-2024 to 30-04-2024?,DOWNLOAD_STATEMENT
+How do I download my transaction statement for today?,DOWNLOAD_STATEMENT
+Statement download request for December 2024.,DOWNLOAD_STATEMENT
+I need my bank statement between 01/01/2025 and 31/03/2025.,DOWNLOAD_STATEMENT
+Share the TXT format mini statement for Q1 for account ending 4532.,DOWNLOAD_STATEMENT
+How can I get my statement CSV from 1st January to 31st March?,DOWNLOAD_STATEMENT
+Kindly share the MT940 account statement for the past 6 months for my joint account.,DOWNLOAD_STATEMENT
+Statement download request for the financial year.,DOWNLOAD_STATEMENT
+I'd like an export of my statement copy for last year for loan application.,DOWNLOAD_STATEMENT
+How can I get my e-statement XML for Q2?,DOWNLOAD_STATEMENT
+I need to print my bank statement for a visa application.,DOWNLOAD_STATEMENT
+Kindly generate my mini statement from Jan 1 2025 to Mar 31 2025 in XML urgently.,DOWNLOAD_STATEMENT
+Mail me my statement document from Jan 1 2025 to Mar 31 2025.,DOWNLOAD_STATEMENT
+How do I download my statement from March to June 2025?,DOWNLOAD_STATEMENT
+Is it possible to get my bank statement as XML for December 2024?,DOWNLOAD_STATEMENT
+Where can I download my digital statement for my NRE account?,DOWNLOAD_STATEMENT
+Requesting ISO 20022 CAMT format account statement for Q2 for account 998877.,DOWNLOAD_STATEMENT
+Is it possible to get my detailed statement as XLSX quarterly?,DOWNLOAD_STATEMENT
+Generate downloadable PDF statement for account ending 7890.,DOWNLOAD_STATEMENT
+Generate ISO 20022 CAMT format statement annually for my NRE account.,DOWNLOAD_STATEMENT
+I need to save my detailed statement monthly to my computer.,DOWNLOAD_STATEMENT
+I need my mini statement in CAMT053 from March to June 2025 in CSV format.,DOWNLOAD_STATEMENT
+Could you generate my bank statement for this month for my corporate account urgently.,DOWNLOAD_STATEMENT
+I need my statement document in text file for the month of April for audit purposes.,DOWNLOAD_STATEMENT
+How do I download my statement of account between 01/01/2025 and 31/03/2025?,DOWNLOAD_STATEMENT
+How do I download my transaction statement annually?,DOWNLOAD_STATEMENT
+Generate CAMT053 statement quarterly for my current account.,DOWNLOAD_STATEMENT
+Show me how to export my detailed statement in PDF format.,DOWNLOAD_STATEMENT
+Need my statement of account for my current account in CSV for the last quarter.,DOWNLOAD_STATEMENT
+Kindly share my account summary statement for my business account for a specific date range in SWIFT MT940 format as a PDF.,DOWNLOAD_STATEMENT
+I'd like an export of my statement document for Q1.,DOWNLOAD_STATEMENT
+How can I get my transaction statement Excel for Q4?,DOWNLOAD_STATEMENT
+Is it possible to get my account summary statement as TXT format for the previous financial year?,DOWNLOAD_STATEMENT
+Need my statement copy for account number 1234567890 in CAMT053 for the financial year.,DOWNLOAD_STATEMENT
+I'd like an export of my account summary statement for the date range 1 June to 30 June.,DOWNLOAD_STATEMENT
+I need to save my account statement for last year to my computer.,DOWNLOAD_STATEMENT
+Please generate my transaction history document for my salary account for this quarter.,DOWNLOAD_STATEMENT
+Please generate my SOA for my primary account for FY2023.,DOWNLOAD_STATEMENT
+Please export my account summary statement for my primary account.,DOWNLOAD_STATEMENT
+Is it possible to get my transaction statement as SWIFT MT940 format for this month?,DOWNLOAD_STATEMENT
+I'd like to download my quarterly statement please.,DOWNLOAD_STATEMENT
+I need to save my statement for this quarter to my computer.,DOWNLOAD_STATEMENT
+Give me the SWIFT MT940 format statement for the past 6 months for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Give me my SOA for the last 12 months for account number 1234567890 so I can print it.,DOWNLOAD_STATEMENT
+Show me how to export my SOA in ISO 20022 CAMT format format.,DOWNLOAD_STATEMENT
+Please provide my detailed statement for account no. XXXX1234 for last year in TXT format for loan application.,DOWNLOAD_STATEMENT
+Get statement download for this month PDF.,DOWNLOAD_STATEMENT
+I'd like an export of my transaction statement for the financial year right away.,DOWNLOAD_STATEMENT
+Help me download the CAMT053 version of my transaction statement for this month.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement of account for the last quarter?,DOWNLOAD_STATEMENT
+Download a ISO 20022 CAMT format copy of my account statement for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+I want to save a copy of my quarterly transaction report.,DOWNLOAD_STATEMENT
+Kindly share a printable PDF copy of my bank statement for last week.,DOWNLOAD_STATEMENT
+Get me my ISO 20022 CAMT format statement for my NRE account for the last 12 months.,DOWNLOAD_STATEMENT
+I need to save my SOA for Q2 to my computer.,DOWNLOAD_STATEMENT
+Is it possible to get my statement of account as TXT format for Q2?,DOWNLOAD_STATEMENT
+Need my statement copy for account number 1234567890 in printable PDF from Jan 1 2025 to Mar 31 2025.,DOWNLOAD_STATEMENT
+Generate camt.054 statement for Q2.,DOWNLOAD_STATEMENT
+Requesting PDF account statement for the last quarter for account ending 4532.,DOWNLOAD_STATEMENT
+Show me how to export my account summary statement in XLSX format.,DOWNLOAD_STATEMENT
+How can I get my account statement TXT format for FY 2024-25?,DOWNLOAD_STATEMENT
+Statement download request for the past 90 days for my corporate account.,DOWNLOAD_STATEMENT
+Requesting CAMT053 account statement from Jan 1 2025 to Mar 31 2025 for my corporate account.,DOWNLOAD_STATEMENT
+I need a signed and downloadable statement of account.,DOWNLOAD_STATEMENT
+I want to print my transaction history document for the last 12 months.,DOWNLOAD_STATEMENT
+Please provide my statement custom date range.,DOWNLOAD_STATEMENT
+I need to save my statement copy for Q2 to my computer.,DOWNLOAD_STATEMENT
+Need my transaction history document for my corporate account in CAMT.053 for last month.,DOWNLOAD_STATEMENT
+Get statement download for the past 6 months XML.,DOWNLOAD_STATEMENT
+Get statement download for the period 01-04-2024 to 30-04-2024 CAMT.053.,DOWNLOAD_STATEMENT
+Requesting SWIFT MT940 format account statement for Q3 for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Export my detailed statement for March 2025 for my savings account for my records.,DOWNLOAD_STATEMENT
+Get statement download for the month of April ISO 20022 CAMT format.,DOWNLOAD_STATEMENT
+Send me a Excel copy of my account statement monthly.,DOWNLOAD_STATEMENT
+Can you generate my statement copy from March to June 2025 for account ending 4532 today itself.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement document for the last 12 months?,DOWNLOAD_STATEMENT
+Need my account statement for account number 1234567890 in XML for the past week.,DOWNLOAD_STATEMENT
+Generate text file statement for the last 2 years.,DOWNLOAD_STATEMENT
+I need my account statement in SWIFT MT940 format for FY2023 for loan application.,DOWNLOAD_STATEMENT
+Where can I download my statement document for account no. XXXX1234?,DOWNLOAD_STATEMENT
+Statement download request quarterly for my current account.,DOWNLOAD_STATEMENT
+Create my account summary statement for my primary account.,DOWNLOAD_STATEMENT
+Help me download the PDF version of my statement document for last quarter.,DOWNLOAD_STATEMENT
+Statement download request for last month for my savings account.,DOWNLOAD_STATEMENT
+Need my statement of account in MT904 for the month of April.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my account statement for December 2024?,DOWNLOAD_STATEMENT
+Get statement download for the past 90 days TXT format.,DOWNLOAD_STATEMENT
+I need my consolidated statement in SWIFT MT940 format monthly and email it to me.,DOWNLOAD_STATEMENT
+Export my printable PDF e-statement for account 998877 from March to June 2025.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement copy for March 2025?,DOWNLOAD_STATEMENT
+I'd like an export of my digital statement for today right away.,DOWNLOAD_STATEMENT
+Is it possible to get my consolidated statement as ISO 20022 CAMT format for Q2?,DOWNLOAD_STATEMENT
+Statement download request for Q1.,DOWNLOAD_STATEMENT
+Get statement download from last Monday to today ISO 20022 CAMT format.,DOWNLOAD_STATEMENT
+Please generate my SOA for my corporate account for last month in MT940 for tax filing purposes.,DOWNLOAD_STATEMENT
+I need my digital statement in MT904 for March 2025 in Excel format.,DOWNLOAD_STATEMENT
+How do I download my transaction history document for the last 2 years?,DOWNLOAD_STATEMENT
+Print my CSV statement copy for my salary account annually.,DOWNLOAD_STATEMENT
+Retrieve my transaction statement for a specific date range.,DOWNLOAD_STATEMENT
+Print my XLSX statement document for account no. XXXX1234 from Jan 1 2025 to Mar 31 2025.,DOWNLOAD_STATEMENT
+Help me download the camt.054 version of my SOA from March to June 2025.,DOWNLOAD_STATEMENT
+How do I download my digital statement from March to June 2025?,DOWNLOAD_STATEMENT
+I'd like an export of my mini statement custom date range and email it to me.,DOWNLOAD_STATEMENT
+I want to print my statement copy for yesterday.,DOWNLOAD_STATEMENT
+Print my mini statement for the month of April.,DOWNLOAD_STATEMENT
+I want to download my e-statement now.,DOWNLOAD_STATEMENT
+Could you generate my statement copy for the past week.,DOWNLOAD_STATEMENT
+Show me how to export my statement in PDF format.,DOWNLOAD_STATEMENT
+Need my account summary statement in printable PDF for FY2023.,DOWNLOAD_STATEMENT
+I'd like an export of my consolidated statement for the past 3 months.,DOWNLOAD_STATEMENT
+Is it possible to get my account statement as printable PDF annually?,DOWNLOAD_STATEMENT
+Email me my transaction history document for account ending 4532 from last Monday to today in SWIFT MT940 format so I can print it.,DOWNLOAD_STATEMENT
+Please provide the PDF consolidated statement for the previous financial year for my checking account.,DOWNLOAD_STATEMENT
+Download my detailed statement for account ending 4532.,DOWNLOAD_STATEMENT
+I want to print my transaction statement custom date range.,DOWNLOAD_STATEMENT
+Send me my account summary statement for the previous financial year in CSV.,DOWNLOAD_STATEMENT
+Please share the TXT format account statement for last week.,DOWNLOAD_STATEMENT
+Please download my MT904 transaction history document for my savings account for today.,DOWNLOAD_STATEMENT
+How do I download my consolidated statement for this quarter?,DOWNLOAD_STATEMENT
+Please generate my transaction statement for my salary account for the previous financial year as a PDF.,DOWNLOAD_STATEMENT
+How can I get my account statement Excel from 1st January to 31st March?,DOWNLOAD_STATEMENT
+Generate CAMT053 statement monthly for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Please generate my statement of account for my current account between 01/01/2025 and 31/03/2025 urgently.,DOWNLOAD_STATEMENT
+I need to save my detailed statement for December 2024 to my computer.,DOWNLOAD_STATEMENT
+Get me the XLSX account summary statement custom date range for account ending 4532.,DOWNLOAD_STATEMENT
+How do I download my account summary statement for yesterday?,DOWNLOAD_STATEMENT
+Can you generate my digital statement for March 2025.,DOWNLOAD_STATEMENT
+Requesting PDF account statement from Jan 1 2025 to Mar 31 2025 for account 998877.,DOWNLOAD_STATEMENT
+How do I download my transaction history document for Q3?,DOWNLOAD_STATEMENT
+I want to print my bank statement for Q2.,DOWNLOAD_STATEMENT
+Need my detailed statement for my salary account in PDF for December 2024.,DOWNLOAD_STATEMENT
+Show me how to export my statement of account in CAMT053 format.,DOWNLOAD_STATEMENT
+Generate CAMT.053 statement from March to June 2025 for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Get statement download for Q4 spreadsheet format.,DOWNLOAD_STATEMENT
+Generate my digital statement for account 998877.,DOWNLOAD_STATEMENT
+I need to save my e-statement for the past 90 days to my computer.,DOWNLOAD_STATEMENT
+Generate CSV statement for the past 30 days.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my detailed statement for last month?,DOWNLOAD_STATEMENT
+Where can I download my transaction history document for my business account?,DOWNLOAD_STATEMENT
+I'd like an export of my detailed statement for last month.,DOWNLOAD_STATEMENT
+Statement download request for the past week.,DOWNLOAD_STATEMENT
+I'd like a copy of my statement for my primary account quarterly in CSV for audit purposes.,DOWNLOAD_STATEMENT
+Statement download request for the past week for my checking account.,DOWNLOAD_STATEMENT
+Send me a text file copy of my transaction history document for yesterday.,DOWNLOAD_STATEMENT
+Statement download request for the current year for my savings account.,DOWNLOAD_STATEMENT
+Fetch my CSV transaction history document for my NRE account for the month of April.,DOWNLOAD_STATEMENT
+How do I download my bank statement from Jan 1 2025 to Mar 31 2025?,DOWNLOAD_STATEMENT
+Statement download request year to date for account 998877.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my digital statement for the period 01-04-2024 to 30-04-2024?,DOWNLOAD_STATEMENT
+Please share a spreadsheet format copy of my account statement for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+Is it possible to get my account statement as XML for the past 6 months?,DOWNLOAD_STATEMENT
+I need a text file copy of my bank statement for Q2.,DOWNLOAD_STATEMENT
+I'd like an export of my statement copy from March to June 2025 and email it to me.,DOWNLOAD_STATEMENT
+How do I download my account statement for a specific date range?,DOWNLOAD_STATEMENT
+Get statement download year to date MT904.,DOWNLOAD_STATEMENT
+Export my Excel mini statement for my current account for the past 90 days.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement of account for Q2?,DOWNLOAD_STATEMENT
+Please provide my TXT format transaction statement for my corporate account for the date range 1 June to 30 June.,DOWNLOAD_STATEMENT
+Generate XLSX statement for the date range 1 June to 30 June for account 998877.,DOWNLOAD_STATEMENT
+Statement download request for the past 6 months.,DOWNLOAD_STATEMENT
+I need a copy of my bank statement for last week in text file.,DOWNLOAD_STATEMENT
+Please send my statement of account.,DOWNLOAD_STATEMENT
+I'd like to download my detailed statement for the past 3 months.,DOWNLOAD_STATEMENT
+Can you generate my detailed statement for the past 3 months.,DOWNLOAD_STATEMENT
+Need my statement of account for my NRE account in PDF for last quarter.,DOWNLOAD_STATEMENT
+I'd like a copy of my CAMT.053 bank statement for my primary account quarterly.,DOWNLOAD_STATEMENT
+Where can I download my transaction statement for my joint account?,DOWNLOAD_STATEMENT
+Show me how to export my bank statement in text file format.,DOWNLOAD_STATEMENT
+Where can I download my digital statement for account 998877?,DOWNLOAD_STATEMENT
+Where can I download my detailed statement?,DOWNLOAD_STATEMENT
+Please generate my digital statement for account 998877 for this month so I can print it.,DOWNLOAD_STATEMENT
+Send me my SOA for March 2025.,DOWNLOAD_STATEMENT
+Get me my detailed statement for a specific date range.,DOWNLOAD_STATEMENT
+Need my bank statement for account 998877 in CAMT053 between 01/01/2025 and 31/03/2025.,DOWNLOAD_STATEMENT
+Could you generate the CAMT.053 mini statement for the last 12 months for account no. XXXX1234.,DOWNLOAD_STATEMENT
+I'd like an export of my SOA for the financial year for audit purposes.,DOWNLOAD_STATEMENT
+I'd like an export of my SOA from last Monday to today for loan application.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my account summary statement quarterly?,DOWNLOAD_STATEMENT
+I need to save my bank statement for the period 01-04-2024 to 30-04-2024 to my computer.,DOWNLOAD_STATEMENT
+Is it possible to get my bank statement as SWIFT MT940 format for March 2025?,DOWNLOAD_STATEMENT
+Please provide my statement of account monthly for account no. XXXX1234 for tax filing purposes.,DOWNLOAD_STATEMENT
+Is it possible to get my statement document as MT940 quarterly?,DOWNLOAD_STATEMENT
+Get statement download for the last 2 years SWIFT MT940 format.,DOWNLOAD_STATEMENT
+Help me download the printable PDF version of my bank statement custom date range.,DOWNLOAD_STATEMENT
+How do I download my detailed statement for this quarter?,DOWNLOAD_STATEMENT
+How can I get my e-statement ISO 20022 CAMT format from last Monday to today?,DOWNLOAD_STATEMENT
+Print my SWIFT MT940 format bank statement for Q2.,DOWNLOAD_STATEMENT
+Where can I download my transaction history document for my corporate account?,DOWNLOAD_STATEMENT
+Produce the printable PDF SOA for the month of April for account 998877.,DOWNLOAD_STATEMENT
+Generate camt.054 statement for last quarter for my current account.,DOWNLOAD_STATEMENT
+Give me my account statement for account 998877 annually in CSV so I can print it.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my consolidated statement for FY2023?,DOWNLOAD_STATEMENT
+Need my transaction statement in XML for this quarter.,DOWNLOAD_STATEMENT
+Get statement download for March 2025 CAMT.053.,DOWNLOAD_STATEMENT
+Please generate my statement copy for March 2025 for visa application.,DOWNLOAD_STATEMENT
+Pull my mini statement for my business account quarterly in text file for visa application.,DOWNLOAD_STATEMENT
+Save my monthly bank statement to my device.,DOWNLOAD_STATEMENT
+Fetch my transaction statement custom date range.,DOWNLOAD_STATEMENT
+Requesting text file account statement from 1st January to 31st March for my checking account.,DOWNLOAD_STATEMENT
+Show me how to export my consolidated statement in MT904 format.,DOWNLOAD_STATEMENT
+Get statement download for last month MT904.,DOWNLOAD_STATEMENT
+Show me how to export my statement of account in printable PDF format.,DOWNLOAD_STATEMENT
+Generate SWIFT MT940 statement file for yesterday's transactions.,DOWNLOAD_STATEMENT
+Where can I download my digital statement?,DOWNLOAD_STATEMENT
+I want to print my e-statement for yesterday.,DOWNLOAD_STATEMENT
+Is it possible to get my digital statement as camt.054 from Jan 1 2025 to Mar 31 2025?,DOWNLOAD_STATEMENT
+Show me how to export my statement of account in SWIFT MT940 format format.,DOWNLOAD_STATEMENT
+Retrieve the Excel statement copy from 1st January to 31st March.,DOWNLOAD_STATEMENT
+Show me how to export my SOA in spreadsheet format format.,DOWNLOAD_STATEMENT
+I'd like a copy of my statement of account for my business account.,DOWNLOAD_STATEMENT
+Generate CSV statement for the past 90 days for my business account.,DOWNLOAD_STATEMENT
+Please generate my transaction statement for my salary account from last Monday to today.,DOWNLOAD_STATEMENT
+Need my SOA in CAMT053 for this quarter.,DOWNLOAD_STATEMENT
+Show me how to export my consolidated statement in spreadsheet format format.,DOWNLOAD_STATEMENT
+Need my SOA for account number 1234567890 in MT904 for today.,DOWNLOAD_STATEMENT
+Please provide my mini statement for today for visa application.,DOWNLOAD_STATEMENT
+I'd like to download my CAMT.053 statement document for my corporate account for the past week.,DOWNLOAD_STATEMENT
+I want to print my bank statement for last week.,DOWNLOAD_STATEMENT
+Get me my bank statement for March 2025 for my business account in CSV format.,DOWNLOAD_STATEMENT
+How do I download my account statement from Jan 1 2025 to Mar 31 2025?,DOWNLOAD_STATEMENT
+Is it possible to get my transaction statement as XML for this month?,DOWNLOAD_STATEMENT
+Get statement download from March to June 2025 XLSX.,DOWNLOAD_STATEMENT
+Export my statement for my NRE account.,DOWNLOAD_STATEMENT
+Please export my statement of account for the past 30 days for my primary account urgently.,DOWNLOAD_STATEMENT
+Print my statement of account for my salary account for the past 3 months in CAMT.053 in Excel format.,DOWNLOAD_STATEMENT
+Produce a CSV copy of my transaction history document for the past 3 months.,DOWNLOAD_STATEMENT
+Please generate a statement covering January to March 2025.,DOWNLOAD_STATEMENT
+Create my mini statement.,DOWNLOAD_STATEMENT
+Generate MT940 statement for last year for my joint account.,DOWNLOAD_STATEMENT
+Generate CAMT053 statement for Q1 for my checking account.,DOWNLOAD_STATEMENT
+Get me my mini statement for my corporate account for yesterday in TXT format for my records.,DOWNLOAD_STATEMENT
+I'd like an export of my account statement for the past 30 days for tax filing purposes.,DOWNLOAD_STATEMENT
+I need to save my statement copy custom date range to my computer.,DOWNLOAD_STATEMENT
+I need to save my statement document for last month to my computer.,DOWNLOAD_STATEMENT
+Email me my account statement for the past week for my business account in CSV format.,DOWNLOAD_STATEMENT
+I need to save my statement for last quarter to my computer.,DOWNLOAD_STATEMENT
+How do I download my statement copy for the period 01-04-2024 to 30-04-2024?,DOWNLOAD_STATEMENT
+Show me how to export my account statement in XLSX format.,DOWNLOAD_STATEMENT
+Generate my consolidated statement for account 998877 quarterly in Excel.,DOWNLOAD_STATEMENT
+How do I download my SOA for the previous financial year?,DOWNLOAD_STATEMENT
+Export my account activity as CSV for the last quarter.,DOWNLOAD_STATEMENT
+Get statement download for the financial year Excel.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my consolidated statement quarterly?,DOWNLOAD_STATEMENT
+Show me how to export my detailed statement in camt.054 format.,DOWNLOAD_STATEMENT
+Please generate my e-statement for the past 30 days in printable PDF and email it to me.,DOWNLOAD_STATEMENT
+Is it possible to get my account statement as PDF for the past week?,DOWNLOAD_STATEMENT
+Get statement download for FY2023 XLSX.,DOWNLOAD_STATEMENT
+Please share my consolidated statement annually.,DOWNLOAD_STATEMENT
+Requesting CSV account statement for today for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Generate an MT940 file for my account for the last 30 days.,DOWNLOAD_STATEMENT
+Is it possible to get my detailed statement as text file annually?,DOWNLOAD_STATEMENT
+Where can I download my statement?,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement document for the past 3 months?,DOWNLOAD_STATEMENT
+I want to print my account statement for the past 30 days.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement copy for today?,DOWNLOAD_STATEMENT
+Statement download request for Q3 for my salary account.,DOWNLOAD_STATEMENT
+Need my transaction history document for my savings account in XLSX for Q2.,DOWNLOAD_STATEMENT
+Requesting TXT format account statement for the past week for my joint account.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my mini statement for Q3?,DOWNLOAD_STATEMENT
+Please provide my bank statement.,DOWNLOAD_STATEMENT
+Need my statement of account for account no. XXXX1234 in XML custom date range.,DOWNLOAD_STATEMENT
+Share a SWIFT MT940 format copy of my mini statement for last year.,DOWNLOAD_STATEMENT
+I need to save my transaction statement annually to my computer.,DOWNLOAD_STATEMENT
+Help me download the CSV version of my bank statement for this quarter.,DOWNLOAD_STATEMENT
+I want to print my mini statement for last month.,DOWNLOAD_STATEMENT
+Save my transaction statement between 01/01/2025 and 31/03/2025 in MT904 in CSV format.,DOWNLOAD_STATEMENT
+Need my statement of account for my NRE account in PDF for yesterday.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my transaction statement for Q2?,DOWNLOAD_STATEMENT
+I need to save my statement for the last quarter to my computer.,DOWNLOAD_STATEMENT
+Provide my consolidated statement for the financial year for my joint account and send it to my registered email.,DOWNLOAD_STATEMENT
+Statement download request quarterly for my savings account.,DOWNLOAD_STATEMENT
+Generate CSV statement custom date range for my NRE account.,DOWNLOAD_STATEMENT
+Email me a Excel copy of my e-statement for last year.,DOWNLOAD_STATEMENT
+Generate CSV statement for this quarter for my NRE account.,DOWNLOAD_STATEMENT
+Please give me a printable version of my transaction statement.,DOWNLOAD_STATEMENT
+Email me my statement document for my primary account from 1st January to 31st March in PDF and send it to my registered email.,DOWNLOAD_STATEMENT
+Generate my digital statement for December 2024 for account number 1234567890 so I can print it.,DOWNLOAD_STATEMENT
+Fetch my digital statement.,DOWNLOAD_STATEMENT
+Generate TXT format statement for December 2024.,DOWNLOAD_STATEMENT
+Where can I download my SOA for my business account?,DOWNLOAD_STATEMENT
+Is it possible to get my statement document as Excel for the last 12 months?,DOWNLOAD_STATEMENT
+How can I get my statement document MT904 for yesterday?,DOWNLOAD_STATEMENT
+Statement download request between 01/01/2025 and 31/03/2025.,DOWNLOAD_STATEMENT
+Need my detailed statement for account number 1234567890 in CAMT.053 from last Monday to today.,DOWNLOAD_STATEMENT
+Share my statement for last quarter for account ending 4532 so I can print it.,DOWNLOAD_STATEMENT
+Help me download the text file version of my statement document for last month.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my consolidated statement for last year?,DOWNLOAD_STATEMENT
+Is it possible to get my account statement as text file from 1st January to 31st March?,DOWNLOAD_STATEMENT
+Need my account summary statement for account number 1234567890 in TXT format for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+Show me how to export my consolidated statement in camt.054 format.,DOWNLOAD_STATEMENT
+Can you download my SOA for my corporate account for FY2023 in TXT format right away.,DOWNLOAD_STATEMENT
+Give me my account summary statement for last year.,DOWNLOAD_STATEMENT
+How do I download my transaction statement for the previous financial year?,DOWNLOAD_STATEMENT
+Requesting ISO 20022 CAMT format account statement for this quarter for account no. XXXX1234.,DOWNLOAD_STATEMENT
+I need my account statement in SWIFT MT940 format for a specific date range.,DOWNLOAD_STATEMENT
+Export my transaction history document for my checking account.,DOWNLOAD_STATEMENT
+Get statement download quarterly CSV.,DOWNLOAD_STATEMENT
+Print my spreadsheet format statement of account for my current account for the past 6 months.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement document for this quarter?,DOWNLOAD_STATEMENT
+Help me download the spreadsheet format version of my statement copy for Q1.,DOWNLOAD_STATEMENT
+Save my CAMT.053 e-statement for the past week.,DOWNLOAD_STATEMENT
+How can I get my SOA ISO 20022 CAMT format for the last quarter?,DOWNLOAD_STATEMENT
+I'd like an export of my mini statement for March 2025 so I can print it.,DOWNLOAD_STATEMENT
+Retrieve my digital statement annually.,DOWNLOAD_STATEMENT
+Generate my camt.054 transaction history document for my primary account for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+I want to print my digital statement for last week.,DOWNLOAD_STATEMENT
+Share a PDF copy of my consolidated statement for Q1.,DOWNLOAD_STATEMENT
+Please generate my bank statement for account 998877 from 1st January to 31st March in PDF format.,DOWNLOAD_STATEMENT
+I want my MT904 transaction history document for account number 1234567890 custom date range.,DOWNLOAD_STATEMENT
+Email me my statement copy for account no. XXXX1234 for the past 6 months in CAMT053.,DOWNLOAD_STATEMENT
+Please download my transaction history document for the last 12 months.,DOWNLOAD_STATEMENT
+I'd like to download the MT904 mini statement for the last 2 years for account 998877.,DOWNLOAD_STATEMENT
+Please share the text file digital statement for the month of April for my checking account.,DOWNLOAD_STATEMENT
+Produce the CAMT.053 statement copy monthly for my corporate account.,DOWNLOAD_STATEMENT
+Generate a spreadsheet format copy of my statement of account for the financial year.,DOWNLOAD_STATEMENT
+I need to save my bank statement for the past 6 months to my computer.,DOWNLOAD_STATEMENT
+How do I download my statement copy from Jan 1 2025 to Mar 31 2025?,DOWNLOAD_STATEMENT
+Mail me my SWIFT MT940 format statement for my current account for Q1.,DOWNLOAD_STATEMENT
+Send me my e-statement for the last quarter.,DOWNLOAD_STATEMENT
+Need my transaction statement for my joint account in XLSX for Q1.,DOWNLOAD_STATEMENT
+How can I get my statement of account XLSX for this quarter?,DOWNLOAD_STATEMENT
+Could you get me my transaction statement annually.,DOWNLOAD_STATEMENT
+Get statement download for this quarter MT940.,DOWNLOAD_STATEMENT
+Please send my statement from last Monday to today.,DOWNLOAD_STATEMENT
+I need a copy of my transaction statement for the past week.,DOWNLOAD_STATEMENT
+I need my e-statement in XLSX for the current year so I can print it.,DOWNLOAD_STATEMENT
+Get me a text file copy of my statement copy for yesterday.,DOWNLOAD_STATEMENT
+Show me how to export my transaction statement in XLSX format.,DOWNLOAD_STATEMENT
+How do I download my statement copy for FY2023?,DOWNLOAD_STATEMENT
+Pull my bank statement for my checking account.,DOWNLOAD_STATEMENT
+Show me how to export my digital statement in CAMT053 format.,DOWNLOAD_STATEMENT
+Generate XLSX statement for last quarter for my savings account.,DOWNLOAD_STATEMENT
+Could you get me my account statement for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Generate SWIFT MT940 format statement for the date range 1 June to 30 June for my primary account.,DOWNLOAD_STATEMENT
+Fetch and export my statement for the previous year.,DOWNLOAD_STATEMENT
+Requesting PDF account statement for the date range 1 June to 30 June for my checking account.,DOWNLOAD_STATEMENT
+Share my e-statement for my checking account for the month of April in MT904 for my records.,DOWNLOAD_STATEMENT
+Generate XLSX statement for the past 6 months for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Produce my mini statement.,DOWNLOAD_STATEMENT
+Help me download the MT904 version of my account summary statement for Q3.,DOWNLOAD_STATEMENT
+Share my digital statement for account number 1234567890.,DOWNLOAD_STATEMENT
+Help me download the SWIFT MT940 format version of my SOA for yesterday.,DOWNLOAD_STATEMENT
+Save my transaction history document for my savings account.,DOWNLOAD_STATEMENT
+Is it possible to get my account statement as printable PDF for the past week?,DOWNLOAD_STATEMENT
+I want to print my statement for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+Share my statement of account from last Monday to today for account 998877.,DOWNLOAD_STATEMENT
+Please generate my statement for my current account for March 2025 urgently.,DOWNLOAD_STATEMENT
+Need my mini statement for my salary account in SWIFT MT940 format from Jan 1 2025 to Mar 31 2025.,DOWNLOAD_STATEMENT
+Please generate my e-statement for account 998877 for the past 30 days and email it to me.,DOWNLOAD_STATEMENT
+Email me my SOA for my salary account for Q2 in ISO 20022 CAMT format.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my bank statement for the last quarter?,DOWNLOAD_STATEMENT
+Help me download the spreadsheet format version of my account statement from last Monday to today.,DOWNLOAD_STATEMENT
+Generate camt.054 statement for the past 30 days for account number 1234567890.,DOWNLOAD_STATEMENT
+How do I download my mini statement for this month?,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my SOA from 1st January to 31st March?,DOWNLOAD_STATEMENT
+Generate the TXT format e-statement from Jan 1 2025 to Mar 31 2025 for account 998877.,DOWNLOAD_STATEMENT
+Please generate my SOA for account no. XXXX1234 from Jan 1 2025 to Mar 31 2025 and email it to me.,DOWNLOAD_STATEMENT
+Need my SOA for my business account in CAMT053 for the previous financial year.,DOWNLOAD_STATEMENT
+How do I download my digital statement for FY 2024-25?,DOWNLOAD_STATEMENT
+Please download my bank statement for my NRE account annually in printable PDF.,DOWNLOAD_STATEMENT
+Show me how to export my account statement in TXT format format.,DOWNLOAD_STATEMENT
+How can I get my mini statement printable PDF quarterly?,DOWNLOAD_STATEMENT
+Help me download the Excel version of my statement for the current year.,DOWNLOAD_STATEMENT
+Please generate my account summary statement for account ending 4532 from Jan 1 2025 to Mar 31 2025.,DOWNLOAD_STATEMENT
+Could you get me my SOA for last quarter.,DOWNLOAD_STATEMENT
+Print my XLSX statement for my current account for FY2023.,DOWNLOAD_STATEMENT
+I want to print my bank statement annually.,DOWNLOAD_STATEMENT
+Get statement download year to date printable PDF.,DOWNLOAD_STATEMENT
+How do I obtain a hard copy of my transaction statement?,DOWNLOAD_STATEMENT
+Can you export my SOA from Jan 1 2025 to Mar 31 2025.,DOWNLOAD_STATEMENT
+I want to print my statement document for Q1.,DOWNLOAD_STATEMENT
+Requesting printable PDF account statement from 1st January to 31st March for my current account.,DOWNLOAD_STATEMENT
+Kindly share my transaction statement for FY 2024-25.,DOWNLOAD_STATEMENT
+Please provide the MT940 digital statement for last quarter for my corporate account.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my e-statement for December 2024?,DOWNLOAD_STATEMENT
+Statement download request for March 2025 for my primary account.,DOWNLOAD_STATEMENT
+Generate CAMT.053 statement annually for my checking account.,DOWNLOAD_STATEMENT
+I need to save my mini statement for a specific date range to my computer.,DOWNLOAD_STATEMENT
+Statement download request from March to June 2025 for my savings account.,DOWNLOAD_STATEMENT
+I want my statement of account for FY2023.,DOWNLOAD_STATEMENT
+How can I get my statement SWIFT MT940 format for last quarter?,DOWNLOAD_STATEMENT
+Generate camt.054 statement for Q1 for my checking account.,DOWNLOAD_STATEMENT
+Mail me my statement document quarterly for my salary account for visa application.,DOWNLOAD_STATEMENT
+I'd like an export of my account summary statement for yesterday in CSV format.,DOWNLOAD_STATEMENT
+How can I get my detailed statement spreadsheet format monthly?,DOWNLOAD_STATEMENT
+I need my detailed statement in TXT format for yesterday in CSV format.,DOWNLOAD_STATEMENT
+Retrieve my transaction statement for the past 90 days.,DOWNLOAD_STATEMENT
+Can you generate my detailed statement for my salary account for this quarter in CAMT053 for tax filing purposes.,DOWNLOAD_STATEMENT
+Pull my mini statement for the financial year for my corporate account in Excel format.,DOWNLOAD_STATEMENT
+How can I get my detailed statement ISO 20022 CAMT format for the last 12 months?,DOWNLOAD_STATEMENT
+I want a copy of my yearly account statement.,DOWNLOAD_STATEMENT
+How can I get my digital statement XLSX for Q2?,DOWNLOAD_STATEMENT
+Requesting Excel account statement for the period 01-04-2024 to 30-04-2024 for my primary account.,DOWNLOAD_STATEMENT
+How can I get my statement document CAMT053 from Jan 1 2025 to Mar 31 2025?,DOWNLOAD_STATEMENT
+Statement download request from March to June 2025 for account ending 4532.,DOWNLOAD_STATEMENT
+Where can I download my statement of account for my checking account?,DOWNLOAD_STATEMENT
+Where can I download my SOA for my joint account?,DOWNLOAD_STATEMENT
+Need my transaction history document for my NRE account in spreadsheet format monthly.,DOWNLOAD_STATEMENT
+Could you generate my statement document for my NRE account.,DOWNLOAD_STATEMENT
+I need my detailed statement in CAMT053 for the last 2 years.,DOWNLOAD_STATEMENT
+I want my bank statement for my NRE account for Q1 in CAMT053 for tax filing purposes.,DOWNLOAD_STATEMENT
+Generate PDF statement for Q3.,DOWNLOAD_STATEMENT
+I'd like an export of my transaction statement for the past 30 days in CSV format.,DOWNLOAD_STATEMENT
+I need a XLSX copy of my account statement from 1st January to 31st March.,DOWNLOAD_STATEMENT
+I need to save my account statement for the past week to my computer.,DOWNLOAD_STATEMENT
+How can I get my statement document CSV from last Monday to today?,DOWNLOAD_STATEMENT
+Pull the printable PDF transaction history document from last Monday to today for my checking account.,DOWNLOAD_STATEMENT
+Statement download request for the past week for account no. XXXX1234.,DOWNLOAD_STATEMENT
+I need to save my SOA for the month of April to my computer.,DOWNLOAD_STATEMENT
+Show me how to export my account statement in camt.054 format.,DOWNLOAD_STATEMENT
+I need to save my account statement monthly to my computer.,DOWNLOAD_STATEMENT
+Get statement download for the past 30 days CAMT053.,DOWNLOAD_STATEMENT
+Requesting XLSX account statement from Jan 1 2025 to Mar 31 2025 for my current account.,DOWNLOAD_STATEMENT
+Get statement download for last year XLSX.,DOWNLOAD_STATEMENT
+Need my statement of account for account number 1234567890 in MT904 for the past 90 days.,DOWNLOAD_STATEMENT
+Requesting XML account statement for last week for my salary account.,DOWNLOAD_STATEMENT
+Need my statement in XML for the month of April.,DOWNLOAD_STATEMENT
+I'd like a copy of my detailed statement for the last 2 years.,DOWNLOAD_STATEMENT
+I need to save my statement copy for today to my computer.,DOWNLOAD_STATEMENT
+Provide a MT904 copy of my consolidated statement quarterly.,DOWNLOAD_STATEMENT
+I need to save my account summary statement for Q1 to my computer.,DOWNLOAD_STATEMENT
+I need to save my transaction history document for FY 2024-25 to my computer.,DOWNLOAD_STATEMENT
+Need my mini statement in SWIFT MT940 format for the date range 1 June to 30 June.,DOWNLOAD_STATEMENT
+I need to save my statement for the past 30 days to my computer.,DOWNLOAD_STATEMENT
+I want my SOA for account number 1234567890 for the past week in Excel.,DOWNLOAD_STATEMENT
+Please generate my bank statement for account 998877 from March to June 2025 so I can print it.,DOWNLOAD_STATEMENT
+Pull my transaction history document for my current account.,DOWNLOAD_STATEMENT
+Download statement for account 456789 for Q2 2025.,DOWNLOAD_STATEMENT
+Send the statement download link to my email.,DOWNLOAD_STATEMENT
+How do I download my transaction statement for the past week?,DOWNLOAD_STATEMENT
+Create my SOA custom date range.,DOWNLOAD_STATEMENT
+Download my consolidated statement across all accounts.,DOWNLOAD_STATEMENT
+Give me the CSV detailed statement for the last 2 years for account ending 4532.,DOWNLOAD_STATEMENT
+I need my consolidated statement in text file for the last 2 years in CSV format.,DOWNLOAD_STATEMENT
+Get statement download for today printable PDF.,DOWNLOAD_STATEMENT
+How can I get my transaction statement Excel for Q1?,DOWNLOAD_STATEMENT
+Requesting CAMT053 account statement monthly for my checking account.,DOWNLOAD_STATEMENT
+Please share my bank statement for last quarter for my savings account and send it to my registered email.,DOWNLOAD_STATEMENT
+How can I get my transaction statement camt.054 from March to June 2025?,DOWNLOAD_STATEMENT
+Fetch my SWIFT MT940 format bank statement for my current account from March to June 2025.,DOWNLOAD_STATEMENT
+Requesting spreadsheet format account statement for the past 30 days for my current account.,DOWNLOAD_STATEMENT
+Where can I download my account statement for my checking account?,DOWNLOAD_STATEMENT
+Requesting XLSX account statement for FY2023 for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Is it possible to get my statement as Excel for today?,DOWNLOAD_STATEMENT
+Email me a text file copy of my account summary statement for the past 30 days.,DOWNLOAD_STATEMENT
+Please generate my account statement for account 998877 from Jan 1 2025 to Mar 31 2025 urgently.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my bank statement for Q1?,DOWNLOAD_STATEMENT
+Get me my SWIFT MT940 format consolidated statement for the past 90 days.,DOWNLOAD_STATEMENT
+Can you send me last month's statement as a PDF?,DOWNLOAD_STATEMENT
+How can I get my mini statement PDF for Q2?,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my mini statement from March to June 2025?,DOWNLOAD_STATEMENT
+Mail me my statement for the past 6 months.,DOWNLOAD_STATEMENT
+Send my account statement to my registered email as a PDF.,DOWNLOAD_STATEMENT
+I need my digital statement in camt.054 custom date range.,DOWNLOAD_STATEMENT
+Can I get my statement as a text file instead of PDF?,DOWNLOAD_STATEMENT
+How do I download my SOA for the past 3 months?,DOWNLOAD_STATEMENT
+Kindly generate the MT904 transaction history document for the last 12 months.,DOWNLOAD_STATEMENT
+I want my CAMT.053 bank statement for my business account for the past week.,DOWNLOAD_STATEMENT
+How do I download my transaction statement for the date range 1 June to 30 June?,DOWNLOAD_STATEMENT
+Please generate my transaction history document for my salary account for the current year.,DOWNLOAD_STATEMENT
+Get me a printable copy of my mini statement.,DOWNLOAD_STATEMENT
+Export my full year transaction statement as CAMT.053.,DOWNLOAD_STATEMENT
+I need my statement emailed to me in Excel format.,DOWNLOAD_STATEMENT
+Get statement download for the last 2 years camt.054.,DOWNLOAD_STATEMENT
+Where can I download my bank statement for my business account?,DOWNLOAD_STATEMENT
+Statement download request from last Monday to today.,DOWNLOAD_STATEMENT
+Generate spreadsheet format statement for the month of April for my salary account.,DOWNLOAD_STATEMENT
+Need my mini statement for my primary account in printable PDF for Q3.,DOWNLOAD_STATEMENT
+Print my transaction history document for my primary account quarterly in camt.054 for tax filing purposes.,DOWNLOAD_STATEMENT
+Help me download the MT940 version of my SOA for the financial year.,DOWNLOAD_STATEMENT
+Retrieve my transaction statement between March and May.,DOWNLOAD_STATEMENT
+I'd like a copy of my statement document from 1st January to 31st March.,DOWNLOAD_STATEMENT
+Requesting camt.054 account statement for the last 12 months for my current account.,DOWNLOAD_STATEMENT
+How can I get my transaction history document TXT format for the current year?,DOWNLOAD_STATEMENT
+Send me the MT904 account statement for last month for account ending 4532.,DOWNLOAD_STATEMENT
+I need to save my detailed statement for Q4 to my computer.,DOWNLOAD_STATEMENT
+Requesting MT904 account statement for last month for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Could you generate my digital statement for the financial year as a PDF.,DOWNLOAD_STATEMENT
+I'd like an export of my transaction history document for the last quarter as a PDF.,DOWNLOAD_STATEMENT
+Could you get me my bank statement for my corporate account for last week in ISO 20022 CAMT format and email it to me.,DOWNLOAD_STATEMENT
+Help me download the Excel version of my account statement for last week.,DOWNLOAD_STATEMENT
+Help me download the SWIFT MT940 format version of my statement for last quarter.,DOWNLOAD_STATEMENT
+Is it possible to get my mini statement as CAMT053 for the past 3 months?,DOWNLOAD_STATEMENT
+I want to print my e-statement for the date range 1 June to 30 June.,DOWNLOAD_STATEMENT
+How can I get my statement PDF from March to June 2025?,DOWNLOAD_STATEMENT
+I need a printable PDF copy of my e-statement from last Monday to today.,DOWNLOAD_STATEMENT
+How do I download my digital statement for the past 6 months?,DOWNLOAD_STATEMENT
+Get statement download for the date range 1 June to 30 June text file.,DOWNLOAD_STATEMENT
+Kindly share a CAMT053 copy of my e-statement for the month of April.,DOWNLOAD_STATEMENT
+Need my e-statement for my joint account in XML for the past week.,DOWNLOAD_STATEMENT
+Save my statement for my NRE account.,DOWNLOAD_STATEMENT
+Pull my statement copy year to date.,DOWNLOAD_STATEMENT
+How can I get my detailed statement TXT format for the last quarter?,DOWNLOAD_STATEMENT
+Please generate my statement copy for my joint account from March to June 2025 for loan application.,DOWNLOAD_STATEMENT
+Help me download the text file version of my mini statement for FY 2024-25.,DOWNLOAD_STATEMENT
+How do I download my statement monthly?,DOWNLOAD_STATEMENT
+Get me my ISO 20022 CAMT format e-statement for my joint account custom date range.,DOWNLOAD_STATEMENT
+I want to print my bank statement from March to June 2025.,DOWNLOAD_STATEMENT
+I need my digital statement in CSV for the date range 1 June to 30 June for my records.,DOWNLOAD_STATEMENT
+Please generate my digital statement for my joint account from 1st January to 31st March today itself.,DOWNLOAD_STATEMENT
+I'd like an export of my transaction history document from Jan 1 2025 to Mar 31 2025 for my records.,DOWNLOAD_STATEMENT
+Get statement download for the past week spreadsheet format.,DOWNLOAD_STATEMENT
+Statement download request for last week for my savings account.,DOWNLOAD_STATEMENT
+Please generate my transaction history document for my NRE account for Q2.,DOWNLOAD_STATEMENT
+Help me download the MT940 version of my account summary statement for Q2.,DOWNLOAD_STATEMENT
+Help me download the printable PDF version of my account summary statement for FY 2024-25.,DOWNLOAD_STATEMENT
+I need to save my statement document for the period 01-04-2024 to 30-04-2024 to my computer.,DOWNLOAD_STATEMENT
+Show me how to export my account summary statement in XML format.,DOWNLOAD_STATEMENT
+Where can I download my consolidated statement for my business account?,DOWNLOAD_STATEMENT
+Generate XLSX statement for the date range 1 June to 30 June for my corporate account.,DOWNLOAD_STATEMENT
+Show me how to export my statement document in CSV format.,DOWNLOAD_STATEMENT
+Get statement download for today MT940.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my detailed statement for Q3?,DOWNLOAD_STATEMENT
+Where can I download my transaction history document for account 998877?,DOWNLOAD_STATEMENT
+I need my statement of account in text file for the current year in CSV format.,DOWNLOAD_STATEMENT
+I want to print my statement document for last quarter.,DOWNLOAD_STATEMENT
+Please export my CAMT.053 statement for June 2025.,DOWNLOAD_STATEMENT
+Send me a printable PDF copy of my statement of account for March 2025.,DOWNLOAD_STATEMENT
+Is it possible to get my detailed statement as Excel for Q3?,DOWNLOAD_STATEMENT
+Please prepare a statement file I can save offline.,DOWNLOAD_STATEMENT
+Please generate the MT940 statement copy for the financial year.,DOWNLOAD_STATEMENT
+I need my mini statement in TXT format for yesterday so I can print it.,DOWNLOAD_STATEMENT
+Statement download request for Q2 for my current account.,DOWNLOAD_STATEMENT
+How do I download my detailed statement for FY 2024-25?,DOWNLOAD_STATEMENT
+Give me my SOA for my current account for this month in XML so I can print it.,DOWNLOAD_STATEMENT
+I'd like an export of my statement of account for this quarter in PDF format.,DOWNLOAD_STATEMENT
+Get statement download for March 2025 CAMT053.,DOWNLOAD_STATEMENT
+Is it possible to get my SOA as camt.054 for the past 6 months?,DOWNLOAD_STATEMENT
+Help me download the text file version of my transaction history document for the current year.,DOWNLOAD_STATEMENT
+Please send my mini statement for my NRE account.,DOWNLOAD_STATEMENT
+Get statement download for a specific date range MT904.,DOWNLOAD_STATEMENT
+How do I download my statement copy for the past 90 days?,DOWNLOAD_STATEMENT
+Give me my digital statement for Q3.,DOWNLOAD_STATEMENT
+Download my digital statement for December 2024 for my NRE account for loan application.,DOWNLOAD_STATEMENT
+Is it possible to get my statement of account as printable PDF year to date?,DOWNLOAD_STATEMENT
+Send me my ISO 20022 CAMT format e-statement for my checking account for December 2024.,DOWNLOAD_STATEMENT
+Show me how to export my consolidated statement in CAMT.053 format.,DOWNLOAD_STATEMENT
+Please generate my mini statement for my primary account from Jan 1 2025 to Mar 31 2025 for audit purposes.,DOWNLOAD_STATEMENT
+I need my digital statement in Excel annually.,DOWNLOAD_STATEMENT
+How can I get my mini statement printable PDF for Q2?,DOWNLOAD_STATEMENT
+I'd like an export of my statement for the past week as a PDF.,DOWNLOAD_STATEMENT
+Email me my TXT format account statement for my NRE account for the last 2 years.,DOWNLOAD_STATEMENT
+How do I download my statement of account for Q2?,DOWNLOAD_STATEMENT
+Generate printable PDF statement annually for my checking account.,DOWNLOAD_STATEMENT
+Generate a CAMT053 copy of my consolidated statement for Q3.,DOWNLOAD_STATEMENT
+Where can I download my statement document for my primary account?,DOWNLOAD_STATEMENT
+I'd like an export of my statement of account for today for visa application.,DOWNLOAD_STATEMENT
+Where can I download my account statement for my joint account?,DOWNLOAD_STATEMENT
+Show me how to export my mini statement in MT904 format.,DOWNLOAD_STATEMENT
+I want to print my SOA for the past 90 days.,DOWNLOAD_STATEMENT
+Provide a downloadable CAMT053 XML file of my statement.,DOWNLOAD_STATEMENT
+Generate CAMT.053 statement for Q3 for my checking account.,DOWNLOAD_STATEMENT
+I need to save my mini statement for Q1 to my computer.,DOWNLOAD_STATEMENT
+Need my SOA for my checking account in camt.054 from last Monday to today.,DOWNLOAD_STATEMENT
+Retrieve my transaction history document for my savings account.,DOWNLOAD_STATEMENT
+I need to save my statement copy for last week to my computer.,DOWNLOAD_STATEMENT
+Fetch my statement copy for the past 3 months.,DOWNLOAD_STATEMENT
+I need to save my consolidated statement for the last quarter to my computer.,DOWNLOAD_STATEMENT
+Can you download my statement copy for last month in XLSX and send it to my registered email.,DOWNLOAD_STATEMENT
+How do I download my statement copy for this quarter?,DOWNLOAD_STATEMENT
+I'd like an export of my detailed statement for a specific date range today itself.,DOWNLOAD_STATEMENT
+Generate ISO 20022 CAMT format statement for the past week for my business account.,DOWNLOAD_STATEMENT
+I need my statement document in CAMT053 for the last 12 months urgently.,DOWNLOAD_STATEMENT
+Is it possible to get my transaction history document as ISO 20022 CAMT format for the last quarter?,DOWNLOAD_STATEMENT
+Generate MT940 statement for the past 6 months for my corporate account.,DOWNLOAD_STATEMENT
+I need to save my transaction history document for Q2 to my computer.,DOWNLOAD_STATEMENT
+Help me download the camt.054 version of my account statement for the current year.,DOWNLOAD_STATEMENT
+Give me my account statement for last quarter.,DOWNLOAD_STATEMENT
+I need to save my bank statement for the current year to my computer.,DOWNLOAD_STATEMENT
+Please generate my SOA for my business account for a specific date range for tax filing purposes.,DOWNLOAD_STATEMENT
+Need my consolidated statement for account 998877 in printable PDF for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+Please generate my transaction statement for Q3.,DOWNLOAD_STATEMENT
+Please download my CAMT.053 bank statement for my NRE account for last quarter.,DOWNLOAD_STATEMENT
+Email me a camt.054 copy of my statement copy for the last 2 years.,DOWNLOAD_STATEMENT
+Download my account summary statement for my current account.,DOWNLOAD_STATEMENT
+Get me my e-statement for December 2024.,DOWNLOAD_STATEMENT
+Is it possible to get my SOA as camt.054 for FY2023?,DOWNLOAD_STATEMENT
+Statement download request for this quarter for my NRE account.,DOWNLOAD_STATEMENT
+Could you generate my bank statement for last quarter.,DOWNLOAD_STATEMENT
+Show me how to export my account statement in PDF format.,DOWNLOAD_STATEMENT
+Can you generate a PDF copy of my statement copy annually.,DOWNLOAD_STATEMENT
+Please send a CSV copy of my mini statement for last year.,DOWNLOAD_STATEMENT
+Share my spreadsheet format consolidated statement for my savings account for the past 30 days.,DOWNLOAD_STATEMENT
+Where can I download my transaction history document?,DOWNLOAD_STATEMENT
+I'd like an export of my account summary statement quarterly for my records.,DOWNLOAD_STATEMENT
+Can you download a printable PDF copy of my e-statement for Q3.,DOWNLOAD_STATEMENT
+Please generate my bank statement for account number 1234567890 for the last quarter for audit purposes.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my bank statement for the month of April?,DOWNLOAD_STATEMENT
+Is it possible to get my statement copy as XML for the past 3 months?,DOWNLOAD_STATEMENT
+How do I download my SOA for the date range 1 June to 30 June?,DOWNLOAD_STATEMENT
+Requesting MT904 account statement for today for my primary account.,DOWNLOAD_STATEMENT
+Fetch the Excel consolidated statement for last year for my checking account.,DOWNLOAD_STATEMENT
+Please export my SOA for Q1 and email it to me.,DOWNLOAD_STATEMENT
+Help me download the PDF version of my detailed statement for today.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement of account for Q4?,DOWNLOAD_STATEMENT
+Statement download request for the past 3 months for my checking account.,DOWNLOAD_STATEMENT
+Can you download my transaction statement for the past week in text file for tax filing purposes.,DOWNLOAD_STATEMENT
+How do I download my account summary statement for the previous financial year?,DOWNLOAD_STATEMENT
+Help me download the XLSX version of my e-statement from 1st January to 31st March.,DOWNLOAD_STATEMENT
+How can I get my account summary statement TXT format for this month?,DOWNLOAD_STATEMENT
+Where can I download my account summary statement for my corporate account?,DOWNLOAD_STATEMENT
+Generate XLSX statement for this month for my primary account.,DOWNLOAD_STATEMENT
+Generate Excel statement for yesterday.,DOWNLOAD_STATEMENT
+I need to save my detailed statement for today to my computer.,DOWNLOAD_STATEMENT
+Please provide my MT940 file for reconciliation purposes.,DOWNLOAD_STATEMENT
+I'd like an export of my transaction statement for March 2025 today itself.,DOWNLOAD_STATEMENT
+Statement download request from Jan 1 2025 to Mar 31 2025 for my salary account.,DOWNLOAD_STATEMENT
+I need to save my e-statement for the last 12 months to my computer.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my e-statement for the past 30 days?,DOWNLOAD_STATEMENT
+Save my account statement between 01/01/2025 and 31/03/2025 for my checking account today itself.,DOWNLOAD_STATEMENT
+Generate CAMT.053 statement for a specific date range.,DOWNLOAD_STATEMENT
+Could you get me my SOA for my checking account for the date range 1 June to 30 June in text file in PDF format.,DOWNLOAD_STATEMENT
+Help me download the Excel version of my SOA from March to June 2025.,DOWNLOAD_STATEMENT
+How do I download my digital statement for the past 90 days?,DOWNLOAD_STATEMENT
+Can I generate a statement for a custom date range?,DOWNLOAD_STATEMENT
+Is it possible to get my transaction history document as Excel for the past 3 months?,DOWNLOAD_STATEMENT
+Fetch my transaction history document.,DOWNLOAD_STATEMENT
+Could you get me my account summary statement for account ending 4532 for the previous financial year in spreadsheet format for loan application.,DOWNLOAD_STATEMENT
+Please export my account statement for my corporate account.,DOWNLOAD_STATEMENT
+Show me how to export my statement of account in TXT format format.,DOWNLOAD_STATEMENT
+Get me my transaction history document for account 998877 for the last 12 months in Excel in CSV format.,DOWNLOAD_STATEMENT
+Please generate my statement of account for account 998877 for Q4 urgently.,DOWNLOAD_STATEMENT
+I want to print my transaction statement for FY 2024-25.,DOWNLOAD_STATEMENT
+Retrieve my transaction history document for account ending 4532 annually in CAMT053 for tax filing purposes.,DOWNLOAD_STATEMENT
+I want to print my statement of account for the last 2 years.,DOWNLOAD_STATEMENT
+Save my bank statement for my current account for March 2025 in MT940.,DOWNLOAD_STATEMENT
+Get statement download from Jan 1 2025 to Mar 31 2025 ISO 20022 CAMT format.,DOWNLOAD_STATEMENT
+Could you generate my TXT format account summary statement for my joint account quarterly.,DOWNLOAD_STATEMENT
+I need to save my consolidated statement for last week to my computer.,DOWNLOAD_STATEMENT
+Need my statement copy for account no. XXXX1234 in XML for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+Generate TXT format statement custom date range.,DOWNLOAD_STATEMENT
+Where can I download my e-statement for my current account?,DOWNLOAD_STATEMENT
+Mail me a XML copy of my statement of account for March 2025.,DOWNLOAD_STATEMENT
+Generate CSV statement for the past 90 days for my joint account.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my SOA for March 2025?,DOWNLOAD_STATEMENT
+Requesting CAMT053 account statement for December 2024 for account number 1234567890.,DOWNLOAD_STATEMENT
+Generate a CSV copy of my statement of account for yesterday.,DOWNLOAD_STATEMENT
+Create the XLSX statement copy for yesterday for my NRE account.,DOWNLOAD_STATEMENT
+Help me download the TXT format version of my consolidated statement for last quarter.,DOWNLOAD_STATEMENT
+Mail me a CAMT.053 copy of my transaction statement for the period 01-04-2024 to 30-04-2024.,DOWNLOAD_STATEMENT
+Where can I download my mini statement?,DOWNLOAD_STATEMENT
+Is it possible to get my e-statement as CAMT053 for last month?,DOWNLOAD_STATEMENT
+I need my mini statement in MT904 between 01/01/2025 and 31/03/2025 for visa application.,DOWNLOAD_STATEMENT
+I'd like an export of my statement of account annually.,DOWNLOAD_STATEMENT
+Help me download the XML version of my mini statement for the month of April.,DOWNLOAD_STATEMENT
+Please generate my statement copy for the current year and send it to my registered email.,DOWNLOAD_STATEMENT
+Statement download request for the past 3 months for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Please export my ISO 20022 CAMT format mini statement for account ending 4532 for Q2.,DOWNLOAD_STATEMENT
+Please download my digital statement for the current year.,DOWNLOAD_STATEMENT
+Help me download the MT904 version of my consolidated statement for Q4.,DOWNLOAD_STATEMENT
+How do I download my e-statement for the date range 1 June to 30 June?,DOWNLOAD_STATEMENT
+Pull a CSV copy of my bank statement year to date.,DOWNLOAD_STATEMENT
+Please export my digital statement for my business account for the past week in camt.054 in Excel format.,DOWNLOAD_STATEMENT
+Could you generate my digital statement for my checking account for March 2025 in MT940 right away.,DOWNLOAD_STATEMENT
+How do I download my transaction history document for Q2?,DOWNLOAD_STATEMENT
+Is it possible to get my SOA as TXT format for the date range 1 June to 30 June?,DOWNLOAD_STATEMENT
+I need my transaction history document in MT940 from March to June 2025 in CSV format.,DOWNLOAD_STATEMENT
+Create my consolidated statement for the month of April in spreadsheet format for my records.,DOWNLOAD_STATEMENT
+I'd like a copy of my transaction history document for last year.,DOWNLOAD_STATEMENT
+Get statement download for today XLSX.,DOWNLOAD_STATEMENT
+Please share the CSV statement copy between 01/01/2025 and 31/03/2025 for my current account.,DOWNLOAD_STATEMENT
+How can I get my digital statement CAMT053 from Jan 1 2025 to Mar 31 2025?,DOWNLOAD_STATEMENT
+Help me download the text file version of my consolidated statement from 1st January to 31st March.,DOWNLOAD_STATEMENT
+Statement download request for Q3 for my joint account.,DOWNLOAD_STATEMENT
+Get statement download for Q2 MT940.,DOWNLOAD_STATEMENT
+Show me how to export my consolidated statement in CAMT053 format.,DOWNLOAD_STATEMENT
+Where can I download my transaction history document for my savings account?,DOWNLOAD_STATEMENT
+Statement download request for last year for my checking account.,DOWNLOAD_STATEMENT
+How do I download my digital statement for this month?,DOWNLOAD_STATEMENT
+Could you generate the camt.054 transaction statement for the current year.,DOWNLOAD_STATEMENT
+I'd like a copy of my statement for my joint account.,DOWNLOAD_STATEMENT
+How do I download my statement copy for the financial year?,DOWNLOAD_STATEMENT
+Kindly share my mini statement for December 2024.,DOWNLOAD_STATEMENT
+Requesting SWIFT MT940 format account statement for the date range 1 June to 30 June.,DOWNLOAD_STATEMENT
+I'd like an export of my transaction statement for Q2.,DOWNLOAD_STATEMENT
+Show me how to export my mini statement in PDF format.,DOWNLOAD_STATEMENT
+I need to save my consolidated statement for yesterday to my computer.,DOWNLOAD_STATEMENT
+Share my bank statement for this month in ISO 20022 CAMT format.,DOWNLOAD_STATEMENT
+Is it possible to get my transaction statement as XLSX for the previous financial year?,DOWNLOAD_STATEMENT
+How can I get my transaction statement text file for the period 01-04-2024 to 30-04-2024?,DOWNLOAD_STATEMENT
+Save my CAMT053 digital statement for my current account for last year.,DOWNLOAD_STATEMENT
+Generate my spreadsheet format e-statement for account number 1234567890 from 1st January to 31st March.,DOWNLOAD_STATEMENT
+Generate a SWIFT MT940 format copy of my bank statement for Q4.,DOWNLOAD_STATEMENT
+I want to print my account summary statement annually.,DOWNLOAD_STATEMENT
+I'd like an export of my mini statement for FY2023 today itself.,DOWNLOAD_STATEMENT
+Get statement download for the last 2 years Excel.,DOWNLOAD_STATEMENT
+I need to save my transaction statement for Q4 to my computer.,DOWNLOAD_STATEMENT
+Kindly generate my transaction history document for the period 01-04-2024 to 30-04-2024 for my corporate account so I can print it.,DOWNLOAD_STATEMENT
+Please send a PDF copy of my e-statement for the past 3 months.,DOWNLOAD_STATEMENT
+How do I download my consolidated statement from Jan 1 2025 to Mar 31 2025?,DOWNLOAD_STATEMENT
+Help me download the SWIFT MT940 format version of my mini statement for this month.,DOWNLOAD_STATEMENT
+Fetch my CAMT053 mini statement for my primary account quarterly.,DOWNLOAD_STATEMENT
+Is it possible to get my statement as MT940 custom date range?,DOWNLOAD_STATEMENT
+Email me a XML copy of my account summary statement for last quarter.,DOWNLOAD_STATEMENT
+I need to save my statement document for the financial year to my computer.,DOWNLOAD_STATEMENT
+Requesting XLSX account statement for last month for my corporate account.,DOWNLOAD_STATEMENT
+Is it possible to get my bank statement as camt.054 for Q2?,DOWNLOAD_STATEMENT
+How can I get my statement SWIFT MT940 format for Q4?,DOWNLOAD_STATEMENT
+Show me how to export my e-statement in Excel format.,DOWNLOAD_STATEMENT
+Need my SOA for my checking account in text file for the past 30 days.,DOWNLOAD_STATEMENT
+Requesting CAMT.053 account statement for the previous financial year.,DOWNLOAD_STATEMENT
+Please generate my transaction history document for my NRE account for the past 6 months as a PDF.,DOWNLOAD_STATEMENT
+Share my e-statement monthly for my records.,DOWNLOAD_STATEMENT
+Requesting camt.054 account statement for this quarter.,DOWNLOAD_STATEMENT
+I'd like an export of my statement copy for the period 01-04-2024 to 30-04-2024 urgently.,DOWNLOAD_STATEMENT
+Requesting CAMT053 account statement for a specific date range for my primary account.,DOWNLOAD_STATEMENT
+Where can I download my transaction statement for my business account?,DOWNLOAD_STATEMENT
+I need my e-statement in CSV for December 2024 and email it to me.,DOWNLOAD_STATEMENT
+I need my transaction history document in CAMT.053 for the past 6 months.,DOWNLOAD_STATEMENT
+How can I get my account summary statement SWIFT MT940 format for Q4?,DOWNLOAD_STATEMENT
+I want my statement document for the past 90 days for account 998877 for visa application.,DOWNLOAD_STATEMENT
+Create my transaction history document for my business account.,DOWNLOAD_STATEMENT
+I need my statement copy in camt.054 for a specific date range right away.,DOWNLOAD_STATEMENT
+Export account statement for the last 90 days please.,DOWNLOAD_STATEMENT
+Help me download the text file version of my consolidated statement custom date range.,DOWNLOAD_STATEMENT
+Pull my consolidated statement for last month.,DOWNLOAD_STATEMENT
+Please generate my transaction history document for my salary account for December 2024 as a PDF.,DOWNLOAD_STATEMENT
+I need my digital statement in MT940 for the past 90 days in Excel format.,DOWNLOAD_STATEMENT
+I'd like an export of my detailed statement from last Monday to today for loan application.,DOWNLOAD_STATEMENT
+I need my MT904 statement for reconciliation.,DOWNLOAD_STATEMENT
+Need my digital statement for account no. XXXX1234 in ISO 20022 CAMT format for Q1.,DOWNLOAD_STATEMENT
+Please provide my account statement from Jan 1 2025 to Mar 31 2025 for my primary account today itself.,DOWNLOAD_STATEMENT
+Is it possible to get my account statement as XLSX from March to June 2025?,DOWNLOAD_STATEMENT
+Get statement download for this quarter CAMT053.,DOWNLOAD_STATEMENT
+Generate a MT904 copy of my account statement year to date.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my e-statement for the past week?,DOWNLOAD_STATEMENT
+Help me download the CAMT.053 version of my account summary statement for a specific date range.,DOWNLOAD_STATEMENT
+Requesting SWIFT MT940 format account statement from 1st January to 31st March for my NRE account.,DOWNLOAD_STATEMENT
+Show me how to export my consolidated statement in SWIFT MT940 format format.,DOWNLOAD_STATEMENT
+Need my statement document for my corporate account in ISO 20022 CAMT format for the current year.,DOWNLOAD_STATEMENT
+Give me a CAMT.053 copy of my account summary statement for the past 90 days.,DOWNLOAD_STATEMENT
+I'd like a copy of my Excel transaction statement for my checking account for the last 12 months.,DOWNLOAD_STATEMENT
+Produce my transaction statement from March to June 2025 for my checking account right away.,DOWNLOAD_STATEMENT
+Help me download the ISO 20022 CAMT format version of my detailed statement for the date range 1 June to 30 June.,DOWNLOAD_STATEMENT
+I'd like an export of my transaction history document for the month of April in CSV format.,DOWNLOAD_STATEMENT
+Download my camt.054 mini statement for the current year.,DOWNLOAD_STATEMENT
+I want my digital statement for Q1.,DOWNLOAD_STATEMENT
+Could you print out my statement for the past six months?,DOWNLOAD_STATEMENT
+Please export my statement for the past 3 months for my checking account for visa application.,DOWNLOAD_STATEMENT
+Where can I download my statement for account no. XXXX1234?,DOWNLOAD_STATEMENT
+Export a ISO 20022 CAMT format copy of my e-statement for December 2024.,DOWNLOAD_STATEMENT
+Statement download request from 1st January to 31st March for account number 1234567890.,DOWNLOAD_STATEMENT
+Please generate my statement of account for my primary account for last month in CSV format.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement for the last 12 months?,DOWNLOAD_STATEMENT
+I need my transaction statement in PDF from Jan 1 2025 to Mar 31 2025 and send it to my registered email.,DOWNLOAD_STATEMENT
+Please generate my transaction history document for my savings account for today for audit purposes.,DOWNLOAD_STATEMENT
+Kindly generate a SWIFT MT940 format copy of my transaction statement for the last 2 years.,DOWNLOAD_STATEMENT
+I want to print my account statement from last Monday to today.,DOWNLOAD_STATEMENT
+Generate CAMT053 statement for the past 3 months.,DOWNLOAD_STATEMENT
+Show me how to export my SOA in MT940 format.,DOWNLOAD_STATEMENT
+Share my transaction statement for the past 90 days.,DOWNLOAD_STATEMENT
+I need to save my statement of account for a specific date range to my computer.,DOWNLOAD_STATEMENT
+Generate MT904 statement for FY2023 for my joint account.,DOWNLOAD_STATEMENT
+Can you download my transaction statement for my business account.,DOWNLOAD_STATEMENT
+Pull my statement copy quarterly.,DOWNLOAD_STATEMENT
+I want to print my detailed statement for the past 90 days.,DOWNLOAD_STATEMENT
+Get me the text file statement copy for Q2 for account number 1234567890.,DOWNLOAD_STATEMENT
+Could you get me my transaction statement.,DOWNLOAD_STATEMENT
+Create my statement copy for the past week.,DOWNLOAD_STATEMENT
+Please share the printable PDF consolidated statement for last week for account 998877.,DOWNLOAD_STATEMENT
+Could you generate the PDF account summary statement custom date range for my NRE account.,DOWNLOAD_STATEMENT
+Is it possible to get my account summary statement as XML for FY 2024-25?,DOWNLOAD_STATEMENT
+How do I download my transaction statement custom date range?,DOWNLOAD_STATEMENT
+Statement download request monthly for my primary account.,DOWNLOAD_STATEMENT
+Kindly generate my statement for the date range 1 June to 30 June.,DOWNLOAD_STATEMENT
+Where can I download my consolidated statement?,DOWNLOAD_STATEMENT
+Please download my mini statement for December 2024 for my checking account for loan application.,DOWNLOAD_STATEMENT
+Please generate my mini statement for account ending 4532 for yesterday.,DOWNLOAD_STATEMENT
+"I'd like the annual statement of my savings account, please.",DOWNLOAD_STATEMENT
+How can I get my mini statement MT940 for the past 90 days?,DOWNLOAD_STATEMENT
+Statement download request between 01/01/2025 and 31/03/2025 for account ending 4532.,DOWNLOAD_STATEMENT
+Is it possible to get my detailed statement as CAMT053 for the period 01-04-2024 to 30-04-2024?,DOWNLOAD_STATEMENT
+I need my detailed statement in PDF for the period 01-04-2024 to 30-04-2024 for loan application.,DOWNLOAD_STATEMENT
+Help me download the Excel version of my transaction history document for the previous financial year.,DOWNLOAD_STATEMENT
+Need my statement of account in PDF for last quarter.,DOWNLOAD_STATEMENT
+I need my transaction statement in SWIFT MT940 format for last week for my records.,DOWNLOAD_STATEMENT
+I need to save my account statement for yesterday to my computer.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement copy for the previous financial year?,DOWNLOAD_STATEMENT
+Print my account summary statement for the past 30 days in text file so I can print it.,DOWNLOAD_STATEMENT
+Is it possible to get my account summary statement as TXT format from March to June 2025?,DOWNLOAD_STATEMENT
+Is it possible to get my statement as CAMT053 for the last 2 years?,DOWNLOAD_STATEMENT
+Need my transaction history document for my NRE account in CAMT053 for today.,DOWNLOAD_STATEMENT
+Mail me my statement copy for account 998877 for today in ISO 20022 CAMT format for visa application.,DOWNLOAD_STATEMENT
+Export my CAMT053 statement copy for account number 1234567890 for the past 3 months.,DOWNLOAD_STATEMENT
+How can I get my statement text file for Q1?,DOWNLOAD_STATEMENT
+Requesting spreadsheet format account statement for this quarter for account number 1234567890.,DOWNLOAD_STATEMENT
+I need to save my statement copy quarterly to my computer.,DOWNLOAD_STATEMENT
+Save my bank statement for my savings account.,DOWNLOAD_STATEMENT
+Requesting CAMT053 account statement for this month for my business account.,DOWNLOAD_STATEMENT
+Requesting printable PDF account statement for the date range 1 June to 30 June.,DOWNLOAD_STATEMENT
+Could you get me a camt.054 copy of my digital statement for the financial year.,DOWNLOAD_STATEMENT
+Need my statement for my business account in SWIFT MT940 format for Q4.,DOWNLOAD_STATEMENT
+How do I download my e-statement for the current year?,DOWNLOAD_STATEMENT
+Help me download the camt.054 version of my account statement for last month.,DOWNLOAD_STATEMENT
+I want to print my detailed statement from March to June 2025.,DOWNLOAD_STATEMENT
+I need my account statement in CAMT053 for Q2 right away.,DOWNLOAD_STATEMENT
+Print a MT904 copy of my transaction history document for the current year.,DOWNLOAD_STATEMENT
+Is it possible to get my bank statement as CAMT053 custom date range?,DOWNLOAD_STATEMENT
+Help me download the camt.054 version of my transaction history document for last week.,DOWNLOAD_STATEMENT
+Show me how to export my digital statement in XML format.,DOWNLOAD_STATEMENT
+Get me my TXT format mini statement for my corporate account for Q4.,DOWNLOAD_STATEMENT
+Generate camt.054 statement monthly.,DOWNLOAD_STATEMENT
+Please generate my statement of account for December 2024 right away.,DOWNLOAD_STATEMENT
+Help me download the printable PDF version of my mini statement for the past week.,DOWNLOAD_STATEMENT
+Give me my SOA for account ending 4532 for last year in ISO 20022 CAMT format right away.,DOWNLOAD_STATEMENT
+Pull a XLSX copy of my account statement for today.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my e-statement for the past 90 days?,DOWNLOAD_STATEMENT
+Mail me my e-statement for the last quarter for my joint account in PDF format.,DOWNLOAD_STATEMENT
+Help me download the TXT format version of my detailed statement from March to June 2025.,DOWNLOAD_STATEMENT
+Get statement download for the last 12 months camt.054.,DOWNLOAD_STATEMENT
+Please export the text file detailed statement between 01/01/2025 and 31/03/2025.,DOWNLOAD_STATEMENT
+How do I download my account statement monthly?,DOWNLOAD_STATEMENT
+I need my mini statement in CSV for this quarter for loan application.,DOWNLOAD_STATEMENT
+I need my transaction history document for last quarter.,DOWNLOAD_STATEMENT
+Is it possible to get my SOA as XLSX from last Monday to today?,DOWNLOAD_STATEMENT
+Get statement download annually PDF.,DOWNLOAD_STATEMENT
+Can you generate my transaction statement for my checking account from March to June 2025 in PDF for audit purposes.,DOWNLOAD_STATEMENT
+Can you generate my bank statement for account ending 4532 for Q4 in CSV in PDF format.,DOWNLOAD_STATEMENT
+Get me my statement copy custom date range.,DOWNLOAD_STATEMENT
+Where can I download my digital statement for my corporate account?,DOWNLOAD_STATEMENT
+Please generate my e-statement from 1st January to 31st March.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my statement document monthly?,DOWNLOAD_STATEMENT
+Export a spreadsheet format copy of my digital statement for the financial year.,DOWNLOAD_STATEMENT
+Requesting printable PDF account statement for the last 12 months for account 998877.,DOWNLOAD_STATEMENT
+How can I get my bank statement PDF from last Monday to today?,DOWNLOAD_STATEMENT
+Fetch my MT904 account statement for my primary account for December 2024.,DOWNLOAD_STATEMENT
+Statement download request for the last 12 months for account no. XXXX1234.,DOWNLOAD_STATEMENT
+I want to print my account statement for last week.,DOWNLOAD_STATEMENT
+Kindly share my account statement between 01/01/2025 and 31/03/2025 and email it to me.,DOWNLOAD_STATEMENT
+Please send my statement of account for my savings account year to date in Excel in Excel format.,DOWNLOAD_STATEMENT
+Download my statement of account.,DOWNLOAD_STATEMENT
+I need to save my transaction statement for the last 12 months to my computer.,DOWNLOAD_STATEMENT
+Statement download request between 01/01/2025 and 31/03/2025 for account number 1234567890.,DOWNLOAD_STATEMENT
+Save my CAMT053 transaction history document for my corporate account for FY2023.,DOWNLOAD_STATEMENT
+I'd like an export of my statement copy for the last quarter and send it to my registered email.,DOWNLOAD_STATEMENT
+Provide my account summary statement.,DOWNLOAD_STATEMENT
+Generate camt.054 statement for the financial year for my checking account.,DOWNLOAD_STATEMENT
+Give me the MT940 statement copy for the past 3 months.,DOWNLOAD_STATEMENT
+Generate Excel statement year to date for account ending 4532.,DOWNLOAD_STATEMENT
+Kindly generate my statement document for the last 12 months for my savings account.,DOWNLOAD_STATEMENT
+Provide my statement for my business account from Jan 1 2025 to Mar 31 2025 in XLSX in Excel format.,DOWNLOAD_STATEMENT
+How do I download my statement for the month of April?,DOWNLOAD_STATEMENT
+Please generate a printable PDF copy of my bank statement for yesterday.,DOWNLOAD_STATEMENT
+Can you download my account statement annually as a PDF.,DOWNLOAD_STATEMENT
+I want to print my statement for last week.,DOWNLOAD_STATEMENT
+I want to print my transaction history document for a specific date range.,DOWNLOAD_STATEMENT
+I need to save my mini statement for this quarter to my computer.,DOWNLOAD_STATEMENT
+Please generate my account summary statement for the financial year for tax filing purposes.,DOWNLOAD_STATEMENT
+Please generate my detailed statement for account 998877 for Q3.,DOWNLOAD_STATEMENT
+Get me my XML mini statement for my primary account monthly.,DOWNLOAD_STATEMENT
+Where can I download my consolidated statement for account 998877?,DOWNLOAD_STATEMENT
+Can you generate my CAMT053 detailed statement for this quarter.,DOWNLOAD_STATEMENT
+Is it possible to get my mini statement as CAMT.053 for the past 30 days?,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my detailed statement for the date range 1 June to 30 June?,DOWNLOAD_STATEMENT
+Can you generate my statement of account for FY 2023-24?,DOWNLOAD_STATEMENT
+Get me the CAMT053 statement for the past 3 months for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Get statement download for today CAMT.053.,DOWNLOAD_STATEMENT
+Can you generate my statement document for my checking account.,DOWNLOAD_STATEMENT
+Print my e-statement for the previous financial year for loan application.,DOWNLOAD_STATEMENT
+I need my digital statement in CAMT.053 for the last 2 years for tax filing purposes.,DOWNLOAD_STATEMENT
+I need my SOA in TXT format from 1st January to 31st March and email it to me.,DOWNLOAD_STATEMENT
+Mail me a PDF copy of my account statement for FY 2024-25.,DOWNLOAD_STATEMENT
+I need to save my digital statement custom date range to my computer.,DOWNLOAD_STATEMENT
+Need my mini statement for account no. XXXX1234 in CSV monthly.,DOWNLOAD_STATEMENT
+Can you download the XML bank statement for last month for my savings account.,DOWNLOAD_STATEMENT
+I'd like a copy of my mini statement for the last 2 years for my current account so I can print it.,DOWNLOAD_STATEMENT
+I need my e-statement in TXT format for FY 2024-25 as a PDF.,DOWNLOAD_STATEMENT
+I need to save my transaction history document annually to my computer.,DOWNLOAD_STATEMENT
+Requesting PDF account statement for the previous financial year for account ending 4532.,DOWNLOAD_STATEMENT
+I need an official statement document I can submit to my auditor.,DOWNLOAD_STATEMENT
+Fetch my camt.054 digital statement for my NRE account for last quarter.,DOWNLOAD_STATEMENT
+Please generate my SOA for my savings account for FY2023 today itself.,DOWNLOAD_STATEMENT
+I want to print my bank statement for the past 90 days.,DOWNLOAD_STATEMENT
+Could you get me the PDF statement document for March 2025 for account number 1234567890.,DOWNLOAD_STATEMENT
+Where can I download my account summary statement for my salary account?,DOWNLOAD_STATEMENT
+Export my bank statement for my joint account.,DOWNLOAD_STATEMENT
+Show me how to export my transaction statement in MT940 format.,DOWNLOAD_STATEMENT
+Where can I download my account statement?,DOWNLOAD_STATEMENT
+Share my consolidated statement for my business account from March to June 2025 in TXT format for loan application.,DOWNLOAD_STATEMENT
+Need my SOA in spreadsheet format year to date.,DOWNLOAD_STATEMENT
+Get statement download for December 2024 PDF.,DOWNLOAD_STATEMENT
+I need to save my detailed statement for March 2025 to my computer.,DOWNLOAD_STATEMENT
+I want to print my mini statement for a specific date range.,DOWNLOAD_STATEMENT
+Please send my detailed statement for the month of April.,DOWNLOAD_STATEMENT
+Requesting PDF account statement custom date range for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Please export my account statement for March 2025 for my business account for my records.,DOWNLOAD_STATEMENT
+How do I download my transaction statement for Q2?,DOWNLOAD_STATEMENT
+I need my statement of account in SWIFT MT940 format from March to June 2025.,DOWNLOAD_STATEMENT
+I'd like an export of my detailed statement for yesterday and email it to me.,DOWNLOAD_STATEMENT
+I'd like a copy of my statement for Q3 for my NRE account urgently.,DOWNLOAD_STATEMENT
+I'd like an export of my detailed statement for Q3 as a PDF.,DOWNLOAD_STATEMENT
+Show me how to export my detailed statement in MT940 format.,DOWNLOAD_STATEMENT
+Can you download my CAMT053 statement for the last 2 years.,DOWNLOAD_STATEMENT
+Get me the ISO20022 statement for my corporate account.,DOWNLOAD_STATEMENT
+Help me download the SWIFT MT940 format version of my consolidated statement for Q1.,DOWNLOAD_STATEMENT
+Could you generate my statement of account for my current account for yesterday in Excel in CSV format.,DOWNLOAD_STATEMENT
+Where can I download my account summary statement?,DOWNLOAD_STATEMENT
+Show me how to export my statement copy in TXT format format.,DOWNLOAD_STATEMENT
+Generate MT940 statement for Q3 for account no. XXXX1234.,DOWNLOAD_STATEMENT
+Please generate my SOA for my NRE account monthly as a PDF.,DOWNLOAD_STATEMENT
+I'd like an export of my detailed statement annually.,DOWNLOAD_STATEMENT
+How can I get my statement document SWIFT MT940 format for the financial year?,DOWNLOAD_STATEMENT
+I'd like an export of my transaction statement for yesterday in Excel format.,DOWNLOAD_STATEMENT
+I'd like an export of my consolidated statement for this month in Excel format.,DOWNLOAD_STATEMENT
+Requesting ISO 20022 CAMT format account statement annually.,DOWNLOAD_STATEMENT
+Could you get me my account statement for March 2025 for my savings account right away.,DOWNLOAD_STATEMENT
+Can I get a downloadable copy of my SOA for FY 2024-25?,DOWNLOAD_STATEMENT
+I need a copy of my printable PDF transaction history document for a specific date range.,DOWNLOAD_STATEMENT
+Help me download the spreadsheet format version of my SOA for the last 2 years.,DOWNLOAD_STATEMENT
+Statement download request for the last 12 months.,DOWNLOAD_STATEMENT
+Statement download request for Q2.,DOWNLOAD_STATEMENT
+I'd like an export of my digital statement for last year for visa application.,DOWNLOAD_STATEMENT
+Get statement download for the previous financial year spreadsheet format.,DOWNLOAD_STATEMENT
