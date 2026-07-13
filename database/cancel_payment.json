@@ -1,0 +1,4282 @@
+[
+  {
+    "input": "please stop payment order id ORD-7712, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel my pending transaction reference number REF3321",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 50000 rupees to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "50000",
+      "currency": "rupees",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my savings account to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "savings account",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled today to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "today",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "please cancel the payment yesterday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "cancel the pending payment to david miller for 1200 GBP",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "amount": "1200",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "cancel my pending transaction order id ORD-7712",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "cancel the awaiting approval payment to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel the pending payment to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel payment invoice 7781",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "cancel the pending payment to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel payment reference number REF3321",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to john smith from usd account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "cancel payment reference number REF3321 because insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to john smith from my main account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "please stop payment reference number REF3321, vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel payment id PMT-2291 due to duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my business account to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "business account",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "please cancel my pending payment of 3000 euros to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "amount": "3000",
+      "currency": "euros",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 15000 GBP to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "15000",
+      "currency": "GBP",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "cancel the processing payment to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "cancel the payment to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "cancel the payment of 75000 GBP scheduled yesterday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "GBP",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "please stop payment reference number REF3321, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for the 5th to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 15000 USD to rajesh kumar",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "15000",
+      "currency": "USD",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "cancel the payment to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel the payment to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel transaction TXN88213 due to found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "cancel the payment to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel the payment to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "cancel the payment of 50000 GBP scheduled scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "GBP",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "stop the payment of 75000 rupees to my landlord, wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees",
+      "beneficiary": "my landlord",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "cancel the payment of 2500 dollars scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "dollars",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "please cancel the payment tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "cancel my awaiting approval transaction reference number REF3321",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to marketing agency from business account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "cancel the payment of 50000 euros scheduled tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "cancel the payment of 10000 euros scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "please cancel the payment scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "cancel the pending payment to the electricity board for 5000 EUR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "amount": "5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 35000 USD to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "35000",
+      "currency": "USD",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "please cancel the payment scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel payment invoice 7781 because change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the payment of 35000 INR scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel the payment to john smith",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 5000 INR to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "5000",
+      "currency": "INR",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel the payment of 1200 dollars scheduled scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "dollars",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for next monday to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for next monday",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "please stop payment instruction id INST-8821, vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel payment transaction TXN88213",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "please stop payment order id ORD-7712, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "stop the payment of 5000 dollars to john smith, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "dollars",
+      "beneficiary": "john smith",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 18000 USD to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "18000",
+      "currency": "USD",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "stop the payment of 100000 dollars to tech solutions inc, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "dollars",
+      "beneficiary": "tech solutions inc",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "please stop payment invoice 7781, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the pending payment to sunrise textiles for 1200 pounds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "amount": "1200",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "cancel payment id PMT-2291 due to wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "cancel payment payment id PMT-2291",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291"
+    }
+  },
+  {
+    "input": "cancel payment id PMT-2291 due to found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel the payment of 15000 INR scheduled scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "INR",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 15000 euros to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "15000",
+      "currency": "euros",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "cancel transaction TXN88213 due to change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the payment to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my salary account to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "salary account",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 3000 rupees to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "3000",
+      "currency": "rupees",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel the payment to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "cancel payment transaction TXN88213 because insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled tomorrow to steel suppliers ltd",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "tomorrow",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 100000 GBP to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "100000",
+      "currency": "GBP",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 15000 pounds to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "15000",
+      "currency": "pounds",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 50000 USD to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "50000",
+      "currency": "USD",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "stop the payment of 18000 dollars to david miller, wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "dollars",
+      "beneficiary": "david miller",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "cancel the payment of 50000 euros scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros",
+      "time": "today"
+    }
+  },
+  {
+    "input": "please stop payment instruction id INST-8821, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821 because change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "please stop payment invoice 7781, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "stop the payment of 22000 euros to anita desai, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "euros",
+      "beneficiary": "anita desai",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel transaction TXN88213 due to duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the payment of 18000 dollars scheduled tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "dollars",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to tech solutions inc from account ending 4521",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "please cancel my pending payment of 100000 pounds to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "amount": "100000",
+      "currency": "pounds",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821 because wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "stop the payment of 100000 pounds to acme industries, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "pounds",
+      "beneficiary": "acme industries",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to the electricity board from business account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "cancel the pending payment to rajesh kumar",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "please cancel the payment today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "today"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to raj electronics from business account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "please stop payment reference number REF3321, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to abc metals from usd account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "cancel the payment of 22000 GBP scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "GBP",
+      "time": "today"
+    }
+  },
+  {
+    "input": "stop the payment of 35000 pounds to my landlord, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "pounds",
+      "beneficiary": "my landlord",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to rajesh kumar from savings account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 100000 dollars to steel suppliers ltd",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "100000",
+      "currency": "dollars",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "cancel instruction id INST-8821 due to change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the awaiting approval payment to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "cancel the pending payment to marketing agency for 18000 rupees",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "amount": "18000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "cancel the payment of 500 GBP scheduled tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "GBP",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 4500 EUR to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "4500",
+      "currency": "EUR",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "cancel the pending payment to the insurance company for 3000 USD",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "amount": "3000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "cancel my scheduled transaction order id ORD-7712",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for the 5th to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled this friday to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "this friday",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel the payment of 75000 dollars scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "dollars",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel the payment of 100000 INR scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "INR",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 50000 INR to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "50000",
+      "currency": "INR",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel reference number REF3321 due to vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled this friday to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "this friday",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "cancel instruction id INST-8821 due to found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel payment order id ORD-7712",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel the awaiting approval payment to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled set for next week to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "set for next week",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel payment id PMT-2291 due to wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my account ending 4521 to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled tomorrow to john smith",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "tomorrow",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to global traders from usd account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "please stop payment invoice 7781, wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "cancel the pending payment to steel suppliers ltd for 500 INR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "amount": "500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "cancel my queued transaction payment id PMT-2291",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "reference": "payment id PMT-2291"
+    }
+  },
+  {
+    "input": "cancel instruction id INST-8821 due to no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my usd account to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "usd account",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 18000 pounds to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "18000",
+      "currency": "pounds",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my corporate account to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "corporate account",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "stop the payment of 22000 pounds to abc metals, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "pounds",
+      "beneficiary": "abc metals",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled tomorrow to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "tomorrow",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "cancel the payment of 10000 rupees scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "rupees",
+      "time": "today"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to the electricity board from my main account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821 because insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel reference number REF3321 due to wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "stop the payment of 5000 INR to acme industries, change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "INR",
+      "beneficiary": "acme industries",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled today to rajesh kumar",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "today",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "cancel the processing payment to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel the pending payment to john smith for 35000 rupees",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "amount": "35000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "cancel the pending payment to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "cancel the payment of 10000 GBP scheduled yesterday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "GBP",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "cancel payment invoice 7781 because found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel the payment of 10000 INR scheduled yesterday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "INR",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "cancel my pending transaction payment id PMT-2291",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "reference": "payment id PMT-2291"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821 because vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel my awaiting approval transaction order id ORD-7712",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "please cancel my pending payment of 500 EUR to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "amount": "500",
+      "currency": "EUR",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "cancel reference number REF3321 due to duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the payment of 5000 USD scheduled scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "USD",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "cancel my awaiting approval transaction payment id PMT-2291",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "payment id PMT-2291"
+    }
+  },
+  {
+    "input": "cancel the pending payment to john smith for 10000 GBP",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "amount": "10000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled today to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "today",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "cancel invoice 7781 due to vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to global traders from salary account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "stop the payment of 1200 INR to tech solutions inc, no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "INR",
+      "beneficiary": "tech solutions inc",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "cancel the pending payment to john smith",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "cancel invoice 7781 due to found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "stop the payment of 2500 USD to marketing agency, vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "USD",
+      "beneficiary": "marketing agency",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel the payment to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my usd account to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "usd account",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel the payment of 1200 EUR scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "EUR",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel the payment to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my my main account to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "my main account",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "cancel the payment of 500 dollars scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "dollars",
+      "time": "today"
+    }
+  },
+  {
+    "input": "please stop payment payment id PMT-2291, vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "please stop payment payment id PMT-2291, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the payment of 10000 rupees scheduled yesterday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "rupees",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "cancel the payment to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 35000 EUR to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "35000",
+      "currency": "EUR",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "stop the payment of 22000 euros to priya sharma, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "euros",
+      "beneficiary": "priya sharma",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel payment invoice 7781 because wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "cancel the payment of 75000 rupees scheduled tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "please stop payment reference number REF3321, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my usd account to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "usd account",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "cancel the payment of 500 EUR scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "EUR",
+      "time": "today"
+    }
+  },
+  {
+    "input": "cancel the pending payment to steel suppliers ltd for 4500 INR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "amount": "4500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my current account to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "current account",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel my processing transaction reference number REF3321",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 15000 USD to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "15000",
+      "currency": "USD",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to steel suppliers ltd from account ending 4521",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "cancel the payment to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 100000 dollars to steel suppliers ltd",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "100000",
+      "currency": "dollars",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled set for next week to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "set for next week",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "cancel order id ORD-7712 due to wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 10000 GBP to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "10000",
+      "currency": "GBP",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "stop the payment of 15000 USD to priya sharma, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "USD",
+      "beneficiary": "priya sharma",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the pending payment to sunrise textiles for 5000 INR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "amount": "5000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "please cancel the payment set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to raj electronics from usd account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "cancel the payment of 22000 pounds scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "pounds",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821 because found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "please stop payment instruction id INST-8821, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 18000 EUR to rajesh kumar",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "18000",
+      "currency": "EUR",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 35000 rupees to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "35000",
+      "currency": "rupees",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to the insurance company from account ending 4521",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "cancel payment payment id PMT-2291 because no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to anita desai from current account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "cancel the pending payment to global traders for 3000 pounds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "amount": "3000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "stop the payment of 75000 rupees to abc metals, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees",
+      "beneficiary": "abc metals",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel the payment to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel the pending payment to global traders for 10000 rupees",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "amount": "10000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "cancel the pending payment to rajesh kumar for 3000 USD",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "amount": "3000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "cancel the payment to steel suppliers ltd",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "cancel the pending payment to john smith for 1200 pounds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "amount": "1200",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "cancel my scheduled transaction reference number REF3321",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "cancel the payment of 4500 EUR scheduled tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "EUR",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "cancel instruction id INST-8821 due to wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the payment of 4500 INR scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "INR",
+      "time": "today"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 2500 EUR to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "2500",
+      "currency": "EUR",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel the payment of 18000 pounds scheduled scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "pounds",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled set for next week to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "set for next week",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "please cancel the payment this friday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "please stop payment invoice 7781, no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "cancel my queued transaction invoice 7781",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "cancel the awaiting approval payment to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to sunrise textiles from account ending 4521",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "please stop payment order id ORD-7712, vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel my awaiting approval transaction instruction id INST-8821",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "cancel my pending transaction transaction TXN88213",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "cancel the pending payment to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel the payment of 5000 dollars scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "dollars",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "stop the payment of 10000 pounds to steel suppliers ltd, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "pounds",
+      "beneficiary": "steel suppliers ltd",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "please stop payment transaction TXN88213, wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "cancel the pending payment to rajesh kumar for 3000 EUR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "amount": "3000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 15000 GBP to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "15000",
+      "currency": "GBP",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "cancel instruction id INST-8821 due to vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel the pending payment to priya sharma for 10000 dollars",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "amount": "10000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "please stop payment payment id PMT-2291, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821 because duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "please stop payment payment id PMT-2291, wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for the 5th to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for next monday to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for next monday",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for the 5th to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 1200 INR to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "1200",
+      "currency": "INR",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel the awaiting approval payment to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 22000 dollars to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "22000",
+      "currency": "dollars",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel payment reference number REF3321 because wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to priya sharma from current account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to global traders from corporate account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "please stop payment invoice 7781, change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the pending payment to global traders for 100000 pounds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "amount": "100000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled tomorrow to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "tomorrow",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "please stop payment payment id PMT-2291, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "stop the payment of 15000 euros to priya sharma, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "euros",
+      "beneficiary": "priya sharma",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel my scheduled transaction transaction TXN88213",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "cancel reference number REF3321 due to wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the payment of 5000 GBP scheduled scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "GBP",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 22000 EUR to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "22000",
+      "currency": "EUR",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel the pending payment to priya sharma for 5000 dollars",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "amount": "5000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "please stop payment transaction TXN88213, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to rajesh kumar from corporate account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "stop the payment of 15000 dollars to global traders, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "dollars",
+      "beneficiary": "global traders",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel the pending payment to john smith for 10000 rupees",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "amount": "10000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "cancel my awaiting approval transaction transaction TXN88213",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to rajesh kumar from business account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled today to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "today",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to my landlord from my main account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my business account to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "business account",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 5000 GBP to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "5000",
+      "currency": "GBP",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "please cancel my pending payment of 3000 USD to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "amount": "3000",
+      "currency": "USD",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "cancel the pending payment to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 50000 INR to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "50000",
+      "currency": "INR",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled this friday to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "this friday",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 4500 dollars to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "4500",
+      "currency": "dollars",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel payment payment id PMT-2291 because change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 18000 GBP to rajesh kumar",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "please stop payment instruction id INST-8821, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel instruction id INST-8821 due to duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel my pending transaction invoice 7781",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "cancel payment reference number REF3321 because vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel the pending payment to the insurance company for 100000 rupees",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "amount": "100000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my current account to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "current account",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel invoice 7781 due to change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel transaction TXN88213 due to wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the pending payment to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "stop the payment of 100000 GBP to abc metals, change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "GBP",
+      "beneficiary": "abc metals",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821 because wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the payment of 50000 pounds scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "pounds",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel the payment of 10000 USD scheduled yesterday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "USD",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "cancel the payment of 1200 GBP scheduled this friday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled tomorrow to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "tomorrow",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "cancel the processing payment to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "cancel the queued payment to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel the pending payment to the insurance company for 5000 dollars",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "amount": "5000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to rajesh kumar from usd account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "please stop payment order id ORD-7712, change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the payment of 18000 rupees scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "rupees",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "cancel invoice 7781 due to no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "cancel invoice 7781 due to wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my my main account to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "my main account",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "please stop payment order id ORD-7712, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel payment id PMT-2291 due to vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "stop the payment of 18000 EUR to global traders, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "EUR",
+      "beneficiary": "global traders",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel my pending transaction instruction id INST-8821",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "please cancel my pending payment of 500 pounds to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "amount": "500",
+      "currency": "pounds",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 10000 rupees to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "10000",
+      "currency": "rupees",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "cancel the payment of 35000 rupees scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "stop the payment of 15000 INR to priya sharma, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "INR",
+      "beneficiary": "priya sharma",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "please cancel my pending payment of 100000 GBP to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "amount": "100000",
+      "currency": "GBP",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "cancel payment payment id PMT-2291 because found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "cancel the payment of 4500 GBP scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "GBP",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my savings account to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "savings account",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel the payment of 35000 rupees scheduled this friday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "cancel invoice 7781 due to duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 3000 INR to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "3000",
+      "currency": "INR",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for the 5th to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for next monday to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for next monday",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "cancel the payment of 1200 GBP scheduled scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for next monday to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for next monday",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "cancel order id ORD-7712 due to vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to city hospital from salary account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "cancel the pending payment to my landlord for 2500 euros",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "amount": "2500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "cancel payment id PMT-2291 due to insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my account ending 4521 to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "cancel the payment of 4500 dollars scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "dollars",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to steel suppliers ltd from my main account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to raj electronics from account ending 4521",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "cancel the pending payment to tech solutions inc for 10000 EUR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "amount": "10000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "please stop payment transaction TXN88213, change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the processing payment to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel the payment of 15000 pounds scheduled yesterday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "pounds",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my usd account to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "usd account",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "cancel payment reference number REF3321 because change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my current account to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "current account",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "cancel the payment of 22000 USD scheduled scheduled for the 5th",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "USD",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 100000 rupees to rajesh kumar",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "100000",
+      "currency": "rupees",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for the 5th to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 1200 dollars to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "1200",
+      "currency": "dollars",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "stop the payment of 5000 GBP to city hospital, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "GBP",
+      "beneficiary": "city hospital",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "stop the payment of 3000 USD to abc metals, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "USD",
+      "beneficiary": "abc metals",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to the insurance company from current account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "cancel the payment of 500 rupees scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "rupees",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my business account to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "business account",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel payment order id ORD-7712 because found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my corporate account to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "corporate account",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel the awaiting approval payment to rajesh kumar",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to the insurance company from business account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 22000 euros to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "22000",
+      "currency": "euros",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "cancel the queued payment to john smith",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my salary account to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "salary account",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel payment instruction id INST-8821 because no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "cancel the pending payment to anita desai for 10000 GBP",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "amount": "10000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "please stop payment transaction TXN88213, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "please stop payment transaction TXN88213, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the queued payment to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel the payment of 10000 INR scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "INR",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel the payment of 35000 dollars scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "dollars",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel the pending payment to the insurance company for 100000 INR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "amount": "100000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "cancel the pending payment to priya sharma for 10000 euros",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "amount": "10000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to sunrise textiles from salary account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled tomorrow to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "tomorrow",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel payment payment id PMT-2291 because duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the pending payment to anita desai for 10000 rupees",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "amount": "10000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "stop the payment of 100000 pounds to john smith, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "pounds",
+      "beneficiary": "john smith",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to raj electronics from current account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "stop the payment of 500 INR to sunrise textiles, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "INR",
+      "beneficiary": "sunrise textiles",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel the pending payment to marketing agency for 10000 GBP",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "amount": "10000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "stop the payment of 50000 dollars to acme industries, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "dollars",
+      "beneficiary": "acme industries",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel the pending payment to the insurance company for 35000 EUR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "amount": "35000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "please stop payment invoice 7781, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to city hospital from current account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "cancel the payment of 1200 euros scheduled tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "euros",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to david miller from account ending 4521",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "stop the payment of 35000 euros to anita desai, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "euros",
+      "beneficiary": "anita desai",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the payment of 75000 EUR scheduled this friday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "EUR",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "cancel the payment of 500 euros scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "euros",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "stop the payment of 5000 INR to abc metals, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "INR",
+      "beneficiary": "abc metals",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled yesterday to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "yesterday",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel the payment of 18000 INR scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "INR",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my salary account to the insurance company",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "salary account",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "cancel transaction TXN88213 due to wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 15000 INR to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "15000",
+      "currency": "INR",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled this friday to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "this friday",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel the payment of 35000 EUR scheduled yesterday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "EUR",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "please stop payment reference number REF3321, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "stop the payment of 10000 euros to david miller, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros",
+      "beneficiary": "david miller",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel order id ORD-7712 due to duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "stop the payment of 15000 rupees to acme industries, no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "rupees",
+      "beneficiary": "acme industries",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 500 pounds to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "500",
+      "currency": "pounds",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "cancel reference number REF3321 due to change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to tech solutions inc from my main account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my usd account to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "usd account",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "cancel my processing transaction transaction TXN88213",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to abc metals from current account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "stop the payment of 1200 euros to the insurance company, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "euros",
+      "beneficiary": "the insurance company",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel payment reference number REF3321 because duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the payment of 4500 pounds scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "pounds",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 5000 USD to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "5000",
+      "currency": "USD",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to john smith",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "cancel the payment of 3000 pounds scheduled this friday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "pounds",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to my landlord from savings account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my my main account to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "my main account",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for next monday to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for next monday",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 22000 pounds to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "22000",
+      "currency": "pounds",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "cancel the pending payment to rajesh kumar for 10000 USD",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "amount": "10000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "stop the payment of 4500 rupees to john smith, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "rupees",
+      "beneficiary": "john smith",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for the 5th to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel the payment of 1200 rupees scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "rupees",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "stop the payment of 5000 dollars to raj electronics, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "dollars",
+      "beneficiary": "raj electronics",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the pending payment to marketing agency for 100000 pounds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "amount": "100000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 18000 pounds to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "18000",
+      "currency": "pounds",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my corporate account to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "corporate account",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled yesterday to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "yesterday",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled yesterday to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "yesterday",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "cancel the awaiting approval payment to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 22000 GBP to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "22000",
+      "currency": "GBP",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my savings account to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "savings account",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel payment reference number REF3321 because found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 75000 pounds to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "75000",
+      "currency": "pounds",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my corporate account to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "corporate account",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "cancel the pending payment to david miller for 4500 USD",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "amount": "4500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "stop the payment of 4500 pounds to the insurance company, found an error in details",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "pounds",
+      "beneficiary": "the insurance company",
+      "reason": "found an error in details"
+    }
+  },
+  {
+    "input": "please stop payment instruction id INST-8821, no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "instruction id INST-8821",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "cancel the awaiting approval payment to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "stop the payment of 18000 pounds to my landlord, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "pounds",
+      "beneficiary": "my landlord",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "stop the payment of 5000 GBP to marketing agency, wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "GBP",
+      "beneficiary": "marketing agency",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "stop the payment of 3000 INR to the electricity board, wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "INR",
+      "beneficiary": "the electricity board",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled yesterday to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "yesterday",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel order id ORD-7712 due to no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "stop the payment of 50000 EUR to raj electronics, vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "EUR",
+      "beneficiary": "raj electronics",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to abc metals from salary account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "stop the payment of 50000 euros to tech solutions inc, change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros",
+      "beneficiary": "tech solutions inc",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled tomorrow to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "tomorrow",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to john smith from business account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "cancel the pending payment to sunrise textiles for 18000 rupees",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "amount": "18000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 4500 euros to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "4500",
+      "currency": "euros",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to sunrise textiles from business account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to abc metals from account ending 4521",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my savings account to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "savings account",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "stop the payment of 2500 euros to marketing agency, change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "euros",
+      "beneficiary": "marketing agency",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to david miller from business account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "cancel the payment of 2500 euros scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "euros",
+      "time": "today"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 4500 EUR to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "4500",
+      "currency": "EUR",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "cancel payment id PMT-2291 due to change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "please stop payment reference number REF3321, wrong amount entered",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321",
+      "reason": "wrong amount entered"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 50000 dollars to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "50000",
+      "currency": "dollars",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel the payment to acme industries",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my salary account to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "salary account",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "cancel the pending payment to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "pending",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 10000 INR to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "10000",
+      "currency": "INR",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "please cancel my queued payment of 10000 dollars to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "amount": "10000",
+      "currency": "dollars",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled yesterday to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "yesterday",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled today to abc metals",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "today",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "cancel the payment of 500 euros scheduled tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "euros",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "cancel the payment of 75000 EUR scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "EUR",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel the payment of 5000 rupees scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "rupees",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my usd account to priya sharma",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "usd account",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to john smith from corporate account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "cancel the payment of 75000 INR scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "INR",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "cancel the payment to rajesh kumar",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled this friday to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "this friday",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "cancel the pending payment to global traders for 3000 dollars",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "amount": "3000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "cancel payment order id ORD-7712 because duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel payment invoice 7781 because vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "stop the payment of 50000 pounds to abc metals, duplicate payment",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "pounds",
+      "beneficiary": "abc metals",
+      "reason": "duplicate payment"
+    }
+  },
+  {
+    "input": "cancel the payment of 22000 dollars scheduled scheduled for next monday",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "dollars",
+      "time": "scheduled for next monday"
+    }
+  },
+  {
+    "input": "cancel the pending payment to city hospital for 100000 INR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "amount": "100000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "cancel the pending payment to raj electronics for 75000 pounds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "amount": "75000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled today to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "today",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 35000 rupees to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "35000",
+      "currency": "rupees",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to global traders from savings account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 18000 INR to global traders",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "18000",
+      "currency": "INR",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "stop the payment of 2500 USD to marketing agency, no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "USD",
+      "beneficiary": "marketing agency",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "cancel payment payment id PMT-2291 because vendor asked to hold it",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "vendor asked to hold it"
+    }
+  },
+  {
+    "input": "cancel the payment of 3000 rupees scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "rupees",
+      "time": "today"
+    }
+  },
+  {
+    "input": "cancel the processing payment to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 35000 pounds to sunrise textiles",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "35000",
+      "currency": "pounds",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "please cancel my awaiting approval payment of 75000 INR to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "awaiting approval",
+      "amount": "75000",
+      "currency": "INR",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "cancel payment order id ORD-7712 because no longer needed",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712",
+      "reason": "no longer needed"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my salary account to steel suppliers ltd",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "salary account",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "cancel payment invoice 7781 because insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled scheduled for next monday to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "scheduled for next monday",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 5000 INR to raj electronics",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "5000",
+      "currency": "INR",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "cancel my queued transaction transaction TXN88213",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to anita desai",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "cancel the queued payment to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "queued",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "please cancel my scheduled payment of 50000 GBP to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "amount": "50000",
+      "currency": "GBP",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "stop the payment of 10000 INR to sunrise textiles, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "INR",
+      "beneficiary": "sunrise textiles",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "stop the payment of 50000 INR to david miller, change of plans",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "INR",
+      "beneficiary": "david miller",
+      "reason": "change of plans"
+    }
+  },
+  {
+    "input": "cancel the payment of 500 rupees scheduled today",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "rupees",
+      "time": "today"
+    }
+  },
+  {
+    "input": "cancel the processing payment to my landlord",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "cancel the pending payment to steel suppliers ltd for 75000 euros",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "amount": "75000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled this friday to marketing agency",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "this friday",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "i need to cancel a payment to david miller from salary account",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled set for next week to david miller",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "set for next week",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "cancel the payment of 2500 rupees scheduled set for next week",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "rupees",
+      "time": "set for next week"
+    }
+  },
+  {
+    "input": "cancel payment payment id PMT-2291 because insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel the pending payment to rajesh kumar for 2500 EUR",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "amount": "2500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "stop the payment of 10000 euros to steel suppliers ltd, wrong beneficiary",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros",
+      "beneficiary": "steel suppliers ltd",
+      "reason": "wrong beneficiary"
+    }
+  },
+  {
+    "input": "cancel the payment of 15000 EUR scheduled tomorrow",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "EUR",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "cancel the scheduled payment to steel suppliers ltd",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "scheduled",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "cancel the transfer scheduled today to tech solutions inc",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "time": "today",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "stop the payment of 50000 euros to priya sharma, insufficient funds",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros",
+      "beneficiary": "priya sharma",
+      "reason": "insufficient funds"
+    }
+  },
+  {
+    "input": "cancel the pending payment to raj electronics for 2500 dollars",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "amount": "2500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "please cancel my processing payment of 75000 EUR to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "status": "processing",
+      "amount": "75000",
+      "currency": "EUR",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "i want to cancel the payment from my business account to the electricity board",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "account": "business account",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "cancel the payment to city hospital",
+    "intent": "CANCEL_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital"
+    }
+  }
+]

@@ -1,0 +1,4035 @@
+[
+  {
+    "input": "get my transaction history the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "list transactions with rajesh kumar the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show pending refund transactions on current account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "refund",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "list all failed transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show all payment above 1200",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "amount": "1200"
+    }
+  },
+  {
+    "input": "show pending withdrawal transactions on salary account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "withdrawal",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "list transactions with marketing agency this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show me interest transactions to steel suppliers ltd",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "show me debit transactions to john smith",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "list all payments to anita desai that are cancelled",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "cancelled"
+    }
+  },
+  {
+    "input": "show my my main account history today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show transactions from business account this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show all transactions 500 USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show me my transaction history for salary account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "find transactions related to transaction TXN88213",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "show me my transaction history for usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "list transactions with anita desai between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show reversed fee transactions on current account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "fee",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show transactions from savings account between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show rejected charge transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "charge",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show transactions from corporate account today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show pending withdrawal transactions on current account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "withdrawal",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "get all refund transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show all credit above under 2000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "amount": "under 2000"
+    }
+  },
+  {
+    "input": "list all payments to abc metals that are reversed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "status": "reversed"
+    }
+  },
+  {
+    "input": "list all payments to rajesh kumar that are pending",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "list all payments to global traders that are successful",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "global traders",
+      "status": "successful"
+    }
+  },
+  {
+    "input": "get all payment transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show failed fee transactions on current account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "fee",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "list transactions with abc metals last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show transactions from usd account today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show all transactions 1200 pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "1200",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show all transactions between 1000 and 5000 euros",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "between 1000 and 5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show cancelled withdrawal transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "transaction_type": "withdrawal",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "find transactions related to invoice 7781",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "list transactions with tech solutions inc last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "get transaction history for account ending 4521 in INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "list all failed transactions yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show transactions from usd account from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show my recent transactions",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {}
+  },
+  {
+    "input": "show all transactions 1200 USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "1200",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show cancelled withdrawal transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "transaction_type": "withdrawal",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show transactions from salary account yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "get my transaction history between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "list transactions with john smith this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "get my transaction history this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "list all payments to tech solutions inc that are rejected",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "rejected"
+    }
+  },
+  {
+    "input": "get transaction history for my main account in euros",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "list all reversed transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "list transactions with the electricity board this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show all transactions 15000 dollars",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "15000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show me withdrawal transactions to abc metals",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "show all transactions above 50000 dollars",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "above 50000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show transactions from salary account today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show my corporate account history this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "list transactions with tech solutions inc yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "list all payments to anita desai that are failed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "failed"
+    }
+  },
+  {
+    "input": "show all credit above 2500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "amount": "2500"
+    }
+  },
+  {
+    "input": "show all transactions under 2000 rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "under 2000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get all debit transactions last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show me refund transactions to the electricity board",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "show me fee transactions to global traders",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "show my account ending 4521 history this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "list all failed transactions from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show all transactions under 2000 USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "under 2000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list all payments to rajesh kumar that are successful",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "successful"
+    }
+  },
+  {
+    "input": "show all transactions 10000 rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "10000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show me my transaction history for account ending 4521",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "get my transaction history yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show my corporate account history this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show my account ending 4521 history between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show my my main account history last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "get transaction history for usd account in USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list all reversed transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show my account ending 4521 history last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "list transactions with anita desai last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show transactions from my main account from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "find transactions related to reference number REF3321",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "get transaction history for account ending 4521 in pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show transactions from account ending 4521 last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "list transactions with rajesh kumar today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show transactions from account ending 4521 today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show failed deposit transactions on corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "deposit",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show all debit above 2500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "amount": "2500"
+    }
+  },
+  {
+    "input": "get transaction history for account ending 4521 in EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "get transaction history for business account in EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show me my transaction history for my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show me debit transactions to abc metals",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "show me charge transactions to steel suppliers ltd",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "show transactions from business account last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me deposit transactions to tech solutions inc",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "list all rejected transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "list transactions with anita desai this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show all transactions under 2000 pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "under 2000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show all transactions above 50000 pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "above 50000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show all transactions 10000 INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "10000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show me credit transactions to global traders",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "get all deposit transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "list all reversed transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show me payment transactions to the electricity board",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "get transaction history for salary account in GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show failed deposit transactions on business account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "deposit",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "get all fee transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show all transactions 10000 GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "10000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show my corporate account history between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show my my main account history last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "list transactions with abc metals this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show reversed deposit transactions on current account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "deposit",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "list all reversed transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show all transactions 500 dollars",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show me refund transactions to anita desai",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "get all debit transactions from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "get all payment transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show my account ending 4521 history today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show my business account history from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show all debit above between 1000 and 5000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "amount": "between 1000 and 5000"
+    }
+  },
+  {
+    "input": "list all successful transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "list transactions with tech solutions inc between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "list transactions with tech solutions inc last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get my transaction history this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show me transfer transactions to marketing agency",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "list transactions with rajesh kumar last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "list all failed transactions last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "list all payments to priya sharma that are reversed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "status": "reversed"
+    }
+  },
+  {
+    "input": "show all refund above above 50000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "amount": "above 50000"
+    }
+  },
+  {
+    "input": "show transactions from savings account yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "list all payments to abc metals that are failed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "status": "failed"
+    }
+  },
+  {
+    "input": "get my transaction history last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "last week"
+    }
+  },
+  {
+    "input": "list all successful transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show cancelled fee transactions on salary account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "transaction_type": "fee",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show transactions from business account last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show me refund transactions to priya sharma",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "show me withdrawal transactions to anita desai",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "list transactions with global traders this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show me interest transactions to marketing agency",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "show transactions from current account this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show me debit transactions to global traders",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "get all transfer transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "get transaction history for savings account in INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "list all successful transactions today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "time": "today"
+    }
+  },
+  {
+    "input": "list all successful transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "list all payments to tech solutions inc that are successful",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "successful"
+    }
+  },
+  {
+    "input": "find transactions related to order id ORD-7712",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "list all payments to steel suppliers ltd that are pending",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "list all payments to priya sharma that are rejected",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "status": "rejected"
+    }
+  },
+  {
+    "input": "list transactions with marketing agency this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "list all payments to global traders that are failed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "global traders",
+      "status": "failed"
+    }
+  },
+  {
+    "input": "get my transaction history today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "today"
+    }
+  },
+  {
+    "input": "show my corporate account history last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "list transactions with tech solutions inc the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show all deposit above 500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "amount": "500"
+    }
+  },
+  {
+    "input": "list transactions with rajesh kumar between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show all withdrawal above above 50000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "amount": "above 50000"
+    }
+  },
+  {
+    "input": "show transactions from salary account from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "list all pending transactions from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "list transactions with abc metals the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show all credit above 10000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "amount": "10000"
+    }
+  },
+  {
+    "input": "show all transfer above 10000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "amount": "10000"
+    }
+  },
+  {
+    "input": "get transaction history for corporate account in INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "get transaction history for usd account in pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show failed payment transactions on salary account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "payment",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show me refund transactions to steel suppliers ltd",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "list all payments to john smith that are cancelled",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "john smith",
+      "status": "cancelled"
+    }
+  },
+  {
+    "input": "show me my transaction history for current account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show my current account history last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show my usd account history last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show rejected credit transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "credit",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "get transaction history for my main account in pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "list all payments to anita desai that are pending",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show all transactions 500 INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "get all withdrawal transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "get all transfer transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "list transactions with abc metals yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "list all payments to rajesh kumar that are rejected",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "rejected"
+    }
+  },
+  {
+    "input": "show all deposit above above 50000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "amount": "above 50000"
+    }
+  },
+  {
+    "input": "get transaction history for account ending 4521 in USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list all reversed transactions today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show me fee transactions to john smith",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "show transactions from savings account last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "list transactions with global traders the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show my usd account history the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show all transactions above 50000 EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "above 50000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "get transaction history for current account in INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "list all payments to the electricity board that are rejected",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "status": "rejected"
+    }
+  },
+  {
+    "input": "show failed charge transactions on account ending 4521",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "charge",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show all transactions above 50000 USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "above 50000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list all failed transactions last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "get my transaction history from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show all interest above 500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "amount": "500"
+    }
+  },
+  {
+    "input": "show reversed credit transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "credit",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "list transactions with global traders last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get all fee transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show all transactions 10000 pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "10000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show transactions from corporate account last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "list all cancelled transactions today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show pending refund transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "refund",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get transaction history for my main account in dollars",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show all withdrawal above between 1000 and 5000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "amount": "between 1000 and 5000"
+    }
+  },
+  {
+    "input": "list all payments to tech solutions inc that are cancelled",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "cancelled"
+    }
+  },
+  {
+    "input": "get transaction history for my main account in GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show me my transaction history for corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show transactions from current account yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "get transaction history for business account in GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show transactions from savings account from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show me payment transactions to priya sharma",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "show all transactions 500 euros",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show failed fee transactions on business account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "fee",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "list all cancelled transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show me payment transactions to global traders",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "get all interest transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show all payment above 5000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "amount": "5000"
+    }
+  },
+  {
+    "input": "show my salary account history yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show all transactions 10000 euros",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "list transactions with rajesh kumar this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show rejected charge transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "charge",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "list all failed transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show all transactions 15000 INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "15000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show me fee transactions to tech solutions inc",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "show transactions from salary account last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show all refund above 5000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "amount": "5000"
+    }
+  },
+  {
+    "input": "show all credit above above 50000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "amount": "above 50000"
+    }
+  },
+  {
+    "input": "show successful refund transactions on corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "transaction_type": "refund",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show me transfer transactions to abc metals",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "get transaction history for usd account in INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "list all payments to marketing agency that are pending",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "list all rejected transactions today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "time": "today"
+    }
+  },
+  {
+    "input": "get my transaction history last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "list transactions with the electricity board between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show all transactions 5000 rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "5000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get all transfer transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show all refund above 500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "amount": "500"
+    }
+  },
+  {
+    "input": "show my current account history from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show me my transaction history for business account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account"
+    }
+  },
+  {
+    "input": "list all pending transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show all refund above 2500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "amount": "2500"
+    }
+  },
+  {
+    "input": "get all credit transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "get all debit transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show transactions from usd account between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "get all deposit transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show rejected refund transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "refund",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show all charge above under 2000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "amount": "under 2000"
+    }
+  },
+  {
+    "input": "show all transactions 500 pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show transactions from usd account yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show reversed interest transactions on account ending 4521",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "interest",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show me payment transactions to rajesh kumar",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "list all reversed transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show transactions from corporate account the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show my usd account history last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show my salary account history last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me payment transactions to abc metals",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "show transactions from salary account this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show all interest above under 2000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "amount": "under 2000"
+    }
+  },
+  {
+    "input": "get all fee transactions last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show my my main account history the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get all withdrawal transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show all transactions under 2000 GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "under 2000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "get all deposit transactions from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "get all deposit transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "list transactions with priya sharma last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "get transaction history for savings account in dollars",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "list transactions with anita desai today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show reversed refund transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "refund",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "list transactions with steel suppliers ltd yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me credit transactions to priya sharma",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "show transactions from account ending 4521 yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me payment transactions to anita desai",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "list all payments to anita desai that are reversed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "reversed"
+    }
+  },
+  {
+    "input": "show reversed transfer transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "transfer",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show transactions from my main account yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "list transactions with anita desai this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show all fee above under 2000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "amount": "under 2000"
+    }
+  },
+  {
+    "input": "list transactions with the electricity board yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me credit transactions to john smith",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "list transactions with john smith last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "list all reversed transactions last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show all transactions 5000 EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show cancelled fee transactions on business account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "transaction_type": "fee",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "get all fee transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show failed payment transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "payment",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "get all credit transactions last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "list all pending transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show my salary account history last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get transaction history for salary account in EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show me transfer transactions to global traders",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "get all refund transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show failed refund transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "refund",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show transactions from usd account last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show all transactions 2500 GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "2500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show me fee transactions to priya sharma",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "get my transaction history last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get transaction history for usd account in rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show pending deposit transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "deposit",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "get transaction history for business account in rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show me credit transactions to abc metals",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "list transactions with marketing agency today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show my business account history this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show my salary account history this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "get all interest transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show me interest transactions to anita desai",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "show my usd account history between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show rejected payment transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "payment",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "get transaction history for savings account in GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list transactions with abc metals between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "list all pending transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "list transactions with abc metals last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show all transactions 10000 dollars",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "10000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show me debit transactions to the electricity board",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "show rejected debit transactions on corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "debit",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "list all successful transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show transactions from corporate account between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show all transactions between 1000 and 5000 EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "between 1000 and 5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "get all payment transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show all fee above 2500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "amount": "2500"
+    }
+  },
+  {
+    "input": "show pending transfer transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "transfer",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "list all failed transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show transactions from salary account the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get all debit transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show all charge above 1200",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "amount": "1200"
+    }
+  },
+  {
+    "input": "show my corporate account history the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show me charge transactions to global traders",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "show transactions from savings account today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show successful payment transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "transaction_type": "payment",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "get all payment transactions yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show transactions from my main account this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show successful debit transactions on corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "transaction_type": "debit",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show rejected withdrawal transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "withdrawal",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "list all payments to john smith that are failed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "john smith",
+      "status": "failed"
+    }
+  },
+  {
+    "input": "get transaction history for salary account in INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show all fee above above 50000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "amount": "above 50000"
+    }
+  },
+  {
+    "input": "show all transactions under 2000 INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "under 2000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show transactions from current account this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "get transaction history for savings account in EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show cancelled charge transactions on business account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "transaction_type": "charge",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "list all payments to the electricity board that are failed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "status": "failed"
+    }
+  },
+  {
+    "input": "show me my transaction history for savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "list transactions with the electricity board the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show my my main account history from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show pending charge transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "charge",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show transactions from salary account between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "show transactions from business account last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show all transactions 1200 GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show successful refund transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "transaction_type": "refund",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "get all charge transactions today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "time": "today"
+    }
+  },
+  {
+    "input": "list all cancelled transactions from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "list transactions with steel suppliers ltd this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "list transactions with john smith from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show transactions from current account today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show failed payment transactions on corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "payment",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show me fee transactions to abc metals",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "show all transactions between 1000 and 5000 USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "between 1000 and 5000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show rejected charge transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "charge",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show my savings account history this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show all transactions 15000 euros",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "15000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "get all credit transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show all withdrawal above 1200",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "amount": "1200"
+    }
+  },
+  {
+    "input": "list all cancelled transactions last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me debit transactions to marketing agency",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "get all withdrawal transactions yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show pending interest transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "interest",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get all withdrawal transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show pending refund transactions on account ending 4521",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "refund",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "get all interest transactions last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "list all successful transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "get transaction history for salary account in USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show transactions from usd account the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get transaction history for salary account in pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "list all cancelled transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "get transaction history for business account in USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "get transaction history for savings account in pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "savings account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "list all payments to rajesh kumar that are failed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "failed"
+    }
+  },
+  {
+    "input": "get transaction history for usd account in EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show pending deposit transactions on corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "deposit",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show my corporate account history from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show all deposit above under 2000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "amount": "under 2000"
+    }
+  },
+  {
+    "input": "list all payments to abc metals that are cancelled",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "status": "cancelled"
+    }
+  },
+  {
+    "input": "show all charge above 10000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "amount": "10000"
+    }
+  },
+  {
+    "input": "get transaction history for business account in dollars",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show transactions from business account the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show successful withdrawal transactions on corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "transaction_type": "withdrawal",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "list transactions with rajesh kumar last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show all transactions above 50000 rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "above 50000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get all credit transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show my salary account history the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show my usd account history today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "usd account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "get all credit transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "list transactions with tech solutions inc from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "list all rejected transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "list all payments to steel suppliers ltd that are reversed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "reversed"
+    }
+  },
+  {
+    "input": "show all transactions between 1000 and 5000 INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "between 1000 and 5000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show transactions from account ending 4521 last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show all debit above above 50000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "amount": "above 50000"
+    }
+  },
+  {
+    "input": "show all payment above 15000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "amount": "15000"
+    }
+  },
+  {
+    "input": "get all charge transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show rejected transfer transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "transfer",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "get all transfer transactions from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show all transactions 5000 euros",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show my my main account history last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me refund transactions to marketing agency",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "show me payment transactions to tech solutions inc",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "show all transactions 500 EUR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show all transactions 2500 rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "2500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "list all successful transactions from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "show all transactions 500 GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show my current account history last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show cancelled refund transactions on corporate account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "transaction_type": "refund",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show transactions from my main account last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "list all payments to priya sharma that are cancelled",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "status": "cancelled"
+    }
+  },
+  {
+    "input": "show all transfer above above 50000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "amount": "above 50000"
+    }
+  },
+  {
+    "input": "list transactions with priya sharma yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "list transactions with global traders last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "get all refund transactions last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me transfer transactions to john smith",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "get all charge transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "list transactions with abc metals this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show all payment above 2500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "amount": "2500"
+    }
+  },
+  {
+    "input": "show me interest transactions to abc metals",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "get all charge transactions last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show all transfer above between 1000 and 5000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "amount": "between 1000 and 5000"
+    }
+  },
+  {
+    "input": "list all failed transactions this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show me debit transactions to steel suppliers ltd",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "list all pending transactions last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show transactions from current account the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show reversed credit transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "credit",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "list all rejected transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "get all withdrawal transactions today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show all transactions between 1000 and 5000 dollars",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "between 1000 and 5000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show all transfer above under 2000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "amount": "under 2000"
+    }
+  },
+  {
+    "input": "list all rejected transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get all withdrawal transactions last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show me credit transactions to marketing agency",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "get transaction history for account ending 4521 in euros",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "get all deposit transactions last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "show all charge above 5000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "amount": "5000"
+    }
+  },
+  {
+    "input": "list transactions with marketing agency the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "list all payments to global traders that are cancelled",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "global traders",
+      "status": "cancelled"
+    }
+  },
+  {
+    "input": "get all deposit transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show transactions from business account today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show all transactions above 50000 INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "above 50000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "get all payment transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show all fee above 500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "amount": "500"
+    }
+  },
+  {
+    "input": "show all credit above 5000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "amount": "5000"
+    }
+  },
+  {
+    "input": "show all credit above 15000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "amount": "15000"
+    }
+  },
+  {
+    "input": "list all cancelled transactions last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show cancelled transfer transactions on my main account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "transaction_type": "transfer",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show my salary account history today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show me withdrawal transactions to the electricity board",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "show reversed charge transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "charge",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show pending transfer transactions on current account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "pending",
+      "transaction_type": "transfer",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "list all payments to anita desai that are rejected",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "rejected"
+    }
+  },
+  {
+    "input": "show failed charge transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "charge",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show all transactions 15000 GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "15000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show all transactions 5000 GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "5000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show all transactions 5000 INR",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "5000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "get all interest transactions from 1st june to 30th june",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "get all fee transactions yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show rejected deposit transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "deposit",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "list transactions with rajesh kumar yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "get all charge transactions yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "charge",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show all payment above under 2000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "amount": "under 2000"
+    }
+  },
+  {
+    "input": "show me debit transactions to tech solutions inc",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "get transaction history for salary account in rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "salary account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show my current account history this year",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "show me transfer transactions to rajesh kumar",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "show reversed fee transactions on usd account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "fee",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show reversed transfer transactions on account ending 4521",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "reversed",
+      "transaction_type": "transfer",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "get all deposit transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get all refund transactions the past 3 months",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "show me payment transactions to john smith",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "get all interest transactions between last monday and today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "time": "between last monday and today"
+    }
+  },
+  {
+    "input": "list transactions with john smith yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show all transactions above 50000 GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "above 50000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show all deposit above 15000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "amount": "15000"
+    }
+  },
+  {
+    "input": "show failed fee transactions on salary account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "fee",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show me deposit transactions to john smith",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "show all interest above 1200",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "interest",
+      "amount": "1200"
+    }
+  },
+  {
+    "input": "list transactions with global traders last week",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get all payment transactions today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "payment",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show all credit above 500",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "credit",
+      "amount": "500"
+    }
+  },
+  {
+    "input": "list all cancelled transactions this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "list all cancelled transactions yesterday",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "cancelled",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "get all transfer transactions last month",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "transfer",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "show rejected transfer transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "transfer",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show rejected deposit transactions on savings account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "rejected",
+      "transaction_type": "deposit",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "list all payments to rajesh kumar that are reversed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "reversed"
+    }
+  },
+  {
+    "input": "list all payments to john smith that are reversed",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "john smith",
+      "status": "reversed"
+    }
+  },
+  {
+    "input": "show me withdrawal transactions to marketing agency",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "withdrawal",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "get transaction history for corporate account in USD",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "corporate account",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "get transaction history for current account in rupees",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show all debit above 10000",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "debit",
+      "amount": "10000"
+    }
+  },
+  {
+    "input": "show all fee above 1200",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "fee",
+      "amount": "1200"
+    }
+  },
+  {
+    "input": "show transactions from business account this quarter",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "business account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "show successful refund transactions on current account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "successful",
+      "transaction_type": "refund",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show transactions from my main account today",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "my main account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show me deposit transactions to the electricity board",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "deposit",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "show failed refund transactions on salary account",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "status": "failed",
+      "transaction_type": "refund",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "list transactions with steel suppliers ltd last 7 days",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "last 7 days"
+    }
+  },
+  {
+    "input": "show all transactions 15000 pounds",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "amount": "15000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show me refund transactions to john smith",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "transaction_type": "refund",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "get transaction history for current account in GBP",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "account": "current account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list all payments to steel suppliers ltd that are cancelled",
+    "intent": "TRANSACTION_HISTORY",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "cancelled"
+    }
+  }
+]

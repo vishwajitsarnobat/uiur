@@ -1,0 +1,3942 @@
+[
+  {
+    "input": "what payments are waiting execution in the next 3 days",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "time": "in the next 3 days"
+    }
+  },
+  {
+    "input": "show me pending authorization payments for instruction id INST-8821",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "list payments queued for today from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "what payments are awaiting approval in the next 3 days",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "time": "in the next 3 days"
+    }
+  },
+  {
+    "input": "list scheduled payments for this month",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month"
+    }
+  },
+  {
+    "input": "what's pending on my account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "list scheduled payments this week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week"
+    }
+  },
+  {
+    "input": "what's pending on my savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get pending payments above under 5000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for priya sharma",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "what payments are processing in the next 3 days",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "time": "in the next 3 days"
+    }
+  },
+  {
+    "input": "show me awaiting approval payments for invoice 7781",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for steel suppliers ltd",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "what payments are scheduled for this month",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month"
+    }
+  },
+  {
+    "input": "show me all pending payments",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {}
+  },
+  {
+    "input": "list all pending transfers using wire transfer",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "what payments are scheduled in the next 3 days",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days"
+    }
+  },
+  {
+    "input": "list scheduled payments today",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today"
+    }
+  },
+  {
+    "input": "what payments are pending authorization scheduled for the 5th",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "show pending payments from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "list payments queued for today from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "what payments are pending authorization in the next 3 days",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "time": "in the next 3 days"
+    }
+  },
+  {
+    "input": "what's pending on my my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for city hospital",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for sunrise textiles",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "show me awaiting approval payments for instruction id INST-8821",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "what payments are still awaiting authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {}
+  },
+  {
+    "input": "show pending payments 35000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "what payments are scheduled next week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "next week"
+    }
+  },
+  {
+    "input": "list scheduled payments tomorrow",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for tech solutions inc",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "show pending payments 5000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments under 5000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "list scheduled payments scheduled for the 5th",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "list payments queued for scheduled for the 5th from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show me waiting execution payments for instruction id INST-8821",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "show pending payments 5000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "what's pending on my usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "list scheduled payments in the next 3 days",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days"
+    }
+  },
+  {
+    "input": "what's pending on my salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show awaiting approval payments from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "what payments are processing today",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "time": "today"
+    }
+  },
+  {
+    "input": "get pending payments above 1200 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "what payments are scheduled scheduled for the 5th",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "list all scheduled transfers using SWIFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "what payments are scheduled this week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week"
+    }
+  },
+  {
+    "input": "show pending payments 2500 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list payments queued for for this month from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "list pending payments to priya sharma",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "list payments queued for today from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show all payments to john smith that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "john smith",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for abc metals",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "show pending payments 10000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "list all pending transfers using IMPS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "list all pending transfers using RTGS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "show me pending payments for invoice 7781",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for the electricity board",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "show all payments to anita desai that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "show waiting execution payments from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show pending payments 10000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list all processing transfers using RTGS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "show me waiting execution payments for order id ORD-7712",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "show pending payments 50000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show all payments to priya sharma that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "what's pending on my current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show all payments to rajesh kumar that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show awaiting approval payments from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "get pending payments above 5000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show me pending authorization payments for reference number REF3321",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "list payments queued for this week from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show me processing payments for instruction id INST-8821",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "list pending payments to acme industries",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for global traders",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "show me waiting execution payments for reference number REF3321",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "show scheduled payments from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for david miller",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "get pending payments above 1200 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show awaiting approval payments from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show pending payments 22000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list pending payments to rajesh kumar",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "list all scheduled transfers using ACH",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "get pending payments above 75000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "list pending payments to anita desai",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "show me processing payments for order id ORD-7712",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "show scheduled payments from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show pending payments 15000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "what payments are pending today",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show pending payments 15000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "list payments queued for for this month from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "get pending payments above 500 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show pending payments above 100000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "what payments are pending scheduled for the 5th",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "list payments queued for scheduled for the 5th from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "list payments queued for in the next 3 days from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "list pending payments to the electricity board",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "what payments are scheduled tomorrow",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "what payments are scheduled today",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today"
+    }
+  },
+  {
+    "input": "what's pending on my business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "account": "business account"
+    }
+  },
+  {
+    "input": "get pending payments above 5000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show pending authorization payments from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "get pending payments above 15000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show all payments to acme industries that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "acme industries",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "list pending payments to global traders",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "what payments are processing scheduled for the 5th",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "list pending payments to david miller",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "show pending payments 50000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show pending authorization payments from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "get pending payments above 2500 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "what payments are processing tomorrow",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "show processing payments from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "list pending payments to city hospital",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "show me scheduled payments for invoice 7781",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "show pending authorization payments from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "list all processing transfers using IMPS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "show all payments to priya sharma that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "list pending payments to tech solutions inc",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for my landlord",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "get pending payments above under 5000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "list payments queued for in the next 3 days from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "list payments queued for this week from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "get pending payments above 10000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show pending payments 10000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for anita desai",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "list payments queued for scheduled for the 5th from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "list all pending authorization transfers using SWIFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "list payments queued for next week from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "next week",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "get pending payments above 500 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "list all processing transfers using SEPA",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "show pending payments 2500 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list pending payments to abc metals",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "show scheduled payments from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "list pending payments to raj electronics",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "list all waiting execution transfers using wire transfer",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "get pending payments above 22000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show processing payments from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show all payments to global traders that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "global traders",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show pending payments 50000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show processing payments from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "list payments queued for for this month from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get pending payments above 35000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list all pending transfers using SWIFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "show processing payments from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "list all pending authorization transfers using wire transfer",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "list all scheduled transfers using SEPA",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "get pending payments above 22000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "list all waiting execution transfers using SEPA",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "get pending payments above 10000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "list payments queued for tomorrow from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "tomorrow",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for raj electronics",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "show me processing payments for reference number REF3321",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "what payments are awaiting approval scheduled for the 5th",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "show pending payments 75000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments above 100000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show all payments to david miller that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "david miller",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "list payments queued for scheduled for the 5th from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "what payments are pending authorization tomorrow",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "show me waiting execution payments for invoice 7781",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "get pending payments above 10000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "list payments queued for for this month from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show pending payments from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "list all pending authorization transfers using RTGS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "list pending payments to john smith",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "list pending payments to marketing agency",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "list all waiting execution transfers using IMPS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "list payments queued for in the next 3 days from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "what payments are processing this week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "get pending payments above above 100000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show pending payments under 5000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show processing payments from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show me pending payments for instruction id INST-8821",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "show pending payments 2500 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "list payments queued for for this month from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get pending payments above 500 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show me processing payments for invoice 7781",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "list payments queued for in the next 3 days from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show pending payments 50000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show all payments to acme industries that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "acme industries",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for marketing agency",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "get pending payments above 2500 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list all awaiting approval transfers using NEFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "show pending payments 50000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show scheduled payments from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "what payments are awaiting approval today",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show all payments to steel suppliers ltd that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "show pending payments 75000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "get pending payments above 2500 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "get pending payments above 50000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show all payments to the electricity board that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show pending payments from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show awaiting approval payments from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show all payments to the electricity board that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "get pending payments above under 5000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show waiting execution payments from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for rajesh kumar",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "show pending payments from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "list payments queued for this week from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "get pending payments above 50000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show pending payments 5000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "what payments are pending this week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "what payments are pending in the next 3 days",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "time": "in the next 3 days"
+    }
+  },
+  {
+    "input": "show pending payments above 100000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show pending payments from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get pending payments above 35000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments under 5000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "what's pending on my corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "what payments are waiting execution next week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "show all payments to global traders that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "global traders",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "list all waiting execution transfers using ACH",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "list all waiting execution transfers using NEFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "show pending payments 75000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show all payments to raj electronics that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "list scheduled payments next week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "next week"
+    }
+  },
+  {
+    "input": "show me awaiting approval payments for order id ORD-7712",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "show pending payments 1200 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "get pending payments above 5000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "list all processing transfers using SWIFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "list all waiting execution transfers using RTGS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "show pending payments 15000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "get pending payments above under 5000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "list pending payments to steel suppliers ltd",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "show me awaiting approval payments for reference number REF3321",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "list payments queued for scheduled for the 5th from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get pending payments above 5000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show me scheduled payments for instruction id INST-8821",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "reference": "instruction id INST-8821"
+    }
+  },
+  {
+    "input": "list all pending authorization transfers using SEPA",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "show me pending authorization payments for invoice 7781",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "show pending payments 10000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show all payments to anita desai that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "list payments queued for today from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show me scheduled payments for reference number REF3321",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "get pending payments above 10000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list payments queued for next week from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "next week",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show waiting execution payments from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show pending authorization payments from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "get pending payments above above 100000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "what payments are waiting execution this week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "list all scheduled transfers using IMPS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "what payments are pending authorization this week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "show all payments to sunrise textiles that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for john smith",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "list payments queued for next week from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "next week",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "list all awaiting approval transfers using RTGS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "show all payments to priya sharma that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "show all payments to the electricity board that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show all payments to marketing agency that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "list all awaiting approval transfers using wire transfer",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "show me pending authorization payments for order id ORD-7712",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "what payments are awaiting approval for this month",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "time": "for this month"
+    }
+  },
+  {
+    "input": "list payments queued for in the next 3 days from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show payments awaiting approval for acme industries",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "what payments are waiting execution tomorrow",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "show pending payments 50000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "get pending payments above 15000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list pending payments to my landlord",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "get pending payments above 5000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show pending payments 75000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get pending payments above 22000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show all payments to john smith that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "john smith",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show all payments to acme industries that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "acme industries",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "list payments queued for tomorrow from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "tomorrow",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show pending payments 500 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "get pending payments above 2500 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get pending payments above 15000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "what payments are awaiting approval next week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "what payments are awaiting approval tomorrow",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "show all payments to city hospital that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "city hospital",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "show pending payments under 5000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments 500 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "list payments queued for next week from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "next week",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "list pending payments to sunrise textiles",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "list payments queued for scheduled for the 5th from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show me pending payments for order id ORD-7712",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "what payments are waiting execution scheduled for the 5th",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "time": "scheduled for the 5th"
+    }
+  },
+  {
+    "input": "get pending payments above 50000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "get pending payments above 35000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get pending payments above 35000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "get pending payments above 22000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get pending payments above 75000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "get pending payments above 22000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show pending authorization payments from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show all payments to abc metals that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "abc metals",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "list payments queued for next week from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "next week",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show all payments to david miller that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "david miller",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "get pending payments above 22000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show pending payments 35000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get pending payments above 500 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show pending payments 75000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show pending payments 15000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "what payments are pending authorization today",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show all payments to sunrise textiles that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show pending payments 15000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "list all pending transfers using SEPA",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "show all payments to sunrise textiles that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show all payments to rajesh kumar that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show waiting execution payments from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "list payments queued for tomorrow from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "tomorrow",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show all payments to tech solutions inc that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show pending authorization payments from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "list payments queued for in the next 3 days from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "get pending payments above 15000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show pending payments 500 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "what payments are pending next week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "get pending payments above 2500 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show pending payments above 100000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show me pending payments for reference number REF3321",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "show pending payments under 5000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show pending payments 10000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show all payments to rajesh kumar that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "list all awaiting approval transfers using IMPS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "get pending payments above 35000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show all payments to rajesh kumar that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show processing payments from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show pending payments 22000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show waiting execution payments from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show pending payments 1200 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "what payments are pending for this month",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "time": "for this month"
+    }
+  },
+  {
+    "input": "list payments queued for for this month from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show all payments to steel suppliers ltd that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show pending payments 5000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show pending payments 1200 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show all payments to priya sharma that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show all payments to global traders that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "global traders",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show pending payments 15000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show scheduled payments from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show all payments to acme industries that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "acme industries",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "list payments queued for today from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get pending payments above 1200 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments 2500 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show all payments to tech solutions inc that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "list all pending transfers using ACH",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "what payments are pending tomorrow",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "list all processing transfers using ACH",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "show all payments to abc metals that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "abc metals",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show awaiting approval payments from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "list payments queued for in the next 3 days from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "list all processing transfers using NEFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "get pending payments above 2500 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show waiting execution payments from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "list payments queued for next week from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "next week",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show all payments to sunrise textiles that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show all payments to my landlord that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "my landlord",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show awaiting approval payments from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show all payments to abc metals that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "abc metals",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "show processing payments from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get pending payments above 15000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "list payments queued for this week from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show me scheduled payments for order id ORD-7712",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "show pending payments 1200 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "list all awaiting approval transfers using ACH",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "list payments queued for this week from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get pending payments above under 5000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show all payments to steel suppliers ltd that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show scheduled payments from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show all payments to david miller that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "david miller",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "list payments queued for in the next 3 days from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "in the next 3 days",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show all payments to city hospital that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "city hospital",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "list all awaiting approval transfers using SEPA",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "show awaiting approval payments from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show pending payments from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "get pending payments above 10000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments 50000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show all payments to john smith that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "john smith",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "show all payments to city hospital that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "city hospital",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show pending payments 22000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments above 100000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list payments queued for scheduled for the 5th from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show all payments to marketing agency that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show all payments to priya sharma that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show pending payments under 5000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show pending payments 22000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show all payments to john smith that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "john smith",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show all payments to anita desai that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show pending payments 2500 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show pending payments under 5000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "list payments queued for for this month from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "get pending payments above 50000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "get pending payments above 75000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show pending payments 5000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show pending payments 22000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "list payments queued for for this month from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "for this month",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show all payments to city hospital that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "city hospital",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "get pending payments above above 100000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list all scheduled transfers using RTGS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "get pending payments above 50000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show all payments to marketing agency that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show all payments to tech solutions inc that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show all payments to abc metals that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "abc metals",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show pending payments 75000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "get pending payments above 1200 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "get pending payments above 75000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show pending payments 2500 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show pending payments 15000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments 35000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "list all waiting execution transfers using SWIFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "show all payments to steel suppliers ltd that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show pending payments 1200 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show all payments to abc metals that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "abc metals",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show all payments to steel suppliers ltd that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show all payments to city hospital that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "city hospital",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show all payments to anita desai that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "get pending payments above 50000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show all payments to acme industries that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "acme industries",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "get pending payments above 500 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "list payments queued for this week from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show all payments to david miller that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "david miller",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show pending payments 500 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show all payments to my landlord that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "my landlord",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show processing payments from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show all payments to the electricity board that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "show all payments to marketing agency that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show pending payments 2500 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "what payments are processing next week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "get pending payments above 22000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "what payments are pending authorization for this month",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "time": "for this month"
+    }
+  },
+  {
+    "input": "get pending payments above 1200 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show all payments to my landlord that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "my landlord",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show all payments to the electricity board that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show pending payments 75000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "list all pending transfers using NEFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "get pending payments above 50000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "50000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show all payments to global traders that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "global traders",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "list payments queued for scheduled for the 5th from current account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "scheduled for the 5th",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "what payments are pending authorization next week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "list payments queued for tomorrow from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "tomorrow",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show pending payments 15000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show all payments to tech solutions inc that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show all payments to marketing agency that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show all payments to steel suppliers ltd that are still scheduled",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "status": "scheduled"
+    }
+  },
+  {
+    "input": "show all payments to raj electronics that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "show all payments to raj electronics that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show pending payments 22000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show pending payments 5000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "show waiting execution payments from usd account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "get pending payments above above 100000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show all payments to tech solutions inc that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show all payments to sunrise textiles that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "what payments are waiting execution for this month",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "time": "for this month"
+    }
+  },
+  {
+    "input": "get pending payments above 2500 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show pending authorization payments from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get pending payments above 75000 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "get pending payments above 10000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show pending payments 75000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show waiting execution payments from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "list payments queued for today from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show pending payments 500 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "what payments are waiting execution today",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "waiting execution",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show all payments to marketing agency that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show pending payments 22000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show pending payments 500 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "list all awaiting approval transfers using SWIFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "show scheduled payments from my main account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "list payments queued for this week from account ending 4521",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "get pending payments above 75000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "75000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show all payments to the electricity board that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "get pending payments above above 100000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show awaiting approval payments from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "list all pending authorization transfers using NEFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "show scheduled payments from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show pending authorization payments from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show all payments to acme industries that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "acme industries",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show pending payments 5000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "5000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "get pending payments above 500 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "get pending payments above 500 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "show all payments to raj electronics that are still awaiting approval",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "status": "awaiting approval"
+    }
+  },
+  {
+    "input": "show pending payments above 100000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "above 100000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "get pending payments above 22000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "22000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "what payments are processing for this month",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "processing",
+      "time": "for this month"
+    }
+  },
+  {
+    "input": "show pending payments from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get pending payments above 2500 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "list all pending authorization transfers using IMPS",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "get pending payments above under 5000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list payments queued for today from savings account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "today",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "list all scheduled transfers using NEFT",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "scheduled",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "show pending payments 1200 euros",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "get pending payments above 15000 USD",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "get pending payments above 15000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "15000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show pending payments from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "get pending payments above under 5000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "under 5000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show all payments to tech solutions inc that are still processing",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "status": "processing"
+    }
+  },
+  {
+    "input": "what payments are awaiting approval this week",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "awaiting approval",
+      "time": "this week"
+    }
+  },
+  {
+    "input": "show pending payments 35000 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show pending payments 2500 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "2500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show pending payments 1200 GBP",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "list all pending authorization transfers using ACH",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "status": "pending authorization",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "list payments queued for tomorrow from salary account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "tomorrow",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "get pending payments above 35000 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show pending payments 35000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "get pending payments above 10000 INR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "get pending payments above 35000 pounds",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "35000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "show pending payments 10000 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show all payments to anita desai that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "anita desai",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "show pending payments 10000 rupees",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "10000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "get pending payments above 1200 dollars",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show all payments to david miller that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "david miller",
+      "status": "pending authorization"
+    }
+  },
+  {
+    "input": "list payments queued for this week from business account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "this week",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "get pending payments above 1200 EUR",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "amount": "1200",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "show all payments to david miller that are still pending",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "david miller",
+      "status": "pending"
+    }
+  },
+  {
+    "input": "list payments queued for tomorrow from corporate account",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "time": "tomorrow",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show all payments to john smith that are still waiting execution",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "john smith",
+      "status": "waiting execution"
+    }
+  },
+  {
+    "input": "show all payments to my landlord that are still pending authorization",
+    "intent": "PENDING_PAYMENTS",
+    "entities": {
+      "beneficiary": "my landlord",
+      "status": "pending authorization"
+    }
+  }
+]

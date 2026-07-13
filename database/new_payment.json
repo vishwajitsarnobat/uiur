@@ -1,0 +1,4991 @@
+[
+  {
+    "input": "make a payment of 500 rupees to tech solutions inc using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "rupees",
+      "beneficiary": "tech solutions inc",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "release payment of 150000 to john smith for vendor payment on the 5th",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "beneficiary": "john smith",
+      "purpose": "vendor payment",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "pay invoice 7781 worth 10000 pounds to my supplier via internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "pounds",
+      "beneficiary": "my supplier",
+      "method": "internal transfer",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "can you send 50000 to my landlord using wire transfer from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "beneficiary": "my landlord",
+      "method": "wire transfer",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "make a payment of 75000 dollars to national bank staff using ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "dollars",
+      "beneficiary": "national bank staff",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "pay harish patel 2500 rupees at 3pm today for vendor payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "rupees",
+      "beneficiary": "harish patel",
+      "time": "at 3pm today",
+      "purpose": "vendor payment"
+    }
+  },
+  {
+    "input": "initiate an RTGS payment to my supplier for 35000 USD against invoice 5567",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "USD",
+      "beneficiary": "my supplier",
+      "method": "RTGS",
+      "reference": "invoice 5567"
+    }
+  },
+  {
+    "input": "pay office supplies purchase of 75000 to the electricity board from my business account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "beneficiary": "the electricity board",
+      "account": "business account",
+      "purpose": "office supplies purchase"
+    }
+  },
+  {
+    "input": "pay reference number REF3321 worth 15000 EUR to hassan ali via SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "EUR",
+      "beneficiary": "hassan ali",
+      "method": "SWIFT",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "i want to pay 1200 GBP to global traders",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "release payment of 50000 to michael chen for electricity bill before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "beneficiary": "michael chen",
+      "purpose": "electricity bill",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "wire 15000 to the school for the pending invoice, note it as consulting fees",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "beneficiary": "the school",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "wire 4500 to rajesh kumar for the pending invoice, note it as tax payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "beneficiary": "rajesh kumar",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "send carlos rivera 2500 pounds for refund using internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "pounds",
+      "beneficiary": "carlos rivera",
+      "method": "internal transfer",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "make a payment of 18000 rupees to sara khan using RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "rupees",
+      "beneficiary": "sara khan",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "pay EUR 22000 to vikram traders before end of month via RTGS for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "EUR",
+      "beneficiary": "vikram traders",
+      "time": "before end of month",
+      "method": "RTGS",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "wire 75000 to grand hotel for the pending invoice, note it as rent",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "beneficiary": "grand hotel",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "make a payment of 75000 rupees to tech solutions inc using NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees",
+      "beneficiary": "tech solutions inc",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "i need to pay acme industries 2500 EUR against bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "EUR",
+      "beneficiary": "acme industries",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "send 18000 GBP to office rent owner before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "office rent owner",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "transfer 250000 USD from my account ending 4521 to tech solutions inc",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "USD",
+      "beneficiary": "tech solutions inc",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "release payment of 15000 to xyz corp for salary on the 5th",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "beneficiary": "xyz corp",
+      "purpose": "salary",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "transfer 4500 GBP to bright future ngo via internal transfer on the 5th",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "GBP",
+      "beneficiary": "bright future ngo",
+      "method": "internal transfer",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "initiate an RTGS payment to green energy pvt ltd for 1000 pounds against order id ORD-7712",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "pounds",
+      "beneficiary": "green energy pvt ltd",
+      "method": "RTGS",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "can you send 150000 to steel suppliers ltd using RTGS from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "beneficiary": "steel suppliers ltd",
+      "method": "RTGS",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "initiate an internal transfer payment to grand hotel for 10000 GBP against invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "GBP",
+      "beneficiary": "grand hotel",
+      "method": "internal transfer",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "schedule a payment of 15000 USD to oceanic exports today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "USD",
+      "beneficiary": "oceanic exports",
+      "time": "today"
+    }
+  },
+  {
+    "input": "transfer 15000 EUR to my landlord's account via internal transfer on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "EUR",
+      "beneficiary": "my landlord's account",
+      "method": "internal transfer",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "pay refund of 100000 to carlos rivera from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "beneficiary": "carlos rivera",
+      "account": "corporate account",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "wire 10000 to the electricity board for the pending invoice, note it as annual subscription",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "beneficiary": "the electricity board",
+      "purpose": "annual subscription"
+    }
+  },
+  {
+    "input": "i want to pay 1200 INR to the school",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "INR",
+      "beneficiary": "the school"
+    }
+  },
+  {
+    "input": "send 4500 USD to david miller for salary",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "USD",
+      "beneficiary": "david miller",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "make a payment of 62000 GBP to the school using NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "GBP",
+      "beneficiary": "the school",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "pay the tax payment of 10000 from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "account": "corporate account",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "i want to pay 2500 INR to hassan ali",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "INR",
+      "beneficiary": "hassan ali"
+    }
+  },
+  {
+    "input": "wire 75000 to tech solutions inc for the pending invoice, note it as tax payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "beneficiary": "tech solutions inc",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "send food distributors co 4500 INR for salary using ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "INR",
+      "beneficiary": "food distributors co",
+      "method": "ACH",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "make a payment of 3000 EUR to bright future ngo using ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "EUR",
+      "beneficiary": "bright future ngo",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "pay the office supplies purchase of 4500 from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "account": "salary account",
+      "purpose": "office supplies purchase"
+    }
+  },
+  {
+    "input": "send 500 dollars to acme industries for annual subscription",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "dollars",
+      "beneficiary": "acme industries",
+      "purpose": "annual subscription"
+    }
+  },
+  {
+    "input": "pay contract ref C-9081 worth 500 USD to xyz corp via IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "USD",
+      "beneficiary": "xyz corp",
+      "method": "IMPS",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "can you send 5000 to office rent owner using SEPA from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "beneficiary": "office rent owner",
+      "method": "SEPA",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "make a payment of 75000 pounds to harish patel using IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "pounds",
+      "beneficiary": "harish patel",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "can you send 500 to sara khan using SWIFT from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "beneficiary": "sara khan",
+      "method": "SWIFT",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "pay vendor payment of 3000 to global traders from my my main account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "global traders",
+      "account": "my main account",
+      "purpose": "vendor payment"
+    }
+  },
+  {
+    "input": "transfer funds to john smith via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "pay the salary of 75000 from my business account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "account": "business account",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "release payment of 22000 to marketing agency for annual subscription by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "beneficiary": "marketing agency",
+      "purpose": "annual subscription",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "send carlos rivera 4500 USD for invoice payment using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "USD",
+      "beneficiary": "carlos rivera",
+      "method": "wire transfer",
+      "purpose": "invoice payment"
+    }
+  },
+  {
+    "input": "transfer 18000 GBP from my my main account to the tax department",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "the tax department",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "make a payment of 35000 rupees to my landlord's account using SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees",
+      "beneficiary": "my landlord's account",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "send 150000 pounds to david miller next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "pounds",
+      "beneficiary": "david miller",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "transfer funds to the school via SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "the school",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "transfer 1000 EUR from my my main account to rajesh kumar",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "EUR",
+      "beneficiary": "rajesh kumar",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "transfer 15000 rupees to my supplier via wire transfer next monday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "rupees",
+      "beneficiary": "my supplier",
+      "method": "wire transfer",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "i need to pay hassan ali 9999 USD against ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "USD",
+      "beneficiary": "hassan ali",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "i need to pay my landlord 100000 GBP against order id ORD-7712",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "GBP",
+      "beneficiary": "my landlord",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "pay electricity bill of 4500 to steel suppliers ltd from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "beneficiary": "steel suppliers ltd",
+      "account": "corporate account",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "transfer 18000 dollars from my corporate account to oceanic exports",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "dollars",
+      "beneficiary": "oceanic exports",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "schedule a payment of 22000 GBP to bright future ngo before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "GBP",
+      "beneficiary": "bright future ngo",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "transfer 35000 GBP to bright future ngo via SEPA by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "GBP",
+      "beneficiary": "bright future ngo",
+      "method": "SEPA",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "wire 15000 to my landlord for the pending invoice, note it as consulting fees",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "beneficiary": "my landlord",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "pay case id CS-2210 worth 250000 pounds to steel suppliers ltd via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "pounds",
+      "beneficiary": "steel suppliers ltd",
+      "method": "wire transfer",
+      "reference": "case id CS-2210"
+    }
+  },
+  {
+    "input": "release payment of 100000 to abc metals for maintenance charges this friday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "beneficiary": "abc metals",
+      "purpose": "maintenance charges",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "pay invoice 5567 worth 18000 GBP to michael chen via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "michael chen",
+      "method": "wire transfer",
+      "reference": "invoice 5567"
+    }
+  },
+  {
+    "input": "pay sunrise textiles 50000 pounds next monday for loan repayment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "pounds",
+      "beneficiary": "sunrise textiles",
+      "time": "next monday",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "pay rajesh kumar 62000 INR next monday for bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "INR",
+      "beneficiary": "rajesh kumar",
+      "time": "next monday",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "send 22000 pounds to raj electronics for rent",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "pounds",
+      "beneficiary": "raj electronics",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "pay the annual subscription of 150000 from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "account": "current account",
+      "purpose": "annual subscription"
+    }
+  },
+  {
+    "input": "please process a payment to global traders for invoice 7781",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "initiate an wire transfer payment to priya sharma for 5000 euros against bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "euros",
+      "beneficiary": "priya sharma",
+      "method": "wire transfer",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "pay loan repayment of 9999 to sunrise textiles from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "beneficiary": "sunrise textiles",
+      "account": "salary account",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "release payment of 100000 to green energy pvt ltd for annual subscription at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "beneficiary": "green energy pvt ltd",
+      "purpose": "annual subscription",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "transfer funds to emma watson via NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "emma watson",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "transfer 4500 dollars to abc metals via SWIFT on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "dollars",
+      "beneficiary": "abc metals",
+      "method": "SWIFT",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "schedule a payment of 5000 pounds to david miller at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "pounds",
+      "beneficiary": "david miller",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "schedule a payment of 150000 rupees to raj electronics tomorrow",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "rupees",
+      "beneficiary": "raj electronics",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "schedule a payment of 62000 pounds to sara khan on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "pounds",
+      "beneficiary": "sara khan",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "i need to pay anita desai 10000 dollars against bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "dollars",
+      "beneficiary": "anita desai",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "transfer 10000 USD from my corporate account to tech solutions inc",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "USD",
+      "beneficiary": "tech solutions inc",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "i need to pay rajesh kumar 250000 INR against ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "INR",
+      "beneficiary": "rajesh kumar",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "release payment of 75000 to food distributors co for annual subscription next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "beneficiary": "food distributors co",
+      "purpose": "annual subscription",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "please process a payment to office rent owner for ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "office rent owner",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "make a payment of 18000 EUR to green energy pvt ltd using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "EUR",
+      "beneficiary": "green energy pvt ltd",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "make a payment of 10000 rupees to my supplier using SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "rupees",
+      "beneficiary": "my supplier",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "pay the tax payment of 1200 from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "account": "savings account",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "pay rupees 62000 to the printing vendor on 15th august via internal transfer for invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "rupees",
+      "beneficiary": "the printing vendor",
+      "time": "on 15th august",
+      "method": "internal transfer",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "pay the salary of 1000 from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "account": "current account",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "wire 5000 to rajesh kumar for the pending invoice, note it as advance payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "beneficiary": "rajesh kumar",
+      "purpose": "advance payment"
+    }
+  },
+  {
+    "input": "transfer 100000 euros from my current account to oceanic exports",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "euros",
+      "beneficiary": "oceanic exports",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "send the electricity board 3000 GBP for salary using ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "GBP",
+      "beneficiary": "the electricity board",
+      "method": "ACH",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "pay electricity bill of 18000 to sunrise textiles from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "beneficiary": "sunrise textiles",
+      "account": "corporate account",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "transfer funds to city hospital via ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "initiate an RTGS payment to star freight services for 22000 GBP against invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "GBP",
+      "beneficiary": "star freight services",
+      "method": "RTGS",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "wire 2500 to sunrise textiles for the pending invoice, note it as annual subscription",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "beneficiary": "sunrise textiles",
+      "purpose": "annual subscription"
+    }
+  },
+  {
+    "input": "schedule a payment of 3000 euros to office rent owner this friday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "euros",
+      "beneficiary": "office rent owner",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "schedule a payment of 2500 INR to star freight services at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "INR",
+      "beneficiary": "star freight services",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "initiate an NEFT payment to bright future ngo for 62000 INR against reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "INR",
+      "beneficiary": "bright future ngo",
+      "method": "NEFT",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "pay the rent of 7800 from my my main account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "account": "my main account",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "i want to pay 3000 EUR to sara khan",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "EUR",
+      "beneficiary": "sara khan"
+    }
+  },
+  {
+    "input": "pay po 4521 worth 1200 euros to rajesh kumar via SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "euros",
+      "beneficiary": "rajesh kumar",
+      "method": "SEPA",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "transfer 500 euros from my corporate account to my landlord's account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "euros",
+      "beneficiary": "my landlord's account",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "schedule a payment of 1200 GBP to bright future ngo this friday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP",
+      "beneficiary": "bright future ngo",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "pay GBP 9999 to sunrise textiles immediately via ACH for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "GBP",
+      "beneficiary": "sunrise textiles",
+      "time": "immediately",
+      "method": "ACH",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "transfer 15000 USD to hassan ali via RTGS before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "USD",
+      "beneficiary": "hassan ali",
+      "method": "RTGS",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "transfer funds to my landlord's account via internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord's account",
+      "method": "internal transfer"
+    }
+  },
+  {
+    "input": "pay xyz corp 10000 EUR next week for rent",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "EUR",
+      "beneficiary": "xyz corp",
+      "time": "next week",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "pay rupees 35000 to the school next monday via internal transfer for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees",
+      "beneficiary": "the school",
+      "time": "next monday",
+      "method": "internal transfer",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "please process a payment to hassan ali for ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "hassan ali",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "initiate an internal transfer payment to raj electronics for 150000 INR against order id ORD-7712",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "INR",
+      "beneficiary": "raj electronics",
+      "method": "internal transfer",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "wire 1000 to acme industries for the pending invoice, note it as bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "beneficiary": "acme industries",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "transfer 250000 INR from my corporate account to my landlord",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "INR",
+      "beneficiary": "my landlord",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "pay the bonus payment of 50000 from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "account": "usd account",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "i want to pay 1000 INR to harish patel",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "INR",
+      "beneficiary": "harish patel"
+    }
+  },
+  {
+    "input": "transfer 150000 USD to marketing agency via internal transfer next monday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "USD",
+      "beneficiary": "marketing agency",
+      "method": "internal transfer",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "send 50000 INR to city hospital for consulting fees",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "INR",
+      "beneficiary": "city hospital",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "transfer 150000 EUR from my account ending 4521 to sunrise textiles",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "EUR",
+      "beneficiary": "sunrise textiles",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i need to pay my supplier 62000 EUR against invoice 5567",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "EUR",
+      "beneficiary": "my supplier",
+      "reference": "invoice 5567"
+    }
+  },
+  {
+    "input": "pay rupees 250000 to grand hotel tomorrow via IMPS for contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "rupees",
+      "beneficiary": "grand hotel",
+      "time": "tomorrow",
+      "method": "IMPS",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "can you send 22000 to office rent owner using wire transfer from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "beneficiary": "office rent owner",
+      "method": "wire transfer",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "initiate an ACH payment to emma watson for 100000 dollars against invoice 7781",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "dollars",
+      "beneficiary": "emma watson",
+      "method": "ACH",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "pay the maintenance charges of 500 from my my main account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "account": "my main account",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "initiate an RTGS payment to acme industries for 10000 rupees against invoice 7781",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "rupees",
+      "beneficiary": "acme industries",
+      "method": "RTGS",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "schedule a payment of 1200 dollars to acme industries this friday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "dollars",
+      "beneficiary": "acme industries",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "send 5000 dollars to the insurance company next monday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "dollars",
+      "beneficiary": "the insurance company",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "i want to pay 3000 euros to xyz corp",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "euros",
+      "beneficiary": "xyz corp"
+    }
+  },
+  {
+    "input": "transfer 100000 INR to anita desai via RTGS on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "INR",
+      "beneficiary": "anita desai",
+      "method": "RTGS",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "please process a payment to the printing vendor for contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "the printing vendor",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "transfer 250000 rupees to my landlord's account via RTGS next monday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "rupees",
+      "beneficiary": "my landlord's account",
+      "method": "RTGS",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "i need to pay tech solutions inc 3000 USD against contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "USD",
+      "beneficiary": "tech solutions inc",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "release payment of 5000 to marketing agency for consulting fees at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "beneficiary": "marketing agency",
+      "purpose": "consulting fees",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "please process a payment to oceanic exports for contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "send 100000 rupees to green energy pvt ltd for salary",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "rupees",
+      "beneficiary": "green energy pvt ltd",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "send 50000 GBP to acme industries for bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "GBP",
+      "beneficiary": "acme industries",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "release payment of 10000 to sara khan for invoice payment at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "beneficiary": "sara khan",
+      "purpose": "invoice payment",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "wire 18000 to david miller for the pending invoice, note it as bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "beneficiary": "david miller",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "pay GBP 75000 to the school today via SEPA for bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "GBP",
+      "beneficiary": "the school",
+      "time": "today",
+      "method": "SEPA",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "wire 150000 to xyz corp for the pending invoice, note it as maintenance charges",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "beneficiary": "xyz corp",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "schedule a payment of 4500 GBP to harish patel on the 1st of next month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "GBP",
+      "beneficiary": "harish patel",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "schedule a payment of 500 INR to the printing vendor next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "INR",
+      "beneficiary": "the printing vendor",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "schedule a payment of 2500 USD to raj electronics tomorrow",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "USD",
+      "beneficiary": "raj electronics",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "pay hassan ali 9999 rupees tomorrow for maintenance charges",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "rupees",
+      "beneficiary": "hassan ali",
+      "time": "tomorrow",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "can you send 250000 to my landlord's account using SEPA from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "beneficiary": "my landlord's account",
+      "method": "SEPA",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "i want to pay 150000 dollars to anita desai",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "dollars",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "transfer 2500 USD to star freight services via RTGS on the 1st of next month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "USD",
+      "beneficiary": "star freight services",
+      "method": "RTGS",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "pay order id ORD-7712 worth 1200 dollars to priya sharma via SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "dollars",
+      "beneficiary": "priya sharma",
+      "method": "SWIFT",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "transfer funds to logistics partner via RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "logistics partner",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "i need to pay logistics partner 15000 USD against bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "USD",
+      "beneficiary": "logistics partner",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "can you send 18000 to national bank staff using ACH from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "beneficiary": "national bank staff",
+      "method": "ACH",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "i want to pay 75000 INR to david miller",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "INR",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "wire 500 to the insurance company for the pending invoice, note it as consulting fees",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "beneficiary": "the insurance company",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "pay tax payment of 75000 to raj electronics from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "beneficiary": "raj electronics",
+      "account": "current account",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "transfer 22000 euros to star freight services via internal transfer at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "euros",
+      "beneficiary": "star freight services",
+      "method": "internal transfer",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "send 4500 USD to logistics partner tomorrow",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "USD",
+      "beneficiary": "logistics partner",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "transfer 35000 INR from my account ending 4521 to my supplier",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR",
+      "beneficiary": "my supplier",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "transfer funds to anita desai via ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "can you send 7800 to carlos rivera using wire transfer from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "beneficiary": "carlos rivera",
+      "method": "wire transfer",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "pay john smith 1200 pounds tomorrow for bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "pounds",
+      "beneficiary": "john smith",
+      "time": "tomorrow",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "release payment of 100000 to city hospital for invoice payment next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "beneficiary": "city hospital",
+      "purpose": "invoice payment",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "send rajesh kumar 250000 dollars for vendor payment using SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "dollars",
+      "beneficiary": "rajesh kumar",
+      "method": "SWIFT",
+      "purpose": "vendor payment"
+    }
+  },
+  {
+    "input": "transfer 2500 pounds from my savings account to office rent owner",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "pounds",
+      "beneficiary": "office rent owner",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "transfer 3000 GBP from my account ending 4521 to logistics partner",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "GBP",
+      "beneficiary": "logistics partner",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "make a payment of 5000 rupees to green energy pvt ltd using IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "rupees",
+      "beneficiary": "green energy pvt ltd",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "i need to pay emma watson 250000 euros against invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "euros",
+      "beneficiary": "emma watson",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "transfer 1000 euros to office rent owner via ACH at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "euros",
+      "beneficiary": "office rent owner",
+      "method": "ACH",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "transfer funds to global traders via NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "transfer 9999 pounds to hassan ali via NEFT on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "pounds",
+      "beneficiary": "hassan ali",
+      "method": "NEFT",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "i want to pay 9999 euros to vikram traders",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "euros",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "transfer 4500 EUR to global traders via wire transfer on the 1st of next month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "EUR",
+      "beneficiary": "global traders",
+      "method": "wire transfer",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "please process a payment to carlos rivera for case id CS-2210",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "carlos rivera",
+      "reference": "case id CS-2210"
+    }
+  },
+  {
+    "input": "i want to pay 2500 dollars to marketing agency",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "dollars",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "i want to pay 2500 EUR to logistics partner",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "EUR",
+      "beneficiary": "logistics partner"
+    }
+  },
+  {
+    "input": "send food distributors co 2500 rupees for maintenance charges using SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "rupees",
+      "beneficiary": "food distributors co",
+      "method": "SWIFT",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "transfer 2500 pounds from my business account to vikram traders",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "pounds",
+      "beneficiary": "vikram traders",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "send 50000 euros to green energy pvt ltd next monday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros",
+      "beneficiary": "green energy pvt ltd",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "make a payment of 4500 INR to sara khan using IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "INR",
+      "beneficiary": "sara khan",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "pay rent of 9999 to oceanic exports from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "beneficiary": "oceanic exports",
+      "account": "corporate account",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "send my supplier 35000 euros for maintenance charges using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "euros",
+      "beneficiary": "my supplier",
+      "method": "wire transfer",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "please process a payment to hassan ali for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "hassan ali",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "pay electricity bill of 10000 to anita desai from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "beneficiary": "anita desai",
+      "account": "savings account",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "transfer 3000 rupees from my business account to rajesh kumar",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "rupees",
+      "beneficiary": "rajesh kumar",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "can you send 2500 to oceanic exports using SEPA from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "beneficiary": "oceanic exports",
+      "method": "SEPA",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "transfer 75000 GBP from my my main account to carlos rivera",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "GBP",
+      "beneficiary": "carlos rivera",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "make a payment of 50000 EUR to acme industries using NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "EUR",
+      "beneficiary": "acme industries",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "i need to pay rajesh kumar 250000 INR against invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "INR",
+      "beneficiary": "rajesh kumar",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "make a payment of 35000 GBP to office rent owner using RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "GBP",
+      "beneficiary": "office rent owner",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "transfer 3000 euros to national bank staff via NEFT before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "euros",
+      "beneficiary": "national bank staff",
+      "method": "NEFT",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "wire 35000 to abc metals for the pending invoice, note it as loan repayment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "beneficiary": "abc metals",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "transfer 4500 dollars to xyz corp via NEFT next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "dollars",
+      "beneficiary": "xyz corp",
+      "method": "NEFT",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "pay john smith 75000 rupees tomorrow for rent",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees",
+      "beneficiary": "john smith",
+      "time": "tomorrow",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "release payment of 50000 to global traders for rent immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "beneficiary": "global traders",
+      "purpose": "rent",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "i need to pay xyz corp 7800 EUR against ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "currency": "EUR",
+      "beneficiary": "xyz corp",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "send 1200 dollars to office rent owner immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "dollars",
+      "beneficiary": "office rent owner",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "send 35000 dollars to steel suppliers ltd this friday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "dollars",
+      "beneficiary": "steel suppliers ltd",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "pay sara khan 250000 pounds on 15th august for annual subscription",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "pounds",
+      "beneficiary": "sara khan",
+      "time": "on 15th august",
+      "purpose": "annual subscription"
+    }
+  },
+  {
+    "input": "transfer 22000 USD from my salary account to star freight services",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "USD",
+      "beneficiary": "star freight services",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "i want to pay 3000 USD to raj electronics",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "USD",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "pay bonus payment of 250000 to oceanic exports from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "beneficiary": "oceanic exports",
+      "account": "usd account",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "pay the maintenance charges of 1200 from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "account": "current account",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "wire 9999 to global traders for the pending invoice, note it as vendor payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "beneficiary": "global traders",
+      "purpose": "vendor payment"
+    }
+  },
+  {
+    "input": "pay national bank staff 62000 INR before end of month for electricity bill",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "INR",
+      "beneficiary": "national bank staff",
+      "time": "before end of month",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "schedule a payment of 2500 EUR to the insurance company next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "EUR",
+      "beneficiary": "the insurance company",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "make a payment of 500 EUR to michael chen using SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "EUR",
+      "beneficiary": "michael chen",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "schedule a payment of 10000 rupees to michael chen tomorrow",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "rupees",
+      "beneficiary": "michael chen",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "pay salary of 250000 to raj electronics from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "beneficiary": "raj electronics",
+      "account": "salary account",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "transfer funds to the tax department via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "the tax department",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "i need to pay food distributors co 500 dollars against reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "dollars",
+      "beneficiary": "food distributors co",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "send office rent owner 2500 USD for annual subscription using SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "USD",
+      "beneficiary": "office rent owner",
+      "method": "SWIFT",
+      "purpose": "annual subscription"
+    }
+  },
+  {
+    "input": "can you send 62000 to acme industries using SEPA from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "beneficiary": "acme industries",
+      "method": "SEPA",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "transfer 75000 EUR from my current account to food distributors co",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "EUR",
+      "beneficiary": "food distributors co",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "make a payment of 4500 EUR to office rent owner using IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "EUR",
+      "beneficiary": "office rent owner",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "transfer 35000 USD from my business account to anita desai",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "USD",
+      "beneficiary": "anita desai",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "transfer funds to vikram traders via IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "send emma watson 9999 dollars for salary using NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "dollars",
+      "beneficiary": "emma watson",
+      "method": "NEFT",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "send 62000 pounds to harish patel on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "pounds",
+      "beneficiary": "harish patel",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "transfer funds to delta enterprises via ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "schedule a payment of 150000 euros to hassan ali by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "euros",
+      "beneficiary": "hassan ali",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "i want to pay 75000 pounds to acme industries",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "pounds",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "initiate an internal transfer payment to bright future ngo for 250000 USD against po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "USD",
+      "beneficiary": "bright future ngo",
+      "method": "internal transfer",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "transfer funds to tech solutions inc via IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "pay invoice payment of 1000 to michael chen from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "beneficiary": "michael chen",
+      "account": "usd account",
+      "purpose": "invoice payment"
+    }
+  },
+  {
+    "input": "transfer 250000 GBP from my corporate account to the electricity board",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "GBP",
+      "beneficiary": "the electricity board",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "send grand hotel 1000 rupees for consulting fees using NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "rupees",
+      "beneficiary": "grand hotel",
+      "method": "NEFT",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "please process a payment to global traders for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "please process a payment to xyz corp for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "xyz corp",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "send acme industries 9999 USD for rent using RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "USD",
+      "beneficiary": "acme industries",
+      "method": "RTGS",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "wire 10000 to vikram traders for the pending invoice, note it as invoice payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "beneficiary": "vikram traders",
+      "purpose": "invoice payment"
+    }
+  },
+  {
+    "input": "i need to pay my landlord 4500 euros against contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "euros",
+      "beneficiary": "my landlord",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "pay the school 9999 rupees immediately for bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "rupees",
+      "beneficiary": "the school",
+      "time": "immediately",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "release payment of 35000 to john smith for office supplies purchase by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "beneficiary": "john smith",
+      "purpose": "office supplies purchase",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "release payment of 35000 to national bank staff for office supplies purchase this friday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "beneficiary": "national bank staff",
+      "purpose": "office supplies purchase",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "send 62000 euros to sunrise textiles for bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "euros",
+      "beneficiary": "sunrise textiles",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "release payment of 3000 to john smith for consulting fees by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "john smith",
+      "purpose": "consulting fees",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "send 150000 euros to steel suppliers ltd immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "euros",
+      "beneficiary": "steel suppliers ltd",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "i need to pay raj electronics 4500 pounds against contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "pounds",
+      "beneficiary": "raj electronics",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "pay the advance payment of 9999 from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "account": "account ending 4521",
+      "purpose": "advance payment"
+    }
+  },
+  {
+    "input": "transfer funds to michael chen via SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "michael chen",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "transfer funds to delta enterprises via SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "transfer 75000 euros to anita desai via internal transfer on the 5th",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "euros",
+      "beneficiary": "anita desai",
+      "method": "internal transfer",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "pay reference number REF3321 worth 22000 EUR to marketing agency via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "EUR",
+      "beneficiary": "marketing agency",
+      "method": "wire transfer",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "initiate an SEPA payment to my landlord's account for 1200 USD against po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "USD",
+      "beneficiary": "my landlord's account",
+      "method": "SEPA",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "pay EUR 18000 to my landlord's account on 15th august via internal transfer for ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "EUR",
+      "beneficiary": "my landlord's account",
+      "time": "on 15th august",
+      "method": "internal transfer",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "i want to pay 35000 INR to rajesh kumar",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "can you send 7800 to delta enterprises using internal transfer from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "beneficiary": "delta enterprises",
+      "method": "internal transfer",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "pay USD 35000 to sara khan on 15th august via ACH for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "USD",
+      "beneficiary": "sara khan",
+      "time": "on 15th august",
+      "method": "ACH",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "wire 4500 to bright future ngo for the pending invoice, note it as rent",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "beneficiary": "bright future ngo",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "pay the office supplies purchase of 7800 from my business account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "account": "business account",
+      "purpose": "office supplies purchase"
+    }
+  },
+  {
+    "input": "send vikram traders 100000 pounds for consulting fees using SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "pounds",
+      "beneficiary": "vikram traders",
+      "method": "SEPA",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "wire 1000 to tech solutions inc for the pending invoice, note it as consulting fees",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "beneficiary": "tech solutions inc",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "pay the office supplies purchase of 50000 from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "account": "account ending 4521",
+      "purpose": "office supplies purchase"
+    }
+  },
+  {
+    "input": "send 3000 euros to office rent owner for office supplies purchase",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "euros",
+      "beneficiary": "office rent owner",
+      "purpose": "office supplies purchase"
+    }
+  },
+  {
+    "input": "make a payment of 35000 dollars to harish patel using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "dollars",
+      "beneficiary": "harish patel",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "schedule a payment of 9999 dollars to my landlord's account immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "dollars",
+      "beneficiary": "my landlord's account",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "send the insurance company 2500 euros for loan repayment using SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "euros",
+      "beneficiary": "the insurance company",
+      "method": "SEPA",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "pay reference number REF3321 worth 4500 GBP to emma watson via IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "GBP",
+      "beneficiary": "emma watson",
+      "method": "IMPS",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "make a payment of 10000 euros to rajesh kumar using internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros",
+      "beneficiary": "rajesh kumar",
+      "method": "internal transfer"
+    }
+  },
+  {
+    "input": "schedule a payment of 62000 INR to food distributors co before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "INR",
+      "beneficiary": "food distributors co",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "pay the electricity board 22000 INR today for consulting fees",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "INR",
+      "beneficiary": "the electricity board",
+      "time": "today",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "pay invoice number INV-2291 worth 1200 USD to the printing vendor via NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "USD",
+      "beneficiary": "the printing vendor",
+      "method": "NEFT",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "can you send 75000 to oceanic exports using SWIFT from my business account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "beneficiary": "oceanic exports",
+      "method": "SWIFT",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "please process a payment to grand hotel for ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "grand hotel",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "pay euros 35000 to grand hotel immediately via SWIFT for ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "euros",
+      "beneficiary": "grand hotel",
+      "time": "immediately",
+      "method": "SWIFT",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "schedule a payment of 75000 EUR to bright future ngo on the 1st of next month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "EUR",
+      "beneficiary": "bright future ngo",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "can you send 9999 to tech solutions inc using wire transfer from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "beneficiary": "tech solutions inc",
+      "method": "wire transfer",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "schedule a payment of 9999 INR to tech solutions inc next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "INR",
+      "beneficiary": "tech solutions inc",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "send 5000 rupees to my supplier for loan repayment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "rupees",
+      "beneficiary": "my supplier",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "transfer funds to my landlord's account via ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord's account",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "can you send 18000 to steel suppliers ltd using SEPA from my my main account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "beneficiary": "steel suppliers ltd",
+      "method": "SEPA",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "can you send 150000 to office rent owner using SWIFT from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "beneficiary": "office rent owner",
+      "method": "SWIFT",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "initiate an internal transfer payment to my landlord for 15000 rupees against order id ORD-7712",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "rupees",
+      "beneficiary": "my landlord",
+      "method": "internal transfer",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "pay contract ref C-9081 worth 4500 EUR to carlos rivera via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "EUR",
+      "beneficiary": "carlos rivera",
+      "method": "wire transfer",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "schedule a payment of 75000 USD to grand hotel today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "USD",
+      "beneficiary": "grand hotel",
+      "time": "today"
+    }
+  },
+  {
+    "input": "transfer 10000 GBP to the printing vendor via wire transfer by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "GBP",
+      "beneficiary": "the printing vendor",
+      "method": "wire transfer",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "send 3000 euros to tech solutions inc next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "euros",
+      "beneficiary": "tech solutions inc",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "transfer funds to grand hotel via SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "grand hotel",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "schedule a payment of 3000 euros to raj electronics by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "euros",
+      "beneficiary": "raj electronics",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "release payment of 15000 to john smith for loan repayment immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "beneficiary": "john smith",
+      "purpose": "loan repayment",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "transfer funds to sara khan via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "sara khan",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "pay contract ref C-9081 worth 50000 rupees to michael chen via internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "rupees",
+      "beneficiary": "michael chen",
+      "method": "internal transfer",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "wire 18000 to david miller for the pending invoice, note it as invoice payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "beneficiary": "david miller",
+      "purpose": "invoice payment"
+    }
+  },
+  {
+    "input": "pay EUR 150000 to my supplier on the 1st of next month via RTGS for invoice 7781",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "EUR",
+      "beneficiary": "my supplier",
+      "time": "on the 1st of next month",
+      "method": "RTGS",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "transfer 250000 dollars from my current account to steel suppliers ltd",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "dollars",
+      "beneficiary": "steel suppliers ltd",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "pay bill number 3345 worth 18000 pounds to abc metals via NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "pounds",
+      "beneficiary": "abc metals",
+      "method": "NEFT",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "pay pounds 4500 to david miller tomorrow via RTGS for invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "pounds",
+      "beneficiary": "david miller",
+      "time": "tomorrow",
+      "method": "RTGS",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "send 9999 rupees to logistics partner next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "rupees",
+      "beneficiary": "logistics partner",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "schedule a payment of 62000 GBP to my supplier before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "GBP",
+      "beneficiary": "my supplier",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "transfer 100000 pounds to carlos rivera via internal transfer today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "pounds",
+      "beneficiary": "carlos rivera",
+      "method": "internal transfer",
+      "time": "today"
+    }
+  },
+  {
+    "input": "transfer 1000 pounds to sara khan via RTGS immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "pounds",
+      "beneficiary": "sara khan",
+      "method": "RTGS",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "release payment of 1000 to global traders for refund before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "beneficiary": "global traders",
+      "purpose": "refund",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "pay bonus payment of 50000 to the electricity board from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "beneficiary": "the electricity board",
+      "account": "savings account",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "transfer funds to emma watson via SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "emma watson",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "wire 2500 to steel suppliers ltd for the pending invoice, note it as vendor payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "beneficiary": "steel suppliers ltd",
+      "purpose": "vendor payment"
+    }
+  },
+  {
+    "input": "send raj electronics 9999 pounds for refund using NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "pounds",
+      "beneficiary": "raj electronics",
+      "method": "NEFT",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "initiate an IMPS payment to star freight services for 75000 pounds against order id ORD-7712",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "pounds",
+      "beneficiary": "star freight services",
+      "method": "IMPS",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "send xyz corp 35000 GBP for tax payment using RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "GBP",
+      "beneficiary": "xyz corp",
+      "method": "RTGS",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "pay marketing agency 50000 dollars today for refund",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "dollars",
+      "beneficiary": "marketing agency",
+      "time": "today",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "pay the electricity bill of 3000 from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "account": "usd account",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "make a payment of 500 USD to logistics partner using RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "USD",
+      "beneficiary": "logistics partner",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "pay pounds 35000 to carlos rivera on the 1st of next month via RTGS for ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "pounds",
+      "beneficiary": "carlos rivera",
+      "time": "on the 1st of next month",
+      "method": "RTGS",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "pay bright future ngo 7800 EUR this friday for electricity bill",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "currency": "EUR",
+      "beneficiary": "bright future ngo",
+      "time": "this friday",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "pay maintenance charges of 150000 to my landlord's account from my my main account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "beneficiary": "my landlord's account",
+      "account": "my main account",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "pay the salary of 15000 from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "account": "salary account",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "pay dollars 100000 to harish patel by end of day via SWIFT for contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "dollars",
+      "beneficiary": "harish patel",
+      "time": "by end of day",
+      "method": "SWIFT",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "send raj electronics 5000 rupees for rent using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "rupees",
+      "beneficiary": "raj electronics",
+      "method": "wire transfer",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "i want to pay 35000 euros to emma watson",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "euros",
+      "beneficiary": "emma watson"
+    }
+  },
+  {
+    "input": "please process a payment to the school for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "the school",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "schedule a payment of 10000 euros to city hospital next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros",
+      "beneficiary": "city hospital",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "transfer funds to my landlord via SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "release payment of 100000 to grand hotel for annual subscription by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "beneficiary": "grand hotel",
+      "purpose": "annual subscription",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "make a payment of 15000 dollars to sunrise textiles using NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "dollars",
+      "beneficiary": "sunrise textiles",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "can you send 3000 to marketing agency using ACH from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "marketing agency",
+      "method": "ACH",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "schedule a payment of 75000 pounds to hassan ali by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "pounds",
+      "beneficiary": "hassan ali",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "transfer funds to priya sharma via IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "send 4500 euros to logistics partner tomorrow",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "euros",
+      "beneficiary": "logistics partner",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "transfer 35000 INR to priya sharma via NEFT by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR",
+      "beneficiary": "priya sharma",
+      "method": "NEFT",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "initiate an IMPS payment to food distributors co for 4500 EUR against order id ORD-7712",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "EUR",
+      "beneficiary": "food distributors co",
+      "method": "IMPS",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "initiate an SWIFT payment to david miller for 100000 EUR against case id CS-2210",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "EUR",
+      "beneficiary": "david miller",
+      "method": "SWIFT",
+      "reference": "case id CS-2210"
+    }
+  },
+  {
+    "input": "schedule a payment of 62000 pounds to carlos rivera on the 1st of next month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "pounds",
+      "beneficiary": "carlos rivera",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "transfer 62000 USD to grand hotel via IMPS by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "USD",
+      "beneficiary": "grand hotel",
+      "method": "IMPS",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "make a payment of 22000 euros to the insurance company using SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "euros",
+      "beneficiary": "the insurance company",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "release payment of 3000 to logistics partner for tax payment at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "logistics partner",
+      "purpose": "tax payment",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "wire 50000 to tech solutions inc for the pending invoice, note it as tax payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "beneficiary": "tech solutions inc",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "transfer 100000 pounds from my business account to national bank staff",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "pounds",
+      "beneficiary": "national bank staff",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "i need to pay food distributors co 18000 EUR against invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "EUR",
+      "beneficiary": "food distributors co",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "i want to pay 250000 INR to logistics partner",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "INR",
+      "beneficiary": "logistics partner"
+    }
+  },
+  {
+    "input": "pay invoice 5567 worth 4500 euros to my landlord's account via internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "euros",
+      "beneficiary": "my landlord's account",
+      "method": "internal transfer",
+      "reference": "invoice 5567"
+    }
+  },
+  {
+    "input": "pay refund of 2500 to my supplier from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "beneficiary": "my supplier",
+      "account": "salary account",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "pay salary of 250000 to food distributors co from my my main account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "beneficiary": "food distributors co",
+      "account": "my main account",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "pay ref TXN88213 worth 1200 euros to grand hotel via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "euros",
+      "beneficiary": "grand hotel",
+      "method": "wire transfer",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "send 250000 rupees to logistics partner for bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "rupees",
+      "beneficiary": "logistics partner",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "send 62000 dollars to harish patel next monday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "dollars",
+      "beneficiary": "harish patel",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "send 1200 dollars to grand hotel at 3pm today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "dollars",
+      "beneficiary": "grand hotel",
+      "time": "at 3pm today"
+    }
+  },
+  {
+    "input": "transfer funds to vikram traders via RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "pay the rent of 5000 from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "account": "usd account",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "i need to pay my landlord's account 5000 rupees against po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "rupees",
+      "beneficiary": "my landlord's account",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "transfer 22000 dollars from my savings account to hassan ali",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "dollars",
+      "beneficiary": "hassan ali",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "schedule a payment of 75000 USD to grand hotel on the 5th",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "USD",
+      "beneficiary": "grand hotel",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "pay the bonus payment of 50000 from my my main account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "account": "my main account",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "send 1200 USD to hassan ali for bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "USD",
+      "beneficiary": "hassan ali",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "schedule a payment of 500 pounds to green energy pvt ltd before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "pounds",
+      "beneficiary": "green energy pvt ltd",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "transfer 75000 rupees to rajesh kumar via SEPA before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees",
+      "beneficiary": "rajesh kumar",
+      "method": "SEPA",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "pay star freight services 35000 GBP on the 1st of next month for salary",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "GBP",
+      "beneficiary": "star freight services",
+      "time": "on the 1st of next month",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "i need to pay the school 2500 EUR against invoice 5567",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "EUR",
+      "beneficiary": "the school",
+      "reference": "invoice 5567"
+    }
+  },
+  {
+    "input": "pay USD 50000 to star freight services on 15th august via IMPS for ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "USD",
+      "beneficiary": "star freight services",
+      "time": "on 15th august",
+      "method": "IMPS",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "transfer 3000 USD to raj electronics via SEPA this friday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "USD",
+      "beneficiary": "raj electronics",
+      "method": "SEPA",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "wire 2500 to harish patel for the pending invoice, note it as rent",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "beneficiary": "harish patel",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "can you send 9999 to the electricity board using RTGS from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "beneficiary": "the electricity board",
+      "method": "RTGS",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "please process a payment to acme industries for po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "pay case id CS-2210 worth 9999 rupees to john smith via ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "rupees",
+      "beneficiary": "john smith",
+      "method": "ACH",
+      "reference": "case id CS-2210"
+    }
+  },
+  {
+    "input": "pay tech solutions inc 35000 INR next week for salary",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR",
+      "beneficiary": "tech solutions inc",
+      "time": "next week",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "send the tax department 2500 INR for consulting fees using SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "INR",
+      "beneficiary": "the tax department",
+      "method": "SEPA",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "please process a payment to the printing vendor for po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "the printing vendor",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "pay the refund of 10000 from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "account": "usd account",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "can you send 100000 to grand hotel using IMPS from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "beneficiary": "grand hotel",
+      "method": "IMPS",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "transfer 10000 EUR from my salary account to grand hotel",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "EUR",
+      "beneficiary": "grand hotel",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "can you send 15000 to tech solutions inc using RTGS from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "beneficiary": "tech solutions inc",
+      "method": "RTGS",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "transfer funds to abc metals via IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "please process a payment to sunrise textiles for bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "pay pounds 50000 to bright future ngo this friday via RTGS for case id CS-2210",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "pounds",
+      "beneficiary": "bright future ngo",
+      "time": "this friday",
+      "method": "RTGS",
+      "reference": "case id CS-2210"
+    }
+  },
+  {
+    "input": "i need to pay steel suppliers ltd 250000 dollars against contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "dollars",
+      "beneficiary": "steel suppliers ltd",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "pay the bonus payment of 3000 from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "account": "account ending 4521",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "send 1000 dollars to carlos rivera for bonus payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "dollars",
+      "beneficiary": "carlos rivera",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "initiate an SEPA payment to my landlord's account for 50000 GBP against po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "GBP",
+      "beneficiary": "my landlord's account",
+      "method": "SEPA",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "make a payment of 4500 INR to david miller using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "INR",
+      "beneficiary": "david miller",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "schedule a payment of 35000 rupees to raj electronics immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees",
+      "beneficiary": "raj electronics",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "send 35000 rupees to harish patel on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees",
+      "beneficiary": "harish patel",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "send 18000 GBP to my landlord next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "my landlord",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "pay INR 50000 to carlos rivera tomorrow via ACH for reference number REF3321",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "INR",
+      "beneficiary": "carlos rivera",
+      "time": "tomorrow",
+      "method": "ACH",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "can you send 1000 to my landlord using ACH from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "beneficiary": "my landlord",
+      "method": "ACH",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "please process a payment to the school for order id ORD-7712",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "the school",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "release payment of 62000 to star freight services for refund on the 5th",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "beneficiary": "star freight services",
+      "purpose": "refund",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "pay oceanic exports 50000 dollars on the 5th for salary",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "dollars",
+      "beneficiary": "oceanic exports",
+      "time": "on the 5th",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "release payment of 3000 to marketing agency for electricity bill on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "marketing agency",
+      "purpose": "electricity bill",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "make a payment of 18000 dollars to the electricity board using internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "dollars",
+      "beneficiary": "the electricity board",
+      "method": "internal transfer"
+    }
+  },
+  {
+    "input": "transfer 7800 rupees to national bank staff via NEFT on the 5th",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "currency": "rupees",
+      "beneficiary": "national bank staff",
+      "method": "NEFT",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "transfer 15000 dollars to delta enterprises via NEFT before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "dollars",
+      "beneficiary": "delta enterprises",
+      "method": "NEFT",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "pay euros 100000 to food distributors co tomorrow via wire transfer for po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "euros",
+      "beneficiary": "food distributors co",
+      "time": "tomorrow",
+      "method": "wire transfer",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "make a payment of 500 INR to my supplier using IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "INR",
+      "beneficiary": "my supplier",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "transfer 62000 rupees to xyz corp via NEFT tomorrow",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "rupees",
+      "beneficiary": "xyz corp",
+      "method": "NEFT",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "transfer 50000 USD to global traders via internal transfer today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "USD",
+      "beneficiary": "global traders",
+      "method": "internal transfer",
+      "time": "today"
+    }
+  },
+  {
+    "input": "pay carlos rivera 1000 INR next monday for rent",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "INR",
+      "beneficiary": "carlos rivera",
+      "time": "next monday",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "pay the loan repayment of 22000 from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "account": "account ending 4521",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "transfer funds to food distributors co via internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "food distributors co",
+      "method": "internal transfer"
+    }
+  },
+  {
+    "input": "wire 150000 to the insurance company for the pending invoice, note it as maintenance charges",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "beneficiary": "the insurance company",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "pay grand hotel 75000 euros by end of day for loan repayment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "euros",
+      "beneficiary": "grand hotel",
+      "time": "by end of day",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "pay john smith 22000 EUR at 3pm today for vendor payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "EUR",
+      "beneficiary": "john smith",
+      "time": "at 3pm today",
+      "purpose": "vendor payment"
+    }
+  },
+  {
+    "input": "send 1000 dollars to the school for salary",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "dollars",
+      "beneficiary": "the school",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "pay the bonus payment of 18000 from my business account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "account": "business account",
+      "purpose": "bonus payment"
+    }
+  },
+  {
+    "input": "initiate an NEFT payment to logistics partner for 62000 dollars against contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "dollars",
+      "beneficiary": "logistics partner",
+      "method": "NEFT",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "release payment of 10000 to grand hotel for electricity bill next monday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "beneficiary": "grand hotel",
+      "purpose": "electricity bill",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "send 15000 GBP to john smith for rent",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "GBP",
+      "beneficiary": "john smith",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "wire 50000 to raj electronics for the pending invoice, note it as tax payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "beneficiary": "raj electronics",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "make a payment of 4500 dollars to xyz corp using SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "dollars",
+      "beneficiary": "xyz corp",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "i want to pay 35000 dollars to acme industries",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "dollars",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "pay refund of 18000 to my supplier from my business account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "beneficiary": "my supplier",
+      "account": "business account",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "pay loan repayment of 500 to emma watson from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "beneficiary": "emma watson",
+      "account": "account ending 4521",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "release payment of 3000 to my landlord for salary on the 1st of next month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "my landlord",
+      "purpose": "salary",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "i want to pay 7800 USD to sara khan",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "currency": "USD",
+      "beneficiary": "sara khan"
+    }
+  },
+  {
+    "input": "transfer 75000 rupees to marketing agency via NEFT today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees",
+      "beneficiary": "marketing agency",
+      "method": "NEFT",
+      "time": "today"
+    }
+  },
+  {
+    "input": "pay consulting fees of 150000 to carlos rivera from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "beneficiary": "carlos rivera",
+      "account": "corporate account",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "release payment of 15000 to oceanic exports for refund today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "beneficiary": "oceanic exports",
+      "purpose": "refund",
+      "time": "today"
+    }
+  },
+  {
+    "input": "pay the tax payment of 3000 from my savings account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "account": "savings account",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "i want to pay 9999 euros to john smith",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "euros",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "pay consulting fees of 1200 to sara khan from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "beneficiary": "sara khan",
+      "account": "salary account",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "transfer funds to marketing agency via NEFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "method": "NEFT"
+    }
+  },
+  {
+    "input": "wire 1200 to abc metals for the pending invoice, note it as refund",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "beneficiary": "abc metals",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "send 3000 INR to the electricity board before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "INR",
+      "beneficiary": "the electricity board",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "make a payment of 35000 pounds to the printing vendor using internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "pounds",
+      "beneficiary": "the printing vendor",
+      "method": "internal transfer"
+    }
+  },
+  {
+    "input": "pay invoice payment of 75000 to the tax department from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "beneficiary": "the tax department",
+      "account": "corporate account",
+      "purpose": "invoice payment"
+    }
+  },
+  {
+    "input": "schedule a payment of 22000 GBP to bright future ngo next monday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "GBP",
+      "beneficiary": "bright future ngo",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "pay invoice 7781 worth 1000 GBP to the printing vendor via ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "GBP",
+      "beneficiary": "the printing vendor",
+      "method": "ACH",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "make a payment of 250000 EUR to sunrise textiles using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "EUR",
+      "beneficiary": "sunrise textiles",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "transfer 150000 GBP to my landlord via ACH by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "GBP",
+      "beneficiary": "my landlord",
+      "method": "ACH",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "pay food distributors co 18000 pounds this friday for advance payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "pounds",
+      "beneficiary": "food distributors co",
+      "time": "this friday",
+      "purpose": "advance payment"
+    }
+  },
+  {
+    "input": "send priya sharma 62000 pounds for tax payment using SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "pounds",
+      "beneficiary": "priya sharma",
+      "method": "SWIFT",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "make a payment of 62000 USD to city hospital using SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "USD",
+      "beneficiary": "city hospital",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "release payment of 9999 to global traders for consulting fees this friday",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "beneficiary": "global traders",
+      "purpose": "consulting fees",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "send 100000 dollars to tech solutions inc for electricity bill",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "dollars",
+      "beneficiary": "tech solutions inc",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "pay rupees 50000 to office rent owner on 15th august via ACH for po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "rupees",
+      "beneficiary": "office rent owner",
+      "time": "on 15th august",
+      "method": "ACH",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "wire 35000 to raj electronics for the pending invoice, note it as consulting fees",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "beneficiary": "raj electronics",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "send 250000 GBP to my landlord's account immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "GBP",
+      "beneficiary": "my landlord's account",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "transfer 7800 USD from my current account to office rent owner",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "currency": "USD",
+      "beneficiary": "office rent owner",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "pay electricity bill of 10000 to steel suppliers ltd from my my main account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "beneficiary": "steel suppliers ltd",
+      "account": "my main account",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "send 22000 dollars to hassan ali before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "dollars",
+      "beneficiary": "hassan ali",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "please process a payment to david miller for contract ref C-9081",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "pay invoice payment of 22000 to city hospital from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "beneficiary": "city hospital",
+      "account": "account ending 4521",
+      "purpose": "invoice payment"
+    }
+  },
+  {
+    "input": "initiate an SWIFT payment to bright future ngo for 15000 GBP against invoice 7781",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "GBP",
+      "beneficiary": "bright future ngo",
+      "method": "SWIFT",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "wire 7800 to my supplier for the pending invoice, note it as maintenance charges",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "beneficiary": "my supplier",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "can you send 100000 to hassan ali using ACH from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "beneficiary": "hassan ali",
+      "method": "ACH",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "release payment of 3000 to vikram traders for office supplies purchase immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "vikram traders",
+      "purpose": "office supplies purchase",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "transfer funds to xyz corp via SEPA",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "xyz corp",
+      "method": "SEPA"
+    }
+  },
+  {
+    "input": "pay the maintenance charges of 35000 from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "account": "usd account",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "i want to pay 5000 INR to michael chen",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "INR",
+      "beneficiary": "michael chen"
+    }
+  },
+  {
+    "input": "send 62000 GBP to sara khan for advance payment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "GBP",
+      "beneficiary": "sara khan",
+      "purpose": "advance payment"
+    }
+  },
+  {
+    "input": "transfer 35000 EUR from my business account to food distributors co",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "EUR",
+      "beneficiary": "food distributors co",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "pay the rent of 18000 from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "account": "salary account",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "can you send 50000 to anita desai using ACH from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "beneficiary": "anita desai",
+      "method": "ACH",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "send 62000 USD to the printing vendor for salary",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "USD",
+      "beneficiary": "the printing vendor",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "can you send 1200 to acme industries using wire transfer from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "beneficiary": "acme industries",
+      "method": "wire transfer",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "wire 50000 to rajesh kumar for the pending invoice, note it as office supplies purchase",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "beneficiary": "rajesh kumar",
+      "purpose": "office supplies purchase"
+    }
+  },
+  {
+    "input": "send 500 euros to bright future ngo for loan repayment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "euros",
+      "beneficiary": "bright future ngo",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "transfer 5000 pounds to star freight services via SWIFT next week",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "pounds",
+      "beneficiary": "star freight services",
+      "method": "SWIFT",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "send 18000 GBP to the tax department for maintenance charges",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "the tax department",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "pay GBP 500 to my supplier this friday via SEPA for po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "GBP",
+      "beneficiary": "my supplier",
+      "time": "this friday",
+      "method": "SEPA",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "transfer 62000 rupees from my corporate account to sunrise textiles",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "rupees",
+      "beneficiary": "sunrise textiles",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "transfer 9999 dollars from my account ending 4521 to star freight services",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "dollars",
+      "beneficiary": "star freight services",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "pay tax payment of 100000 to my supplier from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "beneficiary": "my supplier",
+      "account": "current account",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "release payment of 4500 to priya sharma for office supplies purchase on the 1st of next month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "beneficiary": "priya sharma",
+      "purpose": "office supplies purchase",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "pay the salary of 18000 from my current account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "account": "current account",
+      "purpose": "salary"
+    }
+  },
+  {
+    "input": "make a payment of 150000 euros to carlos rivera using RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "euros",
+      "beneficiary": "carlos rivera",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "send 500 rupees to my landlord's account before end of month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "rupees",
+      "beneficiary": "my landlord's account",
+      "time": "before end of month"
+    }
+  },
+  {
+    "input": "can you send 3000 to city hospital using RTGS from my account ending 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "city hospital",
+      "method": "RTGS",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "pay the tax payment of 4500 from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "account": "corporate account",
+      "purpose": "tax payment"
+    }
+  },
+  {
+    "input": "send 1000 dollars to tech solutions inc today",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "dollars",
+      "beneficiary": "tech solutions inc",
+      "time": "today"
+    }
+  },
+  {
+    "input": "release payment of 1000 to rajesh kumar for annual subscription on the 1st of next month",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "beneficiary": "rajesh kumar",
+      "purpose": "annual subscription",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "initiate an internal transfer payment to anita desai for 250000 rupees against invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "rupees",
+      "beneficiary": "anita desai",
+      "method": "internal transfer",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "transfer funds to star freight services via RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "star freight services",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "wire 7800 to logistics partner for the pending invoice, note it as refund",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "beneficiary": "logistics partner",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "i want to pay 7800 USD to delta enterprises",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "currency": "USD",
+      "beneficiary": "delta enterprises"
+    }
+  },
+  {
+    "input": "can you send 7800 to acme industries using NEFT from my corporate account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "beneficiary": "acme industries",
+      "method": "NEFT",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "release payment of 250000 to harish patel for loan repayment by end of day",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "beneficiary": "harish patel",
+      "purpose": "loan repayment",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "i need to pay my landlord's account 1000 USD against bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "USD",
+      "beneficiary": "my landlord's account",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "pay GBP 4500 to sara khan next week via RTGS for ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "GBP",
+      "beneficiary": "sara khan",
+      "time": "next week",
+      "method": "RTGS",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "please process a payment to food distributors co for invoice number INV-2291",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "food distributors co",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "i need to pay michael chen 7800 USD against bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "currency": "USD",
+      "beneficiary": "michael chen",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "transfer 15000 pounds from my corporate account to delta enterprises",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "pounds",
+      "beneficiary": "delta enterprises",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "transfer 1000 euros to raj electronics via RTGS on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1000",
+      "currency": "euros",
+      "beneficiary": "raj electronics",
+      "method": "RTGS",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "pay food distributors co 150000 INR tomorrow for maintenance charges",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "INR",
+      "beneficiary": "food distributors co",
+      "time": "tomorrow",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "transfer 18000 GBP from my account ending 4521 to hassan ali",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "hassan ali",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "schedule a payment of 50000 euros to the tax department tomorrow",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros",
+      "beneficiary": "the tax department",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "i want to pay 75000 rupees to food distributors co",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees",
+      "beneficiary": "food distributors co"
+    }
+  },
+  {
+    "input": "i need to pay marketing agency 5000 pounds against ref TXN88213",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "pounds",
+      "beneficiary": "marketing agency",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "pay green energy pvt ltd 10000 euros tomorrow for maintenance charges",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros",
+      "beneficiary": "green energy pvt ltd",
+      "time": "tomorrow",
+      "purpose": "maintenance charges"
+    }
+  },
+  {
+    "input": "release payment of 3000 to hassan ali for invoice payment on 15th august",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "beneficiary": "hassan ali",
+      "purpose": "invoice payment",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "pay invoice number INV-2291 worth 150000 euros to vikram traders via IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "euros",
+      "beneficiary": "vikram traders",
+      "method": "IMPS",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "make a payment of 100000 dollars to vikram traders using SWIFT",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "dollars",
+      "beneficiary": "vikram traders",
+      "method": "SWIFT"
+    }
+  },
+  {
+    "input": "pay oceanic exports 50000 rupees next monday for consulting fees",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "rupees",
+      "beneficiary": "oceanic exports",
+      "time": "next monday",
+      "purpose": "consulting fees"
+    }
+  },
+  {
+    "input": "pay bill number 3345 worth 50000 GBP to green energy pvt ltd via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "GBP",
+      "beneficiary": "green energy pvt ltd",
+      "method": "wire transfer",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "wire 7800 to priya sharma for the pending invoice, note it as electricity bill",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "beneficiary": "priya sharma",
+      "purpose": "electricity bill"
+    }
+  },
+  {
+    "input": "pay invoice number INV-2291 worth 35000 pounds to abc metals via RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "pounds",
+      "beneficiary": "abc metals",
+      "method": "RTGS",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "send 10000 rupees to sunrise textiles for refund",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "rupees",
+      "beneficiary": "sunrise textiles",
+      "purpose": "refund"
+    }
+  },
+  {
+    "input": "transfer funds to logistics partner via internal transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "logistics partner",
+      "method": "internal transfer"
+    }
+  },
+  {
+    "input": "pay invoice 7781 worth 100000 GBP to vikram traders via ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "GBP",
+      "beneficiary": "vikram traders",
+      "method": "ACH",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "pay food distributors co 150000 dollars today for annual subscription",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "currency": "dollars",
+      "beneficiary": "food distributors co",
+      "time": "today",
+      "purpose": "annual subscription"
+    }
+  },
+  {
+    "input": "send the tax department 250000 GBP for vendor payment using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "250000",
+      "currency": "GBP",
+      "beneficiary": "the tax department",
+      "method": "wire transfer",
+      "purpose": "vendor payment"
+    }
+  },
+  {
+    "input": "pay invoice payment of 2500 to david miller from my salary account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "beneficiary": "david miller",
+      "account": "salary account",
+      "purpose": "invoice payment"
+    }
+  },
+  {
+    "input": "pay invoice 5567 worth 22000 EUR to sunrise textiles via ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "EUR",
+      "beneficiary": "sunrise textiles",
+      "method": "ACH",
+      "reference": "invoice 5567"
+    }
+  },
+  {
+    "input": "send 5000 dollars to national bank staff for loan repayment",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "dollars",
+      "beneficiary": "national bank staff",
+      "purpose": "loan repayment"
+    }
+  },
+  {
+    "input": "release payment of 18000 to xyz corp for vendor payment immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "beneficiary": "xyz corp",
+      "purpose": "vendor payment",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "transfer 7800 pounds from my account ending 4521 to grand hotel",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "7800",
+      "currency": "pounds",
+      "beneficiary": "grand hotel",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i want to pay 50000 dollars to city hospital",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "dollars",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "make a payment of 75000 euros to tech solutions inc using wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "euros",
+      "beneficiary": "tech solutions inc",
+      "method": "wire transfer"
+    }
+  },
+  {
+    "input": "make a payment of 100000 rupees to grand hotel using ACH",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "rupees",
+      "beneficiary": "grand hotel",
+      "method": "ACH"
+    }
+  },
+  {
+    "input": "i need to pay green energy pvt ltd 1200 rupees against po 4521",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "rupees",
+      "beneficiary": "green energy pvt ltd",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "pay ref TXN88213 worth 18000 INR to xyz corp via wire transfer",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "INR",
+      "beneficiary": "xyz corp",
+      "method": "wire transfer",
+      "reference": "ref TXN88213"
+    }
+  },
+  {
+    "input": "make a payment of 10000 pounds to xyz corp using IMPS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "pounds",
+      "beneficiary": "xyz corp",
+      "method": "IMPS"
+    }
+  },
+  {
+    "input": "transfer 2500 INR to david miller via ACH immediately",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "INR",
+      "beneficiary": "david miller",
+      "method": "ACH",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "pay the rent of 150000 from my usd account",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "150000",
+      "account": "usd account",
+      "purpose": "rent"
+    }
+  },
+  {
+    "input": "make a payment of 18000 INR to harish patel using RTGS",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "INR",
+      "beneficiary": "harish patel",
+      "method": "RTGS"
+    }
+  },
+  {
+    "input": "please process a payment to city hospital for bill number 3345",
+    "intent": "NEW_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "reference": "bill number 3345"
+    }
+  }
+]

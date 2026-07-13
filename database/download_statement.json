@@ -1,0 +1,4205 @@
+[
+  {
+    "input": "i want my my main account statement from 1st june to 30th june in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "from 1st june to 30th june",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "i need a balance statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "i want my business account statement for the last 6 months in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "for the last 6 months",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "send me the business account statement in CAMT format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "can you download the statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get me the MT940 statement for salary account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "MT940",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "print my usd account statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "email my statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "this year"
+    }
+  },
+  {
+    "input": "send transaction statement for savings account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "print my my main account statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download detailed statement in euros for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "euros",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "save the transaction statement for salary account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "save the balance statement for account ending 4521 to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "download statement for usd account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "i want my salary account statement last month in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "last month",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "get my euros account statement in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "euros",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "download my statement for savings account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "savings account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download account statement in dollars for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "dollars",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "print my usd account statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "get my EUR account statement in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "EUR",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "download statement for savings account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "get my USD account statement in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "USD",
+      "format": "text"
+    }
+  },
+  {
+    "input": "save the account statement for savings account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "i need a account statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "i want my corporate account statement last week in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "time": "last week",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "export my transaction statement as PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "save the account statement for salary account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "send me the my main account statement in PDF format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "get my INR account statement in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "INR",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "export my transaction statement as Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "download my balance statement for savings account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "savings account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "send me the current account statement in XLSX format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "print my salary account statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "download statement for my main account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "can you download the statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download statement for business account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account"
+    }
+  },
+  {
+    "input": "save the transaction statement for corporate account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get my dollars account statement in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "dollars",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "send account statement for usd account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "get me the Excel statement for usd account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "Excel",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "i need a balance statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "download my transaction statement for corporate account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "corporate account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "download my detailed statement for usd account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "usd account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "save the balance statement for current account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "send me the current account statement in PDF format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "i want my savings account statement last week in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "time": "last week",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "i need a transaction statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "send me the corporate account statement in text format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "format": "text"
+    }
+  },
+  {
+    "input": "get me the CSV statement for account ending 4521",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CSV",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "print my account ending 4521 statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download my detailed statement for current account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "current account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "export my transaction statement as XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "can you download the statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send transaction statement for my main account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "get me the MT940 statement for my main account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "MT940",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "send balance statement for usd account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "get me the XLSX statement for salary account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "XLSX",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "email my statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "save the transaction statement for business account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "email my statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "last month"
+    }
+  },
+  {
+    "input": "i need a account statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "print my statement for business account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "business account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get me the PDF statement for savings account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "PDF",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "download statement for corporate account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get my euros account statement in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "euros",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "get me the XLSX statement for current account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "XLSX",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "download balance statement in euros for for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "euros",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "save the detailed statement for corporate account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get me the CAMT statement for current account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CAMT",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "i need a transaction statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "get me the text statement for corporate account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "text",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "can you download the statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "save the balance statement for corporate account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "i want my my main account statement for the last 6 months in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "for the last 6 months",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "i want my salary account statement this year in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "this year",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "send transaction statement for corporate account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "i need a transaction statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "print my statement for current account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "current account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send me the savings account statement in text format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "format": "text"
+    }
+  },
+  {
+    "input": "send detailed statement for usd account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "send me the business account statement in text format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "format": "text"
+    }
+  },
+  {
+    "input": "i need a balance statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "get me the Excel statement for savings account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "Excel",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "send detailed statement for account ending 4521 via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "send me the usd account statement in PDF format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "save my statement for corporate account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "corporate account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "get my pounds account statement in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "pounds",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "download account statement in INR for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "INR",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download my balance statement for account ending 4521 last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "account ending 4521",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download my account statement for corporate account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "corporate account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "export my transaction statement as CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download my account statement for savings account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "savings account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "i need a detailed statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download balance statement in GBP for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "GBP",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "send account statement for business account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "download my balance statement for savings account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "savings account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "send me the current account statement in text format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "format": "text"
+    }
+  },
+  {
+    "input": "send balance statement for current account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "send me the my main account statement in Excel format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "get my pounds account statement in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "pounds",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "i want my usd account statement last week in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "last week",
+      "format": "text"
+    }
+  },
+  {
+    "input": "download my account statement for business account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "business account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get me the XLSX statement for account ending 4521",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "XLSX",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "print my business account statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get me the text statement for my main account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "text",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "save the account statement for business account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "get my EUR account statement in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "EUR",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "i want my my main account statement from 1st june to 30th june in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "from 1st june to 30th june",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "send account statement for current account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "download account statement in GBP for for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "GBP",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "send balance statement for salary account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "can you download the statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i need a transaction statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get me the PDF statement for current account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "PDF",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "save my statement for savings account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "savings account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "email my statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "last week"
+    }
+  },
+  {
+    "input": "save my statement for my main account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "my main account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "can you download the statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get me the XLSX statement for corporate account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "XLSX",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "i want my business account statement from 1st june to 30th june in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "from 1st june to 30th june",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "i want my business account statement this quarter in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "this quarter",
+      "format": "text"
+    }
+  },
+  {
+    "input": "email my statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get my dollars account statement in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "dollars",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "send detailed statement for business account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "download my statement for salary account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "salary account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "print my salary account statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "save the account statement for my main account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "get my EUR account statement in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "EUR",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "get my pounds account statement in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "pounds",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "get me the CSV statement for current account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CSV",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "print my current account statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "i want my my main account statement from 1st june to 30th june in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "from 1st june to 30th june",
+      "format": "text"
+    }
+  },
+  {
+    "input": "print my usd account statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "download my balance statement for business account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "business account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "get me the XLSX statement for usd account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "XLSX",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "download my balance statement for my main account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "my main account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "send me the business account statement in XLSX format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "download my transaction statement for my main account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "my main account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download my detailed statement for corporate account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "corporate account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "send transaction statement for current account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "print my my main account statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "get my GBP account statement in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "GBP",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "send account statement for my main account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "get me the XLSX statement for savings account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "XLSX",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "save my statement for business account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "business account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "send account statement for corporate account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get my EUR account statement in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "EUR",
+      "format": "text"
+    }
+  },
+  {
+    "input": "save the transaction statement for savings account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "save my statement for savings account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "savings account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "print my statement for salary account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "salary account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download detailed statement in EUR for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "EUR",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "get me the PDF statement for usd account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "PDF",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "print my salary account statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "send me the usd account statement in CAMT format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download detailed statement in GBP for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "GBP",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download my account statement for savings account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "savings account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "download detailed statement in EUR for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "EUR",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download statement for account ending 4521",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "save the transaction statement for usd account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "get my GBP account statement in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "GBP",
+      "format": "text"
+    }
+  },
+  {
+    "input": "save the account statement for account ending 4521 to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "download my detailed statement for account ending 4521 this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "account ending 4521",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "export my transaction statement as MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "save the transaction statement for current account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "get me the Excel statement for account ending 4521",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "Excel",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "save the balance statement for salary account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "get my EUR account statement in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "EUR",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "print my business account statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "export my transaction statement as CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "get my USD account statement in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "USD",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "get me the text statement for salary account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "text",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "save the balance statement for usd account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "download my detailed statement for account ending 4521 last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "account ending 4521",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get me the CAMT statement for usd account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CAMT",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "print my corporate account statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "download account statement in euros for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "euros",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get my GBP account statement in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "GBP",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "email my statement for current account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "email",
+      "account": "current account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "email my statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download my account statement for my main account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "my main account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send detailed statement for savings account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "save the detailed statement for usd account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "download my detailed statement for savings account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "savings account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i want my account ending 4521 statement last month in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "last month",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "can you download the statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "last month"
+    }
+  },
+  {
+    "input": "export my statement for current account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "current account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "email my statement for usd account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "email",
+      "account": "usd account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download transaction statement in INR for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "INR",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "send transaction statement for business account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "i want my my main account statement last week in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "last week",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "i need a transaction statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "send balance statement for corporate account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "save the balance statement for business account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "i need a account statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download transaction statement in EUR for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "EUR",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "i need a transaction statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send account statement for account ending 4521 via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i need a transaction statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "send balance statement for account ending 4521 via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "send detailed statement for salary account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "print my savings account statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "get my EUR account statement in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "EUR",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "i want my current account statement the past 3 months in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "the past 3 months",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "i want my corporate account statement last month in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "time": "last month",
+      "format": "text"
+    }
+  },
+  {
+    "input": "i want my salary account statement this year in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "this year",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "i need a account statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "save the account statement for corporate account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "get my dollars account statement in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "dollars",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "download detailed statement in INR for for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "INR",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "get me the text statement for account ending 4521",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "text",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i want my business account statement last month in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "last month",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "get me the CAMT statement for salary account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CAMT",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "download my balance statement for business account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "business account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "print my corporate account statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "i want my current account statement for the last 6 months in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "for the last 6 months",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download my detailed statement for account ending 4521 this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "account ending 4521",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send balance statement for savings account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "send detailed statement for current account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "get my euros account statement in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "euros",
+      "format": "text"
+    }
+  },
+  {
+    "input": "download statement for salary account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "download balance statement in USD for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "USD",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download my transaction statement for my main account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "my main account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "print my statement for my main account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "my main account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get me the text statement for business account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "text",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "download account statement in pounds for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "pounds",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download transaction statement in GBP for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "GBP",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "export my transaction statement as text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "text"
+    }
+  },
+  {
+    "input": "print my current account statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i need a account statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "download detailed statement in USD for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "USD",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "download balance statement in USD for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "USD",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "print my account ending 4521 statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download my detailed statement for salary account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "salary account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "send me the corporate account statement in MT940 format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "get me the MT940 statement for current account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "MT940",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "print my salary account statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "send me the salary account statement in MT940 format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "print my statement for corporate account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "corporate account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "i want my my main account statement this year in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "this year",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "download my transaction statement for salary account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "salary account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "get my GBP account statement in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "GBP",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "i want my current account statement this year in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "this year",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "print my usd account statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "download detailed statement in USD for for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "USD",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "send balance statement for business account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "send me the salary account statement in PDF format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "download my statement for account ending 4521 this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "account ending 4521",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "download transaction statement in rupees for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "rupees",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "export my statement for salary account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "salary account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "print my current account statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download detailed statement in dollars for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "dollars",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "save my statement for usd account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "usd account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download account statement in rupees for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "rupees",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i want my current account statement this year in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "this year",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "i need a account statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "send me the savings account statement in Excel format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "save the transaction statement for account ending 4521 to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "download my account statement for current account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "current account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "i want my current account statement the past 3 months in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "the past 3 months",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "download my transaction statement for account ending 4521 the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "account ending 4521",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download my transaction statement for current account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "current account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get me the MT940 statement for business account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "MT940",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "print my usd account statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "get me the Excel statement for salary account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "Excel",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "download my statement for current account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "current account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "i want my business account statement last week in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "last week",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "download statement for current account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account"
+    }
+  },
+  {
+    "input": "download my detailed statement for current account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "current account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "email my statement for savings account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "email",
+      "account": "savings account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "download balance statement in rupees for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "rupees",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download my transaction statement for current account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "current account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "send me the business account statement in Excel format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "download my statement for account ending 4521 the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "account ending 4521",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "export my statement for corporate account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "corporate account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "export my statement for business account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "business account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get me the PDF statement for my main account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "PDF",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "save the detailed statement for account ending 4521 to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i need a transaction statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "i need a balance statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get me the PDF statement for corporate account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "PDF",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "send me the my main account statement in CAMT format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download my balance statement for my main account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "my main account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download detailed statement in USD for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "USD",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "send me the usd account statement in XLSX format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "save my statement for salary account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "salary account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "print my statement for current account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "current account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "i want my current account statement for the last 6 months in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "for the last 6 months",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "i want my account ending 4521 statement for the last 6 months in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "for the last 6 months",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download balance statement in pounds for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "pounds",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download balance statement in rupees for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "rupees",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "print my statement for salary account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "salary account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download balance statement in GBP for for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "GBP",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download detailed statement in rupees for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "rupees",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send me the savings account statement in CAMT format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "i want my usd account statement from 1st june to 30th june in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "from 1st june to 30th june",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "send detailed statement for corporate account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "send transaction statement for salary account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "email my statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "download transaction statement in GBP for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "GBP",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "i want my corporate account statement for the last 6 months in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "time": "for the last 6 months",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "download my statement for my main account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "my main account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "send me the salary account statement in Excel format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "send account statement for salary account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "download account statement in dollars for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "dollars",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "get my pounds account statement in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "pounds",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download my balance statement for account ending 4521 this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "account ending 4521",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "print my account ending 4521 statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download balance statement in USD for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "USD",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "print my corporate account statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "i need a balance statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "download my account statement for corporate account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "corporate account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "download balance statement in rupees for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "rupees",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "i want my corporate account statement from 1st june to 30th june in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "time": "from 1st june to 30th june",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "download account statement in GBP for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "GBP",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i need a account statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download my balance statement for usd account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "usd account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "email my statement for savings account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "email",
+      "account": "savings account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "save my statement for corporate account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "corporate account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "i want my my main account statement last month in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "last month",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "get my INR account statement in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "INR",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "print my usd account statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download my detailed statement for usd account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "usd account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download detailed statement in dollars for from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "dollars",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "send me the savings account statement in CSV format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "download account statement in INR for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "INR",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i want my account ending 4521 statement last week in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "last week",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "download transaction statement in GBP for for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "GBP",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download account statement in GBP for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "GBP",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "send me the business account statement in CSV format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "download my detailed statement for my main account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "my main account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i need a balance statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download account statement in USD for from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "USD",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "send me the corporate account statement in CAMT format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download my detailed statement for business account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "business account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "i want my current account statement from 1st june to 30th june in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "from 1st june to 30th june",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "i want my account ending 4521 statement from 1st june to 30th june in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "from 1st june to 30th june",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "get me the text statement for usd account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "text",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "get me the CAMT statement for business account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CAMT",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "download balance statement in GBP for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "GBP",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "save my statement for my main account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "my main account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "i need a balance statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download transaction statement in USD for for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "USD",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "i want my my main account statement this quarter in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "this quarter",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "export my statement for savings account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "savings account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "download my balance statement for current account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "current account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "download my statement for business account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "business account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "download transaction statement in pounds for from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "pounds",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "send me the my main account statement in CSV format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "save the balance statement for my main account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "download my transaction statement for my main account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "my main account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "save the account statement for usd account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "i want my savings account statement this year in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "time": "this year",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "print my account ending 4521 statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "print my account ending 4521 statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "save the account statement for current account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "send me the usd account statement in text format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "format": "text"
+    }
+  },
+  {
+    "input": "download balance statement in euros for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "euros",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download balance statement in dollars for from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "dollars",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "i want my corporate account statement from 1st june to 30th june in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "corporate account",
+      "time": "from 1st june to 30th june",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "download account statement in EUR for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "EUR",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "can you download the statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "get my rupees account statement in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "rupees",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "i want my current account statement for march 2026 in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "for march 2026",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "download detailed statement in EUR for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "EUR",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "email my statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "export my statement for business account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "business account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "get my rupees account statement in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "rupees",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "i need a balance statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download account statement in rupees for for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "rupees",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "i want my usd account statement for march 2026 in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "for march 2026",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "get me the CAMT statement for account ending 4521",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CAMT",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i want my salary account statement the past 3 months in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "the past 3 months",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "export my statement for current account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "current account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "get my INR account statement in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "INR",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "save my statement for savings account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "savings account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "i want my salary account statement this quarter in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "this quarter",
+      "format": "text"
+    }
+  },
+  {
+    "input": "download detailed statement in EUR for for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "EUR",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "get me the Excel statement for corporate account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "Excel",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "download transaction statement in euros for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "euros",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download my transaction statement for business account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "business account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "save the detailed statement for business account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "download balance statement in EUR for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "EUR",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "email my statement for salary account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "email",
+      "account": "salary account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "download detailed statement in pounds for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "pounds",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "download my account statement for corporate account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "corporate account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "email my statement for business account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "email",
+      "account": "business account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "export my statement for my main account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "my main account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "i want my my main account statement last week in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "last week",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "send me the account ending 4521 statement in PDF format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "download my statement for savings account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "savings account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send me the salary account statement in CSV format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "i want my current account statement this quarter in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "this quarter",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download my statement for corporate account this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "corporate account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "print my statement for business account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "business account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "download account statement in GBP for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "GBP",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "print my account ending 4521 statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "send me the business account statement in MT940 format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "download balance statement in GBP for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "GBP",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download detailed statement in GBP for from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "GBP",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "download my detailed statement for business account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "business account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "download transaction statement in euros for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "euros",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "email my statement for business account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "email",
+      "account": "business account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download my balance statement for corporate account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "corporate account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "print my current account statement for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download detailed statement in USD for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "USD",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "save my statement for usd account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "save",
+      "account": "usd account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i want my current account statement the past 3 months in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "the past 3 months",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "get me the CSV statement for business account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CSV",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "i want my salary account statement last month in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "last month",
+      "format": "text"
+    }
+  },
+  {
+    "input": "send transaction statement for usd account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "save the detailed statement for salary account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "download my detailed statement for salary account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "salary account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get my USD account statement in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "USD",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "send account statement for savings account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "save the transaction statement for my main account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "download my balance statement for my main account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "my main account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get my pounds account statement in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "pounds",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "download detailed statement in dollars for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "dollars",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download my statement for usd account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "usd account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get my INR account statement in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "INR",
+      "format": "text"
+    }
+  },
+  {
+    "input": "download transaction statement in dollars for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "dollars",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send me the account ending 4521 statement in MT940 format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "send detailed statement for my main account via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "print my business account statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "send me the usd account statement in Excel format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "get my pounds account statement in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "pounds",
+      "format": "text"
+    }
+  },
+  {
+    "input": "get my euros account statement in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "euros",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "i want my usd account statement this year in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "this year",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "i want my savings account statement the past 3 months in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "time": "the past 3 months",
+      "format": "text"
+    }
+  },
+  {
+    "input": "send me the account ending 4521 statement in XLSX format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "download my detailed statement for corporate account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "corporate account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download account statement in EUR for for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "EUR",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "download my account statement for salary account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "salary account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "print my savings account statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "get my INR account statement in CAMT",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "INR",
+      "format": "CAMT"
+    }
+  },
+  {
+    "input": "download transaction statement in pounds for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "pounds",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i need a detailed statement this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "print my salary account statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "print my statement for corporate account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "print",
+      "account": "corporate account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "i want my business account statement this year in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "this year",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "get my EUR account statement in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "EUR",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "download transaction statement in GBP for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "GBP",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "download transaction statement in GBP for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "GBP",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "get my euros account statement in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "euros",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "i want my business account statement the past 3 months in PDF",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "the past 3 months",
+      "format": "PDF"
+    }
+  },
+  {
+    "input": "download transaction statement in rupees for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "rupees",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i want my usd account statement for march 2026 in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "for march 2026",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "download my transaction statement for salary account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "salary account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "get my rupees account statement in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "rupees",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "download detailed statement in dollars for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "dollars",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "print my account ending 4521 statement for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "print my current account statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download detailed statement in INR for the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "INR",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download transaction statement in EUR for for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "EUR",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download my balance statement for corporate account from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "corporate account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "get me the MT940 statement for savings account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "MT940",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "download my detailed statement for usd account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "usd account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download balance statement in INR for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "INR",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "print my savings account statement from 1st june to 30th june",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "savings account",
+      "time": "from 1st june to 30th june"
+    }
+  },
+  {
+    "input": "download my statement for savings account last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "savings account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "save the detailed statement for my main account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "print my salary account statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "email my statement for business account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "email",
+      "account": "business account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "save the detailed statement for current account to my device",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "i need a detailed statement this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "get me the MT940 statement for corporate account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "MT940",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "send transaction statement for account ending 4521 via email",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "download account statement in USD for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "USD",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i want my usd account statement this quarter in MT940",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "this quarter",
+      "format": "MT940"
+    }
+  },
+  {
+    "input": "get me the CSV statement for corporate account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "CSV",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "print my usd account statement last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "get me the PDF statement for business account",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "PDF",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "download my balance statement for salary account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "salary account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "download my balance statement for my main account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "account": "my main account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "export my statement for savings account last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "export",
+      "account": "savings account",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "i want my usd account statement last month in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "last month",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "print my business account statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "business account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "i want my salary account statement last week in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "last week",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "download my account statement for salary account for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "account": "salary account",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download my transaction statement for corporate account the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "corporate account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "get my euros account statement in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "currency": "euros",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "download detailed statement in dollars for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "dollars",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "i want my my main account statement this year in XLSX",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "this year",
+      "format": "XLSX"
+    }
+  },
+  {
+    "input": "download balance statement in EUR for for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "EUR",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "i want my current account statement for the last 6 months in text",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "time": "for the last 6 months",
+      "format": "text"
+    }
+  },
+  {
+    "input": "download account statement in USD for last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "USD",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download my transaction statement for account ending 4521 last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "account ending 4521",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "download balance statement in pounds for this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "balance statement",
+      "currency": "pounds",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "download transaction statement in dollars for last week",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "currency": "dollars",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "download account statement in USD for this quarter",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "account statement",
+      "currency": "USD",
+      "time": "this quarter"
+    }
+  },
+  {
+    "input": "print my my main account statement last month",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "print my salary account statement the past 3 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "salary account",
+      "time": "the past 3 months"
+    }
+  },
+  {
+    "input": "send me the current account statement in Excel format",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "current account",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "download detailed statement in EUR for for march 2026",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "detailed statement",
+      "currency": "EUR",
+      "time": "for march 2026"
+    }
+  },
+  {
+    "input": "download my statement for salary account for the last 6 months",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "delivery_method": "download",
+      "account": "salary account",
+      "time": "for the last 6 months"
+    }
+  },
+  {
+    "input": "i want my usd account statement for the last 6 months in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "usd account",
+      "time": "for the last 6 months",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "i want my account ending 4521 statement for the last 6 months in Excel",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "for the last 6 months",
+      "format": "Excel"
+    }
+  },
+  {
+    "input": "i want my my main account statement for march 2026 in CSV",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "account": "my main account",
+      "time": "for march 2026",
+      "format": "CSV"
+    }
+  },
+  {
+    "input": "download my transaction statement for savings account this year",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "statement_type": "transaction statement",
+      "account": "savings account",
+      "time": "this year"
+    }
+  },
+  {
+    "input": "get me the PDF statement for account ending 4521",
+    "intent": "DOWNLOAD_STATEMENT",
+    "entities": {
+      "format": "PDF",
+      "account": "account ending 4521"
+    }
+  }
+]

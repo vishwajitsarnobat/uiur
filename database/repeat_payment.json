@@ -1,0 +1,4050 @@
+[
+  {
+    "input": "repeat the transfer to tech solutions inc from account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "do the same payment as order id ORD-7712",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 4500 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "can you redo the payment referenced reference number REF3321",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "pay john smith again like earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "send priya sharma the same amount i sent two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "do the same payment as reference number REF3321",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "can you redo the payment referenced invoice 7781",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "send my landlord the same amount i sent last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "repeat my payment to the electricity board but this time 500 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "amount": "500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "pay acme industries again like earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the payment i made to rajesh kumar last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 75000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 15000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "send the same amount to global traders again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "repeat the transfer to vikram traders from corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 10000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 3000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "resend the payment i made last quarter to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat payment payment id PMT-2291",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291"
+    }
+  },
+  {
+    "input": "do the same payment as payment id PMT-2291",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291"
+    }
+  },
+  {
+    "input": "repeat my payment to tech solutions inc but this time 500 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "amount": "500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 62000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat the payment i made to abc metals last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "do the same payment as the last instruction",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "the last instruction"
+    }
+  },
+  {
+    "input": "repeat payment case id CS-2210",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "case id CS-2210"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 15000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat the payment i made to priya sharma last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat my last payment of 5000 EUR to anita desai",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "EUR",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "pay rajesh kumar again like two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat the transfer to raj electronics from business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "repeat my payment to sunrise textiles but this time 9999 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "amount": "9999",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat the transfer to steel suppliers ltd from salary account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "resend the payment i made two days ago to abc metals",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat my last payment of 22000 dollars to david miller",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "dollars",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "do the marketing agency payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 500 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "resend the payment i made last month to tech solutions inc",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 1200 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat payment to abc metals using my main account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "repeat payment transaction TXN88213",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "repeat the payment i made to vikram traders yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "do the vikram traders payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "repeat my payment to vikram traders but this time 22000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "amount": "22000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat payment reference number REF3321",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "do the same payment as transaction TXN88213",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "repeat the transfer to priya sharma from my main account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "repeat the transfer to tech solutions inc from my main account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "send sunrise textiles the same amount i sent two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "do the abc metals payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 35000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat the payment i made to raj electronics on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat payment invoice 7781",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 4500 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "send the same amount to vikram traders again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "repeat the transfer to marketing agency from current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "repeat the transfer to marketing agency from savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 22000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat the transfer to anita desai from savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "repeat the transfer to city hospital from usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "repeat payment to david miller using corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat the transfer to oceanic exports from usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "resend the payment i made last quarter to david miller",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "send the same amount to the insurance company again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "send the same amount to john smith again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 500 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "do the anita desai payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "send the same amount to city hospital again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "repeat my last payment of 2500 euros to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "euros",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "can you redo the payment referenced order id ORD-7712",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "can you redo the payment referenced the last instruction",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "the last instruction"
+    }
+  },
+  {
+    "input": "repeat my last payment of 100000 EUR to david miller",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "EUR",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "send the same amount to sunrise textiles again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "repeat the transfer to city hospital from account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "resend the payment i made yesterday to priya sharma",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat payment to john smith using usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "resend the payment i made last month to acme industries",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 18000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat my payment to rajesh kumar but this time 2500 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "amount": "2500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat the payment i made to sunrise textiles last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "resend the payment i made last friday to sunrise textiles",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat my last payment of 18000 GBP to raj electronics",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "pay anita desai again like earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the payment i made to raj electronics earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the transfer to marketing agency from corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "do the same payment as invoice 7781",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "repeat the payment i made to tech solutions inc last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "can you redo the payment referenced transaction TXN88213",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "transaction TXN88213"
+    }
+  },
+  {
+    "input": "resend the payment i made earlier this month to sunrise textiles",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 75000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat payment to the electricity board using savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "do the raj electronics payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 1200 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "do the priya sharma payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 10000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat my last payment of 18000 pounds to vikram traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "pounds",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 2500 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat my payment to marketing agency but this time 50000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "amount": "50000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "do the same payment as case id CS-2210",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "case id CS-2210"
+    }
+  },
+  {
+    "input": "repeat my last payment of 3000 GBP to abc metals",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "GBP",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "repeat my payment to sunrise textiles but this time 100000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "amount": "100000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat the payment i made to david miller two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat payment to raj electronics using corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "pay delta enterprises again like on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 75000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat my last payment of 35000 rupees to abc metals",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "rupees",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "do the delta enterprises payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises"
+    }
+  },
+  {
+    "input": "do the sunrise textiles payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "resend the payment i made on the 5th to abc metals",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat payment to abc metals using usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "send the same amount to oceanic exports again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports"
+    }
+  },
+  {
+    "input": "do the city hospital payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "repeat payment to delta enterprises using corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat the transfer to my landlord from savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "resend the payment i made last friday to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "pay city hospital again like last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "resend the payment i made two days ago to david miller",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 5000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "send the same amount to abc metals again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "repeat my payment to marketing agency but this time 2500 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "amount": "2500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "resend the payment i made earlier this month to city hospital",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "send the same amount to anita desai again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "send the insurance company the same amount i sent last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat my payment to john smith but this time 100000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "amount": "100000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 3000 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "repeat the transfer to oceanic exports from savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "repeat my payment to john smith but this time 10000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "amount": "10000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "do the steel suppliers ltd payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "repeat my payment to global traders but this time 500 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "amount": "500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat my payment to city hospital but this time 35000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "amount": "35000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat payment to sunrise textiles using current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 100000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "pay vikram traders again like last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "pay oceanic exports again like last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pay anita desai again like on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "can you redo the payment referenced payment id PMT-2291",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "payment id PMT-2291"
+    }
+  },
+  {
+    "input": "repeat my payment to my landlord but this time 15000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "amount": "15000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat the transfer to sunrise textiles from my main account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 2500 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "do the global traders payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "repeat my last payment of 62000 rupees to the electricity board",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "rupees",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "pay the electricity board again like earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the payment i made to vikram traders on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the payment i made to the electricity board last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat the payment i made to abc metals last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "resend the payment i made last quarter to delta enterprises",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat my last payment of 15000 euros to acme industries",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "euros",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "repeat the transfer to my landlord from account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "do the acme industries payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "send the same amount to david miller again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "resend the payment i made earlier this month to global traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat my last payment of 100000 USD to david miller",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "USD",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 62000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 9999 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "send sunrise textiles the same amount i sent last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "resend the payment i made last month to the electricity board",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat my last payment of 1200 pounds to delta enterprises",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "pounds",
+      "beneficiary": "delta enterprises"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 18000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat my payment to acme industries but this time 75000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "amount": "75000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat my payment to tech solutions inc but this time 10000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "amount": "10000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "send my landlord the same amount i sent yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "can you redo the payment referenced case id CS-2210",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "case id CS-2210"
+    }
+  },
+  {
+    "input": "resend the payment i made earlier this month to tech solutions inc",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat my last payment of 62000 pounds to vikram traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "pounds",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 9999 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 4500 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 18000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "send steel suppliers ltd the same amount i sent last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "resend the payment i made two days ago to sunrise textiles",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "pay acme industries again like yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat my payment to sunrise textiles but this time 9999 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "amount": "9999",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat my last payment of 22000 INR to sunrise textiles",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "INR",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "send abc metals the same amount i sent last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the payment i made to the insurance company last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pay my landlord again like on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat my payment to rajesh kumar but this time 2500 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "amount": "2500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat payment to sunrise textiles using usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "repeat the payment i made to city hospital earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "send anita desai the same amount i sent earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat my last payment of 22000 INR to abc metals",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "INR",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "repeat payment to city hospital using corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "pay abc metals again like earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 5000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat my payment to tech solutions inc but this time 5000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "amount": "5000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 62000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat my payment to john smith but this time 62000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "amount": "62000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat the transfer to priya sharma from account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "repeat the payment i made to john smith last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat payment to the insurance company using corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat my last payment of 50000 dollars to rajesh kumar",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "dollars",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "repeat payment to marketing agency using current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "send the same amount to raj electronics again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 22000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat the payment i made to oceanic exports two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 50000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 9999 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "resend the payment i made two days ago to raj electronics",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat the payment i made to priya sharma earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat my payment to anita desai but this time 9999 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "amount": "9999",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat the payment i made to acme industries two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "resend the payment i made on the 5th to tech solutions inc",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat my payment to oceanic exports but this time 62000 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "amount": "62000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 2500 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat my payment to raj electronics but this time 5000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "amount": "5000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat my payment to my landlord but this time 500 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "amount": "500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 1200 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat the transfer to my landlord from business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "pay the electricity board again like on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "send abc metals the same amount i sent last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "send the same amount to the electricity board again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "repeat payment to steel suppliers ltd using savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "repeat payment the last instruction",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "the last instruction"
+    }
+  },
+  {
+    "input": "repeat the transfer to vikram traders from savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "send the same amount to priya sharma again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "repeat my last payment of 75000 pounds to global traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "pounds",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "repeat the payment i made to global traders last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "resend the payment i made last friday to delta enterprises",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 35000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat payment to sunrise textiles using business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "repeat payment order id ORD-7712",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "repeat the payment i made to anita desai two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "pay david miller again like earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "do the david miller payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 1200 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "resend the payment i made last month to delta enterprises",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "resend the payment i made last quarter to abc metals",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat payment to abc metals using account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "send the same amount to steel suppliers ltd again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 100000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat my payment to global traders but this time 75000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "amount": "75000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "resend the payment i made yesterday to marketing agency",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 22000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 9999 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "repeat my payment to raj electronics but this time 35000 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "amount": "35000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "resend the payment i made last week to vikram traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 1200 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "repeat the transfer to delta enterprises from salary account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "pay priya sharma again like last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pay oceanic exports again like last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "send david miller the same amount i sent earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "resend the payment i made last friday to anita desai",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat payment to vikram traders using account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "repeat my last payment of 1200 pounds to global traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "pounds",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "repeat the transfer to tech solutions inc from current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "repeat my last payment of 35000 pounds to david miller",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "pounds",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 100000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat my last payment of 500 EUR to the insurance company",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "EUR",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "send my landlord the same amount i sent last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat the transfer to john smith from savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "repeat the payment i made to sunrise textiles last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat payment to global traders using savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "repeat payment to delta enterprises using account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "send marketing agency the same amount i sent last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "resend the payment i made yesterday to the electricity board",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 15000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat payment to abc metals using current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "repeat the transfer to tech solutions inc from corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat my last payment of 100000 EUR to steel suppliers ltd",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "EUR",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "pay rajesh kumar again like last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "resend the payment i made last week to anita desai",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pay vikram traders again like last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pay acme industries again like last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat my payment to abc metals but this time 18000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "amount": "18000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "do the my landlord payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "send tech solutions inc the same amount i sent last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat the transfer to raj electronics from savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "repeat my last payment of 500 USD to my landlord",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "USD",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "repeat payment to tech solutions inc using savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "resend the payment i made on the 5th to raj electronics",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the transfer to vikram traders from business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "repeat the payment i made to john smith last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat my payment to oceanic exports but this time 3000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "amount": "3000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat the payment i made to rajesh kumar last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "send acme industries the same amount i sent last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the payment i made to acme industries yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat the payment i made to vikram traders last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat my payment to acme industries but this time 100000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "amount": "100000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat the payment i made to global traders last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat the payment i made to the electricity board two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat the transfer to global traders from current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "resend the payment i made last quarter to sunrise textiles",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat my payment to vikram traders but this time 9999 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "amount": "9999",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat my payment to raj electronics but this time 3000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "amount": "3000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "send the same amount to marketing agency again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "repeat payment to john smith using my main account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "repeat my payment to anita desai but this time 18000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "amount": "18000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat my payment to priya sharma but this time 50000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "amount": "50000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 15000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "send rajesh kumar the same amount i sent two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 75000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat the payment i made to marketing agency on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the payment i made to vikram traders last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "repeat my last payment of 5000 pounds to global traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "pounds",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "repeat payment to john smith using current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "do the oceanic exports payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports"
+    }
+  },
+  {
+    "input": "repeat my payment to delta enterprises but this time 500 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "amount": "500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "do the rajesh kumar payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "repeat my last payment of 50000 rupees to priya sharma",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "rupees",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 75000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat payment to oceanic exports using corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat payment to priya sharma using savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "resend the payment i made earlier this month to delta enterprises",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 1200 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "do the tech solutions inc payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "send abc metals the same amount i sent yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "abc metals",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "send the same amount to rajesh kumar again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd again like last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat my last payment of 62000 pounds to my landlord",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "pounds",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "send oceanic exports the same amount i sent yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 10000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat payment to marketing agency using savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "send david miller the same amount i sent last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat my last payment of 9999 pounds to anita desai",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "pounds",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "repeat the transfer to global traders from corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat my last payment of 9999 EUR to anita desai",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "EUR",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "repeat the payment i made to steel suppliers ltd on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 500 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 2500 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat my last payment of 22000 USD to david miller",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "USD",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "send steel suppliers ltd the same amount i sent on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the payment i made to my landlord on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat my payment to david miller but this time 9999 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "amount": "9999",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 5000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat the transfer to john smith from salary account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "pay global traders again like on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 1200 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "resend the payment i made on the 5th to my landlord",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 22000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat the transfer to the electricity board from business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "repeat the transfer to priya sharma from current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "resend the payment i made last quarter to my landlord",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat my last payment of 18000 rupees to vikram traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "rupees",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 3000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat the payment i made to raj electronics yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat my last payment of 3000 INR to oceanic exports",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "INR",
+      "beneficiary": "oceanic exports"
+    }
+  },
+  {
+    "input": "send my landlord the same amount i sent earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the transfer to sunrise textiles from savings account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 4500 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat payment to city hospital using salary account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "repeat the payment i made to delta enterprises last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "send the insurance company the same amount i sent yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat my payment to the insurance company but this time 50000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "amount": "50000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "pay anita desai again like two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat my last payment of 5000 USD to acme industries",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "USD",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "repeat my payment to steel suppliers ltd but this time 35000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "amount": "35000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "send the same amount to delta enterprises again",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises"
+    }
+  },
+  {
+    "input": "pay delta enterprises again like two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat my payment to oceanic exports but this time 62000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "amount": "62000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "resend the payment i made earlier this month to acme industries",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 1200 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd again like two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "pay john smith again like yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat my payment to john smith but this time 75000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "amount": "75000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "send rajesh kumar the same amount i sent last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "repeat the transfer to the electricity board from corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat my last payment of 22000 EUR to rajesh kumar",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "EUR",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "repeat my payment to tech solutions inc but this time 3000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "amount": "3000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat my last payment of 9999 euros to city hospital",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "euros",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 62000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "send sunrise textiles the same amount i sent on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat my payment to city hospital but this time 100000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "amount": "100000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "pay tech solutions inc again like on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 500 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat payment to delta enterprises using usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "repeat my last payment of 3000 USD to the electricity board",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "USD",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 62000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 3000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "resend the payment i made last quarter to raj electronics",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 22000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat my payment to priya sharma but this time 50000 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "amount": "50000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "send global traders the same amount i sent last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 5000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "pay david miller again like two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat my last payment of 500 EUR to global traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "EUR",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "repeat my last payment of 2500 pounds to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "pounds",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "send oceanic exports the same amount i sent on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the payment i made to sunrise textiles earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "resend the payment i made on the 5th to delta enterprises",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 100000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat my payment to the insurance company but this time 18000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "amount": "18000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat my payment to global traders but this time 15000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "amount": "15000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 22000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "send oceanic exports the same amount i sent last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat payment to steel suppliers ltd using usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "resend the payment i made yesterday to my landlord",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "resend the payment i made last month to priya sharma",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat my payment to priya sharma but this time 9999 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "amount": "9999",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat my last payment of 2500 EUR to the insurance company",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "EUR",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "do the the insurance company payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 18000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "resend the payment i made two days ago to my landlord",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat payment to the insurance company using account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "repeat the transfer to oceanic exports from current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 10000 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "repeat the payment i made to delta enterprises two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat my last payment of 1200 EUR to acme industries",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "EUR",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "resend the payment i made yesterday to global traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 4500 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat my last payment of 10000 pounds to acme industries",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "pounds",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "repeat the payment i made to the insurance company on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat payment to vikram traders using my main account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "repeat payment to global traders using account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "repeat my last payment of 62000 USD to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "USD",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "repeat my last payment of 10000 USD to anita desai",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "USD",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "repeat payment to global traders using my main account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "send sunrise textiles the same amount i sent last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 35000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat my last payment of 62000 rupees to global traders",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "rupees",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "repeat the transfer to sunrise textiles from salary account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 100000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "100000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 35000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat the transfer to tech solutions inc from usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "repeat the transfer to steel suppliers ltd from business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "repeat the transfer to john smith from current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "repeat my last payment of 5000 GBP to abc metals",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "5000",
+      "currency": "GBP",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 3000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "3000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat my payment to raj electronics but this time 500 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "amount": "500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat the payment i made to my landlord last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "send acme industries the same amount i sent last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "pay marketing agency again like on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the payment i made to delta enterprises last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "send vikram traders the same amount i sent last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat payment to oceanic exports using salary account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "repeat my payment to tech solutions inc but this time 100000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "amount": "100000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat payment to the electricity board using corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "repeat the transfer to the electricity board from current account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "repeat my payment to acme industries but this time 1200 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "amount": "1200",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat the transfer to david miller from corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "resend the payment i made earlier this month to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 35000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "send delta enterprises the same amount i sent earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat the payment i made to tech solutions inc last week",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "last week"
+    }
+  },
+  {
+    "input": "repeat my payment to oceanic exports but this time 35000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "amount": "35000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat the payment i made to city hospital last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "city hospital",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat the payment i made to global traders two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "resend the payment i made last friday to oceanic exports",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "oceanic exports",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the transfer to delta enterprises from business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 15000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "15000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "pay global traders again like last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "global traders",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 2500 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "2500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "resend the payment i made last quarter to the insurance company",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 10000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "10000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 9999 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "resend the payment i made last friday to acme industries",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "resend the payment i made two days ago to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat my payment to the insurance company but this time 5000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "amount": "5000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat the payment i made to my landlord last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 22000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat my last payment of 75000 INR to delta enterprises",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "INR",
+      "beneficiary": "delta enterprises"
+    }
+  },
+  {
+    "input": "pay delta enterprises again like last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 50000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 4500 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 1200 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 50000 EUR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 22000 USD",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "pay tech solutions inc again like last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 9999 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "9999",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "do the john smith payment again this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "repeat the payment i made to vikram traders last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat the payment i made to rajesh kumar last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the payment i made to tech solutions inc earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "tech solutions inc",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "repeat my last payment of 500 USD to tech solutions inc",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "500",
+      "currency": "USD",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "resend the payment i made yesterday to raj electronics",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "resend the payment i made on the 5th to sunrise textiles",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "sunrise textiles",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 22000 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "repeat the transfer to raj electronics from usd account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "resend the payment i made last month to the insurance company",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat the transfer to john smith from business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "john smith",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 18000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat my payment to acme industries but this time 5000 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "amount": "5000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "repeat my payment to acme industries but this time 3000 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "amount": "3000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat my payment to marketing agency but this time 2500 INR",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "marketing agency",
+      "amount": "2500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "repeat the payment i made to priya sharma last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat my last payment of 1200 euros to marketing agency",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "1200",
+      "currency": "euros",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "resend the payment i made yesterday to delta enterprises",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "delta enterprises",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 22000 pounds",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "repeat my payment to my landlord but this time 100000 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "my landlord",
+      "amount": "100000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 75000 rupees",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "75000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "repeat the payment i made to priya sharma two days ago",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "time": "two days ago"
+    }
+  },
+  {
+    "input": "repeat my last payment of 35000 euros to rajesh kumar",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "35000",
+      "currency": "euros",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "repeat the payment i made to david miller last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat my payment to the electricity board but this time 9999 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the electricity board",
+      "amount": "9999",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat the payment i made to anita desai earlier this month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "anita desai",
+      "time": "earlier this month"
+    }
+  },
+  {
+    "input": "pay the insurance company again like yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "the insurance company",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat my payment to raj electronics but this time 18000 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "raj electronics",
+      "amount": "18000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat the payment i made to acme industries last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "acme industries",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the transfer to priya sharma from business account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "priya sharma",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 4500 GBP",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "repeat that payment but change amount to 62000 dollars",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "62000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "repeat the payment i made to vikram traders last friday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last friday"
+    }
+  },
+  {
+    "input": "repeat the transfer to steel suppliers ltd from corporate account",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "pay david miller again like last month",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "time": "last month"
+    }
+  },
+  {
+    "input": "repeat the last transfer of 4500 euros",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "4500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd again like yesterday",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "steel suppliers ltd",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "repeat my last payment of 50000 INR to city hospital",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "50000",
+      "currency": "INR",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "send vikram traders the same amount i sent last quarter",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "vikram traders",
+      "time": "last quarter"
+    }
+  },
+  {
+    "input": "repeat my last payment of 18000 EUR to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "18000",
+      "currency": "EUR",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "repeat my last payment of 22000 INR to john smith",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "amount": "22000",
+      "currency": "INR",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "repeat the payment i made to rajesh kumar on the 5th",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "rajesh kumar",
+      "time": "on the 5th"
+    }
+  },
+  {
+    "input": "repeat the transfer to david miller from account ending 4521",
+    "intent": "REPEAT_PAYMENT",
+    "entities": {
+      "beneficiary": "david miller",
+      "account": "account ending 4521"
+    }
+  }
+]

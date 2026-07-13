@@ -1,0 +1,4129 @@
+[
+  {
+    "input": "what's the book balance on my usd account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "usd account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's the available balance on my my main account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "my main account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what is my available balance in savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show closing balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "check current balance for salary account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "salary account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "show me the balance of my fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "i want to check my EUR book balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "book balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show my dollars balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "show me the balance of my current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "current account"
+    }
+  },
+  {
+    "input": "check balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "time": "today"
+    }
+  },
+  {
+    "input": "what is the book balance of my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "display ledger balance for my current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my account ending 4521 right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "account ending 4521",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "check closing balance for fixed deposit account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "fixed deposit account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "give me the balance for usd account in INR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "how much money is in my joint account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "check closing balance for business account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "business account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what is my available balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "how much money is in my salary account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "show my GBP balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what is the available balance of current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show current balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what's my savings account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "check my account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {}
+  },
+  {
+    "input": "show ledger balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "i want to check my EUR opening balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "opening balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show me the balance of my my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "show my GBP balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "time": "today"
+    }
+  },
+  {
+    "input": "display opening balance for my usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "display current balance for my fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "i want to check my INR available balance in account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "balance_type": "available balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "how much money is in my my main account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what's my joint account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "check balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "time": "right now"
+    }
+  },
+  {
+    "input": "how much money is in my current account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "current account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what is my opening balance in savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show me the balance of my joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "how much do i have in my current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "current account"
+    }
+  },
+  {
+    "input": "display closing balance for my savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show opening balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "show me the balance of my my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account"
+    }
+  },
+  {
+    "input": "what's the closing balance on my euro account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "euro account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "what is my available balance in account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show closing balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "give me the balance for my main account in dollars",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my salary account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "salary account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "check current balance for corporate account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "corporate account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's my business account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show me the balance of my savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "give me the balance for my main account in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "check book balance for salary account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "salary account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show me the balance of my account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show my dollars balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "check balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what is my opening balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show my rupees balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "rupees",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "check opening balance for business account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "business account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "check current balance for usd account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "usd account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "check book balance for corporate account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "corporate account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's the book balance on my savings account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "savings account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "display available balance for my salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "check balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what's my corporate account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show my INR balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "i want to check my euros ledger balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "balance_type": "ledger balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "display ledger balance for my fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "check available balance for euro account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "euro account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is the ledger balance of euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "show available balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what's my my main account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my account ending 4521 this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "account ending 4521",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "how much money is in my usd account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what's the book balance on my euro account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "euro account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "what is the current balance of euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "give me the balance for current account in dollars",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "current account",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "what is the current balance of account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "give me the balance for my account in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "how much money is in my business account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "how much do i have in my salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "what is the opening balance of joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "i want to check my GBP book balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "balance_type": "book balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "i want to check my GBP book balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "balance_type": "book balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "show my euros balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "give me the balance for joint account in euros",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "check current balance for my account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "my account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's the available balance on my my main account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "my main account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is the available balance of salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "what is the book balance of my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "what is my opening balance in euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "show me the balance of my business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account"
+    }
+  },
+  {
+    "input": "check ledger balance for my account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "my account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what is the book balance of usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "give me the balance for salary account in INR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "what is the closing balance of joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "how much do i have in my joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "display ledger balance for my corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show my dollars balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "show current balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "time": "today"
+    }
+  },
+  {
+    "input": "i want to check my euros available balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "balance_type": "available balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "show my USD balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "how much money is in my corporate account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "check ledger balance for euro account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "euro account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "show opening balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "show my USD balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "display ledger balance for my account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i want to check my EUR current balance in joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "current balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "show my pounds balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what's the closing balance on my euro account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "euro account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "check balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is my opening balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "what is my available balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "how much do i have in my corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "how much money is in my business account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "give me the balance for my main account in USD",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "what is my current balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show ledger balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "how much do i have in my my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account"
+    }
+  },
+  {
+    "input": "how much money is in my usd account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "display current balance for my euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "show available balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "how much money is in my fixed deposit account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "check book balance for account ending 4521 this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "account ending 4521",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what's my account ending 4521 balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "what is my current balance in account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "how much do i have in my account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show book balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's the book balance on my current account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "current account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "what is the current balance of my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "give me the balance for usd account in rupees",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "what's my usd account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "give me the balance for current account in pounds",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "current account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my business account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "business account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "check closing balance for account ending 4521 today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "account ending 4521",
+      "time": "today"
+    }
+  },
+  {
+    "input": "what is the ledger balance of current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show me the balance of my salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "what's my euro account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "how much money is in my account ending 4521 as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what's the opening balance on my savings account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "savings account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "how much do i have in my my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "give me the balance for business account in euros",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "how much money is in my fixed deposit account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what's the current balance on my salary account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "salary account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "i want to check my USD opening balance in fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "balance_type": "opening balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "how much money is in my my account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "show ledger balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "check balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "check closing balance for joint account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "joint account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what is my closing balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show opening balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "display available balance for my fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "how much money is in my euro account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "what is my opening balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "give me the balance for salary account in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "check current balance for business account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "business account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my my account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "my account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "how much do i have in my euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "show my EUR balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "i want to check my pounds current balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "current balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "what is the book balance of fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "give me the balance for savings account in dollars",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show my INR balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my joint account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "joint account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what's my fixed deposit account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "what is the closing balance of usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "display opening balance for my salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show me the balance of my euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "show my pounds balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "how much money is in my fixed deposit account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "display closing balance for my my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "what is my closing balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "what is my current balance in euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "what is my ledger balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "i want to check my GBP book balance in fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "balance_type": "book balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "what is my available balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "what's the book balance on my salary account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "salary account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show me the balance of my corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my savings account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "savings account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "check closing balance for usd account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "usd account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "give me the balance for business account in GBP",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "check current balance for usd account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "usd account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "how much money is in my my main account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "give me the balance for my account in GBP",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "what is the closing balance of salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "display book balance for my current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "give me the balance for account ending 4521 in rupees",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show my USD balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what is my opening balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "i want to check my USD closing balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "balance_type": "closing balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "give me the balance for my main account in rupees",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "show my rupees balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "rupees",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "show available balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "time": "today"
+    }
+  },
+  {
+    "input": "check available balance for euro account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "euro account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "give me the balance for savings account in USD",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "i want to check my euros available balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "balance_type": "available balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "display book balance for my fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "what is my available balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show opening balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what is my closing balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "check available balance for fixed deposit account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "fixed deposit account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what is the closing balance of business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "check current balance for usd account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "usd account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "give me the balance for my main account in INR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "what is my available balance in joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "how much money is in my corporate account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "i want to check my pounds closing balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "closing balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "how much money is in my joint account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what is the available balance of savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "what's my salary account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "what is the opening balance of salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show my euros balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "show my INR balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my corporate account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "corporate account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "display available balance for my joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "display closing balance for my account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show my INR balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "display current balance for my current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "check balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's the current balance on my current account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "current account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "how much money is in my account ending 4521 yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is my current balance in joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "how much money is in my savings account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "show current balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what's the book balance on my current account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "current account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is the closing balance of euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "show me the balance of my usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show book balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "display opening balance for my fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "show my INR balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "i want to check my pounds available balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "available balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "display opening balance for my euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "what's my my account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account"
+    }
+  },
+  {
+    "input": "what's the closing balance on my business account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "business account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "how much money is in my my account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what's the available balance on my account ending 4521 as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "account ending 4521",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "show my pounds balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "show ledger balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "time": "today"
+    }
+  },
+  {
+    "input": "i want to check my pounds closing balance in joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "closing balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "give me the balance for business account in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "i want to check my GBP current balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "balance_type": "current balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "how much money is in my corporate account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "how much money is in my salary account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "what is my ledger balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "how much do i have in my business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account"
+    }
+  },
+  {
+    "input": "what's the available balance on my salary account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "salary account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "how much money is in my usd account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what is the opening balance of savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "how much money is in my my main account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "what's the current balance on my my account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "my account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "display available balance for my savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show my GBP balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "i want to check my euros opening balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "balance_type": "opening balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "give me the balance for corporate account in rupees",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "what's the available balance on my fixed deposit account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "fixed deposit account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is my book balance in euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "i want to check my dollars current balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "balance_type": "current balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "i want to check my EUR opening balance in euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "opening balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "what's the current balance on my savings account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "savings account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "give me the balance for my main account in GBP",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "show my EUR balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "i want to check my INR ledger balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "balance_type": "ledger balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "give me the balance for usd account in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "what is my ledger balance in joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "i want to check my dollars opening balance in fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "balance_type": "opening balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "what is my closing balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "how much money is in my euro account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "check closing balance for savings account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "savings account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what is the current balance of current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "check opening balance for business account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "business account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "how much do i have in my usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "display closing balance for my current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "check opening balance for joint account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "joint account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "how much do i have in my savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "show my rupees balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "rupees",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "display current balance for my account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show my rupees balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "rupees",
+      "time": "today"
+    }
+  },
+  {
+    "input": "check ledger balance for corporate account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "corporate account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "check current balance for euro account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "euro account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "show my dollars balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is the book balance of savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "check closing balance for current account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "current account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "check closing balance for my account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "my account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "give me the balance for current account in GBP",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "current account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "what's the closing balance on my savings account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "savings account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "how much money is in my fixed deposit account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "show opening balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what is my ledger balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "how much money is in my euro account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what's the current balance on my my account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "my account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is the book balance of business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show my USD balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show my EUR balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "i want to check my INR opening balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "balance_type": "opening balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my fixed deposit account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "fixed deposit account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "check book balance for fixed deposit account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "fixed deposit account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what is the available balance of account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "give me the balance for account ending 4521 in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "check balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "i want to check my USD ledger balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "balance_type": "ledger balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "i want to check my EUR ledger balance in fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "ledger balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "what's the closing balance on my joint account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "joint account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "how much do i have in my fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "what is the available balance of business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show my dollars balance as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what is the available balance of euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "how much money is in my my account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "display closing balance for my fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "show my GBP balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is my book balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "display ledger balance for my savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "check current balance for my account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "my account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "check opening balance for my main account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "my main account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "show my rupees balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "rupees",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "how much money is in my savings account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "give me the balance for business account in INR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "what is my current balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "what is my available balance in my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "give me the balance for joint account in pounds",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "display book balance for my joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "show available balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what's the closing balance on my usd account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "usd account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "display closing balance for my corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "check ledger balance for salary account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "salary account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what is the opening balance of corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "give me the balance for corporate account in dollars",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "give me the balance for account ending 4521 in GBP",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "what is the ledger balance of account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "i want to check my dollars opening balance in account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "balance_type": "opening balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show closing balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "give me the balance for fixed deposit account in euros",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "check opening balance for corporate account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "corporate account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what is my current balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "check available balance for savings account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "savings account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "how much money is in my euro account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "show ledger balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "how much money is in my salary account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "display opening balance for my account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "what's the available balance on my euro account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "euro account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "show my rupees balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "rupees",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "i want to check my EUR book balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "book balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "display available balance for my corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my usd account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "usd account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what is the opening balance of euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "i want to check my USD available balance in fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "balance_type": "available balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "give me the balance for my main account in pounds",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "what's the book balance on my business account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "business account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "display available balance for my euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "what is the opening balance of account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "how much money is in my my account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "what is the book balance of salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "give me the balance for joint account in rupees",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "i want to check my USD opening balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "balance_type": "opening balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "give me the balance for business account in rupees",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "check current balance for my account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "my account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "i want to check my euros book balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "balance_type": "book balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "what's the closing balance on my joint account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "joint account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "i want to check my pounds current balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "current balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "how much money is in my euro account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "give me the balance for account ending 4521 in USD",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "show my pounds balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what's the current balance on my current account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "current account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what's the opening balance on my account ending 4521 this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "account ending 4521",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "how much money is in my joint account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "how much money is in my my main account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "i want to check my euros ledger balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "balance_type": "ledger balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "check book balance for joint account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "joint account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "give me the balance for current account in rupees",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "current account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "what's the current balance on my euro account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "euro account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "i want to check my dollars current balance in euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "balance_type": "current balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "what is the opening balance of usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "show my pounds balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what's the current balance on my usd account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "usd account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "i want to check my pounds current balance in savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "current balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "what's the closing balance on my business account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "business account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "i want to check my dollars ledger balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "balance_type": "ledger balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "show my dollars balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "show book balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "check book balance for current account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "current account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "display available balance for my account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "display ledger balance for my my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "i want to check my INR available balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "balance_type": "available balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "check book balance for current account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "current account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "check current balance for fixed deposit account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "fixed deposit account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show my pounds balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "display current balance for my savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "how much money is in my business account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "show my pounds balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "time": "today"
+    }
+  },
+  {
+    "input": "i want to check my EUR book balance in joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "book balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "check available balance for corporate account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "corporate account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what's the available balance on my business account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "business account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what's the available balance on my euro account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "euro account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "check opening balance for salary account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "salary account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "give me the balance for joint account in GBP",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "what's the opening balance on my my account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "my account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "give me the balance for business account in USD",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "i want to check my rupees ledger balance in account ending 4521",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "rupees",
+      "balance_type": "ledger balance",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "show closing balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "check ledger balance for current account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "current account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "i want to check my INR book balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "balance_type": "book balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "what is the available balance of corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "show my euros balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "what is the available balance of fixed deposit account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "fixed deposit account"
+    }
+  },
+  {
+    "input": "show my dollars balance this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "dollars",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "check available balance for joint account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "joint account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "check ledger balance for current account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "current account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what's the closing balance on my corporate account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "corporate account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "give me the balance for euro account in rupees",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "i want to check my pounds ledger balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "ledger balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "how much money is in my my main account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my main account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "what is my opening balance in my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my my account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "my account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "give me the balance for euro account in pounds",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "check book balance for fixed deposit account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "fixed deposit account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "check ledger balance for business account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "business account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "check current balance for fixed deposit account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "fixed deposit account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "give me the balance for euro account in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "i want to check my euros current balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "balance_type": "current balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "display available balance for my usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "give me the balance for corporate account in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "corporate account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "what's the opening balance on my my main account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "my main account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "check closing balance for corporate account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "corporate account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "check current balance for salary account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "salary account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what's my current account balance",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "current account"
+    }
+  },
+  {
+    "input": "what's the closing balance on my account ending 4521 at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "account ending 4521",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "what is my book balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "i want to check my EUR opening balance in savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "opening balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "display book balance for my business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "what's the opening balance on my euro account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "euro account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's the closing balance on my savings account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "savings account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "i want to check my EUR available balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "available balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "give me the balance for business account in pounds",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "business account",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "how much money is in my joint account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "joint account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "how much money is in my fixed deposit account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what is my opening balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "i want to check my euros available balance in euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "euros",
+      "balance_type": "available balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "show book balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "show closing balance at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "how much money is in my salary account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "salary account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "show ledger balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "show my USD balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what's the current balance on my joint account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "joint account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "display opening balance for my business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my salary account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "salary account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "show available balance as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "check ledger balance for my main account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "my main account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what's the book balance on my business account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "business account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "give me the balance for fixed deposit account in GBP",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "fixed deposit account",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "what's the closing balance on my joint account as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "joint account",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what's the opening balance on my corporate account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "corporate account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "check current balance for fixed deposit account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "fixed deposit account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "display ledger balance for my joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "what is my opening balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "what is my current balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show book balance today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "time": "today"
+    }
+  },
+  {
+    "input": "give me the balance for euro account in euros",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "euro account",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "what's the book balance on my my account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "my account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "check current balance for savings account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "savings account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "what is my current balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "show book balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "give me the balance for my account in INR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "check available balance for fixed deposit account yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "fixed deposit account",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what is my opening balance in joint account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "joint account"
+    }
+  },
+  {
+    "input": "what's the closing balance on my euro account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "euro account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what is the ledger balance of my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "check available balance for account ending 4521 right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "account ending 4521",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "check opening balance for fixed deposit account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "fixed deposit account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "what is my ledger balance in my main account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "what is the ledger balance of salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "i want to check my USD ledger balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "balance_type": "ledger balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "how much money is in my usd account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "usd account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "what is the book balance of euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "i want to check my pounds opening balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "opening balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "check ledger balance for account ending 4521 at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "account ending 4521",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "how much money is in my account ending 4521 at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "account ending 4521",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "what's the closing balance on my corporate account as of now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "corporate account",
+      "time": "as of now"
+    }
+  },
+  {
+    "input": "what's the current balance on my usd account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "usd account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "i want to check my pounds book balance in salary account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "book balance",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "i want to check my INR closing balance in my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "INR",
+      "balance_type": "closing balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "what is the closing balance of my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "what's the book balance on my my account as of yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "book balance",
+      "account": "my account",
+      "time": "as of yesterday"
+    }
+  },
+  {
+    "input": "what is the current balance of savings account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "current balance",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "give me the balance for my account in dollars",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "my account",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "show my rupees balance right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "rupees",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "i want to check my USD closing balance in corporate account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "balance_type": "closing balance",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "check opening balance for corporate account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "corporate account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "i want to check my USD book balance in business account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "USD",
+      "balance_type": "book balance",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "i want to check my GBP ledger balance in euro account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "GBP",
+      "balance_type": "ledger balance",
+      "account": "euro account"
+    }
+  },
+  {
+    "input": "check closing balance for salary account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "account": "salary account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "give me the balance for savings account in EUR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "i want to check my pounds ledger balance in current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "pounds",
+      "balance_type": "ledger balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show closing balance yesterday",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "closing balance",
+      "time": "yesterday"
+    }
+  },
+  {
+    "input": "what's the ledger balance on my fixed deposit account this morning",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "ledger balance",
+      "account": "fixed deposit account",
+      "time": "this morning"
+    }
+  },
+  {
+    "input": "check available balance for joint account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "available balance",
+      "account": "joint account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "give me the balance for savings account in INR",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "what's the opening balance on my salary account right now",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "salary account",
+      "time": "right now"
+    }
+  },
+  {
+    "input": "how much money is in my savings account today",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account",
+      "time": "today"
+    }
+  },
+  {
+    "input": "display opening balance for my current account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "show opening balance as of 1st july",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "time": "as of 1st july"
+    }
+  },
+  {
+    "input": "what is the opening balance of my account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "balance_type": "opening balance",
+      "account": "my account"
+    }
+  },
+  {
+    "input": "how much money is in my savings account at the end of last month",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "account": "savings account",
+      "time": "at the end of last month"
+    }
+  },
+  {
+    "input": "i want to check my EUR book balance in usd account",
+    "intent": "ACCOUNT_BALANCE",
+    "entities": {
+      "currency": "EUR",
+      "balance_type": "book balance",
+      "account": "usd account"
+    }
+  }
+]

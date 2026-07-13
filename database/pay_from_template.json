@@ -1,0 +1,4415 @@
+[
+  {
+    "input": "use my loan emi template to pay the electricity board",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "use the saved annual maintenance template to pay cloud software inc on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "beneficiary": "cloud software inc",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "pay from utility bills template but change the amount to 15000 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "15000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "pay tech solutions inc using quarterly tax template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "pay john smith using vendor payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "apply salary template but pay from corporate account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "run recurring donation template and update reference to contract ref C-9081",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "trigger my landlord payment template from savings account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "apply landlord payment template but pay from usd account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "run the salary template for 10000 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "10000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "use my office supplies template to pay steel suppliers ltd",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "apply supplier abc template but pay from corporate account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "pay from salary template but change the amount to 1200 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "1200",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "apply consultant fee template but pay from usd account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "execute the vendor payment template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template"
+    }
+  },
+  {
+    "input": "use landlord payment template to send 22000 to tech solutions inc this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "22000",
+      "beneficiary": "tech solutions inc",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "use the saved software subscription template to pay abc metals on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "beneficiary": "abc metals",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "process my software subscription template for 5000 dollars to my landlord",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "5000",
+      "currency": "dollars",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "pay abc metals 10000 GBP using the utility bills template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "10000",
+      "currency": "GBP",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "process my annual maintenance template for 18000 GBP to tech solutions inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "run the utility bills template for 5000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "5000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "run consultant fee template and update reference to invoice 7781",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "trigger my gym membership template from my main account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "use monthly rent template to send 22000 to rajesh kumar immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "22000",
+      "beneficiary": "rajesh kumar",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "go ahead with the gym membership template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template"
+    }
+  },
+  {
+    "input": "pay from my saved payment to john but change the amount to 2500 GBP",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "2500",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "pay priya sharma using salary template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "use the saved recurring donation template to pay global traders immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "beneficiary": "global traders",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "go ahead with the insurance premium template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template"
+    }
+  },
+  {
+    "input": "execute the electricity bill template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template"
+    }
+  },
+  {
+    "input": "pay sunrise textiles 15000 dollars using the recurring donation template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "15000",
+      "currency": "dollars",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "process my loan emi template for 1200 EUR to sunrise textiles",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "1200",
+      "currency": "EUR",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "run the quarterly tax template for 22000 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "22000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "trigger my electricity bill template from usd account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "pay cloud software inc 5000 EUR using the insurance premium template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "5000",
+      "currency": "EUR",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "process my recurring donation template for 62000 euros to the gym",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "62000",
+      "currency": "euros",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "go ahead with the salary template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template"
+    }
+  },
+  {
+    "input": "pay global traders using insurance premium template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "use landlord payment template from usd account to pay steel suppliers ltd immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "usd account",
+      "beneficiary": "steel suppliers ltd",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "use my salary template to pay priya sharma",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd 1200 USD using the utility bills template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "1200",
+      "currency": "USD",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "process my software subscription template for 35000 rupees to my landlord",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "35000",
+      "currency": "rupees",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "run the supplier abc template for 9999 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "9999",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "process my freelancer payment template for 62000 pounds to raj electronics",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "62000",
+      "currency": "pounds",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "i want to use office supplies template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template"
+    }
+  },
+  {
+    "input": "use the saved salary template to pay steel suppliers ltd by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "beneficiary": "steel suppliers ltd",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "use software subscription template from current account to pay raj electronics this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "account": "current account",
+      "beneficiary": "raj electronics",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "pay global traders using electricity bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "run my saved payment to john and update reference to invoice number INV-2291",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "use my saved payment to john from current account to pay global traders today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "account": "current account",
+      "beneficiary": "global traders",
+      "time": "today"
+    }
+  },
+  {
+    "input": "use my my saved payment to john to pay the gym",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "use the saved loan emi template to pay tech solutions inc by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "tech solutions inc",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "execute the salary template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template"
+    }
+  },
+  {
+    "input": "execute the consultant fee template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template"
+    }
+  },
+  {
+    "input": "run the electricity bill template for 62000 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "62000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "use annual maintenance template from usd account to pay raj electronics tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "account": "usd account",
+      "beneficiary": "raj electronics",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "execute the loan emi template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template"
+    }
+  },
+  {
+    "input": "i want to use utility bills template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template"
+    }
+  },
+  {
+    "input": "use landlord payment template to send 100000 to the insurance company on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "100000",
+      "beneficiary": "the insurance company",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "use my insurance premium template to pay sunrise textiles",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "run the vendor payment template for 75000 EUR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "75000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "run the internet bill template for 500 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "use the saved software subscription template to pay global traders by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "beneficiary": "global traders",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "go ahead with the annual maintenance template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template"
+    }
+  },
+  {
+    "input": "pay from loan emi template but change the amount to 3000 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "3000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "use the saved annual maintenance template to pay cloud software inc next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "beneficiary": "cloud software inc",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "use quarterly tax template to send 100000 to the gym today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "100000",
+      "beneficiary": "the gym",
+      "time": "today"
+    }
+  },
+  {
+    "input": "run utility bills template and update reference to bill number 3345",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "pay from vendor payment template but change the amount to 500 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "pay from consultant fee template but change the amount to 1200 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "1200",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "i want to use electricity bill template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template"
+    }
+  },
+  {
+    "input": "run internet bill template and update reference to reference number REF3321",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "use supplier abc template to send 9999 to the gym next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "9999",
+      "beneficiary": "the gym",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "pay from loan emi template but change the amount to 35000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "35000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "apply salary template but pay from usd account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "pay from recurring donation template but change the amount to 15000 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "15000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "use monthly rent template to send 100000 to david miller immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "100000",
+      "beneficiary": "david miller",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "run the recurring donation template for 1200 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "1200",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "apply loan emi template but pay from my main account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "use office supplies template from current account to pay city hospital next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "account": "current account",
+      "beneficiary": "city hospital",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "use my warehouse rent template to pay abc metals",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "run the software subscription template for 1200 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "1200",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "run the office supplies template for 62000 GBP",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "62000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "trigger my salary template from salary account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "run monthly rent template and update reference to reference number REF3321",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "pay cloud software inc using monthly rent template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "use my insurance premium template to pay abc metals",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "i want to use annual maintenance template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template"
+    }
+  },
+  {
+    "input": "trigger my salary template from my main account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "pay from utility bills template but change the amount to 18000 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "18000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "pay city hospital using annual maintenance template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "apply freelancer payment template but pay from business account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "use quarterly tax template to send 500 to global traders on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "500",
+      "beneficiary": "global traders",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "go ahead with the vendor payment template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template"
+    }
+  },
+  {
+    "input": "pay sunrise textiles using utility bills template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "go ahead with the office supplies template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template"
+    }
+  },
+  {
+    "input": "use the saved electricity bill template to pay priya sharma immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "beneficiary": "priya sharma",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "run utility bills template and update reference to reference number REF3321",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "run the internet bill template for 3000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "3000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "use my recurring donation template to pay raj electronics",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "apply landlord payment template but pay from salary account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "use the saved monthly rent template to pay steel suppliers ltd next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "beneficiary": "steel suppliers ltd",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "use the saved landlord payment template to pay global traders next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "beneficiary": "global traders",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "use annual maintenance template from corporate account to pay marketing agency next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "account": "corporate account",
+      "beneficiary": "marketing agency",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "run the software subscription template for 15000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "15000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "run the landlord payment template for 2500 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "2500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "run the electricity bill template for 500 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "execute the insurance premium template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template"
+    }
+  },
+  {
+    "input": "process my electricity bill template for 62000 EUR to steel suppliers ltd",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "62000",
+      "currency": "EUR",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "use the saved salary template to pay abc metals on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "beneficiary": "abc metals",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "pay from internet bill template but change the amount to 50000 EUR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "50000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "pay cloud software inc using landlord payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "apply utility bills template but pay from savings account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "i want to use gym membership template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template"
+    }
+  },
+  {
+    "input": "i want to use vendor payment template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template"
+    }
+  },
+  {
+    "input": "execute the warehouse rent template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template"
+    }
+  },
+  {
+    "input": "process my warehouse rent template for 1200 dollars to the electricity board",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "1200",
+      "currency": "dollars",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "process my office supplies template for 500 pounds to david miller",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "500",
+      "currency": "pounds",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "pay vikram traders using freelancer payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "go ahead with the warehouse rent template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template"
+    }
+  },
+  {
+    "input": "use my insurance premium template to pay david miller",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "use the saved insurance premium template to pay global traders tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "global traders",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "i want to use loan emi template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template"
+    }
+  },
+  {
+    "input": "process my insurance premium template for 100000 euros to global traders",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "100000",
+      "currency": "euros",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "run warehouse rent template and update reference to invoice number INV-2291",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd using my saved payment to john",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "run the insurance premium template for 5000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "execute the monthly rent template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template"
+    }
+  },
+  {
+    "input": "use freelancer payment template to send 62000 to the gym on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "62000",
+      "beneficiary": "the gym",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "trigger my gym membership template from corporate account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "use my loan emi template to pay acme industries",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd using insurance premium template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "execute the gym membership template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template"
+    }
+  },
+  {
+    "input": "use consultant fee template from account ending 4521 to pay the electricity board by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "account": "account ending 4521",
+      "beneficiary": "the electricity board",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "pay rajesh kumar 2500 USD using the salary template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "2500",
+      "currency": "USD",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "pay sunrise textiles 10000 rupees using the insurance premium template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "10000",
+      "currency": "rupees",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "execute the utility bills template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template"
+    }
+  },
+  {
+    "input": "execute the my saved payment to john for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john"
+    }
+  },
+  {
+    "input": "execute the freelancer payment template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template"
+    }
+  },
+  {
+    "input": "process my loan emi template for 3000 EUR to raj electronics",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "3000",
+      "currency": "EUR",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "run software subscription template and update reference to invoice number INV-2291",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "pay from monthly rent template but change the amount to 5000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "5000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "use my landlord payment template to pay abc metals",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "pay sunrise textiles 15000 GBP using the quarterly tax template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "15000",
+      "currency": "GBP",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "go ahead with the quarterly tax template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template"
+    }
+  },
+  {
+    "input": "use electricity bill template to send 15000 to priya sharma this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "15000",
+      "beneficiary": "priya sharma",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "pay the insurance company using monthly rent template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "use consultant fee template to send 10000 to the gym on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "10000",
+      "beneficiary": "the gym",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "pay the insurance company 62000 USD using the warehouse rent template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "62000",
+      "currency": "USD",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd 3000 rupees using the freelancer payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "3000",
+      "currency": "rupees",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "use my saved payment to john to send 1200 to david miller on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "1200",
+      "beneficiary": "david miller",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "use landlord payment template from corporate account to pay vikram traders by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "corporate account",
+      "beneficiary": "vikram traders",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "use utility bills template from savings account to pay cloud software inc on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "account": "savings account",
+      "beneficiary": "cloud software inc",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "process my recurring donation template for 15000 EUR to rajesh kumar",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "15000",
+      "currency": "EUR",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "pay from recurring donation template but change the amount to 5000 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "5000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "pay the electricity board 100000 euros using the internet bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "100000",
+      "currency": "euros",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "run the vendor payment template for 9999 GBP",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "9999",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "pay from supplier abc template but change the amount to 50000 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "50000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "process my vendor payment template for 1200 pounds to marketing agency",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "1200",
+      "currency": "pounds",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "use my quarterly tax template to pay acme industries",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "use gym membership template to send 62000 to the electricity board next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "62000",
+      "beneficiary": "the electricity board",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "apply electricity bill template but pay from business account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "use recurring donation template to send 35000 to cloud software inc on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "35000",
+      "beneficiary": "cloud software inc",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "pay from insurance premium template but change the amount to 100000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "100000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "go ahead with the my saved payment to john as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john"
+    }
+  },
+  {
+    "input": "use software subscription template to send 9999 to global traders immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "9999",
+      "beneficiary": "global traders",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd 62000 rupees using the insurance premium template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "62000",
+      "currency": "rupees",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "execute the annual maintenance template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template"
+    }
+  },
+  {
+    "input": "use freelancer payment template from usd account to pay marketing agency next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "account": "usd account",
+      "beneficiary": "marketing agency",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "pay the electricity board 35000 pounds using the supplier abc template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "35000",
+      "currency": "pounds",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "trigger my utility bills template from business account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "use the saved loan emi template to pay the gym on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "the gym",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "use consultant fee template from account ending 4521 to pay steel suppliers ltd on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "account": "account ending 4521",
+      "beneficiary": "steel suppliers ltd",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "pay from gym membership template but change the amount to 62000 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "62000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "pay tech solutions inc 2500 rupees using the quarterly tax template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "2500",
+      "currency": "rupees",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "process my supplier abc template for 9999 dollars to tech solutions inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "9999",
+      "currency": "dollars",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "trigger my landlord payment template from corporate account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "i want to use monthly rent template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template"
+    }
+  },
+  {
+    "input": "pay from gym membership template but change the amount to 35000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "35000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "use the saved internet bill template to pay global traders this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "beneficiary": "global traders",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "trigger my vendor payment template from savings account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "pay from utility bills template but change the amount to 50000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "50000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "trigger my gym membership template from business account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "apply gym membership template but pay from salary account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "go ahead with the recurring donation template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template"
+    }
+  },
+  {
+    "input": "execute the software subscription template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template"
+    }
+  },
+  {
+    "input": "i want to use consultant fee template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template"
+    }
+  },
+  {
+    "input": "execute the office supplies template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template"
+    }
+  },
+  {
+    "input": "process my software subscription template for 1200 GBP to acme industries",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "1200",
+      "currency": "GBP",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "use recurring donation template from my main account to pay rajesh kumar on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "account": "my main account",
+      "beneficiary": "rajesh kumar",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "apply insurance premium template but pay from my main account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "use my quarterly tax template to pay david miller",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "pay rajesh kumar 35000 INR using the electricity bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "35000",
+      "currency": "INR",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "use freelancer payment template to send 100000 to acme industries immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "100000",
+      "beneficiary": "acme industries",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "run the office supplies template for 15000 GBP",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "15000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "use my electricity bill template to pay cloud software inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "use annual maintenance template to send 50000 to cloud software inc next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "amount": "50000",
+      "beneficiary": "cloud software inc",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "i want to use my saved payment to john again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john"
+    }
+  },
+  {
+    "input": "pay from warehouse rent template but change the amount to 15000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "15000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "process my gym membership template for 15000 INR to acme industries",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "15000",
+      "currency": "INR",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "trigger my freelancer payment template from business account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "use freelancer payment template from corporate account to pay abc metals tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "account": "corporate account",
+      "beneficiary": "abc metals",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "process my supplier abc template for 500 dollars to the insurance company",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "500",
+      "currency": "dollars",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "run the consultant fee template for 18000 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "18000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "process my quarterly tax template for 35000 euros to vikram traders",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "35000",
+      "currency": "euros",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "process my salary template for 100000 dollars to the insurance company",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "100000",
+      "currency": "dollars",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "run the warehouse rent template for 9999 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "9999",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "pay rajesh kumar 22000 rupees using the electricity bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "22000",
+      "currency": "rupees",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "process my salary template for 35000 dollars to john smith",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "35000",
+      "currency": "dollars",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "pay tech solutions inc using consultant fee template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "run insurance premium template and update reference to invoice 7781",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "run the gym membership template for 62000 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "62000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "apply software subscription template but pay from corporate account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "use salary template to send 18000 to raj electronics tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "18000",
+      "beneficiary": "raj electronics",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "use landlord payment template from usd account to pay cloud software inc today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "usd account",
+      "beneficiary": "cloud software inc",
+      "time": "today"
+    }
+  },
+  {
+    "input": "trigger my software subscription template from corporate account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "apply quarterly tax template but pay from corporate account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "go ahead with the electricity bill template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template"
+    }
+  },
+  {
+    "input": "run the loan emi template for 75000 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "75000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "process my supplier abc template for 15000 euros to vikram traders",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "15000",
+      "currency": "euros",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "run gym membership template and update reference to invoice 7781",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "run the consultant fee template for 15000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "15000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "process my my saved payment to john for 75000 USD to cloud software inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "75000",
+      "currency": "USD",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "run the supplier abc template for 3000 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "3000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "go ahead with the loan emi template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template"
+    }
+  },
+  {
+    "input": "use my electricity bill template to pay vikram traders",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "pay john smith using office supplies template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "i want to use insurance premium template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template"
+    }
+  },
+  {
+    "input": "execute the recurring donation template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template"
+    }
+  },
+  {
+    "input": "run the quarterly tax template for 3000 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "3000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "run freelancer payment template and update reference to po 4521",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "reference": "po 4521"
+    }
+  },
+  {
+    "input": "process my gym membership template for 35000 pounds to steel suppliers ltd",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "35000",
+      "currency": "pounds",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "pay the gym 4500 dollars using the insurance premium template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "4500",
+      "currency": "dollars",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "pay from consultant fee template but change the amount to 4500 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "4500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "use my insurance premium template to pay my landlord",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "process my freelancer payment template for 18000 USD to sunrise textiles",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "18000",
+      "currency": "USD",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "pay the electricity board 500 dollars using the utility bills template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "500",
+      "currency": "dollars",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "pay tech solutions inc 62000 dollars using the loan emi template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "62000",
+      "currency": "dollars",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "run the consultant fee template for 1200 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "1200",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "use the saved loan emi template to pay marketing agency on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "marketing agency",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "run the software subscription template for 4500 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "4500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "pay david miller 2500 GBP using the internet bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "2500",
+      "currency": "GBP",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "pay cloud software inc using gym membership template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "run the landlord payment template for 3000 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "3000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "use office supplies template from corporate account to pay cloud software inc on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "account": "corporate account",
+      "beneficiary": "cloud software inc",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "pay my landlord using supplier abc template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "apply my saved payment to john but pay from salary account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "use the saved electricity bill template to pay the gym tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "beneficiary": "the gym",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "go ahead with the landlord payment template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template"
+    }
+  },
+  {
+    "input": "pay sunrise textiles using software subscription template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "pay from my saved payment to john but change the amount to 4500 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "4500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "process my office supplies template for 15000 euros to rajesh kumar",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "15000",
+      "currency": "euros",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "pay rajesh kumar 100000 rupees using the landlord payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "100000",
+      "currency": "rupees",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "pay marketing agency using my saved payment to john",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "use my saved payment to john to send 10000 to steel suppliers ltd next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "10000",
+      "beneficiary": "steel suppliers ltd",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "use my insurance premium template to pay john smith",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "use consultant fee template to send 22000 to city hospital next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "22000",
+      "beneficiary": "city hospital",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "use the saved vendor payment template to pay anita desai immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "beneficiary": "anita desai",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "use the saved office supplies template to pay anita desai on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "beneficiary": "anita desai",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "apply internet bill template but pay from business account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "pay sunrise textiles using supplier abc template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "pay from electricity bill template but change the amount to 100000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "100000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "process my recurring donation template for 3000 rupees to vikram traders",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "3000",
+      "currency": "rupees",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "run gym membership template and update reference to order id ORD-7712",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "use office supplies template to send 18000 to the insurance company tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "18000",
+      "beneficiary": "the insurance company",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "pay from warehouse rent template but change the amount to 18000 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "18000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "run the supplier abc template for 5000 EUR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "5000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "use internet bill template to send 500 to global traders by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "500",
+      "beneficiary": "global traders",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "run the freelancer payment template for 1200 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "1200",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "use software subscription template to send 10000 to city hospital next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "10000",
+      "beneficiary": "city hospital",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "run the monthly rent template for 2500 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "2500",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "pay the insurance company 18000 GBP using the internet bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "18000",
+      "currency": "GBP",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "use my vendor payment template to pay marketing agency",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "pay from recurring donation template but change the amount to 4500 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "4500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "go ahead with the monthly rent template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template"
+    }
+  },
+  {
+    "input": "execute the supplier abc template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template"
+    }
+  },
+  {
+    "input": "pay anita desai 4500 rupees using the office supplies template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "4500",
+      "currency": "rupees",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "pay the insurance company 4500 GBP using the internet bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "4500",
+      "currency": "GBP",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "process my vendor payment template for 1200 rupees to cloud software inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "1200",
+      "currency": "rupees",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "use vendor payment template from account ending 4521 to pay priya sharma by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "account": "account ending 4521",
+      "beneficiary": "priya sharma",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "run the landlord payment template for 22000 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "22000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "use software subscription template from my main account to pay the electricity board next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "account": "my main account",
+      "beneficiary": "the electricity board",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "apply utility bills template but pay from account ending 4521 this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "pay the electricity board 10000 euros using the salary template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "10000",
+      "currency": "euros",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "use office supplies template to send 100000 to john smith next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "100000",
+      "beneficiary": "john smith",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "use my software subscription template to pay acme industries",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "pay global traders using quarterly tax template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "run quarterly tax template and update reference to invoice number INV-2291",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "use my warehouse rent template to pay my landlord",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "pay from loan emi template but change the amount to 500 EUR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "pay acme industries 1200 EUR using the annual maintenance template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "amount": "1200",
+      "currency": "EUR",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "run the internet bill template for 10000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "10000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "pay tech solutions inc 3000 USD using the my saved payment to john",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "3000",
+      "currency": "USD",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "use electricity bill template to send 18000 to tech solutions inc on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "18000",
+      "beneficiary": "tech solutions inc",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "use loan emi template from salary account to pay steel suppliers ltd on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "account": "salary account",
+      "beneficiary": "steel suppliers ltd",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "run the my saved payment to john for 500 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "use salary template from business account to pay john smith immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "account": "business account",
+      "beneficiary": "john smith",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "use my internet bill template to pay cloud software inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "pay the electricity board 18000 euros using the quarterly tax template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "18000",
+      "currency": "euros",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "trigger my office supplies template from my main account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "process my gym membership template for 62000 INR to sunrise textiles",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "62000",
+      "currency": "INR",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "use warehouse rent template from account ending 4521 to pay global traders on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "account": "account ending 4521",
+      "beneficiary": "global traders",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "go ahead with the supplier abc template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template"
+    }
+  },
+  {
+    "input": "run the recurring donation template for 35000 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "35000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "trigger my electricity bill template from salary account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "use the saved insurance premium template to pay raj electronics on 15th august",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "beneficiary": "raj electronics",
+      "time": "on 15th august"
+    }
+  },
+  {
+    "input": "use my saved payment to john to send 75000 to rajesh kumar next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "75000",
+      "beneficiary": "rajesh kumar",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "use the saved vendor payment template to pay rajesh kumar tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "beneficiary": "rajesh kumar",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "use the saved loan emi template to pay cloud software inc this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "cloud software inc",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "process my software subscription template for 2500 pounds to cloud software inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "2500",
+      "currency": "pounds",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "use my salary template to pay raj electronics",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "process my annual maintenance template for 75000 EUR to abc metals",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "amount": "75000",
+      "currency": "EUR",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "process my gym membership template for 18000 rupees to david miller",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "18000",
+      "currency": "rupees",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "use gym membership template to send 5000 to sunrise textiles next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "5000",
+      "beneficiary": "sunrise textiles",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "pay marketing agency using office supplies template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "pay cloud software inc 1200 USD using the freelancer payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "1200",
+      "currency": "USD",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "i want to use landlord payment template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template"
+    }
+  },
+  {
+    "input": "pay the gym 35000 INR using the loan emi template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "35000",
+      "currency": "INR",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "run the software subscription template for 4500 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "4500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "pay priya sharma 35000 USD using the consultant fee template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "35000",
+      "currency": "USD",
+      "beneficiary": "priya sharma"
+    }
+  },
+  {
+    "input": "run utility bills template and update reference to invoice number INV-2291",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "run electricity bill template and update reference to contract ref C-9081",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "trigger my internet bill template from current account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "pay david miller using software subscription template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "use software subscription template to send 4500 to the electricity board next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "4500",
+      "beneficiary": "the electricity board",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "use the saved software subscription template to pay acme industries tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "beneficiary": "acme industries",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "go ahead with the freelancer payment template as usual",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template"
+    }
+  },
+  {
+    "input": "pay john smith using my saved payment to john",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "process my vendor payment template for 9999 EUR to vikram traders",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "9999",
+      "currency": "EUR",
+      "beneficiary": "vikram traders"
+    }
+  },
+  {
+    "input": "apply insurance premium template but pay from current account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "pay cloud software inc using consultant fee template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "run software subscription template and update reference to reference number REF3321",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "reference": "reference number REF3321"
+    }
+  },
+  {
+    "input": "use my consultant fee template to pay steel suppliers ltd",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "use my internet bill template to pay abc metals",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "process my recurring donation template for 10000 dollars to raj electronics",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "10000",
+      "currency": "dollars",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "run the annual maintenance template for 1200 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "amount": "1200",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "pay from software subscription template but change the amount to 100000 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "100000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "run office supplies template and update reference to invoice 7781",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "reference": "invoice 7781"
+    }
+  },
+  {
+    "input": "use electricity bill template to send 2500 to marketing agency immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "2500",
+      "beneficiary": "marketing agency",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "apply software subscription template but pay from salary account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "pay my landlord using loan emi template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "apply supplier abc template but pay from usd account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "use the saved landlord payment template to pay tech solutions inc by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "beneficiary": "tech solutions inc",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "run the landlord payment template for 2500 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "2500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "pay from supplier abc template but change the amount to 500 EUR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "500",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "run insurance premium template and update reference to order id ORD-7712",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "apply warehouse rent template but pay from corporate account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "pay from insurance premium template but change the amount to 10000 EUR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "10000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "process my utility bills template for 15000 EUR to rajesh kumar",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "15000",
+      "currency": "EUR",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "trigger my consultant fee template from account ending 4521",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "process my gym membership template for 35000 euros to cloud software inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "35000",
+      "currency": "euros",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "use internet bill template from business account to pay rajesh kumar next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "account": "business account",
+      "beneficiary": "rajesh kumar",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "apply insurance premium template but pay from corporate account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "process my supplier abc template for 35000 GBP to the electricity board",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "35000",
+      "currency": "GBP",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "use vendor payment template to send 18000 to rajesh kumar this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "18000",
+      "beneficiary": "rajesh kumar",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "use the saved vendor payment template to pay david miller this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "beneficiary": "david miller",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "apply utility bills template but pay from my main account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "run the warehouse rent template for 4500 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "4500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "pay steel suppliers ltd 75000 euros using the freelancer payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "75000",
+      "currency": "euros",
+      "beneficiary": "steel suppliers ltd"
+    }
+  },
+  {
+    "input": "use salary template from salary account to pay steel suppliers ltd today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "account": "salary account",
+      "beneficiary": "steel suppliers ltd",
+      "time": "today"
+    }
+  },
+  {
+    "input": "use loan emi template to send 10000 to my landlord tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "10000",
+      "beneficiary": "my landlord",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "use office supplies template from business account to pay global traders this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "account": "business account",
+      "beneficiary": "global traders",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "use my saved payment to john to send 1200 to global traders tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "1200",
+      "beneficiary": "global traders",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "pay from recurring donation template but change the amount to 2500 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "2500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "run the freelancer payment template for 22000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "22000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "use recurring donation template from business account to pay my landlord immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "account": "business account",
+      "beneficiary": "my landlord",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "trigger my internet bill template from business account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "use the saved freelancer payment template to pay david miller on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "beneficiary": "david miller",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "apply warehouse rent template but pay from my main account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "pay sunrise textiles 2500 USD using the supplier abc template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "2500",
+      "currency": "USD",
+      "beneficiary": "sunrise textiles"
+    }
+  },
+  {
+    "input": "trigger my freelancer payment template from salary account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "run the landlord payment template for 50000 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "50000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "use consultant fee template from my main account to pay priya sharma by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "account": "my main account",
+      "beneficiary": "priya sharma",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "run quarterly tax template and update reference to contract ref C-9081",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "reference": "contract ref C-9081"
+    }
+  },
+  {
+    "input": "pay from monthly rent template but change the amount to 2500 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "2500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "use freelancer payment template to send 4500 to john smith next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "4500",
+      "beneficiary": "john smith",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "run the monthly rent template for 100000 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "100000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "run the software subscription template for 22000 EUR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "22000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "use the saved warehouse rent template to pay sunrise textiles tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "beneficiary": "sunrise textiles",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "use my landlord payment template to pay cloud software inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "run the office supplies template for 9999 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "9999",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "use the saved gym membership template to pay the electricity board next monday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "beneficiary": "the electricity board",
+      "time": "next monday"
+    }
+  },
+  {
+    "input": "use insurance premium template from business account to pay david miller on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "account": "business account",
+      "beneficiary": "david miller",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "use warehouse rent template from savings account to pay abc metals next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "account": "savings account",
+      "beneficiary": "abc metals",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "apply insurance premium template but pay from usd account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "use freelancer payment template from salary account to pay acme industries tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "account": "salary account",
+      "beneficiary": "acme industries",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "use internet bill template to send 4500 to anita desai today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "4500",
+      "beneficiary": "anita desai",
+      "time": "today"
+    }
+  },
+  {
+    "input": "use the saved monthly rent template to pay john smith on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "beneficiary": "john smith",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "pay cloud software inc 5000 USD using the monthly rent template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "5000",
+      "currency": "USD",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "pay raj electronics using office supplies template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "trigger my software subscription template from account ending 4521",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "use annual maintenance template to send 4500 to global traders today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "amount": "4500",
+      "beneficiary": "global traders",
+      "time": "today"
+    }
+  },
+  {
+    "input": "pay from gym membership template but change the amount to 50000 GBP",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "amount": "50000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "trigger my electricity bill template from account ending 4521",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "account": "account ending 4521"
+    }
+  },
+  {
+    "input": "pay marketing agency 4500 EUR using the electricity bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "4500",
+      "currency": "EUR",
+      "beneficiary": "marketing agency"
+    }
+  },
+  {
+    "input": "pay abc metals 10000 euros using the vendor payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "10000",
+      "currency": "euros",
+      "beneficiary": "abc metals"
+    }
+  },
+  {
+    "input": "pay david miller using electricity bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "use software subscription template from account ending 4521 to pay marketing agency immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "account": "account ending 4521",
+      "beneficiary": "marketing agency",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "use my my saved payment to john to pay tech solutions inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "use office supplies template from corporate account to pay steel suppliers ltd tomorrow",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "account": "corporate account",
+      "beneficiary": "steel suppliers ltd",
+      "time": "tomorrow"
+    }
+  },
+  {
+    "input": "run the office supplies template for 4500 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "4500",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "pay from recurring donation template but change the amount to 75000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "75000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "trigger my monthly rent template from salary account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "pay from loan emi template but change the amount to 15000 GBP",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "15000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "pay from salary template but change the amount to 9999 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "9999",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "use my software subscription template to pay the gym",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "use recurring donation template to send 22000 to my landlord immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "22000",
+      "beneficiary": "my landlord",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "use the saved consultant fee template to pay priya sharma this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "beneficiary": "priya sharma",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "process my loan emi template for 18000 dollars to cloud software inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "18000",
+      "currency": "dollars",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "process my quarterly tax template for 75000 rupees to anita desai",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "75000",
+      "currency": "rupees",
+      "beneficiary": "anita desai"
+    }
+  },
+  {
+    "input": "apply landlord payment template but pay from current account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "pay the gym 5000 euros using the office supplies template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "5000",
+      "currency": "euros",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "apply recurring donation template but pay from business account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "process my office supplies template for 18000 dollars to the insurance company",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "office supplies template",
+      "amount": "18000",
+      "currency": "dollars",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "pay from software subscription template but change the amount to 1200 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "1200",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "pay rajesh kumar using annual maintenance template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "beneficiary": "rajesh kumar"
+    }
+  },
+  {
+    "input": "trigger my supplier abc template from savings account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "account": "savings account"
+    }
+  },
+  {
+    "input": "pay the gym 3000 GBP using the software subscription template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "3000",
+      "currency": "GBP",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "apply monthly rent template but pay from salary account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "use software subscription template to send 15000 to tech solutions inc this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "amount": "15000",
+      "beneficiary": "tech solutions inc",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "i want to use software subscription template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template"
+    }
+  },
+  {
+    "input": "use monthly rent template from corporate account to pay david miller today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "account": "corporate account",
+      "beneficiary": "david miller",
+      "time": "today"
+    }
+  },
+  {
+    "input": "pay john smith 1200 euros using the landlord payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "1200",
+      "currency": "euros",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "trigger my quarterly tax template from salary account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "account": "salary account"
+    }
+  },
+  {
+    "input": "run vendor payment template and update reference to bill number 3345",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "process my salary template for 100000 pounds to tech solutions inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "100000",
+      "currency": "pounds",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "trigger my recurring donation template from corporate account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "account": "corporate account"
+    }
+  },
+  {
+    "input": "use the saved electricity bill template to pay raj electronics immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "beneficiary": "raj electronics",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "run the recurring donation template for 4500 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "4500",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "run the supplier abc template for 10000 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "10000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "pay raj electronics using utility bills template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "pay the electricity board 75000 EUR using the internet bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "75000",
+      "currency": "EUR",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "pay raj electronics 4500 USD using the freelancer payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "amount": "4500",
+      "currency": "USD",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "apply recurring donation template but pay from usd account this time",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "pay my landlord 4500 dollars using the warehouse rent template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "4500",
+      "currency": "dollars",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "run insurance premium template and update reference to invoice number INV-2291",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "reference": "invoice number INV-2291"
+    }
+  },
+  {
+    "input": "i want to use quarterly tax template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template"
+    }
+  },
+  {
+    "input": "run the quarterly tax template for 10000 pounds",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "10000",
+      "currency": "pounds"
+    }
+  },
+  {
+    "input": "use my consultant fee template to pay the gym",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "run the vendor payment template for 15000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "15000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "use the saved landlord payment template to pay the gym immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "beneficiary": "the gym",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "pay tech solutions inc 10000 EUR using the electricity bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "amount": "10000",
+      "currency": "EUR",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "i want to use freelancer payment template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template"
+    }
+  },
+  {
+    "input": "pay from insurance premium template but change the amount to 10000 GBP",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "insurance premium template",
+      "amount": "10000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "pay global traders 10000 pounds using the quarterly tax template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "10000",
+      "currency": "pounds",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "pay from loan emi template but change the amount to 3000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "3000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "trigger my quarterly tax template from current account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "run the internet bill template for 35000 EUR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "35000",
+      "currency": "EUR"
+    }
+  },
+  {
+    "input": "use the saved warehouse rent template to pay global traders on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "beneficiary": "global traders",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "pay cloud software inc using loan emi template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "cloud software inc"
+    }
+  },
+  {
+    "input": "use vendor payment template from my main account to pay raj electronics next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "account": "my main account",
+      "beneficiary": "raj electronics",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "process my my saved payment to john for 15000 USD to city hospital",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "amount": "15000",
+      "currency": "USD",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "use gym membership template from savings account to pay the insurance company today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "account": "savings account",
+      "beneficiary": "the insurance company",
+      "time": "today"
+    }
+  },
+  {
+    "input": "run the quarterly tax template for 2500 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "2500",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "trigger my utility bills template from current account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "account": "current account"
+    }
+  },
+  {
+    "input": "process my supplier abc template for 22000 GBP to raj electronics",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "amount": "22000",
+      "currency": "GBP",
+      "beneficiary": "raj electronics"
+    }
+  },
+  {
+    "input": "pay from recurring donation template but change the amount to 35000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "35000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "pay city hospital using salary template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "use utility bills template to send 500 to david miller immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "500",
+      "beneficiary": "david miller",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "trigger my supplier abc template from business account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "use my supplier abc template to pay the electricity board",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "i want to use salary template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template"
+    }
+  },
+  {
+    "input": "pay the gym using landlord payment template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "beneficiary": "the gym"
+    }
+  },
+  {
+    "input": "use quarterly tax template from savings account to pay john smith next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "account": "savings account",
+      "beneficiary": "john smith",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "run the consultant fee template for 50000 GBP",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "50000",
+      "currency": "GBP"
+    }
+  },
+  {
+    "input": "process my quarterly tax template for 100000 pounds to john smith",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "amount": "100000",
+      "currency": "pounds",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "trigger my annual maintenance template from business account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "account": "business account"
+    }
+  },
+  {
+    "input": "execute the quarterly tax template for this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template"
+    }
+  },
+  {
+    "input": "use my freelancer payment template to pay my landlord",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "freelancer payment template",
+      "beneficiary": "my landlord"
+    }
+  },
+  {
+    "input": "use vendor payment template from savings account to pay john smith on the 1st of next month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "account": "savings account",
+      "beneficiary": "john smith",
+      "time": "on the 1st of next month"
+    }
+  },
+  {
+    "input": "pay tech solutions inc using loan emi template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "use my annual maintenance template to pay john smith",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "beneficiary": "john smith"
+    }
+  },
+  {
+    "input": "use the saved supplier abc template to pay my landlord immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "supplier abc template",
+      "beneficiary": "my landlord",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "process my recurring donation template for 9999 EUR to tech solutions inc",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "9999",
+      "currency": "EUR",
+      "beneficiary": "tech solutions inc"
+    }
+  },
+  {
+    "input": "run the monthly rent template for 75000 USD",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "75000",
+      "currency": "USD"
+    }
+  },
+  {
+    "input": "use consultant fee template to send 500 to the electricity board this friday",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "consultant fee template",
+      "amount": "500",
+      "beneficiary": "the electricity board",
+      "time": "this friday"
+    }
+  },
+  {
+    "input": "pay from vendor payment template but change the amount to 4500 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "vendor payment template",
+      "amount": "4500",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "use loan emi template to send 1200 to acme industries immediately",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "1200",
+      "beneficiary": "acme industries",
+      "time": "immediately"
+    }
+  },
+  {
+    "input": "use utility bills template to send 22000 to city hospital today",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "utility bills template",
+      "amount": "22000",
+      "beneficiary": "city hospital",
+      "time": "today"
+    }
+  },
+  {
+    "input": "pay acme industries using salary template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "beneficiary": "acme industries"
+    }
+  },
+  {
+    "input": "process my monthly rent template for 75000 EUR to the electricity board",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "75000",
+      "currency": "EUR",
+      "beneficiary": "the electricity board"
+    }
+  },
+  {
+    "input": "use the saved my saved payment to john to pay the gym next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "my saved payment to john",
+      "beneficiary": "the gym",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "run quarterly tax template and update reference to bill number 3345",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "quarterly tax template",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "pay city hospital using internet bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "beneficiary": "city hospital"
+    }
+  },
+  {
+    "input": "pay global traders 500 dollars using the recurring donation template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "recurring donation template",
+      "amount": "500",
+      "currency": "dollars",
+      "beneficiary": "global traders"
+    }
+  },
+  {
+    "input": "process my internet bill template for 22000 GBP to david miller",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "internet bill template",
+      "amount": "22000",
+      "currency": "GBP",
+      "beneficiary": "david miller"
+    }
+  },
+  {
+    "input": "trigger my annual maintenance template from my main account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "annual maintenance template",
+      "account": "my main account"
+    }
+  },
+  {
+    "input": "pay the insurance company using electricity bill template",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "electricity bill template",
+      "beneficiary": "the insurance company"
+    }
+  },
+  {
+    "input": "pay from landlord payment template but change the amount to 500 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "amount": "500",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "run landlord payment template and update reference to bill number 3345",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "reference": "bill number 3345"
+    }
+  },
+  {
+    "input": "use gym membership template from usd account to pay sunrise textiles next week",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "gym membership template",
+      "account": "usd account",
+      "beneficiary": "sunrise textiles",
+      "time": "next week"
+    }
+  },
+  {
+    "input": "i want to use warehouse rent template again this month",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template"
+    }
+  },
+  {
+    "input": "run warehouse rent template and update reference to order id ORD-7712",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "reference": "order id ORD-7712"
+    }
+  },
+  {
+    "input": "pay from loan emi template but change the amount to 10000 euros",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "loan emi template",
+      "amount": "10000",
+      "currency": "euros"
+    }
+  },
+  {
+    "input": "trigger my software subscription template from usd account",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "software subscription template",
+      "account": "usd account"
+    }
+  },
+  {
+    "input": "pay from warehouse rent template but change the amount to 50000 INR",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "50000",
+      "currency": "INR"
+    }
+  },
+  {
+    "input": "run the salary template for 15000 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "salary template",
+      "amount": "15000",
+      "currency": "rupees"
+    }
+  },
+  {
+    "input": "use landlord payment template from account ending 4521 to pay sunrise textiles by end of day",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "landlord payment template",
+      "account": "account ending 4521",
+      "beneficiary": "sunrise textiles",
+      "time": "by end of day"
+    }
+  },
+  {
+    "input": "run the monthly rent template for 18000 dollars",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "monthly rent template",
+      "amount": "18000",
+      "currency": "dollars"
+    }
+  },
+  {
+    "input": "pay from warehouse rent template but change the amount to 3000 rupees",
+    "intent": "PAY_FROM_TEMPLATE",
+    "entities": {
+      "template": "warehouse rent template",
+      "amount": "3000",
+      "currency": "rupees"
+    }
+  }
+]
