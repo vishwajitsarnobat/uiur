@@ -1,0 +1,501 @@
+intent_code,text,reference,beneficiary,amount,currency,account,time,reason,status
+CANCEL_PAYMENT,Please cancel my payment to Global Traders Ltd scheduled yesterday.,,Global Traders Ltd,,,,yesterday,,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 500 EUR.",invoice INV-778,,500,EUR,,,,
+CANCEL_PAYMENT,Undo the payment reference instruction ID 8821 from savings account.,instruction ID 8821,,,,savings account,,,
+CANCEL_PAYMENT,Undo the payment reference invoice INV-778 from current account.,invoice INV-778,,,,current account,,,
+CANCEL_PAYMENT,"Stop payment TXN99231, it's still queued.",TXN99231,,,,,,,queued
+CANCEL_PAYMENT,Remove the scheduled transfer to ABC Suppliers Pvt Ltd.,,ABC Suppliers Pvt Ltd,,,,,,scheduled
+CANCEL_PAYMENT,Cancel transaction instruction ID 8821 because wrong amount.,instruction ID 8821,,,,,,wrong amount,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to the landlord, reason wrong beneficiary.",,the landlord,,,,tomorrow,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 2,000 EUR.",instruction ID 8821,,"2,000",EUR,,,,
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 750 rupees.",TXN99231,,750,rupees,,,,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to Emily Davis, reason change of plans.",,Emily Davis,,,,tomorrow,change of plans,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Global Traders Ltd, reason change of plans.",,Global Traders Ltd,,,,on 15th July,change of plans,
+CANCEL_PAYMENT,Cancel transaction instruction ID 8821 because duplicate entry.,instruction ID 8821,,,,,,duplicate entry,
+CANCEL_PAYMENT,"Stop payment invoice INV-778, it's still scheduled.",invoice INV-778,,,,,,,scheduled
+CANCEL_PAYMENT,Please cancel my payment to the landlord scheduled on 15th July.,,the landlord,,,,on 15th July,,
+CANCEL_PAYMENT,Cancel transaction invoice INV-778 because wrong amount.,invoice INV-778,,,,,,wrong amount,
+CANCEL_PAYMENT,Please cancel my payment to Priya Sharma scheduled yesterday.,,Priya Sharma,,,,yesterday,,
+CANCEL_PAYMENT,Cancel transaction instruction ID 8821 because wrong beneficiary.,instruction ID 8821,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,Please cancel my payment to ABC Suppliers Pvt Ltd scheduled tomorrow.,,ABC Suppliers Pvt Ltd,,,,tomorrow,,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 25000 rupees.,,,25000,rupees,,,,scheduled
+CANCEL_PAYMENT,Please cancel my payment to Emily Davis scheduled tomorrow.,,Emily Davis,,,,tomorrow,,
+CANCEL_PAYMENT,"Stop payment payment ID 4456, it's still awaiting approval.",payment ID 4456,,,,,,,awaiting approval
+CANCEL_PAYMENT,Stop the scheduled payment to John Mathews from account ending 3359.,,John Mathews,,,account ending 3359,,,scheduled
+CANCEL_PAYMENT,"Stop payment payment ID 4456, it's still scheduled.",payment ID 4456,,,,,,,scheduled
+CANCEL_PAYMENT,Cancel the payment to ABC Suppliers Pvt Ltd.,,ABC Suppliers Pvt Ltd,,,,,,
+CANCEL_PAYMENT,"Stop payment TXN99231, it's still scheduled.",TXN99231,,,,,,,scheduled
+CANCEL_PAYMENT,Please cancel my payment to Global Traders Ltd scheduled on 15th July.,,Global Traders Ltd,,,,on 15th July,,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to John Mathews, reason wrong beneficiary.",,John Mathews,,,,yesterday,wrong beneficiary,
+CANCEL_PAYMENT,Stop the queued payment to ABC Suppliers Pvt Ltd from current account.,,ABC Suppliers Pvt Ltd,,,current account,,,queued
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Emily Davis, reason change of plans.",,Emily Davis,,,,on 15th July,change of plans,
+CANCEL_PAYMENT,Remove the processing transfer to Emily Davis.,,Emily Davis,,,,,,processing
+CANCEL_PAYMENT,Stop the processing payment to Emily Davis from current account.,,Emily Davis,,,current account,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 500 EUR to Emily Davis, reason: duplicate entry.",,Emily Davis,500,EUR,,,duplicate entry,
+CANCEL_PAYMENT,"Cancel the payment of 500 INR to Emily Davis, reason: wrong amount.",,Emily Davis,500,INR,,,wrong amount,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 50000 INR.",payment ID 4456,,50000,INR,,,,
+CANCEL_PAYMENT,Please cancel my payment to Emily Davis scheduled next Monday.,,Emily Davis,,,,next Monday,,
+CANCEL_PAYMENT,Undo the payment reference TXN99231 from current account.,TXN99231,,,,current account,,,
+CANCEL_PAYMENT,Remove the queued transfer to the landlord.,,the landlord,,,,,,queued
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 500 rupees.",payment ID 4456,,500,rupees,,,,
+CANCEL_PAYMENT,Cancel the payment to Emily Davis.,,Emily Davis,,,,,,
+CANCEL_PAYMENT,Cancel transaction payment ID 4456 because wrong beneficiary.,payment ID 4456,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,Cancel transaction payment ID 4456 because duplicate entry.,payment ID 4456,,,,,,duplicate entry,
+CANCEL_PAYMENT,Cancel the payment to Global Traders Ltd.,,Global Traders Ltd,,,,,,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 25000 rupees.",instruction ID 8821,,25000,rupees,,,,
+CANCEL_PAYMENT,Withdraw the pending payment of 750 rupees.,,,750,rupees,,,,pending
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Priya Sharma, reason wrong beneficiary.",,Priya Sharma,,,,yesterday,wrong beneficiary,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Emily Davis, reason wrong amount.",,Emily Davis,,,,yesterday,wrong amount,
+CANCEL_PAYMENT,"Stop payment invoice INV-778, it's still queued.",invoice INV-778,,,,,,,queued
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 750 INR.",instruction ID 8821,,750,INR,,,,
+CANCEL_PAYMENT,Undo the payment reference payment ID 4456 from current account.,payment ID 4456,,,,current account,,,
+CANCEL_PAYMENT,"Cancel the payment of 750 INR to John Mathews, reason: change of plans.",,John Mathews,750,INR,,,change of plans,
+CANCEL_PAYMENT,Undo the payment reference invoice INV-778 from savings account.,invoice INV-778,,,,savings account,,,
+CANCEL_PAYMENT,Remove the scheduled transfer to Global Traders Ltd.,,Global Traders Ltd,,,,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 EUR to Priya Sharma, reason: wrong beneficiary.",,Priya Sharma,"10,000.50",EUR,,,wrong beneficiary,
+CANCEL_PAYMENT,Remove the pending transfer to the landlord.,,the landlord,,,,,,pending
+CANCEL_PAYMENT,Cancel transaction TXN99231 because duplicate entry.,TXN99231,,,,,,duplicate entry,
+CANCEL_PAYMENT,Stop the processing payment to Priya Sharma from current account.,,Priya Sharma,,,current account,,,processing
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 750 GBP.",instruction ID 8821,,750,GBP,,,,
+CANCEL_PAYMENT,Stop the awaiting approval payment to Priya Sharma from current account.,,Priya Sharma,,,current account,,,awaiting approval
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 50000 EUR.",payment ID 4456,,50000,EUR,,,,
+CANCEL_PAYMENT,"Stop payment payment ID 4456, it's still queued.",payment ID 4456,,,,,,,queued
+CANCEL_PAYMENT,"Stop payment invoice INV-778, it's still pending.",invoice INV-778,,,,,,,pending
+CANCEL_PAYMENT,"Revoke the payment made yesterday to John Mathews, reason wrong amount.",,John Mathews,,,,yesterday,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 EUR to Global Traders Ltd, reason: cancelled order.",,Global Traders Ltd,"10,000.50",EUR,,,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 25000 GBP to ABC Suppliers Pvt Ltd, reason: cancelled order.",,ABC Suppliers Pvt Ltd,25000,GBP,,,cancelled order,
+CANCEL_PAYMENT,Remove the processing transfer to the landlord.,,the landlord,,,,,,processing
+CANCEL_PAYMENT,Remove the queued transfer to John Mathews.,,John Mathews,,,,,,queued
+CANCEL_PAYMENT,Withdraw the scheduled payment of 50000 INR.,,,50000,INR,,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 25000 INR.",TXN99231,,25000,INR,,,,
+CANCEL_PAYMENT,Undo the payment reference payment ID 4456 from account ending 3359.,payment ID 4456,,,,account ending 3359,,,
+CANCEL_PAYMENT,"Withdraw the queued payment of 10,000.50 USD.",,,"10,000.50",USD,,,,queued
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 25000 GBP.,,,25000,GBP,,,,awaiting approval
+CANCEL_PAYMENT,"Stop payment instruction ID 8821, it's still queued.",instruction ID 8821,,,,,,,queued
+CANCEL_PAYMENT,Please cancel my payment to Priya Sharma scheduled next Monday.,,Priya Sharma,,,,next Monday,,
+CANCEL_PAYMENT,"Withdraw the scheduled payment of 2,000 rupees.",,,"2,000",rupees,,,,scheduled
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to Priya Sharma, reason duplicate entry.",,Priya Sharma,,,,tomorrow,duplicate entry,
+CANCEL_PAYMENT,Stop the awaiting approval payment to Global Traders Ltd from current account.,,Global Traders Ltd,,,current account,,,awaiting approval
+CANCEL_PAYMENT,"Cancel the payment of 25000 EUR to John Mathews, reason: cancelled order.",,John Mathews,25000,EUR,,,cancelled order,
+CANCEL_PAYMENT,Please cancel my payment to John Mathews scheduled tomorrow.,,John Mathews,,,,tomorrow,,
+CANCEL_PAYMENT,"Cancel the payment of 50000 rupees to Global Traders Ltd, reason: wrong amount.",,Global Traders Ltd,50000,rupees,,,wrong amount,
+CANCEL_PAYMENT,Remove the awaiting approval transfer to Emily Davis.,,Emily Davis,,,,,,awaiting approval
+CANCEL_PAYMENT,"Withdraw the processing payment of 2,000 rupees.",,,"2,000",rupees,,,,processing
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to ABC Suppliers Pvt Ltd, reason change of plans.",,ABC Suppliers Pvt Ltd,,,,on 15th July,change of plans,
+CANCEL_PAYMENT,"Stop payment TXN99231, it's still processing.",TXN99231,,,,,,,processing
+CANCEL_PAYMENT,Stop the queued payment to Global Traders Ltd from account ending 3359.,,Global Traders Ltd,,,account ending 3359,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 25000 GBP to John Mathews, reason: cancelled order.",,John Mathews,25000,GBP,,,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 25000 INR to Priya Sharma, reason: wrong amount.",,Priya Sharma,25000,INR,,,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 500 EUR to the landlord, reason: wrong amount.",,the landlord,500,EUR,,,wrong amount,
+CANCEL_PAYMENT,Please cancel my payment to Global Traders Ltd scheduled tomorrow.,,Global Traders Ltd,,,,tomorrow,,
+CANCEL_PAYMENT,Cancel transaction payment ID 4456 because wrong amount.,payment ID 4456,,,,,,wrong amount,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 50000 EUR.",instruction ID 8821,,50000,EUR,,,,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 750 rupees.",invoice INV-778,,750,rupees,,,,
+CANCEL_PAYMENT,Stop the processing payment to John Mathews from savings account.,,John Mathews,,,savings account,,,processing
+CANCEL_PAYMENT,Stop the processing payment to Priya Sharma from account ending 3359.,,Priya Sharma,,,account ending 3359,,,processing
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to Emily Davis, reason duplicate entry.",,Emily Davis,,,,tomorrow,duplicate entry,
+CANCEL_PAYMENT,"Withdraw the pending payment of 10,000.50 EUR.",,,"10,000.50",EUR,,,,pending
+CANCEL_PAYMENT,Please cancel my payment to John Mathews scheduled on 15th July.,,John Mathews,,,,on 15th July,,
+CANCEL_PAYMENT,Undo the payment reference instruction ID 8821 from current account.,instruction ID 8821,,,,current account,,,
+CANCEL_PAYMENT,Cancel transaction instruction ID 8821 because change of plans.,instruction ID 8821,,,,,,change of plans,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 750 EUR.",payment ID 4456,,750,EUR,,,,
+CANCEL_PAYMENT,Stop the processing payment to Priya Sharma from savings account.,,Priya Sharma,,,savings account,,,processing
+CANCEL_PAYMENT,Withdraw the scheduled payment of 50000 USD.,,,50000,USD,,,,scheduled
+CANCEL_PAYMENT,Please cancel my payment to John Mathews scheduled yesterday.,,John Mathews,,,,yesterday,,
+CANCEL_PAYMENT,Withdraw the processing payment of 500 USD.,,,500,USD,,,,processing
+CANCEL_PAYMENT,Cancel transaction TXN99231 because wrong beneficiary.,TXN99231,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,Remove the pending transfer to John Mathews.,,John Mathews,,,,,,pending
+CANCEL_PAYMENT,Cancel the payment to Priya Sharma.,,Priya Sharma,,,,,,
+CANCEL_PAYMENT,"Cancel the payment of 25000 INR to Priya Sharma, reason: cancelled order.",,Priya Sharma,25000,INR,,,cancelled order,
+CANCEL_PAYMENT,Stop the queued payment to John Mathews from current account.,,John Mathews,,,current account,,,queued
+CANCEL_PAYMENT,Stop the awaiting approval payment to Priya Sharma from account ending 3359.,,Priya Sharma,,,account ending 3359,,,awaiting approval
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 EUR to John Mathews, reason: wrong beneficiary.",,John Mathews,"10,000.50",EUR,,,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 750 INR.",payment ID 4456,,750,INR,,,,
+CANCEL_PAYMENT,Cancel the payment to the landlord.,,the landlord,,,,,,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 50000 rupees.",payment ID 4456,,50000,rupees,,,,
+CANCEL_PAYMENT,Remove the awaiting approval transfer to John Mathews.,,John Mathews,,,,,,awaiting approval
+CANCEL_PAYMENT,Stop the pending payment to the landlord from current account.,,the landlord,,,current account,,,pending
+CANCEL_PAYMENT,"Cancel the payment of 25000 EUR to Priya Sharma, reason: wrong beneficiary.",,Priya Sharma,25000,EUR,,,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel the payment of 50000 EUR to John Mathews, reason: wrong amount.",,John Mathews,50000,EUR,,,wrong amount,
+CANCEL_PAYMENT,Remove the processing transfer to ABC Suppliers Pvt Ltd.,,ABC Suppliers Pvt Ltd,,,,,,processing
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 25000 rupees.",invoice INV-778,,25000,rupees,,,,
+CANCEL_PAYMENT,Please cancel my payment to the landlord scheduled yesterday.,,the landlord,,,,yesterday,,
+CANCEL_PAYMENT,"Withdraw the scheduled payment of 10,000.50 EUR.",,,"10,000.50",EUR,,,,scheduled
+CANCEL_PAYMENT,Undo the payment reference payment ID 4456 from savings account.,payment ID 4456,,,,savings account,,,
+CANCEL_PAYMENT,Cancel the payment to John Mathews.,,John Mathews,,,,,,
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 2,000 GBP.",TXN99231,,"2,000",GBP,,,,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to ABC Suppliers Pvt Ltd, reason change of plans.",,ABC Suppliers Pvt Ltd,,,,yesterday,change of plans,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Emily Davis, reason change of plans.",,Emily Davis,,,,next Monday,change of plans,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 10,000.50 EUR.",invoice INV-778,,"10,000.50",EUR,,,,
+CANCEL_PAYMENT,"Stop payment instruction ID 8821, it's still scheduled.",instruction ID 8821,,,,,,,scheduled
+CANCEL_PAYMENT,"Stop payment invoice INV-778, it's still awaiting approval.",invoice INV-778,,,,,,,awaiting approval
+CANCEL_PAYMENT,Remove the pending transfer to ABC Suppliers Pvt Ltd.,,ABC Suppliers Pvt Ltd,,,,,,pending
+CANCEL_PAYMENT,"Stop payment instruction ID 8821, it's still awaiting approval.",instruction ID 8821,,,,,,,awaiting approval
+CANCEL_PAYMENT,Undo the payment reference invoice INV-778 from account ending 3359.,invoice INV-778,,,,account ending 3359,,,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 750 USD.",payment ID 4456,,750,USD,,,,
+CANCEL_PAYMENT,"Cancel the payment of 50000 EUR to Global Traders Ltd, reason: cancelled order.",,Global Traders Ltd,50000,EUR,,,cancelled order,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 25000 GBP.",instruction ID 8821,,25000,GBP,,,,
+CANCEL_PAYMENT,"Cancel the payment of 2,000 rupees to Emily Davis, reason: wrong amount.",,Emily Davis,"2,000",rupees,,,wrong amount,
+CANCEL_PAYMENT,Remove the pending transfer to Priya Sharma.,,Priya Sharma,,,,,,pending
+CANCEL_PAYMENT,Please cancel my payment to John Mathews scheduled next Monday.,,John Mathews,,,,next Monday,,
+CANCEL_PAYMENT,Stop the processing payment to Global Traders Ltd from account ending 3359.,,Global Traders Ltd,,,account ending 3359,,,processing
+CANCEL_PAYMENT,Cancel transaction invoice INV-778 because wrong beneficiary.,invoice INV-778,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,Undo the payment reference TXN99231 from account ending 3359.,TXN99231,,,,account ending 3359,,,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 2,000 EUR.",payment ID 4456,,"2,000",EUR,,,,
+CANCEL_PAYMENT,Cancel transaction payment ID 4456 because cancelled order.,payment ID 4456,,,,,,cancelled order,
+CANCEL_PAYMENT,Withdraw the processing payment of 750 EUR.,,,750,EUR,,,,processing
+CANCEL_PAYMENT,"Withdraw the queued payment of 10,000.50 rupees.",,,"10,000.50",rupees,,,,queued
+CANCEL_PAYMENT,Please cancel my payment to Priya Sharma scheduled tomorrow.,,Priya Sharma,,,,tomorrow,,
+CANCEL_PAYMENT,"Cancel the payment of 25000 USD to ABC Suppliers Pvt Ltd, reason: change of plans.",,ABC Suppliers Pvt Ltd,25000,USD,,,change of plans,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 25000 GBP.,,,25000,GBP,,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 500 INR to the landlord, reason: change of plans.",,the landlord,500,INR,,,change of plans,
+CANCEL_PAYMENT,Stop the awaiting approval payment to the landlord from current account.,,the landlord,,,current account,,,awaiting approval
+CANCEL_PAYMENT,"Stop payment instruction ID 8821, it's still pending.",instruction ID 8821,,,,,,,pending
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 750 EUR.",TXN99231,,750,EUR,,,,
+CANCEL_PAYMENT,"Cancel the payment of 750 EUR to John Mathews, reason: change of plans.",,John Mathews,750,EUR,,,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 2,000 EUR to Priya Sharma, reason: cancelled order.",,Priya Sharma,"2,000",EUR,,,cancelled order,
+CANCEL_PAYMENT,Undo the payment reference TXN99231 from savings account.,TXN99231,,,,savings account,,,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Global Traders Ltd, reason duplicate entry.",,Global Traders Ltd,,,,on 15th July,duplicate entry,
+CANCEL_PAYMENT,"Cancel the payment of 750 INR to the landlord, reason: wrong amount.",,the landlord,750,INR,,,wrong amount,
+CANCEL_PAYMENT,Stop the scheduled payment to Priya Sharma from account ending 3359.,,Priya Sharma,,,account ending 3359,,,scheduled
+CANCEL_PAYMENT,"Withdraw the scheduled payment of 2,000 INR.",,,"2,000",INR,,,,scheduled
+CANCEL_PAYMENT,Please cancel my payment to ABC Suppliers Pvt Ltd scheduled on 15th July.,,ABC Suppliers Pvt Ltd,,,,on 15th July,,
+CANCEL_PAYMENT,"Withdraw the processing payment of 2,000 GBP.",,,"2,000",GBP,,,,processing
+CANCEL_PAYMENT,Remove the queued transfer to Global Traders Ltd.,,Global Traders Ltd,,,,,,queued
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 500 USD.",payment ID 4456,,500,USD,,,,
+CANCEL_PAYMENT,Please cancel my payment to Priya Sharma scheduled on 15th July.,,Priya Sharma,,,,on 15th July,,
+CANCEL_PAYMENT,Withdraw the pending payment of 500 rupees.,,,500,rupees,,,,pending
+CANCEL_PAYMENT,Remove the processing transfer to Priya Sharma.,,Priya Sharma,,,,,,processing
+CANCEL_PAYMENT,Withdraw the processing payment of 25000 INR.,,,25000,INR,,,,processing
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to John Mathews, reason cancelled order.",,John Mathews,,,,on 15th July,cancelled order,
+CANCEL_PAYMENT,"Stop payment payment ID 4456, it's still processing.",payment ID 4456,,,,,,,processing
+CANCEL_PAYMENT,"Withdraw the queued payment of 2,000 INR.",,,"2,000",INR,,,,queued
+CANCEL_PAYMENT,Withdraw the processing payment of 750 USD.,,,750,USD,,,,processing
+CANCEL_PAYMENT,Stop the scheduled payment to the landlord from account ending 3359.,,the landlord,,,account ending 3359,,,scheduled
+CANCEL_PAYMENT,"Revoke the payment made next Monday to ABC Suppliers Pvt Ltd, reason change of plans.",,ABC Suppliers Pvt Ltd,,,,next Monday,change of plans,
+CANCEL_PAYMENT,Stop the scheduled payment to Emily Davis from savings account.,,Emily Davis,,,savings account,,,scheduled
+CANCEL_PAYMENT,"Withdraw the awaiting approval payment of 10,000.50 rupees.",,,"10,000.50",rupees,,,,awaiting approval
+CANCEL_PAYMENT,Stop the pending payment to Priya Sharma from current account.,,Priya Sharma,,,current account,,,pending
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Emily Davis, reason cancelled order.",,Emily Davis,,,,on 15th July,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 2,000 GBP to John Mathews, reason: wrong amount.",,John Mathews,"2,000",GBP,,,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 GBP to John Mathews, reason: wrong amount.",,John Mathews,"10,000.50",GBP,,,wrong amount,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 10,000.50 rupees.",invoice INV-778,,"10,000.50",rupees,,,,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Global Traders Ltd, reason wrong amount.",,Global Traders Ltd,,,,next Monday,wrong amount,
+CANCEL_PAYMENT,"Stop payment instruction ID 8821, it's still processing.",instruction ID 8821,,,,,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 500 USD to the landlord, reason: change of plans.",,the landlord,500,USD,,,change of plans,
+CANCEL_PAYMENT,Stop the pending payment to John Mathews from current account.,,John Mathews,,,current account,,,pending
+CANCEL_PAYMENT,Stop the pending payment to Priya Sharma from account ending 3359.,,Priya Sharma,,,account ending 3359,,,pending
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 2,000 USD.",invoice INV-778,,"2,000",USD,,,,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 750 GBP.,,,750,GBP,,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 25000 GBP.",invoice INV-778,,25000,GBP,,,,
+CANCEL_PAYMENT,Cancel transaction TXN99231 because wrong amount.,TXN99231,,,,,,wrong amount,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 10,000.50 GBP.",payment ID 4456,,"10,000.50",GBP,,,,
+CANCEL_PAYMENT,"Cancel the payment of 500 EUR to Emily Davis, reason: wrong amount.",,Emily Davis,500,EUR,,,wrong amount,
+CANCEL_PAYMENT,Stop the awaiting approval payment to Emily Davis from savings account.,,Emily Davis,,,savings account,,,awaiting approval
+CANCEL_PAYMENT,Please cancel my payment to the landlord scheduled next Monday.,,the landlord,,,,next Monday,,
+CANCEL_PAYMENT,Withdraw the pending payment of 750 EUR.,,,750,EUR,,,,pending
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 EUR to the landlord, reason: change of plans.",,the landlord,"10,000.50",EUR,,,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 INR to Priya Sharma, reason: wrong amount.",,Priya Sharma,"10,000.50",INR,,,wrong amount,
+CANCEL_PAYMENT,"Withdraw the awaiting approval payment of 2,000 USD.",,,"2,000",USD,,,,awaiting approval
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Emily Davis, reason wrong amount.",,Emily Davis,,,,next Monday,wrong amount,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to the landlord, reason wrong amount.",,the landlord,,,,on 15th July,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 USD to ABC Suppliers Pvt Ltd, reason: change of plans.",,ABC Suppliers Pvt Ltd,"10,000.50",USD,,,change of plans,
+CANCEL_PAYMENT,Stop the awaiting approval payment to ABC Suppliers Pvt Ltd from savings account.,,ABC Suppliers Pvt Ltd,,,savings account,,,awaiting approval
+CANCEL_PAYMENT,Withdraw the queued payment of 500 rupees.,,,500,rupees,,,,queued
+CANCEL_PAYMENT,Stop the pending payment to Global Traders Ltd from account ending 3359.,,Global Traders Ltd,,,account ending 3359,,,pending
+CANCEL_PAYMENT,"Withdraw the pending payment of 10,000.50 rupees.",,,"10,000.50",rupees,,,,pending
+CANCEL_PAYMENT,Withdraw the processing payment of 500 EUR.,,,500,EUR,,,,processing
+CANCEL_PAYMENT,Stop the awaiting approval payment to Emily Davis from account ending 3359.,,Emily Davis,,,account ending 3359,,,awaiting approval
+CANCEL_PAYMENT,"Withdraw the scheduled payment of 2,000 USD.",,,"2,000",USD,,,,scheduled
+CANCEL_PAYMENT,Please cancel my payment to the landlord scheduled tomorrow.,,the landlord,,,,tomorrow,,
+CANCEL_PAYMENT,Stop the processing payment to the landlord from current account.,,the landlord,,,current account,,,processing
+CANCEL_PAYMENT,Remove the awaiting approval transfer to Global Traders Ltd.,,Global Traders Ltd,,,,,,awaiting approval
+CANCEL_PAYMENT,"Withdraw the scheduled payment of 2,000 EUR.",,,"2,000",EUR,,,,scheduled
+CANCEL_PAYMENT,Withdraw the processing payment of 25000 EUR.,,,25000,EUR,,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 2,000 rupees to the landlord, reason: wrong amount.",,the landlord,"2,000",rupees,,,wrong amount,
+CANCEL_PAYMENT,Please cancel my payment to Emily Davis scheduled yesterday.,,Emily Davis,,,,yesterday,,
+CANCEL_PAYMENT,Remove the scheduled transfer to John Mathews.,,John Mathews,,,,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 50000 USD.",invoice INV-778,,50000,USD,,,,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Priya Sharma, reason cancelled order.",,Priya Sharma,,,,next Monday,cancelled order,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to the landlord, reason duplicate entry.",,the landlord,,,,tomorrow,duplicate entry,
+CANCEL_PAYMENT,Please cancel my payment to Emily Davis scheduled on 15th July.,,Emily Davis,,,,on 15th July,,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 10,000.50 INR.",payment ID 4456,,"10,000.50",INR,,,,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 EUR to Emily Davis, reason: change of plans.",,Emily Davis,"10,000.50",EUR,,,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 50000 rupees to Priya Sharma, reason: duplicate entry.",,Priya Sharma,50000,rupees,,,duplicate entry,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 25000 INR.",instruction ID 8821,,25000,INR,,,,
+CANCEL_PAYMENT,Remove the queued transfer to Priya Sharma.,,Priya Sharma,,,,,,queued
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 25000 EUR.",payment ID 4456,,25000,EUR,,,,
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 750 GBP.",TXN99231,,750,GBP,,,,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to the landlord, reason wrong amount.",,the landlord,,,,yesterday,wrong amount,
+CANCEL_PAYMENT,Remove the pending transfer to Global Traders Ltd.,,Global Traders Ltd,,,,,,pending
+CANCEL_PAYMENT,Withdraw the processing payment of 50000 EUR.,,,50000,EUR,,,,processing
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to ABC Suppliers Pvt Ltd, reason cancelled order.",,ABC Suppliers Pvt Ltd,,,,on 15th July,cancelled order,
+CANCEL_PAYMENT,Please cancel my payment to Global Traders Ltd scheduled next Monday.,,Global Traders Ltd,,,,next Monday,,
+CANCEL_PAYMENT,"Cancel the payment of 500 rupees to John Mathews, reason: duplicate entry.",,John Mathews,500,rupees,,,duplicate entry,
+CANCEL_PAYMENT,Stop the awaiting approval payment to ABC Suppliers Pvt Ltd from account ending 3359.,,ABC Suppliers Pvt Ltd,,,account ending 3359,,,awaiting approval
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 50000 INR.",instruction ID 8821,,50000,INR,,,,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Priya Sharma, reason wrong amount.",,Priya Sharma,,,,yesterday,wrong amount,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to John Mathews, reason duplicate entry.",,John Mathews,,,,yesterday,duplicate entry,
+CANCEL_PAYMENT,Cancel transaction invoice INV-778 because change of plans.,invoice INV-778,,,,,,change of plans,
+CANCEL_PAYMENT,Withdraw the queued payment of 500 INR.,,,500,INR,,,,queued
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Priya Sharma, reason wrong beneficiary.",,Priya Sharma,,,,on 15th July,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel the payment of 750 INR to Priya Sharma, reason: change of plans.",,Priya Sharma,750,INR,,,change of plans,
+CANCEL_PAYMENT,Undo the payment reference instruction ID 8821 from account ending 3359.,instruction ID 8821,,,,account ending 3359,,,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 rupees to John Mathews, reason: cancelled order.",,John Mathews,"10,000.50",rupees,,,cancelled order,
+CANCEL_PAYMENT,"Stop payment payment ID 4456, it's still pending.",payment ID 4456,,,,,,,pending
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Global Traders Ltd, reason cancelled order.",,Global Traders Ltd,,,,yesterday,cancelled order,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 2,000 GBP.",instruction ID 8821,,"2,000",GBP,,,,
+CANCEL_PAYMENT,Cancel transaction payment ID 4456 because change of plans.,payment ID 4456,,,,,,change of plans,
+CANCEL_PAYMENT,Cancel transaction invoice INV-778 because cancelled order.,invoice INV-778,,,,,,cancelled order,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 500 GBP.",invoice INV-778,,500,GBP,,,,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 10,000.50 INR.",instruction ID 8821,,"10,000.50",INR,,,,
+CANCEL_PAYMENT,Stop the awaiting approval payment to John Mathews from savings account.,,John Mathews,,,savings account,,,awaiting approval
+CANCEL_PAYMENT,Withdraw the pending payment of 50000 GBP.,,,50000,GBP,,,,pending
+CANCEL_PAYMENT,"Withdraw the queued payment of 2,000 GBP.",,,"2,000",GBP,,,,queued
+CANCEL_PAYMENT,Cancel transaction TXN99231 because change of plans.,TXN99231,,,,,,change of plans,
+CANCEL_PAYMENT,Cancel transaction invoice INV-778 because duplicate entry.,invoice INV-778,,,,,,duplicate entry,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to Global Traders Ltd, reason wrong beneficiary.",,Global Traders Ltd,,,,tomorrow,wrong beneficiary,
+CANCEL_PAYMENT,"Stop payment TXN99231, it's still pending.",TXN99231,,,,,,,pending
+CANCEL_PAYMENT,Remove the scheduled transfer to Emily Davis.,,Emily Davis,,,,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 750 INR to Global Traders Ltd, reason: change of plans.",,Global Traders Ltd,750,INR,,,change of plans,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 50000 rupees.,,,50000,rupees,,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 10,000.50 USD.",instruction ID 8821,,"10,000.50",USD,,,,
+CANCEL_PAYMENT,Stop the processing payment to ABC Suppliers Pvt Ltd from account ending 3359.,,ABC Suppliers Pvt Ltd,,,account ending 3359,,,processing
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Emily Davis, reason cancelled order.",,Emily Davis,,,,next Monday,cancelled order,
+CANCEL_PAYMENT,Stop the pending payment to John Mathews from savings account.,,John Mathews,,,savings account,,,pending
+CANCEL_PAYMENT,"Cancel the payment of 500 EUR to John Mathews, reason: wrong beneficiary.",,John Mathews,500,EUR,,,wrong beneficiary,
+CANCEL_PAYMENT,Stop the processing payment to Global Traders Ltd from current account.,,Global Traders Ltd,,,current account,,,processing
+CANCEL_PAYMENT,Please cancel my payment to ABC Suppliers Pvt Ltd scheduled next Monday.,,ABC Suppliers Pvt Ltd,,,,next Monday,,
+CANCEL_PAYMENT,"Cancel the payment of 500 INR to Emily Davis, reason: wrong beneficiary.",,Emily Davis,500,INR,,,wrong beneficiary,
+CANCEL_PAYMENT,Withdraw the queued payment of 750 GBP.,,,750,GBP,,,,queued
+CANCEL_PAYMENT,Withdraw the pending payment of 750 GBP.,,,750,GBP,,,,pending
+CANCEL_PAYMENT,Remove the processing transfer to John Mathews.,,John Mathews,,,,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 25000 GBP to Priya Sharma, reason: cancelled order.",,Priya Sharma,25000,GBP,,,cancelled order,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 750 USD.",invoice INV-778,,750,USD,,,,
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 750 INR.,,,750,INR,,,,awaiting approval
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Priya Sharma, reason duplicate entry.",,Priya Sharma,,,,on 15th July,duplicate entry,
+CANCEL_PAYMENT,"Withdraw the processing payment of 10,000.50 GBP.",,,"10,000.50",GBP,,,,processing
+CANCEL_PAYMENT,Withdraw the queued payment of 25000 rupees.,,,25000,rupees,,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 50000 rupees to the landlord, reason: cancelled order.",,the landlord,50000,rupees,,,cancelled order,
+CANCEL_PAYMENT,Cancel transaction instruction ID 8821 because cancelled order.,instruction ID 8821,,,,,,cancelled order,
+CANCEL_PAYMENT,Stop the awaiting approval payment to the landlord from account ending 3359.,,the landlord,,,account ending 3359,,,awaiting approval
+CANCEL_PAYMENT,Remove the processing transfer to Global Traders Ltd.,,Global Traders Ltd,,,,,,processing
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 10,000.50 GBP.",instruction ID 8821,,"10,000.50",GBP,,,,
+CANCEL_PAYMENT,Remove the scheduled transfer to Priya Sharma.,,Priya Sharma,,,,,,scheduled
+CANCEL_PAYMENT,Stop the scheduled payment to Priya Sharma from current account.,,Priya Sharma,,,current account,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 50000 USD.",instruction ID 8821,,50000,USD,,,,
+CANCEL_PAYMENT,Stop the queued payment to the landlord from account ending 3359.,,the landlord,,,account ending 3359,,,queued
+CANCEL_PAYMENT,Cancel transaction TXN99231 because cancelled order.,TXN99231,,,,,,cancelled order,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to ABC Suppliers Pvt Ltd, reason duplicate entry.",,ABC Suppliers Pvt Ltd,,,,on 15th July,duplicate entry,
+CANCEL_PAYMENT,Withdraw the pending payment of 25000 GBP.,,,25000,GBP,,,,pending
+CANCEL_PAYMENT,Remove the awaiting approval transfer to the landlord.,,the landlord,,,,,,awaiting approval
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 50000 USD.",payment ID 4456,,50000,USD,,,,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to John Mathews, reason wrong amount.",,John Mathews,,,,next Monday,wrong amount,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to ABC Suppliers Pvt Ltd, reason wrong beneficiary.",,ABC Suppliers Pvt Ltd,,,,next Monday,wrong beneficiary,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to Global Traders Ltd, reason change of plans.",,Global Traders Ltd,,,,tomorrow,change of plans,
+CANCEL_PAYMENT,Please cancel my payment to ABC Suppliers Pvt Ltd scheduled yesterday.,,ABC Suppliers Pvt Ltd,,,,yesterday,,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 10,000.50 INR.",invoice INV-778,,"10,000.50",INR,,,,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Emily Davis, reason wrong beneficiary.",,Emily Davis,,,,on 15th July,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel the payment of 50000 GBP to Global Traders Ltd, reason: wrong beneficiary.",,Global Traders Ltd,50000,GBP,,,wrong beneficiary,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Global Traders Ltd, reason change of plans.",,Global Traders Ltd,,,,yesterday,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 25000 INR to John Mathews, reason: cancelled order.",,John Mathews,25000,INR,,,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 50000 GBP to Emily Davis, reason: change of plans.",,Emily Davis,50000,GBP,,,change of plans,
+CANCEL_PAYMENT,"Stop payment TXN99231, it's still awaiting approval.",TXN99231,,,,,,,awaiting approval
+CANCEL_PAYMENT,"Revoke the payment made yesterday to John Mathews, reason cancelled order.",,John Mathews,,,,yesterday,cancelled order,
+CANCEL_PAYMENT,Remove the queued transfer to Emily Davis.,,Emily Davis,,,,,,queued
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 50000 USD.",TXN99231,,50000,USD,,,,
+CANCEL_PAYMENT,"Cancel the payment of 500 EUR to the landlord, reason: change of plans.",,the landlord,500,EUR,,,change of plans,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Priya Sharma, reason change of plans.",,Priya Sharma,,,,yesterday,change of plans,
+CANCEL_PAYMENT,Stop the queued payment to Global Traders Ltd from savings account.,,Global Traders Ltd,,,savings account,,,queued
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 2,000 USD.",payment ID 4456,,"2,000",USD,,,,
+CANCEL_PAYMENT,"Cancel the payment of 500 EUR to ABC Suppliers Pvt Ltd, reason: wrong amount.",,ABC Suppliers Pvt Ltd,500,EUR,,,wrong amount,
+CANCEL_PAYMENT,Remove the pending transfer to Emily Davis.,,Emily Davis,,,,,,pending
+CANCEL_PAYMENT,"Cancel the payment of 750 USD to the landlord, reason: wrong beneficiary.",,the landlord,750,USD,,,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 50000 EUR.",invoice INV-778,,50000,EUR,,,,
+CANCEL_PAYMENT,"Withdraw the queued payment of 10,000.50 EUR.",,,"10,000.50",EUR,,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 2,000 USD to Global Traders Ltd, reason: duplicate entry.",,Global Traders Ltd,"2,000",USD,,,duplicate entry,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 2,000 EUR.",invoice INV-778,,"2,000",EUR,,,,
+CANCEL_PAYMENT,Withdraw the queued payment of 50000 EUR.,,,50000,EUR,,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 750 EUR to Global Traders Ltd, reason: wrong beneficiary.",,Global Traders Ltd,750,EUR,,,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 50000 rupees.",TXN99231,,50000,rupees,,,,
+CANCEL_PAYMENT,Stop the scheduled payment to Emily Davis from account ending 3359.,,Emily Davis,,,account ending 3359,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 750 USD to Emily Davis, reason: change of plans.",,Emily Davis,750,USD,,,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 750 rupees to John Mathews, reason: change of plans.",,John Mathews,750,rupees,,,change of plans,
+CANCEL_PAYMENT,Stop the scheduled payment to Emily Davis from current account.,,Emily Davis,,,current account,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 750 USD to the landlord, reason: change of plans.",,the landlord,750,USD,,,change of plans,
+CANCEL_PAYMENT,Withdraw the pending payment of 50000 USD.,,,50000,USD,,,,pending
+CANCEL_PAYMENT,"Cancel the payment of 50000 EUR to John Mathews, reason: duplicate entry.",,John Mathews,50000,EUR,,,duplicate entry,
+CANCEL_PAYMENT,Withdraw the queued payment of 750 EUR.,,,750,EUR,,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 500 rupees to John Mathews, reason: cancelled order.",,John Mathews,500,rupees,,,cancelled order,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to John Mathews, reason wrong amount.",,John Mathews,,,,tomorrow,wrong amount,
+CANCEL_PAYMENT,Stop the awaiting approval payment to John Mathews from current account.,,John Mathews,,,current account,,,awaiting approval
+CANCEL_PAYMENT,Remove the awaiting approval transfer to ABC Suppliers Pvt Ltd.,,ABC Suppliers Pvt Ltd,,,,,,awaiting approval
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Priya Sharma, reason wrong amount.",,Priya Sharma,,,,on 15th July,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 750 USD to Priya Sharma, reason: wrong beneficiary.",,Priya Sharma,750,USD,,,wrong beneficiary,
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 750 EUR.,,,750,EUR,,,,awaiting approval
+CANCEL_PAYMENT,"Withdraw the scheduled payment of 10,000.50 GBP.",,,"10,000.50",GBP,,,,scheduled
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to ABC Suppliers Pvt Ltd, reason cancelled order.",,ABC Suppliers Pvt Ltd,,,,tomorrow,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 750 USD to John Mathews, reason: change of plans.",,John Mathews,750,USD,,,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 500 rupees to Global Traders Ltd, reason: wrong beneficiary.",,Global Traders Ltd,500,rupees,,,wrong beneficiary,
+CANCEL_PAYMENT,"Withdraw the awaiting approval payment of 10,000.50 GBP.",,,"10,000.50",GBP,,,,awaiting approval
+CANCEL_PAYMENT,Stop the queued payment to ABC Suppliers Pvt Ltd from account ending 3359.,,ABC Suppliers Pvt Ltd,,,account ending 3359,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 EUR to Priya Sharma, reason: cancelled order.",,Priya Sharma,"10,000.50",EUR,,,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 2,000 rupees to John Mathews, reason: duplicate entry.",,John Mathews,"2,000",rupees,,,duplicate entry,
+CANCEL_PAYMENT,Stop the queued payment to John Mathews from account ending 3359.,,John Mathews,,,account ending 3359,,,queued
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 2,000 INR.",TXN99231,,"2,000",INR,,,,
+CANCEL_PAYMENT,"Cancel the payment of 25000 GBP to the landlord, reason: duplicate entry.",,the landlord,25000,GBP,,,duplicate entry,
+CANCEL_PAYMENT,"Withdraw the processing payment of 10,000.50 USD.",,,"10,000.50",USD,,,,processing
+CANCEL_PAYMENT,Remove the queued transfer to ABC Suppliers Pvt Ltd.,,ABC Suppliers Pvt Ltd,,,,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 750 rupees to Global Traders Ltd, reason: change of plans.",,Global Traders Ltd,750,rupees,,,change of plans,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to John Mathews, reason duplicate entry.",,John Mathews,,,,tomorrow,duplicate entry,
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 500 rupees.,,,500,rupees,,,,awaiting approval
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 10,000.50 USD.",payment ID 4456,,"10,000.50",USD,,,,
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 50000 EUR.",TXN99231,,50000,EUR,,,,
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 25000 USD.,,,25000,USD,,,,awaiting approval
+CANCEL_PAYMENT,Stop the pending payment to ABC Suppliers Pvt Ltd from current account.,,ABC Suppliers Pvt Ltd,,,current account,,,pending
+CANCEL_PAYMENT,Stop the pending payment to Global Traders Ltd from current account.,,Global Traders Ltd,,,current account,,,pending
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 50000 GBP.",invoice INV-778,,50000,GBP,,,,
+CANCEL_PAYMENT,Stop the pending payment to Priya Sharma from savings account.,,Priya Sharma,,,savings account,,,pending
+CANCEL_PAYMENT,"Stop payment invoice INV-778, it's still processing.",invoice INV-778,,,,,,,processing
+CANCEL_PAYMENT,Remove the awaiting approval transfer to Priya Sharma.,,Priya Sharma,,,,,,awaiting approval
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Global Traders Ltd, reason duplicate entry.",,Global Traders Ltd,,,,yesterday,duplicate entry,
+CANCEL_PAYMENT,"Cancel the payment of 50000 INR to John Mathews, reason: wrong amount.",,John Mathews,50000,INR,,,wrong amount,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 25000 GBP.",payment ID 4456,,25000,GBP,,,,
+CANCEL_PAYMENT,"Withdraw the processing payment of 10,000.50 EUR.",,,"10,000.50",EUR,,,,processing
+CANCEL_PAYMENT,Withdraw the scheduled payment of 500 rupees.,,,500,rupees,,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 2,000 rupees.",TXN99231,,"2,000",rupees,,,,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to John Mathews, reason wrong amount.",,John Mathews,,,,on 15th July,wrong amount,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to ABC Suppliers Pvt Ltd, reason cancelled order.",,ABC Suppliers Pvt Ltd,,,,next Monday,cancelled order,
+CANCEL_PAYMENT,Stop the processing payment to Emily Davis from account ending 3359.,,Emily Davis,,,account ending 3359,,,processing
+CANCEL_PAYMENT,Stop the pending payment to ABC Suppliers Pvt Ltd from savings account.,,ABC Suppliers Pvt Ltd,,,savings account,,,pending
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to the landlord, reason cancelled order.",,the landlord,,,,tomorrow,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 500 INR to Priya Sharma, reason: wrong amount.",,Priya Sharma,500,INR,,,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 25000 GBP to Emily Davis, reason: wrong beneficiary.",,Emily Davis,25000,GBP,,,wrong beneficiary,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Priya Sharma, reason wrong amount.",,Priya Sharma,,,,next Monday,wrong amount,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to Priya Sharma, reason cancelled order.",,Priya Sharma,,,,tomorrow,cancelled order,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 750 GBP.",payment ID 4456,,750,GBP,,,,
+CANCEL_PAYMENT,Stop the pending payment to ABC Suppliers Pvt Ltd from account ending 3359.,,ABC Suppliers Pvt Ltd,,,account ending 3359,,,pending
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 750 GBP.,,,750,GBP,,,,awaiting approval
+CANCEL_PAYMENT,Stop the queued payment to Emily Davis from current account.,,Emily Davis,,,current account,,,queued
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 50000 GBP.",instruction ID 8821,,50000,GBP,,,,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to the landlord, reason cancelled order.",,the landlord,,,,on 15th July,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 500 USD to Global Traders Ltd, reason: wrong beneficiary.",,Global Traders Ltd,500,USD,,,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 USD to Emily Davis, reason: duplicate entry.",,Emily Davis,"10,000.50",USD,,,duplicate entry,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Priya Sharma, reason change of plans.",,Priya Sharma,,,,next Monday,change of plans,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Emily Davis, reason wrong beneficiary.",,Emily Davis,,,,next Monday,wrong beneficiary,
+CANCEL_PAYMENT,Stop the scheduled payment to Global Traders Ltd from savings account.,,Global Traders Ltd,,,savings account,,,scheduled
+CANCEL_PAYMENT,Stop the awaiting approval payment to Emily Davis from current account.,,Emily Davis,,,current account,,,awaiting approval
+CANCEL_PAYMENT,"Cancel the payment of 2,000 EUR to the landlord, reason: duplicate entry.",,the landlord,"2,000",EUR,,,duplicate entry,
+CANCEL_PAYMENT,"Cancel the payment of 2,000 rupees to Global Traders Ltd, reason: wrong beneficiary.",,Global Traders Ltd,"2,000",rupees,,,wrong beneficiary,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 500 EUR.,,,500,EUR,,,,scheduled
+CANCEL_PAYMENT,"Revoke the payment made yesterday to the landlord, reason change of plans.",,the landlord,,,,yesterday,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 50000 rupees to John Mathews, reason: wrong beneficiary.",,John Mathews,50000,rupees,,,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 INR to Global Traders Ltd, reason: wrong amount.",,Global Traders Ltd,"10,000.50",INR,,,wrong amount,
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 500 GBP.,,,500,GBP,,,,awaiting approval
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 750 USD.",instruction ID 8821,,750,USD,,,,
+CANCEL_PAYMENT,"Cancel the payment of 25000 USD to Global Traders Ltd, reason: wrong amount.",,Global Traders Ltd,25000,USD,,,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 750 GBP to Priya Sharma, reason: wrong beneficiary.",,Priya Sharma,750,GBP,,,wrong beneficiary,
+CANCEL_PAYMENT,Stop the queued payment to Emily Davis from savings account.,,Emily Davis,,,savings account,,,queued
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 50000 rupees.,,,50000,rupees,,,,awaiting approval
+CANCEL_PAYMENT,"Cancel the payment of 500 EUR to Global Traders Ltd, reason: wrong amount.",,Global Traders Ltd,500,EUR,,,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 750 rupees to Global Traders Ltd, reason: wrong beneficiary.",,Global Traders Ltd,750,rupees,,,wrong beneficiary,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to the landlord, reason wrong beneficiary.",,the landlord,,,,next Monday,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 500 rupees.",instruction ID 8821,,500,rupees,,,,
+CANCEL_PAYMENT,"Withdraw the processing payment of 10,000.50 rupees.",,,"10,000.50",rupees,,,,processing
+CANCEL_PAYMENT,"Withdraw the pending payment of 2,000 EUR.",,,"2,000",EUR,,,,pending
+CANCEL_PAYMENT,"Cancel the payment of 500 rupees to Global Traders Ltd, reason: cancelled order.",,Global Traders Ltd,500,rupees,,,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 25000 USD to Emily Davis, reason: duplicate entry.",,Emily Davis,25000,USD,,,duplicate entry,
+CANCEL_PAYMENT,"Withdraw the processing payment of 2,000 EUR.",,,"2,000",EUR,,,,processing
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Emily Davis, reason wrong beneficiary.",,Emily Davis,,,,yesterday,wrong beneficiary,
+CANCEL_PAYMENT,Withdraw the processing payment of 50000 USD.,,,50000,USD,,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 USD to John Mathews, reason: change of plans.",,John Mathews,"10,000.50",USD,,,change of plans,
+CANCEL_PAYMENT,Stop the scheduled payment to the landlord from current account.,,the landlord,,,current account,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 500 GBP.",payment ID 4456,,500,GBP,,,,
+CANCEL_PAYMENT,Stop the queued payment to the landlord from savings account.,,the landlord,,,savings account,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 50000 USD to Priya Sharma, reason: change of plans.",,Priya Sharma,50000,USD,,,change of plans,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to John Mathews, reason cancelled order.",,John Mathews,,,,next Monday,cancelled order,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Priya Sharma, reason duplicate entry.",,Priya Sharma,,,,next Monday,duplicate entry,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Priya Sharma, reason cancelled order.",,Priya Sharma,,,,on 15th July,cancelled order,
+CANCEL_PAYMENT,Withdraw the queued payment of 25000 EUR.,,,25000,EUR,,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 50000 USD to John Mathews, reason: wrong beneficiary.",,John Mathews,50000,USD,,,wrong beneficiary,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 750 EUR.,,,750,EUR,,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 500 USD to Priya Sharma, reason: cancelled order.",,Priya Sharma,500,USD,,,cancelled order,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 2,000 GBP.",invoice INV-778,,"2,000",GBP,,,,
+CANCEL_PAYMENT,"Withdraw the pending payment of 10,000.50 USD.",,,"10,000.50",USD,,,,pending
+CANCEL_PAYMENT,Withdraw the processing payment of 25000 GBP.,,,25000,GBP,,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 rupees to Priya Sharma, reason: wrong beneficiary.",,Priya Sharma,"10,000.50",rupees,,,wrong beneficiary,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Global Traders Ltd, reason duplicate entry.",,Global Traders Ltd,,,,next Monday,duplicate entry,
+CANCEL_PAYMENT,Stop the pending payment to Emily Davis from account ending 3359.,,Emily Davis,,,account ending 3359,,,pending
+CANCEL_PAYMENT,Withdraw the processing payment of 50000 INR.,,,50000,INR,,,,processing
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Global Traders Ltd, reason wrong beneficiary.",,Global Traders Ltd,,,,on 15th July,wrong beneficiary,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to ABC Suppliers Pvt Ltd, reason wrong beneficiary.",,ABC Suppliers Pvt Ltd,,,,tomorrow,wrong beneficiary,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Emily Davis, reason cancelled order.",,Emily Davis,,,,yesterday,cancelled order,
+CANCEL_PAYMENT,"Cancel payment reference instruction ID 8821, amount 750 EUR.",instruction ID 8821,,750,EUR,,,,
+CANCEL_PAYMENT,"Cancel the payment of 25000 INR to ABC Suppliers Pvt Ltd, reason: change of plans.",,ABC Suppliers Pvt Ltd,25000,INR,,,change of plans,
+CANCEL_PAYMENT,"Revoke the payment made on 15th July to Priya Sharma, reason change of plans.",,Priya Sharma,,,,on 15th July,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 50000 USD to Emily Davis, reason: cancelled order.",,Emily Davis,50000,USD,,,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 25000 EUR to Emily Davis, reason: wrong amount.",,Emily Davis,25000,EUR,,,wrong amount,
+CANCEL_PAYMENT,Stop the processing payment to Emily Davis from savings account.,,Emily Davis,,,savings account,,,processing
+CANCEL_PAYMENT,Stop the awaiting approval payment to Global Traders Ltd from account ending 3359.,,Global Traders Ltd,,,account ending 3359,,,awaiting approval
+CANCEL_PAYMENT,Stop the scheduled payment to Global Traders Ltd from current account.,,Global Traders Ltd,,,current account,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 USD to the landlord, reason: duplicate entry.",,the landlord,"10,000.50",USD,,,duplicate entry,
+CANCEL_PAYMENT,"Revoke the payment made tomorrow to Emily Davis, reason cancelled order.",,Emily Davis,,,,tomorrow,cancelled order,
+CANCEL_PAYMENT,"Revoke the payment made yesterday to ABC Suppliers Pvt Ltd, reason cancelled order.",,ABC Suppliers Pvt Ltd,,,,yesterday,cancelled order,
+CANCEL_PAYMENT,"Withdraw the pending payment of 2,000 INR.",,,"2,000",INR,,,,pending
+CANCEL_PAYMENT,"Cancel the payment of 2,000 EUR to Global Traders Ltd, reason: duplicate entry.",,Global Traders Ltd,"2,000",EUR,,,duplicate entry,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 10,000.50 rupees.",payment ID 4456,,"10,000.50",rupees,,,,
+CANCEL_PAYMENT,Withdraw the pending payment of 50000 rupees.,,,50000,rupees,,,,pending
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 25000 USD.",TXN99231,,25000,USD,,,,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 25000 INR.,,,25000,INR,,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 500 EUR.",TXN99231,,500,EUR,,,,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 USD to ABC Suppliers Pvt Ltd, reason: cancelled order.",,ABC Suppliers Pvt Ltd,"10,000.50",USD,,,cancelled order,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 25000 USD.",payment ID 4456,,25000,USD,,,,
+CANCEL_PAYMENT,"Cancel the payment of 25000 INR to Emily Davis, reason: duplicate entry.",,Emily Davis,25000,INR,,,duplicate entry,
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 50000 GBP.",TXN99231,,50000,GBP,,,,
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 EUR to ABC Suppliers Pvt Ltd, reason: change of plans.",,ABC Suppliers Pvt Ltd,"10,000.50",EUR,,,change of plans,
+CANCEL_PAYMENT,"Withdraw the processing payment of 2,000 USD.",,,"2,000",USD,,,,processing
+CANCEL_PAYMENT,Stop the processing payment to the landlord from savings account.,,the landlord,,,savings account,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 25000 EUR to the landlord, reason: duplicate entry.",,the landlord,25000,EUR,,,duplicate entry,
+CANCEL_PAYMENT,Stop the pending payment to Global Traders Ltd from savings account.,,Global Traders Ltd,,,savings account,,,pending
+CANCEL_PAYMENT,"Withdraw the scheduled payment of 10,000.50 USD.",,,"10,000.50",USD,,,,scheduled
+CANCEL_PAYMENT,"Cancel payment reference TXN99231, amount 50000 INR.",TXN99231,,50000,INR,,,,
+CANCEL_PAYMENT,Withdraw the pending payment of 750 USD.,,,750,USD,,,,pending
+CANCEL_PAYMENT,"Cancel the payment of 750 EUR to the landlord, reason: wrong beneficiary.",,the landlord,750,EUR,,,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel the payment of 2,000 INR to ABC Suppliers Pvt Ltd, reason: duplicate entry.",,ABC Suppliers Pvt Ltd,"2,000",INR,,,duplicate entry,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 500 INR.,,,500,INR,,,,scheduled
+CANCEL_PAYMENT,Withdraw the scheduled payment of 500 USD.,,,500,USD,,,,scheduled
+CANCEL_PAYMENT,"Revoke the payment made yesterday to John Mathews, reason change of plans.",,John Mathews,,,,yesterday,change of plans,
+CANCEL_PAYMENT,"Cancel the payment of 2,000 GBP to Priya Sharma, reason: cancelled order.",,Priya Sharma,"2,000",GBP,,,cancelled order,
+CANCEL_PAYMENT,Stop the scheduled payment to ABC Suppliers Pvt Ltd from account ending 3359.,,ABC Suppliers Pvt Ltd,,,account ending 3359,,,scheduled
+CANCEL_PAYMENT,Stop the awaiting approval payment to John Mathews from account ending 3359.,,John Mathews,,,account ending 3359,,,awaiting approval
+CANCEL_PAYMENT,Stop the processing payment to Global Traders Ltd from savings account.,,Global Traders Ltd,,,savings account,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 750 INR to ABC Suppliers Pvt Ltd, reason: wrong beneficiary.",,ABC Suppliers Pvt Ltd,750,INR,,,wrong beneficiary,
+CANCEL_PAYMENT,Withdraw the scheduled payment of 25000 EUR.,,,25000,EUR,,,,scheduled
+CANCEL_PAYMENT,"Revoke the payment made yesterday to Emily Davis, reason duplicate entry.",,Emily Davis,,,,yesterday,duplicate entry,
+CANCEL_PAYMENT,Withdraw the queued payment of 500 GBP.,,,500,GBP,,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 50000 USD to Emily Davis, reason: wrong amount.",,Emily Davis,50000,USD,,,wrong amount,
+CANCEL_PAYMENT,Stop the scheduled payment to John Mathews from savings account.,,John Mathews,,,savings account,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 INR to Emily Davis, reason: cancelled order.",,Emily Davis,"10,000.50",INR,,,cancelled order,
+CANCEL_PAYMENT,"Cancel the payment of 750 USD to Priya Sharma, reason: wrong amount.",,Priya Sharma,750,USD,,,wrong amount,
+CANCEL_PAYMENT,"Cancel payment reference payment ID 4456, amount 500 INR.",payment ID 4456,,500,INR,,,,
+CANCEL_PAYMENT,"Cancel the payment of 750 rupees to Priya Sharma, reason: wrong amount.",,Priya Sharma,750,rupees,,,wrong amount,
+CANCEL_PAYMENT,"Cancel the payment of 25000 USD to Emily Davis, reason: cancelled order.",,Emily Davis,25000,USD,,,cancelled order,
+CANCEL_PAYMENT,Withdraw the queued payment of 50000 INR.,,,50000,INR,,,,queued
+CANCEL_PAYMENT,"Cancel the payment of 750 INR to Emily Davis, reason: cancelled order.",,Emily Davis,750,INR,,,cancelled order,
+CANCEL_PAYMENT,Stop the queued payment to Priya Sharma from account ending 3359.,,Priya Sharma,,,account ending 3359,,,queued
+CANCEL_PAYMENT,"Revoke the payment made next Monday to the landlord, reason change of plans.",,the landlord,,,,next Monday,change of plans,
+CANCEL_PAYMENT,Withdraw the queued payment of 750 USD.,,,750,USD,,,,queued
+CANCEL_PAYMENT,"Withdraw the scheduled payment of 2,000 GBP.",,,"2,000",GBP,,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 50000 INR to Priya Sharma, reason: duplicate entry.",,Priya Sharma,50000,INR,,,duplicate entry,
+CANCEL_PAYMENT,"Cancel the payment of 500 USD to the landlord, reason: wrong beneficiary.",,the landlord,500,USD,,,wrong beneficiary,
+CANCEL_PAYMENT,"Cancel the payment of 750 rupees to the landlord, reason: wrong amount.",,the landlord,750,rupees,,,wrong amount,
+CANCEL_PAYMENT,Remove the scheduled transfer to the landlord.,,the landlord,,,,,,scheduled
+CANCEL_PAYMENT,"Cancel the payment of 750 GBP to Global Traders Ltd, reason: cancelled order.",,Global Traders Ltd,750,GBP,,,cancelled order,
+CANCEL_PAYMENT,Withdraw the processing payment of 750 INR.,,,750,INR,,,,processing
+CANCEL_PAYMENT,"Cancel the payment of 2,000 USD to the landlord, reason: wrong beneficiary.",,the landlord,"2,000",USD,,,wrong beneficiary,
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 500 USD.,,,500,USD,,,,awaiting approval
+CANCEL_PAYMENT,Withdraw the awaiting approval payment of 50000 EUR.,,,50000,EUR,,,,awaiting approval
+CANCEL_PAYMENT,"Cancel the payment of 10,000.50 GBP to Emily Davis, reason: duplicate entry.",,Emily Davis,"10,000.50",GBP,,,duplicate entry,
+CANCEL_PAYMENT,"Cancel payment reference invoice INV-778, amount 2,000 INR.",invoice INV-778,,"2,000",INR,,,,
+CANCEL_PAYMENT,"Revoke the payment made next Monday to Global Traders Ltd, reason change of plans.",,Global Traders Ltd,,,,next Monday,change of plans,
+CANCEL_PAYMENT,Withdraw the queued payment of 750 rupees.,,,750,rupees,,,,queued
