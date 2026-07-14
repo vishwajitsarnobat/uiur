@@ -1,0 +1,501 @@
+intent_code,text,amount,currency,beneficiary,account,method,time,reference,purpose
+NEW_PAYMENT,"i'd like to make a payment to fatima khan for 1,200 euros","1,200",euros,fatima khan,,,,,
+NEW_PAYMENT,can we push 500 bucks to green energy pvt ltd now,500,bucks,green energy pvt ltd,,,,,
+NEW_PAYMENT,"carlos rivera — just over 8000 USD, send whenever you can",just over 8000,USD,carlos rivera,,,,,
+NEW_PAYMENT,i need a NEFT out to fatima khan for about 50k INR this evening,about 50k,INR,fatima khan,,NEFT,this evening,,
+NEW_PAYMENT,"process reference number REF3321 through SWIFT, 5k EUR to tom baker",5k,EUR,tom baker,,SWIFT,,reference number REF3321,
+NEW_PAYMENT,put through a payment of 3.2k INR to priya sharma,3.2k,INR,priya sharma,,,,,
+NEW_PAYMENT,set up an ACH from my current account to meridian software labs for 45k USD,45k,USD,meridian software labs,my current account,ACH,,,
+NEW_PAYMENT,"anita desai is expecting 5k USD today, can you send it",5k,USD,anita desai,,,today,,
+NEW_PAYMENT,"use the corporate account to pay evergreen foods 1,200 bucks","1,200",bucks,evergreen foods,the corporate account,,,,
+NEW_PAYMENT,"pay out 1.5 million dollars to sara ahmed, tag it the march invoice",1.5 million,dollars,sara ahmed,,,,the march invoice,
+NEW_PAYMENT,schedule online transfer to the cleaning vendor before the deadline for 300 bucks,300,bucks,the cleaning vendor,,online transfer,before the deadline,,
+NEW_PAYMENT,send 2500 INR over to the freelancer,2500,INR,the freelancer,,,,,
+NEW_PAYMENT,"i need a SWIFT out to our new hire for 62,000 USD at 3pm","62,000",USD,our new hire,,SWIFT,at 3pm,,
+NEW_PAYMENT,"settle the legal fees - 150,000 pounds to the freelancer","150,000",pounds,the freelancer,,,,,legal fees
+NEW_PAYMENT,schedule RTGS to omar farouk before the weekend for just over 8000 INR,just over 8000,INR,omar farouk,,RTGS,before the weekend,,
+NEW_PAYMENT,just send tech solutions inc 100k rupees already,100k,rupees,tech solutions inc,,,,,
+NEW_PAYMENT,cover grand hotel's refund with about 50k EUR,about 50k,EUR,grand hotel,,,,,refund
+NEW_PAYMENT,schedule RTGS to the caterer before the weekend for 5k dollars,5k,dollars,the caterer,,RTGS,before the weekend,,
+NEW_PAYMENT,"quick payment - 1,200 USD for riverside pharmacy","1,200",USD,riverside pharmacy,,,,,
+NEW_PAYMENT,"initiate online transfer to meridian software labs for 320000 rupees, ref quote Q-8834",320000,rupees,meridian software labs,,online transfer,,quote Q-8834,
+NEW_PAYMENT,go ahead and wire 2.5 lakh bucks to raj patel,2.5 lakh,bucks,raj patel,,,,,
+NEW_PAYMENT,pay omar farouk 7.8k USD from my usd account for reimbursement,7.8k,USD,omar farouk,my usd account,,,,reimbursement
+NEW_PAYMENT,"michael chen is expecting 75000 bucks tomorrow morning, can you send it",75000,bucks,michael chen,,,tomorrow morning,,
+NEW_PAYMENT,"omar farouk — 300 INR, send whenever you can",300,INR,omar farouk,,,,,
+NEW_PAYMENT,schedule NEFT to omar farouk tonight for 500 INR,500,INR,omar farouk,,NEFT,tonight,,
+NEW_PAYMENT,"i owe the caterer 45k INR for refund, go ahead and send it",45k,INR,the caterer,,,,,refund
+NEW_PAYMENT,can we push 250k bucks to our new hire now,250k,bucks,our new hire,,,,,
+NEW_PAYMENT,"from my usd account, send around 20000 quid to the freelancer via online transfer",around 20000,quid,the freelancer,my usd account,online transfer,,,
+NEW_PAYMENT,"anita desai needs the security deposit sorted before the weekend, send 45k GBP",45k,GBP,anita desai,,,before the weekend,,security deposit
+NEW_PAYMENT,i need to get 500 bucks across to bluewave logistics,500,bucks,bluewave logistics,,,,,
+NEW_PAYMENT,schedule internal transfer to david miller first thing tomorrow for around 20000 USD,around 20000,USD,david miller,,internal transfer,first thing tomorrow,,
+NEW_PAYMENT,pls pay my landlord about 50k euros asap,about 50k,euros,my landlord,,,,,
+NEW_PAYMENT,"can u send my landlord 1,200 USD","1,200",USD,my landlord,,,,,
+NEW_PAYMENT,"from my primary account, send 45k INR to the marketing agency via IMPS",45k,INR,the marketing agency,my primary account,IMPS,,,
+NEW_PAYMENT,"green energy pvt ltd's catering bill is due sometime this week, send 150,000 dollars","150,000",dollars,green energy pvt ltd,,,sometime this week,,catering bill
+NEW_PAYMENT,"my cousin sent an invoice for overdue invoice, pay just over 8000 dollars",just over 8000,dollars,my cousin,,,,,overdue invoice
+NEW_PAYMENT,"i need a ACH out to james lee for 15,000 bucks on 1st august","15,000",bucks,james lee,,ACH,on 1st august,,
+NEW_PAYMENT,"debit my business checking account and send 62,000 dollars to the contractor","62,000",dollars,the contractor,my business checking account,,,,
+NEW_PAYMENT,"from the account ending 4521, send 10000 quid to daniel cohen via RTGS",10000,quid,daniel cohen,the account ending 4521,RTGS,,,
+NEW_PAYMENT,go ahead and wire 250k euros to the contractor,250k,euros,the contractor,,,,,
+NEW_PAYMENT,transfer 2500 EUR to the plumber right now,2500,EUR,the plumber,,,,,
+NEW_PAYMENT,"RTGS 25,000 EUR over to stellar consulting","25,000",EUR,stellar consulting,,RTGS,,,
+NEW_PAYMENT,"pay riverside pharmacy 150,000 dollars from my business checking account for office supplies","150,000",dollars,riverside pharmacy,my business checking account,,,,office supplies
+NEW_PAYMENT,"settle PO number 4471 with laura kim tomorrow morning, about 50k pounds",about 50k,pounds,laura kim,,,tomorrow morning,PO number 4471,
+NEW_PAYMENT,"pay my landlord 150,000 dollars","150,000",dollars,my landlord,,,,,
+NEW_PAYMENT,"pay fatima khan for security deposit, about 50k pounds, ref quote Q-8834",about 50k,pounds,fatima khan,,,,quote Q-8834,security deposit
+NEW_PAYMENT,go ahead and wire just over 8000 euros to the electrician,just over 8000,euros,the electrician,,,,,
+NEW_PAYMENT,set up an SWIFT from my current account to priya sharma for 300 USD,300,USD,priya sharma,my current account,SWIFT,,,
+NEW_PAYMENT,"settle contract ref C-9081 with anita desai first thing tomorrow, 3.2k EUR",3.2k,EUR,anita desai,,,first thing tomorrow,contract ref C-9081,
+NEW_PAYMENT,i'd like to make a payment to apex industries for 45k rupees,45k,rupees,apex industries,,,,,
+NEW_PAYMENT,authorize 7.8k INR for crescent traders,7.8k,INR,crescent traders,,,,,
+NEW_PAYMENT,make a payment,,,,,,,,
+NEW_PAYMENT,bank transfer 2500 GBP over to my brother,2500,GBP,my brother,,bank transfer,,,
+NEW_PAYMENT,can you NEFT 32000 USD to the plumber,32000,USD,the plumber,,NEFT,,,
+NEW_PAYMENT,"harbor freight co sent an invoice for electricity bill, pay 2500 INR",2500,INR,harbor freight co,,,,,electricity bill
+NEW_PAYMENT,apex industries needs 10000 quid sent over,10000,quid,apex industries,,,,,
+NEW_PAYMENT,go ahead and wire 75000 INR to nova retail group,75000,INR,nova retail group,,,,,
+NEW_PAYMENT,"sara ahmed sent an invoice for contractor payment, pay about 50k USD",about 50k,USD,sara ahmed,,,,,contractor payment
+NEW_PAYMENT,"pls pay priya sharma 150,000 dollars asap","150,000",dollars,priya sharma,,,,,
+NEW_PAYMENT,"i need a RTGS out to the printing shop for 1,200 bucks at 3pm","1,200",bucks,the printing shop,,RTGS,at 3pm,,
+NEW_PAYMENT,authorize 100k bucks for evergreen foods,100k,bucks,evergreen foods,,,,,
+NEW_PAYMENT,do a ACH of 7.8k bucks to the marketing agency,7.8k,bucks,the marketing agency,,ACH,,,
+NEW_PAYMENT,"summit legal partners — 250k dollars, send whenever you can",250k,dollars,summit legal partners,,,,,
+NEW_PAYMENT,"settle invoice number 7781 with bluewave logistics this evening, 300 euros",300,euros,bluewave logistics,,,this evening,invoice number 7781,
+NEW_PAYMENT,"pay my accountant 25,000 quid","25,000",quid,my accountant,,,,,
+NEW_PAYMENT,"set up an bank transfer from my primary account to the freelancer for 150,000 pounds","150,000",pounds,the freelancer,my primary account,bank transfer,,,
+NEW_PAYMENT,"go ahead and pay contract ref C-9081, 20 grand EUR to david miller",20 grand,EUR,david miller,,,,contract ref C-9081,
+NEW_PAYMENT,"the babysitter — 5k pounds, send whenever you can",5k,pounds,the babysitter,,,,,
+NEW_PAYMENT,authorize 500 dollars for our lawyer,500,dollars,our lawyer,,,,,
+NEW_PAYMENT,can u send the auditor 320000 dollars,320000,dollars,the auditor,,,,,
+NEW_PAYMENT,don't forget crescent traders's payment before the weekend — 999 pounds,999,pounds,crescent traders,,,before the weekend,,
+NEW_PAYMENT,"my sister's invoice payment is due on the 5th, send 18k USD",18k,USD,my sister,,,on the 5th,,invoice payment
+NEW_PAYMENT,debit my business checking account and send 20 grand quid to my accountant,20 grand,quid,my accountant,my business checking account,,,,
+NEW_PAYMENT,"1,200 pounds to the auditor, please","1,200",pounds,the auditor,,,,,
+NEW_PAYMENT,"the courier company needs the monthly dues sorted at 3pm, send 45k bucks",45k,bucks,the courier company,,,at 3pm,,monthly dues
+NEW_PAYMENT,"process the march invoice through SEPA, 10000 USD to james lee",10000,USD,james lee,,SEPA,,the march invoice,
+NEW_PAYMENT,SWIFT around 20000 euros over to my landlord,around 20000,euros,my landlord,,SWIFT,,,
+NEW_PAYMENT,"initiate internal transfer to the auditor for 7.8k quid, ref invoice INV-2291",7.8k,quid,the auditor,,internal transfer,,invoice INV-2291,
+NEW_PAYMENT,i need to get 10000 dollars across to mei zhang,10000,dollars,mei zhang,,,,,
+NEW_PAYMENT,"go ahead and pay PO number 4471, 500 USD to aisha rahman",500,USD,aisha rahman,,,,PO number 4471,
+NEW_PAYMENT,"can u send the babysitter 25,000 GBP","25,000",GBP,the babysitter,,,,,
+NEW_PAYMENT,can we push 999 dollars to apex industries now,999,dollars,apex industries,,,,,
+NEW_PAYMENT,NEFT 300 quid over to emma watson,300,quid,emma watson,,NEFT,,,
+NEW_PAYMENT,set up an NEFT from my primary account to summit legal partners for just over 8000 pounds,just over 8000,pounds,summit legal partners,my primary account,NEFT,,,
+NEW_PAYMENT,can you get 45k EUR to the cleaning vendor tonight?,45k,EUR,the cleaning vendor,,,tonight,,
+NEW_PAYMENT,"set up an online transfer from account number 003321 to emma watson for 15,000 INR","15,000",INR,emma watson,account number 003321,online transfer,,,
+NEW_PAYMENT,pay my landlord 7.8k bucks from my business checking account for consulting fees,7.8k,bucks,my landlord,my business checking account,,,,consulting fees
+NEW_PAYMENT,move 20 grand GBP out of the corporate account to stellar consulting at 3pm,20 grand,GBP,stellar consulting,the corporate account,,at 3pm,,
+NEW_PAYMENT,authorize 2500 GBP for the plumber,2500,GBP,the plumber,,,,,
+NEW_PAYMENT,"go ahead and pay the service agreement number, 7.8k dollars to fatima khan",7.8k,dollars,fatima khan,,,,the service agreement number,
+NEW_PAYMENT,oceanic exports needs 250k rupees sent over,250k,rupees,oceanic exports,,,,,
+NEW_PAYMENT,clear quote Q-8834 — pay the plumber 300 pounds,300,pounds,the plumber,,,,quote Q-8834,
+NEW_PAYMENT,do a SEPA of 1.5 million pounds to natalie brown,1.5 million,pounds,natalie brown,,SEPA,,,
+NEW_PAYMENT,debit the corporate account and send half a million GBP to our lawyer,half a million,GBP,our lawyer,the corporate account,,,,
+NEW_PAYMENT,pay ironclad security services 18k quid from account number 003321 for legal fees,18k,quid,ironclad security services,account number 003321,,,,legal fees
+NEW_PAYMENT,transfer 75000 EUR to maple leaf catering right now,75000,EUR,maple leaf catering,,,,,
+NEW_PAYMENT,can u send raj patel 500 EUR,500,EUR,raj patel,,,,,
+NEW_PAYMENT,pay oceanic exports 18k bucks from my business checking account for overdue invoice,18k,bucks,oceanic exports,my business checking account,,,,overdue invoice
+NEW_PAYMENT,i need a bank transfer out to peter novak for 999 rupees sometime this week,999,rupees,peter novak,,bank transfer,sometime this week,,
+NEW_PAYMENT,pls pay logistics partner around 20000 quid asap,around 20000,quid,logistics partner,,,,,
+NEW_PAYMENT,"settle invoice INV-2291 with david miller before the weekend, 20 grand pounds",20 grand,pounds,david miller,,,before the weekend,invoice INV-2291,
+NEW_PAYMENT,take around 20000 pounds from my business checking account and send to the auditor,around 20000,pounds,the auditor,my business checking account,,,,
+NEW_PAYMENT,send 250k quid over to grand hotel,250k,quid,grand hotel,,,,,
+NEW_PAYMENT,authorize 1.5 million EUR for xyz corp,1.5 million,EUR,xyz corp,,,,,
+NEW_PAYMENT,use my primary account to pay stellar consulting 2500 bucks,2500,bucks,stellar consulting,my primary account,,,,
+NEW_PAYMENT,"abc metals needs the reimbursement sorted first thing tomorrow, send 90000 quid",90000,quid,abc metals,,,first thing tomorrow,,reimbursement
+NEW_PAYMENT,do a bank transfer of 45k euros to fatima khan,45k,euros,fatima khan,,bank transfer,,,
+NEW_PAYMENT,"2.5 lakh GBP to ironclad security services, please",2.5 lakh,GBP,ironclad security services,,,,,
+NEW_PAYMENT,go ahead and wire 100k dollars to summit legal partners,100k,dollars,summit legal partners,,,,,
+NEW_PAYMENT,can you get 90000 quid to raj patel before the weekend?,90000,quid,raj patel,,,before the weekend,,
+NEW_PAYMENT,i'd like to make a payment to my accountant for 300 rupees,300,rupees,my accountant,,,,,
+NEW_PAYMENT,"finally paying off john smith for the electricity bill, 250k INR",250k,INR,john smith,,,,,electricity bill
+NEW_PAYMENT,"quick payment - 25,000 USD for city hospital","25,000",USD,city hospital,,,,,
+NEW_PAYMENT,"emma watson needs 150,000 pounds sent over","150,000",pounds,emma watson,,,,,
+NEW_PAYMENT,"the freelancer needs paying on 1st august, 250k dollars",250k,dollars,the freelancer,,,on 1st august,,
+NEW_PAYMENT,"my sister needs the rent sorted by friday, send about 50k pounds",about 50k,pounds,my sister,,,by friday,,rent
+NEW_PAYMENT,pay our lawyer just over 8000 bucks,just over 8000,bucks,our lawyer,,,,,
+NEW_PAYMENT,do a SWIFT of 3.2k dollars to my landlord,3.2k,dollars,my landlord,,SWIFT,,,
+NEW_PAYMENT,schedule SEPA to james lee on 1st august for 2.5 lakh quid,2.5 lakh,quid,james lee,,SEPA,on 1st august,,
+NEW_PAYMENT,"go ahead and pay contract ref C-9081, 320000 GBP to oceanic exports",320000,GBP,oceanic exports,,,,contract ref C-9081,
+NEW_PAYMENT,remember to pay the plumber 32000 dollars on the 5th for the rent,32000,dollars,the plumber,,,on the 5th,,rent
+NEW_PAYMENT,"debit my primary account and send 1,200 euros to tech solutions inc","1,200",euros,tech solutions inc,my primary account,,,,
+NEW_PAYMENT,"gotta pay priya sharma 1,200 INR today","1,200",INR,priya sharma,,,,,
+NEW_PAYMENT,"clear invoice INV-2291 — pay oceanic exports 150,000 INR","150,000",INR,oceanic exports,,,,invoice INV-2291,
+NEW_PAYMENT,"oceanic exports's contractor payment is due first thing tomorrow, send 90000 INR",90000,INR,oceanic exports,,,first thing tomorrow,,contractor payment
+NEW_PAYMENT,"settle the march invoice with grace liu on the 5th, 10000 rupees",10000,rupees,grace liu,,,on the 5th,the march invoice,
+NEW_PAYMENT,"i owe my accountant 3.2k dollars for refund, go ahead and send it",3.2k,dollars,my accountant,,,,,refund
+NEW_PAYMENT,"meridian software labs needs the contractor payment sorted right now, send 320000 quid",320000,quid,meridian software labs,,,right now,,contractor payment
+NEW_PAYMENT,"priya sharma needs the legal fees sorted before the deadline, send half a million rupees",half a million,rupees,priya sharma,,,before the deadline,,legal fees
+NEW_PAYMENT,move 90000 dollars out of my current account to the printing shop sometime this week,90000,dollars,the printing shop,my current account,,sometime this week,,
+NEW_PAYMENT,schedule online transfer to orbit telecom first thing tomorrow for just over 8000 dollars,just over 8000,dollars,orbit telecom,,online transfer,first thing tomorrow,,
+NEW_PAYMENT,don't forget green energy pvt ltd's payment immediately — 2500 GBP,2500,GBP,green energy pvt ltd,,,immediately,,
+NEW_PAYMENT,pay evergreen foods 2.5 lakh bucks,2.5 lakh,bucks,evergreen foods,,,,,
+NEW_PAYMENT,"pay out 300 euros to the courier company, tag it ref TXN88213",300,euros,the courier company,,,,ref TXN88213,
+NEW_PAYMENT,i need to get around 20000 euros across to logistics partner,around 20000,euros,logistics partner,,,,,
+NEW_PAYMENT,i want to pay someone,,,,,,,,
+NEW_PAYMENT,send 250k EUR over to our new hire,250k,EUR,our new hire,,,,,
+NEW_PAYMENT,"my brother's invoice payment is due before EOD, send 20 grand dollars",20 grand,dollars,my brother,,,before EOD,,invoice payment
+NEW_PAYMENT,cover the cleaning vendor's freight charges with 2500 pounds,2500,pounds,the cleaning vendor,,,,,freight charges
+NEW_PAYMENT,"orbit telecom needs the overdue invoice sorted before EOD, send 1.5 million rupees",1.5 million,rupees,orbit telecom,,,before EOD,,overdue invoice
+NEW_PAYMENT,"the electrician is expecting around 20000 INR by month end, can you send it",around 20000,INR,the electrician,,,by month end,,
+NEW_PAYMENT,settle the rent - just over 8000 bucks to bluewave logistics,just over 8000,bucks,bluewave logistics,,,,,rent
+NEW_PAYMENT,"zenith freight needs 15,000 GBP sent over","15,000",GBP,zenith freight,,,,,
+NEW_PAYMENT,can we push 18k euros to natalie brown now,18k,euros,natalie brown,,,,,
+NEW_PAYMENT,"my accountant sent an invoice for overdue invoice, pay 250k USD",250k,USD,my accountant,,,,,overdue invoice
+NEW_PAYMENT,"tom baker needs paying right now, 18k bucks",18k,bucks,tom baker,,,right now,,
+NEW_PAYMENT,authorize 45k euros for the electrician,45k,euros,the electrician,,,,,
+NEW_PAYMENT,i'd like to make a payment to logistics partner for 90000 bucks,90000,bucks,logistics partner,,,,,
+NEW_PAYMENT,debit my primary account and send half a million bucks to summit legal partners,half a million,bucks,summit legal partners,my primary account,,,,
+NEW_PAYMENT,pay evergreen foods 20 grand bucks from my primary account for monthly dues,20 grand,bucks,evergreen foods,my primary account,,,,monthly dues
+NEW_PAYMENT,schedule RTGS to the printing shop tonight for 5k quid,5k,quid,the printing shop,,RTGS,tonight,,
+NEW_PAYMENT,can u send priya sharma just over 8000 dollars,just over 8000,dollars,priya sharma,,,,,
+NEW_PAYMENT,"pay the auditor for invoice payment, 62,000 EUR, ref invoice number 7781","62,000",EUR,the auditor,,,,invoice number 7781,invoice payment
+NEW_PAYMENT,"set up an online transfer from the corporate account to dr. reyes for 62,000 dollars","62,000",dollars,dr. reyes,the corporate account,online transfer,,,
+NEW_PAYMENT,can we push 300 rupees to apex industries now,300,rupees,apex industries,,,,,
+NEW_PAYMENT,settle the invoice payment - 100k GBP to meridian software labs,100k,GBP,meridian software labs,,,,,invoice payment
+NEW_PAYMENT,"my sister sent an invoice for freight charges, pay 75000 dollars",75000,dollars,my sister,,,,,freight charges
+NEW_PAYMENT,send 2.5 lakh EUR over to harbor freight co,2.5 lakh,EUR,harbor freight co,,,,,
+NEW_PAYMENT,can you get just over 8000 quid to the cleaning vendor by friday?,just over 8000,quid,the cleaning vendor,,,by friday,,
+NEW_PAYMENT,"from the corporate account, send 320000 euros to my sister via ACH",320000,euros,my sister,the corporate account,ACH,,,
+NEW_PAYMENT,"go ahead and pay the march invoice, 25,000 pounds to priya sharma","25,000",pounds,priya sharma,,,,the march invoice,
+NEW_PAYMENT,"meridian software labs is expecting 25,000 EUR before the weekend, can you send it","25,000",EUR,meridian software labs,,,before the weekend,,
+NEW_PAYMENT,can you get 90000 euros to city hospital tomorrow morning?,90000,euros,city hospital,,,tomorrow morning,,
+NEW_PAYMENT,"go ahead and pay invoice INV-2291, just over 8000 bucks to carlos rivera",just over 8000,bucks,carlos rivera,,,,invoice INV-2291,
+NEW_PAYMENT,pls pay evergreen foods 500 dollars asap,500,dollars,evergreen foods,,,,,
+NEW_PAYMENT,"i owe crescent traders 250k pounds for deposit, go ahead and send it",250k,pounds,crescent traders,,,,,deposit
+NEW_PAYMENT,"pay sunrise textiles's legal fees out of account number 003321, 1.5 million GBP",1.5 million,GBP,sunrise textiles,account number 003321,,,,legal fees
+NEW_PAYMENT,"schedule NEFT to our landlord's agency first thing tomorrow for 25,000 pounds","25,000",pounds,our landlord's agency,,NEFT,first thing tomorrow,,
+NEW_PAYMENT,schedule SWIFT to fatima khan right now for 10000 euros,10000,euros,fatima khan,,SWIFT,right now,,
+NEW_PAYMENT,"just send laura kim 62,000 dollars already","62,000",dollars,laura kim,,,,,
+NEW_PAYMENT,cover john smith's consulting fees with 90000 rupees,90000,rupees,john smith,,,,,consulting fees
+NEW_PAYMENT,transfer 10000 bucks to the freelancer right now,10000,bucks,the freelancer,,,right now,,
+NEW_PAYMENT,"pay out 7.8k EUR to omar farouk, tag it invoice INV-2291",7.8k,EUR,omar farouk,,,,invoice INV-2291,
+NEW_PAYMENT,debit the joint account and send 500 dollars to abc metals,500,dollars,abc metals,the joint account,,,,
+NEW_PAYMENT,"pay summit legal partners's loan repayment out of our operating account, 3.2k USD",3.2k,USD,summit legal partners,our operating account,,,,loan repayment
+NEW_PAYMENT,take about 50k dollars from the account ending 4521 and send to peter novak,about 50k,dollars,peter novak,the account ending 4521,,,,
+NEW_PAYMENT,"my sister needs 150,000 INR sent over","150,000",INR,my sister,,,,,
+NEW_PAYMENT,just send zenith freight 320000 GBP already,320000,GBP,zenith freight,,,,,
+NEW_PAYMENT,"initiate internal transfer to nova retail group for 300 INR, ref instruction id INS-556",300,INR,nova retail group,,internal transfer,,instruction id INS-556,
+NEW_PAYMENT,"pay my sister's refund out of my current account, 2500 bucks",2500,bucks,my sister,my current account,,,,refund
+NEW_PAYMENT,"pls pay apex industries 15,000 dollars asap","15,000",dollars,apex industries,,,,,
+NEW_PAYMENT,gotta pay abc metals 300 bucks today,300,bucks,abc metals,,,,,
+NEW_PAYMENT,"internal transfer 150,000 rupees over to daniel cohen","150,000",rupees,daniel cohen,,internal transfer,,,
+NEW_PAYMENT,put through a payment of 90000 INR to james lee,90000,INR,james lee,,,,,
+NEW_PAYMENT,"pay emma watson 25,000 EUR","25,000",EUR,emma watson,,,,,
+NEW_PAYMENT,"bluewave logistics is expecting 3.2k INR tomorrow morning, can you send it",3.2k,INR,bluewave logistics,,,tomorrow morning,,
+NEW_PAYMENT,move 75000 dollars out of my savings account to our lawyer immediately,75000,dollars,our lawyer,my savings account,,immediately,,
+NEW_PAYMENT,"the printing shop needs the loan repayment sorted by month end, send 10000 EUR",10000,EUR,the printing shop,,,by month end,,loan repayment
+NEW_PAYMENT,pay ironclad security services 3.2k USD from my business checking account for electricity bill,3.2k,USD,ironclad security services,my business checking account,,,,electricity bill
+NEW_PAYMENT,pls pay james lee about 50k GBP asap,about 50k,GBP,james lee,,,,,
+NEW_PAYMENT,"settle PO number 4471 with james lee on the 5th, 90000 bucks",90000,bucks,james lee,,,on the 5th,PO number 4471,
+NEW_PAYMENT,move around 20000 USD out of the corporate account to aisha rahman on the 5th,around 20000,USD,aisha rahman,the corporate account,,on the 5th,,
+NEW_PAYMENT,move 3.2k INR out of my primary account to mei zhang right now,3.2k,INR,mei zhang,my primary account,,right now,,
+NEW_PAYMENT,use the joint account to pay bluewave logistics 32000 rupees,32000,rupees,bluewave logistics,the joint account,,,,
+NEW_PAYMENT,move 2.5 lakh quid out of account number 003321 to john smith first thing tomorrow,2.5 lakh,quid,john smith,account number 003321,,first thing tomorrow,,
+NEW_PAYMENT,use the account ending 4521 to pay pinnacle construction 3.2k euros,3.2k,euros,pinnacle construction,the account ending 4521,,,,
+NEW_PAYMENT,i'd like to make a payment to emma watson for 2.5 lakh INR,2.5 lakh,INR,emma watson,,,,,
+NEW_PAYMENT,"gotta pay green energy pvt ltd 15,000 bucks today","15,000",bucks,green energy pvt ltd,,,,,
+NEW_PAYMENT,settle the software subscription - 20 grand USD to my accountant,20 grand,USD,my accountant,,,,,software subscription
+NEW_PAYMENT,debit the corporate account and send 999 rupees to david miller,999,rupees,david miller,the corporate account,,,,
+NEW_PAYMENT,"abc metals is expecting 20 grand bucks by friday, can you send it",20 grand,bucks,abc metals,,,by friday,,
+NEW_PAYMENT,"pay the caterer's office supplies out of account number 003321, 10000 GBP",10000,GBP,the caterer,account number 003321,,,,office supplies
+NEW_PAYMENT,quick payment - 18k rupees for peter novak,18k,rupees,peter novak,,,,,
+NEW_PAYMENT,don't forget tom baker's payment this evening — 45k euros,45k,euros,tom baker,,,this evening,,
+NEW_PAYMENT,i want 2500 GBP sent to our new hire,2500,GBP,our new hire,,,,,
+NEW_PAYMENT,pls pay pinnacle construction 10000 pounds asap,10000,pounds,pinnacle construction,,,,,
+NEW_PAYMENT,"pls pay the cleaning vendor 62,000 euros asap","62,000",euros,the cleaning vendor,,,,,
+NEW_PAYMENT,"zenith freight needs paying before the weekend, around 20000 rupees",around 20000,rupees,zenith freight,,,before the weekend,,
+NEW_PAYMENT,settle the electricity bill - 250k dollars to orbit telecom,250k,dollars,orbit telecom,,,,,electricity bill
+NEW_PAYMENT,"pay natalie brown's security deposit out of my current account, 3.2k GBP",3.2k,GBP,natalie brown,my current account,,,,security deposit
+NEW_PAYMENT,just send the cleaning vendor just over 8000 pounds already,just over 8000,pounds,the cleaning vendor,,,,,
+NEW_PAYMENT,"150,000 dollars to apex industries, please","150,000",dollars,apex industries,,,,,
+NEW_PAYMENT,"the contractor needs the legal fees sorted tomorrow morning, send 15,000 dollars","15,000",dollars,the contractor,,,tomorrow morning,,legal fees
+NEW_PAYMENT,"settle invoice INV-2291 with tom baker before the deadline, 250k EUR",250k,EUR,tom baker,,,before the deadline,invoice INV-2291,
+NEW_PAYMENT,settle the monthly dues - 10000 pounds to sunrise textiles,10000,pounds,sunrise textiles,,,,,monthly dues
+NEW_PAYMENT,"process instruction id INS-556 through online transfer, 100k USD to city hospital",100k,USD,city hospital,,online transfer,,instruction id INS-556,
+NEW_PAYMENT,"can we push 15,000 rupees to my brother now","15,000",rupees,my brother,,,,,
+NEW_PAYMENT,can u send meridian software labs 3.2k euros,3.2k,euros,meridian software labs,,,,,
+NEW_PAYMENT,"process invoice INV-2291 through bank transfer, around 20000 quid to the plumber",around 20000,quid,the plumber,,bank transfer,,invoice INV-2291,
+NEW_PAYMENT,quick payment - 500 quid for our landlord's agency,500,quid,our landlord's agency,,,,,
+NEW_PAYMENT,put through a payment of just over 8000 USD to tom baker,just over 8000,USD,tom baker,,,,,
+NEW_PAYMENT,"carlos rivera is expecting half a million quid on the 5th, can you send it",half a million,quid,carlos rivera,,,on the 5th,,
+NEW_PAYMENT,"i need a ACH out to nova retail group for 150,000 dollars before the weekend","150,000",dollars,nova retail group,,ACH,before the weekend,,
+NEW_PAYMENT,"i need to get 15,000 dollars across to orbit telecom","15,000",dollars,orbit telecom,,,,,
+NEW_PAYMENT,bluewave logistics needs 10000 quid sent over,10000,quid,bluewave logistics,,,,,
+NEW_PAYMENT,move 75000 EUR out of the joint account to oceanic exports on 1st august,75000,EUR,oceanic exports,the joint account,,on 1st august,,
+NEW_PAYMENT,i need to get 100k bucks across to raj patel,100k,bucks,raj patel,,,,,
+NEW_PAYMENT,"the courier company needs paying sometime this week, 75000 bucks",75000,bucks,the courier company,,,sometime this week,,
+NEW_PAYMENT,"from account number 003321, send 300 quid to nova retail group via wire transfer",300,quid,nova retail group,account number 003321,wire transfer,,,
+NEW_PAYMENT,wire transfer 2.5 lakh USD over to delta enterprises,2.5 lakh,USD,delta enterprises,,wire transfer,,,
+NEW_PAYMENT,"logistics partner is expecting 45k rupees before EOD, can you send it",45k,rupees,logistics partner,,,before EOD,,
+NEW_PAYMENT,"transfer 150,000 pounds to my cousin right now","150,000",pounds,my cousin,,,,,
+NEW_PAYMENT,gotta pay delta enterprises 300 dollars today,300,dollars,delta enterprises,,,,,
+NEW_PAYMENT,can u send dr. reyes 5k INR,5k,INR,dr. reyes,,,,,
+NEW_PAYMENT,schedule RTGS to the electrician end of day for 5k pounds,5k,pounds,the electrician,,RTGS,end of day,,
+NEW_PAYMENT,ACH 2500 GBP over to mei zhang,2500,GBP,mei zhang,,ACH,,,
+NEW_PAYMENT,settle the overdue invoice - 90000 EUR to the babysitter,90000,EUR,the babysitter,,,,,overdue invoice
+NEW_PAYMENT,pay our intern 320000 USD from my business checking account for consulting fees,320000,USD,our intern,my business checking account,,,,consulting fees
+NEW_PAYMENT,take 300 EUR from the joint account and send to the courier company,300,EUR,the courier company,the joint account,,,,
+NEW_PAYMENT,quick payment - 5k EUR for ironclad security services,5k,EUR,ironclad security services,,,,,
+NEW_PAYMENT,"apex industries sent an invoice for legal fees, pay around 20000 bucks",around 20000,bucks,apex industries,,,,,legal fees
+NEW_PAYMENT,"go ahead and pay contract ref C-9081, 320000 euros to riverside pharmacy",320000,euros,riverside pharmacy,,,,contract ref C-9081,
+NEW_PAYMENT,"john smith needs paying on the 5th, 5k GBP",5k,GBP,john smith,,,on the 5th,,
+NEW_PAYMENT,"grand hotel is expecting 10000 rupees this evening, can you send it",10000,rupees,grand hotel,,,this evening,,
+NEW_PAYMENT,put through a payment of 90000 dollars to sara ahmed,90000,dollars,sara ahmed,,,,,
+NEW_PAYMENT,gotta pay laura kim 2500 quid today,2500,quid,laura kim,,,,,
+NEW_PAYMENT,can we push 3.2k USD to emma watson now,3.2k,USD,emma watson,,,,,
+NEW_PAYMENT,remember to pay meridian software labs 250k quid before EOD for the software subscription,250k,quid,meridian software labs,,,before EOD,,software subscription
+NEW_PAYMENT,send 2.5 lakh pounds over to laura kim,2.5 lakh,pounds,laura kim,,,,,
+NEW_PAYMENT,quick payment - 20 grand bucks for anita desai,20 grand,bucks,anita desai,,,,,
+NEW_PAYMENT,send funds to a payee,,,,,,,,
+NEW_PAYMENT,can you NEFT just over 8000 pounds to david miller,just over 8000,pounds,david miller,,NEFT,,,
+NEW_PAYMENT,pay the contractor 3.2k dollars,3.2k,dollars,the contractor,,,,,
+NEW_PAYMENT,take 999 quid from our operating account and send to john smith,999,quid,john smith,our operating account,,,,
+NEW_PAYMENT,don't forget my brother's payment immediately — 999 bucks,999,bucks,my brother,,,immediately,,
+NEW_PAYMENT,authorize 5k USD for crescent traders,5k,USD,crescent traders,,,,,
+NEW_PAYMENT,NEFT 45k GBP over to green energy pvt ltd,45k,GBP,green energy pvt ltd,,NEFT,,,
+NEW_PAYMENT,clear invoice number 7781 — pay oceanic exports 20 grand USD,20 grand,USD,oceanic exports,,,,invoice number 7781,
+NEW_PAYMENT,debit the joint account and send around 20000 GBP to meridian software labs,around 20000,GBP,meridian software labs,the joint account,,,,
+NEW_PAYMENT,"process contract ref C-9081 through wire transfer, 999 rupees to anita desai",999,rupees,anita desai,,wire transfer,,contract ref C-9081,
+NEW_PAYMENT,send about 50k USD over to zenith freight,about 50k,USD,zenith freight,,,,,
+NEW_PAYMENT,"i owe omar farouk half a million USD for security deposit, go ahead and send it",half a million,USD,omar farouk,,,,,security deposit
+NEW_PAYMENT,can you NEFT 2.5 lakh dollars to emma watson,2.5 lakh,dollars,emma watson,,NEFT,,,
+NEW_PAYMENT,i need to get 18k quid across to stellar consulting,18k,quid,stellar consulting,,,,,
+NEW_PAYMENT,"i owe grace liu 250k dollars for catering bill, go ahead and send it",250k,dollars,grace liu,,,,,catering bill
+NEW_PAYMENT,i'd like to make a payment to logistics partner for 20 grand dollars,20 grand,dollars,logistics partner,,,,,
+NEW_PAYMENT,"the courier company — 1.5 million pounds, send whenever you can",1.5 million,pounds,the courier company,,,,,
+NEW_PAYMENT,pay my accountant 90000 bucks from my primary account for invoice payment,90000,bucks,my accountant,my primary account,,,,invoice payment
+NEW_PAYMENT,can we push just over 8000 rupees to my brother now,just over 8000,rupees,my brother,,,,,
+NEW_PAYMENT,"xyz corp needs paying by friday, 1.5 million EUR",1.5 million,EUR,xyz corp,,,by friday,,
+NEW_PAYMENT,pls pay xyz corp 20 grand INR asap,20 grand,INR,xyz corp,,,,,
+NEW_PAYMENT,can we push half a million INR to sunrise textiles now,half a million,INR,sunrise textiles,,,,,
+NEW_PAYMENT,"michael chen is expecting 500 dollars before the weekend, can you send it",500,dollars,michael chen,,,before the weekend,,
+NEW_PAYMENT,send 500 EUR over to the babysitter,500,EUR,the babysitter,,,,,
+NEW_PAYMENT,"move 150,000 dollars out of our operating account to maple leaf catering next monday","150,000",dollars,maple leaf catering,our operating account,,next monday,,
+NEW_PAYMENT,"our lawyer sent an invoice for security deposit, pay 20 grand quid",20 grand,quid,our lawyer,,,,,security deposit
+NEW_PAYMENT,"i owe my sister 100k quid for legal fees, go ahead and send it",100k,quid,my sister,,,,,legal fees
+NEW_PAYMENT,send 18k INR over to logistics partner,18k,INR,logistics partner,,,,,
+NEW_PAYMENT,"process contract ref C-9081 through SEPA, 5k rupees to crescent traders",5k,rupees,crescent traders,,SEPA,,contract ref C-9081,
+NEW_PAYMENT,"clear invoice INV-2291 — pay the auditor 150,000 GBP","150,000",GBP,the auditor,,,,invoice INV-2291,
+NEW_PAYMENT,"pay out 300 euros to zenith freight, tag it invoice number 7781",300,euros,zenith freight,,,,invoice number 7781,
+NEW_PAYMENT,pls pay meridian software labs around 20000 INR asap,around 20000,INR,meridian software labs,,,,,
+NEW_PAYMENT,"meridian software labs — 320000 dollars, send whenever you can",320000,dollars,meridian software labs,,,,,
+NEW_PAYMENT,"pay david miller for vendor payment, 25,000 euros, ref reference number REF3321","25,000",euros,david miller,,,,reference number REF3321,vendor payment
+NEW_PAYMENT,"pay out 45k dollars to tech solutions inc, tag it quote Q-8834",45k,dollars,tech solutions inc,,,,quote Q-8834,
+NEW_PAYMENT,debit my business checking account and send 45k INR to the courier company,45k,INR,the courier company,my business checking account,,,,
+NEW_PAYMENT,"250k USD to delta enterprises, please",250k,USD,delta enterprises,,,,,
+NEW_PAYMENT,i need to get 500 bucks across to summit legal partners,500,bucks,summit legal partners,,,,,
+NEW_PAYMENT,"i owe our lawyer 999 euros for salary, go ahead and send it",999,euros,our lawyer,,,,,salary
+NEW_PAYMENT,can you get 2.5 lakh EUR to summit legal partners tomorrow morning?,2.5 lakh,EUR,summit legal partners,,,tomorrow morning,,
+NEW_PAYMENT,quick payment - 45k quid for mei zhang,45k,quid,mei zhang,,,,,
+NEW_PAYMENT,gotta pay delta enterprises 300 quid today,300,quid,delta enterprises,,,,,
+NEW_PAYMENT,can we push 45k bucks to my accountant now,45k,bucks,my accountant,,,,,
+NEW_PAYMENT,debit our operating account and send 7.8k USD to the babysitter,7.8k,USD,the babysitter,our operating account,,,,
+NEW_PAYMENT,"i owe raj patel 300 USD for software subscription, go ahead and send it",300,USD,raj patel,,,,,software subscription
+NEW_PAYMENT,i'd like to make a payment to emma watson for 300 EUR,300,EUR,emma watson,,,,,
+NEW_PAYMENT,i have a payment to make,,,,,,,,
+NEW_PAYMENT,schedule ACH to michael chen before the deadline for 1.5 million rupees,1.5 million,rupees,michael chen,,ACH,before the deadline,,
+NEW_PAYMENT,"maple leaf catering needs paying on the 5th, 320000 rupees",320000,rupees,maple leaf catering,,,on the 5th,,
+NEW_PAYMENT,settle the deposit - 2.5 lakh quid to the marketing agency,2.5 lakh,quid,the marketing agency,,,,,deposit
+NEW_PAYMENT,"from the corporate account, send 90000 dollars to omar farouk via RTGS",90000,dollars,omar farouk,the corporate account,RTGS,,,
+NEW_PAYMENT,process a new payment for me,,,,,,,,
+NEW_PAYMENT,do a ACH of 2500 dollars to our landlord's agency,2500,dollars,our landlord's agency,,ACH,,,
+NEW_PAYMENT,"from the corporate account, send half a million GBP to my accountant via SEPA",half a million,GBP,my accountant,the corporate account,SEPA,,,
+NEW_PAYMENT,"our landlord's agency — about 50k dollars, send whenever you can",about 50k,dollars,our landlord's agency,,,,,
+NEW_PAYMENT,go ahead and make the payment,,,,,,,,
+NEW_PAYMENT,i need a IMPS out to james lee for 18k quid first thing tomorrow,18k,quid,james lee,,IMPS,first thing tomorrow,,
+NEW_PAYMENT,pay orbit telecom 320000 dollars,320000,dollars,orbit telecom,,,,,
+NEW_PAYMENT,schedule bank transfer to sara ahmed today for 90000 INR,90000,INR,sara ahmed,,bank transfer,today,,
+NEW_PAYMENT,"go ahead and pay reference number REF3321, 5k INR to tech solutions inc",5k,INR,tech solutions inc,,,,reference number REF3321,
+NEW_PAYMENT,go ahead and wire 32000 USD to green energy pvt ltd,32000,USD,green energy pvt ltd,,,,,
+NEW_PAYMENT,"pinnacle construction sent an invoice for catering bill, pay 15,000 GBP","15,000",GBP,pinnacle construction,,,,,catering bill
+NEW_PAYMENT,"from our operating account, send about 50k INR to our new hire via ACH",about 50k,INR,our new hire,our operating account,ACH,,,
+NEW_PAYMENT,"abc metals needs 25,000 EUR sent over","25,000",EUR,abc metals,,,,,
+NEW_PAYMENT,schedule IMPS to riverside pharmacy at 3pm for 32000 quid,32000,quid,riverside pharmacy,,IMPS,at 3pm,,
+NEW_PAYMENT,"evergreen foods needs 1,200 EUR sent over","1,200",EUR,evergreen foods,,,,,
+NEW_PAYMENT,"finally paying off john smith for the tax payment, 1.5 million bucks",1.5 million,bucks,john smith,,,,,tax payment
+NEW_PAYMENT,"process quote Q-8834 through internal transfer, 32000 euros to dr. reyes",32000,euros,dr. reyes,,internal transfer,,quote Q-8834,
+NEW_PAYMENT,"process reference number REF3321 through IMPS, 999 quid to my landlord",999,quid,my landlord,,IMPS,,reference number REF3321,
+NEW_PAYMENT,debit my business checking account and send 5k rupees to oceanic exports,5k,rupees,oceanic exports,my business checking account,,,,
+NEW_PAYMENT,"10000 rupees to our lawyer, please",10000,rupees,our lawyer,,,,,
+NEW_PAYMENT,can you get 1.5 million bucks to mei zhang on 1st august?,1.5 million,bucks,mei zhang,,,on 1st august,,
+NEW_PAYMENT,set up an internal transfer from my business checking account to pinnacle construction for 20 grand EUR,20 grand,EUR,pinnacle construction,my business checking account,internal transfer,,,
+NEW_PAYMENT,cover the cleaning vendor's reimbursement with 500 pounds,500,pounds,the cleaning vendor,,,,,reimbursement
+NEW_PAYMENT,"authorize 1,200 quid for aisha rahman","1,200",quid,aisha rahman,,,,,
+NEW_PAYMENT,"initiate RTGS to the electrician for 10000 euros, ref PO number 4471",10000,euros,the electrician,,RTGS,,PO number 4471,
+NEW_PAYMENT,do a IMPS of 300 dollars to my sister,300,dollars,my sister,,IMPS,,,
+NEW_PAYMENT,pay the printing shop 2.5 lakh euros from account number 003321 for contractor payment,2.5 lakh,euros,the printing shop,account number 003321,,,,contractor payment
+NEW_PAYMENT,let's get a payment moving,,,,,,,,
+NEW_PAYMENT,settle the reimbursement - 45k EUR to raj patel,45k,EUR,raj patel,,,,,reimbursement
+NEW_PAYMENT,"initiate online transfer to abc metals for 300 USD, ref the service agreement number",300,USD,abc metals,,online transfer,,the service agreement number,
+NEW_PAYMENT,clear PO number 4471 — pay the cleaning vendor 20 grand euros,20 grand,euros,the cleaning vendor,,,,PO number 4471,
+NEW_PAYMENT,i want 300 quid sent to logistics partner,300,quid,logistics partner,,,,,
+NEW_PAYMENT,i need a SEPA out to our landlord's agency for 20 grand euros end of day,20 grand,euros,our landlord's agency,,SEPA,end of day,,
+NEW_PAYMENT,"bluewave logistics is expecting 500 EUR immediately, can you send it",500,EUR,bluewave logistics,,,immediately,,
+NEW_PAYMENT,"my accountant's contractor payment is due before the weekend, send 500 GBP",500,GBP,my accountant,,,before the weekend,,contractor payment
+NEW_PAYMENT,"finally paying off city hospital for the rent, 500 bucks",500,bucks,city hospital,,,,,rent
+NEW_PAYMENT,send 2500 bucks over to grace liu,2500,bucks,grace liu,,,,,
+NEW_PAYMENT,put through a payment of 45k rupees to daniel cohen,45k,rupees,daniel cohen,,,,,
+NEW_PAYMENT,"tom baker needs the freight charges sorted sometime this week, send 18k dollars",18k,dollars,tom baker,,,sometime this week,,freight charges
+NEW_PAYMENT,"from my current account, send 3.2k INR to crescent traders via wire transfer",3.2k,INR,crescent traders,my current account,wire transfer,,,rent
+NEW_PAYMENT,"oceanic exports needs the refund sorted at 3pm, send 32000 euros",32000,euros,oceanic exports,,,at 3pm,,refund
+NEW_PAYMENT,"i owe the printing shop 90000 quid for refund, go ahead and send it",90000,quid,the printing shop,,,,,refund
+NEW_PAYMENT,"finally paying off city hospital for the contractor payment, 7.8k GBP",7.8k,GBP,city hospital,,,,,contractor payment
+NEW_PAYMENT,"the plumber needs the consulting fees sorted at 3pm, send 100k USD",100k,USD,the plumber,,,at 3pm,,consulting fees
+NEW_PAYMENT,can u send daniel cohen 20 grand euros,20 grand,euros,daniel cohen,,,,,
+NEW_PAYMENT,"priya sharma needs the tax payment sorted first thing tomorrow, send 150,000 dollars","150,000",dollars,priya sharma,,,first thing tomorrow,,tax payment
+NEW_PAYMENT,"my accountant — 150,000 dollars, send whenever you can","150,000",dollars,my accountant,,,,,
+NEW_PAYMENT,"1,200 GBP to my cousin, please","1,200",GBP,my cousin,,,,,
+NEW_PAYMENT,"my landlord sent an invoice for deposit, pay 500 GBP",500,GBP,my landlord,,,,,deposit
+NEW_PAYMENT,take 45k bucks from the account ending 4521 and send to crescent traders,45k,bucks,crescent traders,the account ending 4521,,,,
+NEW_PAYMENT,"i want 15,000 euros sent to raj patel","15,000",euros,raj patel,,,,,
+NEW_PAYMENT,oceanic exports needs 100k bucks sent over,100k,bucks,oceanic exports,,,,,
+NEW_PAYMENT,put through a payment of 90000 USD to laura kim,90000,USD,laura kim,,,,,
+NEW_PAYMENT,"process ref TXN88213 through bank transfer, 3.2k EUR to evergreen foods",3.2k,EUR,evergreen foods,,bank transfer,,ref TXN88213,
+NEW_PAYMENT,do a online transfer of 100k dollars to summit legal partners,100k,dollars,summit legal partners,,online transfer,,,
+NEW_PAYMENT,transfer 18k rupees to sunrise textiles right now,18k,rupees,sunrise textiles,,,,,
+NEW_PAYMENT,"go ahead and pay PO number 4471, 32000 EUR to oceanic exports",32000,EUR,oceanic exports,,,,PO number 4471,
+NEW_PAYMENT,"apex industries — 62,000 quid, send whenever you can","62,000",quid,apex industries,,,,,
+NEW_PAYMENT,can u send oceanic exports 100k pounds,100k,pounds,oceanic exports,,,,,
+NEW_PAYMENT,"finally paying off maple leaf catering for the catering bill, 7.8k quid",7.8k,quid,maple leaf catering,,,,,catering bill
+NEW_PAYMENT,move about 50k USD out of our operating account to the marketing agency first thing tomorrow,about 50k,USD,the marketing agency,our operating account,,first thing tomorrow,,
+NEW_PAYMENT,"just send sunrise textiles 25,000 dollars already","25,000",dollars,sunrise textiles,,,,,
+NEW_PAYMENT,RTGS 100k USD over to logistics partner,100k,USD,logistics partner,,RTGS,,,
+NEW_PAYMENT,"go ahead and pay contract ref C-9081, 5k bucks to peter novak",5k,bucks,peter novak,,,,contract ref C-9081,
+NEW_PAYMENT,"the auditor needs paying end of day, 999 pounds",999,pounds,the auditor,,,end of day,,
+NEW_PAYMENT,"i need a IMPS out to orbit telecom for 1,200 GBP tomorrow morning","1,200",GBP,orbit telecom,,IMPS,tomorrow morning,,
+NEW_PAYMENT,"pay natalie brown for office supplies, half a million EUR, ref contract ref C-9081",half a million,EUR,natalie brown,,,,contract ref C-9081,office supplies
+NEW_PAYMENT,remember to pay the marketing agency 20 grand USD tonight for the refund,20 grand,USD,the marketing agency,,,tonight,,refund
+NEW_PAYMENT,"our lawyer needs paying by month end, 45k rupees",45k,rupees,our lawyer,,,by month end,,
+NEW_PAYMENT,can we push 250k INR to bluewave logistics now,250k,INR,bluewave logistics,,,,,
+NEW_PAYMENT,"online transfer 62,000 euros over to my landlord","62,000",euros,my landlord,,online transfer,,,
+NEW_PAYMENT,set up an ACH from the corporate account to james lee for 999 euros,999,euros,james lee,the corporate account,ACH,,,
+NEW_PAYMENT,"go ahead and pay PO number 4471, around 20000 EUR to the plumber",around 20000,EUR,the plumber,,,,PO number 4471,
+NEW_PAYMENT,take 45k INR from our operating account and send to oceanic exports,45k,INR,oceanic exports,our operating account,,,,
+NEW_PAYMENT,"pay the contractor's monthly dues out of the corporate account, 62,000 GBP","62,000",GBP,the contractor,the corporate account,,,,monthly dues
+NEW_PAYMENT,the electrician needs 999 rupees sent over,999,rupees,the electrician,,,,,
+NEW_PAYMENT,"i owe john smith just over 8000 pounds for freight charges, go ahead and send it",just over 8000,pounds,john smith,,,,,freight charges
+NEW_PAYMENT,"finally paying off carlos rivera for the reimbursement, 3.2k INR",3.2k,INR,carlos rivera,,,,,reimbursement
+NEW_PAYMENT,"go ahead and pay contract ref C-9081, 1,200 euros to pinnacle construction","1,200",euros,pinnacle construction,,,,contract ref C-9081,
+NEW_PAYMENT,settle the monthly dues - 90000 euros to summit legal partners,90000,euros,summit legal partners,,,,,monthly dues
+NEW_PAYMENT,set up an SEPA from the joint account to peter novak for 75000 EUR,75000,EUR,peter novak,the joint account,SEPA,,,
+NEW_PAYMENT,"go ahead and pay invoice number 7781, 1,200 quid to laura kim","1,200",quid,laura kim,,,,invoice number 7781,
+NEW_PAYMENT,"i owe our lawyer 10000 bucks for freight charges, go ahead and send it",10000,bucks,our lawyer,,,,,freight charges
+NEW_PAYMENT,i want 500 euros sent to zenith freight,500,euros,zenith freight,,,,,
+NEW_PAYMENT,go ahead and wire 7.8k euros to sunrise textiles,7.8k,euros,sunrise textiles,,,,,
+NEW_PAYMENT,"zenith freight's loan repayment is due before the deadline, send 10000 pounds",10000,pounds,zenith freight,,,before the deadline,,loan repayment
+NEW_PAYMENT,"15,000 EUR to my accountant, please","15,000",EUR,my accountant,,,,,
+NEW_PAYMENT,transfer about 50k GBP to evergreen foods right now,about 50k,GBP,evergreen foods,,,,,
+NEW_PAYMENT,pay my cousin 100k dollars from my current account for electricity bill,100k,dollars,my cousin,my current account,,,,electricity bill
+NEW_PAYMENT,transfer 320000 USD to our lawyer right now,320000,USD,our lawyer,,,,,
+NEW_PAYMENT,"my cousin is expecting 5k USD on the 5th, can you send it",5k,USD,my cousin,,,on the 5th,,
+NEW_PAYMENT,go ahead and wire about 50k pounds to the auditor,about 50k,pounds,the auditor,,,,,
+NEW_PAYMENT,send about 50k rupees over to delta enterprises,about 50k,rupees,delta enterprises,,,,,
+NEW_PAYMENT,i need a ACH out to maple leaf catering for 7.8k pounds by friday,7.8k,pounds,maple leaf catering,,ACH,by friday,,
+NEW_PAYMENT,"7.8k GBP to the freelancer, please",7.8k,GBP,the freelancer,,,,,
+NEW_PAYMENT,omar farouk needs 10000 USD sent over,10000,USD,omar farouk,,,,,
+NEW_PAYMENT,"pay our intern's reimbursement out of my current account, 3.2k INR",3.2k,INR,our intern,my current account,,,,reimbursement
+NEW_PAYMENT,meridian software labs needs 3.2k INR sent over,3.2k,INR,meridian software labs,,,,,
+NEW_PAYMENT,"process contract ref C-9081 through SEPA, 1,200 USD to abc metals","1,200",USD,abc metals,,SEPA,,contract ref C-9081,
+NEW_PAYMENT,grace liu needs about 50k pounds sent over,about 50k,pounds,grace liu,,,,,
+NEW_PAYMENT,"1.5 million GBP to natalie brown, please",1.5 million,GBP,natalie brown,,,,,
+NEW_PAYMENT,i need a NEFT out to sara ahmed for 7.8k pounds sometime this week,7.8k,pounds,sara ahmed,,NEFT,sometime this week,,
+NEW_PAYMENT,schedule bank transfer to xyz corp end of day for 300 pounds,300,pounds,xyz corp,,bank transfer,end of day,,
+NEW_PAYMENT,"go ahead and pay PO number 4471, 500 EUR to the marketing agency",500,EUR,the marketing agency,,,,PO number 4471,
+NEW_PAYMENT,settle the refund - 320000 dollars to stellar consulting,320000,dollars,stellar consulting,,,,,refund
+NEW_PAYMENT,pay my brother 320000 dollars,320000,dollars,my brother,,,,,
+NEW_PAYMENT,can you send a payment out,,,,,,,,
+NEW_PAYMENT,i'd like to make a payment to crescent traders for 10000 dollars,10000,dollars,crescent traders,,,,,
+NEW_PAYMENT,"green energy pvt ltd needs 150,000 GBP sent over","150,000",GBP,green energy pvt ltd,,,,,
+NEW_PAYMENT,"from my current account, send 25,000 pounds to the babysitter via NEFT","25,000",pounds,the babysitter,my current account,NEFT,,,
+NEW_PAYMENT,"dr. reyes is expecting 32000 dollars on the 5th, can you send it",32000,dollars,dr. reyes,,,on the 5th,,
+NEW_PAYMENT,"set up an NEFT from our operating account to natalie brown for 150,000 INR","150,000",INR,natalie brown,our operating account,NEFT,,,
+NEW_PAYMENT,"pay my sister's tax payment out of our operating account, 7.8k GBP",7.8k,GBP,my sister,our operating account,,,,tax payment
+NEW_PAYMENT,can we push 45k euros to mei zhang now,45k,euros,mei zhang,,,,,
+NEW_PAYMENT,"go ahead and pay the march invoice, 2.5 lakh EUR to sunrise textiles",2.5 lakh,EUR,sunrise textiles,,,,the march invoice,
+NEW_PAYMENT,move 45k euros out of the joint account to david miller by friday,45k,euros,david miller,the joint account,,by friday,,
+NEW_PAYMENT,"tech solutions inc sent an invoice for freight charges, pay 320000 INR",320000,INR,tech solutions inc,,,,,freight charges
+NEW_PAYMENT,"initiate ACH to our landlord's agency for around 20000 GBP, ref ref TXN88213",around 20000,GBP,our landlord's agency,,ACH,,ref TXN88213,
+NEW_PAYMENT,"go ahead and pay reference number REF3321, 1,200 euros to meridian software labs","1,200",euros,meridian software labs,,,,reference number REF3321,
+NEW_PAYMENT,"go ahead and pay invoice number 7781, 1.5 million USD to xyz corp",1.5 million,USD,xyz corp,,,,invoice number 7781,
+NEW_PAYMENT,just send mei zhang 300 INR already,300,INR,mei zhang,,,,,
+NEW_PAYMENT,"initiate SEPA to my accountant for 1.5 million rupees, ref PO number 4471",1.5 million,rupees,my accountant,,SEPA,,PO number 4471,
+NEW_PAYMENT,can you NEFT 90000 GBP to michael chen,90000,GBP,michael chen,,NEFT,,,
+NEW_PAYMENT,remember to pay raj patel 250k dollars before EOD for the reimbursement,250k,dollars,raj patel,,,before EOD,,reimbursement
+NEW_PAYMENT,clear contract ref C-9081 — pay tom baker 999 INR,999,INR,tom baker,,,,contract ref C-9081,
+NEW_PAYMENT,"initiate SWIFT to evergreen foods for 2500 euros, ref instruction id INS-556",2500,euros,evergreen foods,,SWIFT,,instruction id INS-556,
+NEW_PAYMENT,"finally paying off sunrise textiles for the software subscription, 150,000 pounds","150,000",pounds,sunrise textiles,,,,,software subscription
+NEW_PAYMENT,take 2.5 lakh rupees from the corporate account and send to the freelancer,2.5 lakh,rupees,the freelancer,the corporate account,,,,
+NEW_PAYMENT,gotta pay crescent traders 1.5 million INR today,1.5 million,INR,crescent traders,,,,,
+NEW_PAYMENT,cover the marketing agency's monthly dues with about 50k USD,about 50k,USD,the marketing agency,,,,,monthly dues
+NEW_PAYMENT,remember to pay stellar consulting 2500 EUR immediately for the consulting fees,2500,EUR,stellar consulting,,,immediately,,consulting fees
+NEW_PAYMENT,"clear contract ref C-9081 — pay grace liu 25,000 USD","25,000",USD,grace liu,,,,contract ref C-9081,
+NEW_PAYMENT,"pinnacle construction needs the monthly dues sorted tomorrow morning, send 20 grand USD",20 grand,USD,pinnacle construction,,,tomorrow morning,,monthly dues
+NEW_PAYMENT,wire transfer 5k quid over to apex industries,5k,quid,apex industries,,wire transfer,,,
+NEW_PAYMENT,"david miller — 32000 rupees, send whenever you can",32000,rupees,david miller,,,,,
+NEW_PAYMENT,"ironclad security services needs paying sometime this week, 15,000 euros","15,000",euros,ironclad security services,,,sometime this week,,
+NEW_PAYMENT,just send the printing shop 100k quid already,100k,quid,the printing shop,,,,,
+NEW_PAYMENT,remember to pay the plumber 2.5 lakh rupees next monday for the contractor payment,2.5 lakh,rupees,the plumber,,,next monday,,contractor payment
+NEW_PAYMENT,"18k rupees to pinnacle construction, please",18k,rupees,pinnacle construction,,,,,
+NEW_PAYMENT,"settle reference number REF3321 with riverside pharmacy before the weekend, 75000 dollars",75000,dollars,riverside pharmacy,,,before the weekend,reference number REF3321,
+NEW_PAYMENT,"i owe xyz corp 10000 USD for rent, go ahead and send it",10000,USD,xyz corp,,,,,rent
+NEW_PAYMENT,"sara ahmed sent an invoice for vendor payment, pay 90000 INR",90000,INR,sara ahmed,,,,,vendor payment
+NEW_PAYMENT,i'd like to make a payment to anita desai for 10000 pounds,10000,pounds,anita desai,,,,,
+NEW_PAYMENT,i need to get 500 EUR across to logistics partner,500,EUR,logistics partner,,,,,
+NEW_PAYMENT,i need to send some money,,,,,,,,
+NEW_PAYMENT,"initiate ACH to abc metals for 1.5 million rupees, ref invoice INV-2291",1.5 million,rupees,abc metals,,ACH,,invoice INV-2291,
+NEW_PAYMENT,"move 25,000 GBP out of account number 003321 to my landlord right now","25,000",GBP,my landlord,account number 003321,,right now,,
+NEW_PAYMENT,take 5k GBP from my usd account and send to tom baker,5k,GBP,tom baker,my usd account,,,,
+NEW_PAYMENT,"settle contract ref C-9081 with grace liu at 3pm, 32000 rupees",32000,rupees,grace liu,,,at 3pm,contract ref C-9081,
+NEW_PAYMENT,"pay orbit telecom's office supplies out of my savings account, 250k quid",250k,quid,orbit telecom,my savings account,,,,office supplies
+NEW_PAYMENT,settle the catering bill - around 20000 pounds to grand hotel,around 20000,pounds,grand hotel,,,,,catering bill
+NEW_PAYMENT,"aisha rahman needs paying on 1st august, 5k rupees",5k,rupees,aisha rahman,,,on 1st august,,
+NEW_PAYMENT,use my current account to pay riverside pharmacy 7.8k rupees,7.8k,rupees,riverside pharmacy,my current account,,,,
+NEW_PAYMENT,"schedule RTGS to the contractor at 3pm for 150,000 USD","150,000",USD,the contractor,,RTGS,at 3pm,,
+NEW_PAYMENT,go ahead and wire just over 8000 quid to tom baker,just over 8000,quid,tom baker,,,,,
+NEW_PAYMENT,do a RTGS of 7.8k quid to john smith,7.8k,quid,john smith,,RTGS,,,
+NEW_PAYMENT,i want 999 pounds sent to tom baker,999,pounds,tom baker,,,,,
+NEW_PAYMENT,"omar farouk's software subscription is due at 3pm, send 25,000 INR","25,000",INR,omar farouk,,,at 3pm,,software subscription
+NEW_PAYMENT,"finally paying off ironclad security services for the catering bill, 20 grand quid",20 grand,quid,ironclad security services,,,,,catering bill
+NEW_PAYMENT,move 10000 USD out of my savings account to tech solutions inc by month end,10000,USD,tech solutions inc,my savings account,,by month end,,
+NEW_PAYMENT,"pinnacle construction — 250k rupees, send whenever you can",250k,rupees,pinnacle construction,,,,,
+NEW_PAYMENT,i'd like to make a payment to peter novak for 320000 rupees,320000,rupees,peter novak,,,,,
+NEW_PAYMENT,"pay the babysitter for loan repayment, around 20000 bucks, ref ref TXN88213",around 20000,bucks,the babysitter,,,,ref TXN88213,loan repayment
+NEW_PAYMENT,authorize half a million quid for meridian software labs,half a million,quid,meridian software labs,,,,,
+NEW_PAYMENT,"emma watson needs paying before EOD, just over 8000 EUR",just over 8000,EUR,emma watson,,,before EOD,,
+NEW_PAYMENT,cover our lawyer's software subscription with 2500 GBP,2500,GBP,our lawyer,,,,,software subscription
+NEW_PAYMENT,move 18k rupees out of my savings account to xyz corp by friday,18k,rupees,xyz corp,my savings account,,by friday,,
+NEW_PAYMENT,i'd like to make a payment to ironclad security services for 10000 EUR,10000,EUR,ironclad security services,,,,,
+NEW_PAYMENT,"i owe apex industries 32000 quid for catering bill, go ahead and send it",32000,quid,apex industries,,,,,catering bill
+NEW_PAYMENT,move just over 8000 bucks out of my usd account to abc metals by friday,just over 8000,bucks,abc metals,my usd account,,by friday,,
+NEW_PAYMENT,james lee needs 7.8k quid sent over,7.8k,quid,james lee,,,,,
+NEW_PAYMENT,gotta pay omar farouk 2.5 lakh bucks today,2.5 lakh,bucks,omar farouk,,,,,
+NEW_PAYMENT,debit the account ending 4521 and send 100k dollars to aisha rahman,100k,dollars,aisha rahman,the account ending 4521,,,,
+NEW_PAYMENT,pay the printing shop 90000 INR from my business checking account for monthly dues,90000,INR,the printing shop,my business checking account,,,,monthly dues
+NEW_PAYMENT,i need to get just over 8000 bucks across to logistics partner,just over 8000,bucks,logistics partner,,,,,
+NEW_PAYMENT,"can u send bluewave logistics 15,000 EUR","15,000",EUR,bluewave logistics,,,,,
+NEW_PAYMENT,"initiate RTGS to the marketing agency for 62,000 bucks, ref instruction id INS-556","62,000",bucks,the marketing agency,,RTGS,,instruction id INS-556,
+NEW_PAYMENT,"schedule ACH to daniel cohen before the weekend for 150,000 GBP","150,000",GBP,daniel cohen,,ACH,before the weekend,,
+NEW_PAYMENT,"cover anita desai's salary with 150,000 euros","150,000",euros,anita desai,,,,,salary
+NEW_PAYMENT,"set up an online transfer from the account ending 4521 to our landlord's agency for 150,000 GBP","150,000",GBP,our landlord's agency,the account ending 4521,online transfer,,,
+NEW_PAYMENT,"3.2k USD to john smith, please",3.2k,USD,john smith,,,,,
+NEW_PAYMENT,"mei zhang needs paying today, 45k euros",45k,euros,mei zhang,,,today,,
+NEW_PAYMENT,"settle reference number REF3321 with the contractor immediately, 500 bucks",500,bucks,the contractor,,,immediately,reference number REF3321,
+NEW_PAYMENT,just send mei zhang 999 pounds already,999,pounds,mei zhang,,,,,
+NEW_PAYMENT,transfer half a million USD to laura kim right now,half a million,USD,laura kim,,,,,
+NEW_PAYMENT,"settle PO number 4471 with daniel cohen before EOD, about 50k euros",about 50k,euros,daniel cohen,,,before EOD,PO number 4471,
+NEW_PAYMENT,pls pay priya sharma 18k quid asap,18k,quid,priya sharma,,,,,
+NEW_PAYMENT,pls pay priya sharma 18k rupees asap,18k,rupees,priya sharma,,,,,
+NEW_PAYMENT,"grand hotel needs paying tomorrow morning, 1.5 million pounds",1.5 million,pounds,grand hotel,,,tomorrow morning,,
+NEW_PAYMENT,can u send city hospital 90000 USD,90000,USD,city hospital,,,,,
+NEW_PAYMENT,"sunrise textiles needs paying today, 7.8k EUR",7.8k,EUR,sunrise textiles,,,today,,
+NEW_PAYMENT,can you get 7.8k INR to our landlord's agency by month end?,7.8k,INR,our landlord's agency,,,by month end,,
+NEW_PAYMENT,"my accountant needs the contractor payment sorted this evening, send 250k euros",250k,euros,my accountant,,,this evening,,contractor payment
+NEW_PAYMENT,do a ACH of 45k quid to stellar consulting,45k,quid,stellar consulting,,ACH,,,
+NEW_PAYMENT,"meridian software labs needs the invoice payment sorted before EOD, send 2500 GBP",2500,GBP,meridian software labs,,,before EOD,,invoice payment
+NEW_PAYMENT,"finally paying off our lawyer for the software subscription, just over 8000 EUR",just over 8000,EUR,our lawyer,,,,,software subscription
+NEW_PAYMENT,send about 50k quid over to my cousin,about 50k,quid,my cousin,,,,,
+NEW_PAYMENT,"green energy pvt ltd needs the refund sorted at 3pm, send 2.5 lakh pounds",2.5 lakh,pounds,green energy pvt ltd,,,at 3pm,,refund
+NEW_PAYMENT,initiate a payment please,,,,,,,,

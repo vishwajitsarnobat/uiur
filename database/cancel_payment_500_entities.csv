@@ -1,0 +1,501 @@
+intent_code,text,reference,beneficiary,amount,currency,account,time,reason,status
+CANCEL_PAYMENT,cancel my last payment,,,,,,,,
+CANCEL_PAYMENT,can you delete payment id PMT-4471,payment id PMT-4471,,,,,,,
+CANCEL_PAYMENT,cancel my awaiting approval transaction payment id PMT-4471,payment id PMT-4471,,,,,,,awaiting approval
+CANCEL_PAYMENT,cancel payment instruction id INS-556,instruction id INS-556,,,,,,,
+CANCEL_PAYMENT,remove transaction id TXN88213 from the queue,transaction id TXN88213,,,,,,,
+CANCEL_PAYMENT,i need to cancel a payment,,,,,,,,
+CANCEL_PAYMENT,stop the processing transfer,,,,,,,,processing
+CANCEL_PAYMENT,stop the pending transfer,,,,,,,,pending
+CANCEL_PAYMENT,revoke invoice INV-2291,invoice INV-2291,,,,,,,
+CANCEL_PAYMENT,undo the 10000 dollars payment to the landlord,,the landlord,10000,dollars,,,,
+CANCEL_PAYMENT,undo the 500 USD payment to the insurance company,,the insurance company,500,USD,,,,
+CANCEL_PAYMENT,cancel the 45000 pounds transfer,,,45000,pounds,,,,
+CANCEL_PAYMENT,revoke instruction id INS-556,instruction id INS-556,,,,,,,
+CANCEL_PAYMENT,"cancel the payment to michael chen, sent by mistake",,michael chen,,,,,sent by mistake,
+CANCEL_PAYMENT,can you delete invoice INV-2291,invoice INV-2291,,,,,,,
+CANCEL_PAYMENT,undo the 250000 euros payment to priya sharma,,priya sharma,250000,euros,,,,
+CANCEL_PAYMENT,can you delete transaction id TXN88213,transaction id TXN88213,,,,,,,
+CANCEL_PAYMENT,"cancel xyz corp's payment, order id ORD-7712",order id ORD-7712,xyz corp,,,,,,
+CANCEL_PAYMENT,cancel the payment to oceanic exports,,oceanic exports,,,,,,
+CANCEL_PAYMENT,cancel the payment to green energy pvt ltd scheduled for tomorrow,,green energy pvt ltd,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,revoke transaction id TXN88213,transaction id TXN88213,,,,,,,
+CANCEL_PAYMENT,cancel the awaiting approval payment from the account ending 4521,,,,,the account ending 4521,,,awaiting approval
+CANCEL_PAYMENT,"stop the queued payment, sent by mistake",,,,,,,sent by mistake,queued
+CANCEL_PAYMENT,cancel the payment to the landlord,,the landlord,,,,,,
+CANCEL_PAYMENT,stop the scheduled transfer,,,,,,,,scheduled
+CANCEL_PAYMENT,remove instruction id INS-556 from the queue,instruction id INS-556,,,,,,,
+CANCEL_PAYMENT,"cancel the payment to the insurance company, wrong currency",,the insurance company,,,,,wrong currency,
+CANCEL_PAYMENT,is the pending payment to delta enterprises still cancellable,,delta enterprises,,,,,,pending
+CANCEL_PAYMENT,cancel the 500 INR transfer,,,500,INR,,,,
+CANCEL_PAYMENT,cancel the 45000 euros transfer,,,45000,euros,,,,
+CANCEL_PAYMENT,"stop the pending payment, duplicate payment",,,,,,,duplicate payment,pending
+CANCEL_PAYMENT,cancel payment invoice INV-2291,invoice INV-2291,,,,,,,
+CANCEL_PAYMENT,"cancel anita desai's payment, payment id PMT-4471",payment id PMT-4471,anita desai,,,,,,
+CANCEL_PAYMENT,cancel the payment to michael chen from this morning,,michael chen,,,,from this morning,,
+CANCEL_PAYMENT,stop the queued transfer,,,,,,,,queued
+CANCEL_PAYMENT,cancel the 15000 rupees transfer,,,15000,rupees,,,,
+CANCEL_PAYMENT,is the awaiting approval payment to green energy pvt ltd still cancellable,,green energy pvt ltd,,,,,,awaiting approval
+CANCEL_PAYMENT,cancel the payment to grand hotel,,grand hotel,,,,,,
+CANCEL_PAYMENT,"cancel priya sharma's payment, payment id PMT-4471",payment id PMT-4471,priya sharma,,,,,,
+CANCEL_PAYMENT,is the processing payment to our supplier still cancellable,,our supplier,,,,,,processing
+CANCEL_PAYMENT,remove order id ORD-7712 from the queue,order id ORD-7712,,,,,,,
+CANCEL_PAYMENT,undo the 5000 EUR payment to the electricity board,,the electricity board,5000,EUR,,,,
+CANCEL_PAYMENT,"please stop payment instruction id INS-556, no longer needed",instruction id INS-556,,,,,,no longer needed,
+CANCEL_PAYMENT,cancel the payment to our supplier,,our supplier,,,,,,
+CANCEL_PAYMENT,remove payment id PMT-4471 from the queue,payment id PMT-4471,,,,,,,
+CANCEL_PAYMENT,cancel the payment to xyz corp,,xyz corp,,,,,,
+CANCEL_PAYMENT,stop the awaiting approval transfer,,,,,,,,awaiting approval
+CANCEL_PAYMENT,revoke reference number REF3321,reference number REF3321,,,,,,,
+CANCEL_PAYMENT,"cancel xyz corp's payment, transaction id TXN88213",transaction id TXN88213,xyz corp,,,,,,
+CANCEL_PAYMENT,cancel the processing payment from my current account,,,,,my current account,,,processing
+CANCEL_PAYMENT,cancel the payment to green energy pvt ltd,,green energy pvt ltd,,,,,,
+CANCEL_PAYMENT,can you delete instruction id INS-556,instruction id INS-556,,,,,,,
+CANCEL_PAYMENT,"please stop payment transaction id TXN88213, sent by mistake",transaction id TXN88213,,,,,,sent by mistake,
+CANCEL_PAYMENT,cancel payment payment id PMT-4471,payment id PMT-4471,,,,,,,
+CANCEL_PAYMENT,"cancel the payment to the electricity board, no longer needed",,the electricity board,,,,,no longer needed,
+CANCEL_PAYMENT,cancel the 25000 EUR transfer,,,25000,EUR,,,,
+CANCEL_PAYMENT,cancel payment transaction id TXN88213,transaction id TXN88213,,,,,,,
+CANCEL_PAYMENT,is the awaiting approval payment to the insurance company still cancellable,,the insurance company,,,,,,awaiting approval
+CANCEL_PAYMENT,remove reference number REF3321 from the queue,reference number REF3321,,,,,,,
+CANCEL_PAYMENT,"cancel john smith's payment, instruction id INS-556",instruction id INS-556,john smith,,,,,,
+CANCEL_PAYMENT,can you delete reference number REF3321,reference number REF3321,,,,,,,
+CANCEL_PAYMENT,revoke payment id PMT-4471,payment id PMT-4471,,,,,,,
+CANCEL_PAYMENT,cancel the 150000 EUR transfer,,,150000,EUR,,,,
+CANCEL_PAYMENT,cancel the payment to delta enterprises,,delta enterprises,,,,,,
+CANCEL_PAYMENT,"please stop payment instruction id INS-556, duplicate payment",instruction id INS-556,,,,,,duplicate payment,
+CANCEL_PAYMENT,cancel the 5000 euros transfer,,,5000,euros,,,,
+CANCEL_PAYMENT,"stop the awaiting approval payment, wrong amount",,,,,,,wrong amount,awaiting approval
+CANCEL_PAYMENT,cancel my pending transaction payment id PMT-4471,payment id PMT-4471,,,,,,,pending
+CANCEL_PAYMENT,"cancel grand hotel's payment, transaction id TXN88213",transaction id TXN88213,grand hotel,,,,,,
+CANCEL_PAYMENT,is the scheduled payment to anita desai still cancellable,,anita desai,,,,,,scheduled
+CANCEL_PAYMENT,cancel my processing transaction instruction id INS-556,instruction id INS-556,,,,,,,processing
+CANCEL_PAYMENT,cancel the 250000 pounds transfer,,,250000,pounds,,,,
+CANCEL_PAYMENT,cancel my processing transaction transaction id TXN88213,transaction id TXN88213,,,,,,,processing
+CANCEL_PAYMENT,"cancel the payment to green energy pvt ltd, wrong currency",,green energy pvt ltd,,,,,wrong currency,
+CANCEL_PAYMENT,"please stop payment invoice INV-2291, incorrect account number",invoice INV-2291,,,,,,incorrect account number,
+CANCEL_PAYMENT,revoke order id ORD-7712,order id ORD-7712,,,,,,,
+CANCEL_PAYMENT,is the pending payment to our supplier still cancellable,,our supplier,,,,,,pending
+CANCEL_PAYMENT,"stop the scheduled payment, sent by mistake",,,,,,,sent by mistake,scheduled
+CANCEL_PAYMENT,"cancel the payment to anita desai, sent by mistake",,anita desai,,,,,sent by mistake,
+CANCEL_PAYMENT,"cancel green energy pvt ltd's payment, instruction id INS-556",instruction id INS-556,green energy pvt ltd,,,,,,
+CANCEL_PAYMENT,is the awaiting approval payment to priya sharma still cancellable,,priya sharma,,,,,,awaiting approval
+CANCEL_PAYMENT,remove invoice INV-2291 from the queue,invoice INV-2291,,,,,,,
+CANCEL_PAYMENT,can you delete order id ORD-7712,order id ORD-7712,,,,,,,
+CANCEL_PAYMENT,cancel my processing transaction payment id PMT-4471,payment id PMT-4471,,,,,,,processing
+CANCEL_PAYMENT,cancel the 75000 INR transfer,,,75000,INR,,,,
+CANCEL_PAYMENT,cancel the 45000 rupees transfer,,,45000,rupees,,,,
+CANCEL_PAYMENT,"cancel the payment to tech solutions inc, sent by mistake",,tech solutions inc,,,,,sent by mistake,
+CANCEL_PAYMENT,is the scheduled payment to priya sharma still cancellable,,priya sharma,,,,,,scheduled
+CANCEL_PAYMENT,"cancel the payment to delta enterprises, wrong beneficiary",,delta enterprises,,,,,wrong beneficiary,
+CANCEL_PAYMENT,"please stop payment invoice INV-2291, wrong beneficiary",invoice INV-2291,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,"stop the pending payment, vendor cancelled the order",,,,,,,vendor cancelled the order,pending
+CANCEL_PAYMENT,"cancel the payment to delta enterprises, no longer needed",,delta enterprises,,,,,no longer needed,
+CANCEL_PAYMENT,"cancel john smith's payment, reference number REF3321",reference number REF3321,john smith,,,,,,
+CANCEL_PAYMENT,cancel the 5000 GBP transfer,,,5000,GBP,,,,
+CANCEL_PAYMENT,cancel the payment to michael chen,,michael chen,,,,,,
+CANCEL_PAYMENT,is the processing payment to priya sharma still cancellable,,priya sharma,,,,,,processing
+CANCEL_PAYMENT,cancel the payment to our supplier due next monday,,our supplier,,,,due next monday,,
+CANCEL_PAYMENT,"cancel delta enterprises's payment, instruction id INS-556",instruction id INS-556,delta enterprises,,,,,,
+CANCEL_PAYMENT,cancel the 75000 rupees transfer,,,75000,rupees,,,,
+CANCEL_PAYMENT,"stop the pending payment, no longer needed",,,,,,,no longer needed,pending
+CANCEL_PAYMENT,"cancel the payment to green energy pvt ltd, sent by mistake",,green energy pvt ltd,,,,,sent by mistake,
+CANCEL_PAYMENT,cancel the 150000 INR transfer,,,150000,INR,,,,
+CANCEL_PAYMENT,cancel the 15000 euros transfer,,,15000,euros,,,,
+CANCEL_PAYMENT,cancel the 7800 dollars transfer,,,7800,dollars,,,,
+CANCEL_PAYMENT,cancel the 5000 pounds transfer,,,5000,pounds,,,,
+CANCEL_PAYMENT,"withdraw instruction id INS-556, vendor cancelled the order",instruction id INS-556,,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,"please stop payment order id ORD-7712, changed my mind",order id ORD-7712,,,,,,changed my mind,
+CANCEL_PAYMENT,"please stop payment payment id PMT-4471, wrong currency",payment id PMT-4471,,,,,,wrong currency,
+CANCEL_PAYMENT,cancel the payment to delta enterprises from this morning,,delta enterprises,,,,from this morning,,
+CANCEL_PAYMENT,"cancel the landlord's payment, instruction id INS-556",instruction id INS-556,the landlord,,,,,,
+CANCEL_PAYMENT,"cancel the payment to anita desai, incorrect account number",,anita desai,,,,,incorrect account number,
+CANCEL_PAYMENT,"cancel michael chen's payment, transaction id TXN88213",transaction id TXN88213,michael chen,,,,,,
+CANCEL_PAYMENT,cancel the payment to the insurance company scheduled for tomorrow,,the insurance company,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,is the pending payment to anita desai still cancellable,,anita desai,,,,,,pending
+CANCEL_PAYMENT,"withdraw order id ORD-7712, no longer needed",order id ORD-7712,,,,,,no longer needed,
+CANCEL_PAYMENT,"withdraw instruction id INS-556, no longer needed",instruction id INS-556,,,,,,no longer needed,
+CANCEL_PAYMENT,undo the 15000 dollars payment to xyz corp,,xyz corp,15000,dollars,,,,
+CANCEL_PAYMENT,"cancel the payment to the landlord, changed my mind",,the landlord,,,,,changed my mind,
+CANCEL_PAYMENT,cancel the 32000 INR transfer,,,32000,INR,,,,
+CANCEL_PAYMENT,"withdraw order id ORD-7712, sent by mistake",order id ORD-7712,,,,,,sent by mistake,
+CANCEL_PAYMENT,cancel my queued transaction instruction id INS-556,instruction id INS-556,,,,,,,queued
+CANCEL_PAYMENT,cancel the 32000 USD transfer,,,32000,USD,,,,
+CANCEL_PAYMENT,is the scheduled payment to the landlord still cancellable,,the landlord,,,,,,scheduled
+CANCEL_PAYMENT,"cancel tech solutions inc's payment, invoice INV-2291",invoice INV-2291,tech solutions inc,,,,,,
+CANCEL_PAYMENT,"please stop payment invoice INV-2291, sent by mistake",invoice INV-2291,,,,,,sent by mistake,
+CANCEL_PAYMENT,is the processing payment to grand hotel still cancellable,,grand hotel,,,,,,processing
+CANCEL_PAYMENT,cancel the 32000 rupees transfer,,,32000,rupees,,,,
+CANCEL_PAYMENT,is the scheduled payment to xyz corp still cancellable,,xyz corp,,,,,,scheduled
+CANCEL_PAYMENT,"stop the queued payment, wrong currency",,,,,,,wrong currency,queued
+CANCEL_PAYMENT,please cancel my pending payment of 5000 INR to michael chen,,michael chen,5000,INR,,,,pending
+CANCEL_PAYMENT,cancel the queued payment from the account ending 4521,,,,,the account ending 4521,,,queued
+CANCEL_PAYMENT,please cancel my payment of 25000 USD to michael chen,,michael chen,25000,USD,,,,
+CANCEL_PAYMENT,cancel the payment to tech solutions inc scheduled for tomorrow,,tech solutions inc,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,"withdraw invoice INV-2291, wrong currency",invoice INV-2291,,,,,,wrong currency,
+CANCEL_PAYMENT,"stop the queued payment, changed my mind",,,,,,,changed my mind,queued
+CANCEL_PAYMENT,is the queued payment to anita desai still cancellable,,anita desai,,,,,,queued
+CANCEL_PAYMENT,"withdraw order id ORD-7712, duplicate payment",order id ORD-7712,,,,,,duplicate payment,
+CANCEL_PAYMENT,cancel my scheduled transaction instruction id INS-556,instruction id INS-556,,,,,,,scheduled
+CANCEL_PAYMENT,"withdraw instruction id INS-556, wrong currency",instruction id INS-556,,,,,,wrong currency,
+CANCEL_PAYMENT,"cancel the payment to anita desai, no longer needed",,anita desai,,,,,no longer needed,
+CANCEL_PAYMENT,"cancel the electricity board's payment, reference number REF3321",reference number REF3321,the electricity board,,,,,,
+CANCEL_PAYMENT,please cancel my payment of 100000 dollars to oceanic exports,,oceanic exports,100000,dollars,,,,
+CANCEL_PAYMENT,cancel the scheduled payment from the corporate account,,,,,the corporate account,,,scheduled
+CANCEL_PAYMENT,"please stop payment reference number REF3321, incorrect account number",reference number REF3321,,,,,,incorrect account number,
+CANCEL_PAYMENT,"withdraw reference number REF3321, duplicate payment",reference number REF3321,,,,,,duplicate payment,
+CANCEL_PAYMENT,undo the 75000 rupees payment to delta enterprises,,delta enterprises,75000,rupees,,,,
+CANCEL_PAYMENT,cancel my awaiting approval transaction invoice INV-2291,invoice INV-2291,,,,,,,awaiting approval
+CANCEL_PAYMENT,"cancel michael chen's payment, order id ORD-7712",order id ORD-7712,michael chen,,,,,,
+CANCEL_PAYMENT,is the queued payment to priya sharma still cancellable,,priya sharma,,,,,,queued
+CANCEL_PAYMENT,cancel the 1200 GBP transfer,,,1200,GBP,,,,
+CANCEL_PAYMENT,cancel the 500 euros transfer,,,500,euros,,,,
+CANCEL_PAYMENT,"stop the awaiting approval payment, sent by mistake",,,,,,,sent by mistake,awaiting approval
+CANCEL_PAYMENT,"cancel the payment to the insurance company, duplicate payment",,the insurance company,,,,,duplicate payment,
+CANCEL_PAYMENT,cancel the pending payment from my usd account,,,,,my usd account,,,pending
+CANCEL_PAYMENT,"cancel xyz corp's payment, payment id PMT-4471",payment id PMT-4471,xyz corp,,,,,,
+CANCEL_PAYMENT,undo the 250000 USD payment to priya sharma,,priya sharma,250000,USD,,,,
+CANCEL_PAYMENT,cancel my queued transaction transaction id TXN88213,transaction id TXN88213,,,,,,,queued
+CANCEL_PAYMENT,"stop the pending payment, sent by mistake",,,,,,,sent by mistake,pending
+CANCEL_PAYMENT,"stop the awaiting approval payment, wrong currency",,,,,,,wrong currency,awaiting approval
+CANCEL_PAYMENT,"cancel the payment to the insurance company, incorrect account number",,the insurance company,,,,,incorrect account number,
+CANCEL_PAYMENT,"cancel the payment to the landlord, duplicate payment",,the landlord,,,,,duplicate payment,
+CANCEL_PAYMENT,undo the 7800 EUR payment to anita desai,,anita desai,7800,EUR,,,,
+CANCEL_PAYMENT,cancel the 250000 dollars transfer,,,250000,dollars,,,,
+CANCEL_PAYMENT,"cancel priya sharma's payment, transaction id TXN88213",transaction id TXN88213,priya sharma,,,,,,
+CANCEL_PAYMENT,cancel the 45000 dollars transfer,,,45000,dollars,,,,
+CANCEL_PAYMENT,cancel the payment to grand hotel scheduled for today,,grand hotel,,,,scheduled for today,,
+CANCEL_PAYMENT,"cancel the insurance company's payment, transaction id TXN88213",transaction id TXN88213,the insurance company,,,,,,
+CANCEL_PAYMENT,"cancel the payment to anita desai, vendor cancelled the order",,anita desai,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,cancel the 500 pounds transfer,,,500,pounds,,,,
+CANCEL_PAYMENT,cancel the payment to oceanic exports dated the 5th,,oceanic exports,,,,dated the 5th,,
+CANCEL_PAYMENT,"please stop payment order id ORD-7712, sent by mistake",order id ORD-7712,,,,,,sent by mistake,
+CANCEL_PAYMENT,"please stop payment instruction id INS-556, changed my mind",instruction id INS-556,,,,,,changed my mind,
+CANCEL_PAYMENT,is the scheduled payment to the electricity board still cancellable,,the electricity board,,,,,,scheduled
+CANCEL_PAYMENT,please cancel my payment of 250000 USD to anita desai,,anita desai,250000,USD,,,,
+CANCEL_PAYMENT,"withdraw invoice INV-2291, vendor cancelled the order",invoice INV-2291,,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,cancel the 10000 pounds transfer,,,10000,pounds,,,,
+CANCEL_PAYMENT,"stop the processing payment, wrong beneficiary",,,,,,,wrong beneficiary,processing
+CANCEL_PAYMENT,"stop the queued payment, no longer needed",,,,,,,no longer needed,queued
+CANCEL_PAYMENT,"cancel the payment to michael chen, incorrect account number",,michael chen,,,,,incorrect account number,
+CANCEL_PAYMENT,"cancel grand hotel's payment, invoice INV-2291",invoice INV-2291,grand hotel,,,,,,
+CANCEL_PAYMENT,cancel my awaiting approval transaction transaction id TXN88213,transaction id TXN88213,,,,,,,awaiting approval
+CANCEL_PAYMENT,undo the 62000 euros payment to john smith,,john smith,62000,euros,,,,
+CANCEL_PAYMENT,undo the 7800 USD payment to john smith,,john smith,7800,USD,,,,
+CANCEL_PAYMENT,undo the 2500 USD payment to priya sharma,,priya sharma,2500,USD,,,,
+CANCEL_PAYMENT,"cancel the payment to oceanic exports, no longer needed",,oceanic exports,,,,,no longer needed,
+CANCEL_PAYMENT,cancel the 250000 EUR transfer,,,250000,EUR,,,,
+CANCEL_PAYMENT,"cancel tech solutions inc's payment, transaction id TXN88213",transaction id TXN88213,tech solutions inc,,,,,,
+CANCEL_PAYMENT,is the awaiting approval payment to grand hotel still cancellable,,grand hotel,,,,,,awaiting approval
+CANCEL_PAYMENT,"cancel the payment to priya sharma, vendor cancelled the order",,priya sharma,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,undo the 150000 EUR payment to the insurance company,,the insurance company,150000,EUR,,,,
+CANCEL_PAYMENT,"cancel the payment to the electricity board, changed my mind",,the electricity board,,,,,changed my mind,
+CANCEL_PAYMENT,please cancel my payment of 45000 euros to john smith,,john smith,45000,euros,,,,
+CANCEL_PAYMENT,is the awaiting approval payment to xyz corp still cancellable,,xyz corp,,,,,,awaiting approval
+CANCEL_PAYMENT,cancel the 25000 GBP transfer,,,25000,GBP,,,,
+CANCEL_PAYMENT,"stop the queued payment, duplicate payment",,,,,,,duplicate payment,queued
+CANCEL_PAYMENT,cancel the 10000 INR transfer,,,10000,INR,,,,
+CANCEL_PAYMENT,cancel the processing payment from my usd account,,,,,my usd account,,,processing
+CANCEL_PAYMENT,"cancel grand hotel's payment, instruction id INS-556",instruction id INS-556,grand hotel,,,,,,
+CANCEL_PAYMENT,is the processing payment to anita desai still cancellable,,anita desai,,,,,,processing
+CANCEL_PAYMENT,"cancel the payment to oceanic exports, wrong currency",,oceanic exports,,,,,wrong currency,
+CANCEL_PAYMENT,undo the 500 USD payment to green energy pvt ltd,,green energy pvt ltd,500,USD,,,,
+CANCEL_PAYMENT,"cancel the insurance company's payment, payment id PMT-4471",payment id PMT-4471,the insurance company,,,,,,
+CANCEL_PAYMENT,cancel the 100000 GBP transfer,,,100000,GBP,,,,
+CANCEL_PAYMENT,cancel the 10000 rupees transfer,,,10000,rupees,,,,
+CANCEL_PAYMENT,"withdraw reference number REF3321, wrong beneficiary",reference number REF3321,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,cancel the 5000 EUR transfer,,,5000,EUR,,,,
+CANCEL_PAYMENT,cancel the 250000 USD transfer,,,250000,USD,,,,
+CANCEL_PAYMENT,"stop the scheduled payment, duplicate payment",,,,,,,duplicate payment,scheduled
+CANCEL_PAYMENT,cancel the processing payment from the corporate account,,,,,the corporate account,,,processing
+CANCEL_PAYMENT,please cancel my payment of 250000 euros to delta enterprises,,delta enterprises,250000,euros,,,,
+CANCEL_PAYMENT,is the scheduled payment to our supplier still cancellable,,our supplier,,,,,,scheduled
+CANCEL_PAYMENT,cancel my scheduled transaction transaction id TXN88213,transaction id TXN88213,,,,,,,scheduled
+CANCEL_PAYMENT,cancel the 1200 rupees transfer,,,1200,rupees,,,,
+CANCEL_PAYMENT,cancel the 500 EUR transfer,,,500,EUR,,,,
+CANCEL_PAYMENT,is the processing payment to tech solutions inc still cancellable,,tech solutions inc,,,,,,processing
+CANCEL_PAYMENT,cancel the 150000 euros transfer,,,150000,euros,,,,
+CANCEL_PAYMENT,is the processing payment to john smith still cancellable,,john smith,,,,,,processing
+CANCEL_PAYMENT,is the pending payment to the landlord still cancellable,,the landlord,,,,,,pending
+CANCEL_PAYMENT,please cancel my pending payment of 62000 EUR to our supplier,,our supplier,62000,EUR,,,,pending
+CANCEL_PAYMENT,cancel the 2500 GBP transfer,,,2500,GBP,,,,
+CANCEL_PAYMENT,"cancel the payment to the insurance company, wrong amount",,the insurance company,,,,,wrong amount,
+CANCEL_PAYMENT,"cancel the insurance company's payment, order id ORD-7712",order id ORD-7712,the insurance company,,,,,,
+CANCEL_PAYMENT,cancel my scheduled transaction payment id PMT-4471,payment id PMT-4471,,,,,,,scheduled
+CANCEL_PAYMENT,"cancel the payment to tech solutions inc, incorrect account number",,tech solutions inc,,,,,incorrect account number,
+CANCEL_PAYMENT,is the scheduled payment to grand hotel still cancellable,,grand hotel,,,,,,scheduled
+CANCEL_PAYMENT,"withdraw transaction id TXN88213, duplicate payment",transaction id TXN88213,,,,,,duplicate payment,
+CANCEL_PAYMENT,cancel the 5000 rupees transfer,,,5000,rupees,,,,
+CANCEL_PAYMENT,cancel the 1200 pounds transfer,,,1200,pounds,,,,
+CANCEL_PAYMENT,cancel the payment to the electricity board due next monday,,the electricity board,,,,due next monday,,
+CANCEL_PAYMENT,please cancel my payment of 62000 EUR to oceanic exports,,oceanic exports,62000,EUR,,,,
+CANCEL_PAYMENT,"cancel the payment to anita desai, wrong beneficiary",,anita desai,,,,,wrong beneficiary,
+CANCEL_PAYMENT,cancel my awaiting approval transaction instruction id INS-556,instruction id INS-556,,,,,,,awaiting approval
+CANCEL_PAYMENT,cancel the 150000 rupees transfer,,,150000,rupees,,,,
+CANCEL_PAYMENT,"stop the queued payment, wrong beneficiary",,,,,,,wrong beneficiary,queued
+CANCEL_PAYMENT,cancel the 15000 dollars transfer,,,15000,dollars,,,,
+CANCEL_PAYMENT,"withdraw invoice INV-2291, changed my mind",invoice INV-2291,,,,,,changed my mind,
+CANCEL_PAYMENT,"withdraw order id ORD-7712, vendor cancelled the order",order id ORD-7712,,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,please cancel my payment of 62000 dollars to michael chen,,michael chen,62000,dollars,,,,
+CANCEL_PAYMENT,please cancel my payment of 25000 GBP to priya sharma,,priya sharma,25000,GBP,,,,
+CANCEL_PAYMENT,cancel the payment to the electricity board scheduled for today,,the electricity board,,,,scheduled for today,,
+CANCEL_PAYMENT,cancel my processing transaction invoice INV-2291,invoice INV-2291,,,,,,,processing
+CANCEL_PAYMENT,"cancel the payment to our supplier, changed my mind",,our supplier,,,,,changed my mind,
+CANCEL_PAYMENT,"please stop payment invoice INV-2291, wrong amount",invoice INV-2291,,,,,,wrong amount,
+CANCEL_PAYMENT,cancel the 5000 dollars transfer,,,5000,dollars,,,,
+CANCEL_PAYMENT,cancel the queued payment from the corporate account,,,,,the corporate account,,,queued
+CANCEL_PAYMENT,cancel the queued payment from my usd account,,,,,my usd account,,,queued
+CANCEL_PAYMENT,cancel the processing payment from account number 003321,,,,,account number 003321,,,processing
+CANCEL_PAYMENT,"stop the scheduled payment, wrong beneficiary",,,,,,,wrong beneficiary,scheduled
+CANCEL_PAYMENT,undo the 150000 INR payment to green energy pvt ltd,,green energy pvt ltd,150000,INR,,,,
+CANCEL_PAYMENT,"stop the queued payment, wrong amount",,,,,,,wrong amount,queued
+CANCEL_PAYMENT,cancel the 10000 EUR transfer,,,10000,EUR,,,,
+CANCEL_PAYMENT,cancel the 250000 rupees transfer,,,250000,rupees,,,,
+CANCEL_PAYMENT,"cancel the landlord's payment, payment id PMT-4471",payment id PMT-4471,the landlord,,,,,,
+CANCEL_PAYMENT,undo the 150000 GBP payment to delta enterprises,,delta enterprises,150000,GBP,,,,
+CANCEL_PAYMENT,is the processing payment to michael chen still cancellable,,michael chen,,,,,,processing
+CANCEL_PAYMENT,is the queued payment to john smith still cancellable,,john smith,,,,,,queued
+CANCEL_PAYMENT,is the queued payment to the landlord still cancellable,,the landlord,,,,,,queued
+CANCEL_PAYMENT,is the queued payment to tech solutions inc still cancellable,,tech solutions inc,,,,,,queued
+CANCEL_PAYMENT,is the processing payment to the landlord still cancellable,,the landlord,,,,,,processing
+CANCEL_PAYMENT,"please stop payment transaction id TXN88213, incorrect account number",transaction id TXN88213,,,,,,incorrect account number,
+CANCEL_PAYMENT,undo the 15000 rupees payment to grand hotel,,grand hotel,15000,rupees,,,,
+CANCEL_PAYMENT,cancel the 62000 euros transfer,,,62000,euros,,,,
+CANCEL_PAYMENT,"please stop payment payment id PMT-4471, incorrect account number",payment id PMT-4471,,,,,,incorrect account number,
+CANCEL_PAYMENT,cancel the 32000 pounds transfer,,,32000,pounds,,,,
+CANCEL_PAYMENT,cancel the 100000 pounds transfer,,,100000,pounds,,,,
+CANCEL_PAYMENT,cancel the 7800 rupees transfer,,,7800,rupees,,,,
+CANCEL_PAYMENT,is the pending payment to green energy pvt ltd still cancellable,,green energy pvt ltd,,,,,,pending
+CANCEL_PAYMENT,"stop the queued payment, incorrect account number",,,,,,,incorrect account number,queued
+CANCEL_PAYMENT,"please stop payment transaction id TXN88213, wrong currency",transaction id TXN88213,,,,,,wrong currency,
+CANCEL_PAYMENT,please cancel my payment of 500 rupees to delta enterprises,,delta enterprises,500,rupees,,,,
+CANCEL_PAYMENT,cancel the 1200 USD transfer,,,1200,USD,,,,
+CANCEL_PAYMENT,is the queued payment to oceanic exports still cancellable,,oceanic exports,,,,,,queued
+CANCEL_PAYMENT,please cancel my payment of 150000 euros to grand hotel,,grand hotel,150000,euros,,,,
+CANCEL_PAYMENT,is the pending payment to oceanic exports still cancellable,,oceanic exports,,,,,,pending
+CANCEL_PAYMENT,cancel the 75000 EUR transfer,,,75000,EUR,,,,
+CANCEL_PAYMENT,cancel my pending transaction transaction id TXN88213,transaction id TXN88213,,,,,,,pending
+CANCEL_PAYMENT,"stop the pending payment, wrong amount",,,,,,,wrong amount,pending
+CANCEL_PAYMENT,"withdraw invoice INV-2291, wrong amount",invoice INV-2291,,,,,,wrong amount,
+CANCEL_PAYMENT,cancel the 15000 INR transfer,,,15000,INR,,,,
+CANCEL_PAYMENT,cancel my queued transaction reference number REF3321,reference number REF3321,,,,,,,queued
+CANCEL_PAYMENT,cancel the payment to delta enterprises due next monday,,delta enterprises,,,,due next monday,,
+CANCEL_PAYMENT,cancel the 150000 GBP transfer,,,150000,GBP,,,,
+CANCEL_PAYMENT,"stop the scheduled payment, wrong amount",,,,,,,wrong amount,scheduled
+CANCEL_PAYMENT,cancel the scheduled payment from my current account,,,,,my current account,,,scheduled
+CANCEL_PAYMENT,cancel the 100000 euros transfer,,,100000,euros,,,,
+CANCEL_PAYMENT,"cancel green energy pvt ltd's payment, payment id PMT-4471",payment id PMT-4471,green energy pvt ltd,,,,,,
+CANCEL_PAYMENT,is the processing payment to oceanic exports still cancellable,,oceanic exports,,,,,,processing
+CANCEL_PAYMENT,"cancel delta enterprises's payment, payment id PMT-4471",payment id PMT-4471,delta enterprises,,,,,,
+CANCEL_PAYMENT,"stop the pending payment, incorrect account number",,,,,,,incorrect account number,pending
+CANCEL_PAYMENT,cancel the pending payment from the account ending 4521,,,,,the account ending 4521,,,pending
+CANCEL_PAYMENT,"cancel the payment to our supplier, sent by mistake",,our supplier,,,,,sent by mistake,
+CANCEL_PAYMENT,"cancel anita desai's payment, invoice INV-2291",invoice INV-2291,anita desai,,,,,,
+CANCEL_PAYMENT,"cancel the payment to the insurance company, vendor cancelled the order",,the insurance company,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,please cancel my payment of 5000 GBP to anita desai,,anita desai,5000,GBP,,,,
+CANCEL_PAYMENT,"withdraw invoice INV-2291, wrong beneficiary",invoice INV-2291,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,"cancel anita desai's payment, reference number REF3321",reference number REF3321,anita desai,,,,,,
+CANCEL_PAYMENT,undo the 10000 INR payment to green energy pvt ltd,,green energy pvt ltd,10000,INR,,,,
+CANCEL_PAYMENT,cancel the payment to john smith scheduled for tomorrow,,john smith,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,"stop the awaiting approval payment, incorrect account number",,,,,,,incorrect account number,awaiting approval
+CANCEL_PAYMENT,cancel my pending transaction invoice INV-2291,invoice INV-2291,,,,,,,pending
+CANCEL_PAYMENT,cancel the 100000 INR transfer,,,100000,INR,,,,
+CANCEL_PAYMENT,is the awaiting approval payment to michael chen still cancellable,,michael chen,,,,,,awaiting approval
+CANCEL_PAYMENT,cancel the 2500 pounds transfer,,,2500,pounds,,,,
+CANCEL_PAYMENT,cancel the 150000 dollars transfer,,,150000,dollars,,,,
+CANCEL_PAYMENT,"stop the pending payment, wrong beneficiary",,,,,,,wrong beneficiary,pending
+CANCEL_PAYMENT,is the scheduled payment to the insurance company still cancellable,,the insurance company,,,,,,scheduled
+CANCEL_PAYMENT,cancel the 32000 GBP transfer,,,32000,GBP,,,,
+CANCEL_PAYMENT,"cancel the electricity board's payment, transaction id TXN88213",transaction id TXN88213,the electricity board,,,,,,
+CANCEL_PAYMENT,is the processing payment to xyz corp still cancellable,,xyz corp,,,,,,processing
+CANCEL_PAYMENT,cancel the payment to our supplier dated the 5th,,our supplier,,,,dated the 5th,,
+CANCEL_PAYMENT,cancel the scheduled payment from account number 003321,,,,,account number 003321,,,scheduled
+CANCEL_PAYMENT,cancel the pending payment from account number 003321,,,,,account number 003321,,,pending
+CANCEL_PAYMENT,undo the 75000 USD payment to the electricity board,,the electricity board,75000,USD,,,,
+CANCEL_PAYMENT,cancel my pending transaction instruction id INS-556,instruction id INS-556,,,,,,,pending
+CANCEL_PAYMENT,please cancel my payment of 62000 pounds to tech solutions inc,,tech solutions inc,62000,pounds,,,,
+CANCEL_PAYMENT,"stop the awaiting approval payment, wrong beneficiary",,,,,,,wrong beneficiary,awaiting approval
+CANCEL_PAYMENT,undo the 2500 EUR payment to tech solutions inc,,tech solutions inc,2500,EUR,,,,
+CANCEL_PAYMENT,"cancel anita desai's payment, instruction id INS-556",instruction id INS-556,anita desai,,,,,,
+CANCEL_PAYMENT,cancel the payment to the insurance company due next monday,,the insurance company,,,,due next monday,,
+CANCEL_PAYMENT,is the pending payment to tech solutions inc still cancellable,,tech solutions inc,,,,,,pending
+CANCEL_PAYMENT,is the awaiting approval payment to john smith still cancellable,,john smith,,,,,,awaiting approval
+CANCEL_PAYMENT,undo the 32000 euros payment to the electricity board,,the electricity board,32000,euros,,,,
+CANCEL_PAYMENT,cancel the 5000 INR transfer,,,5000,INR,,,,
+CANCEL_PAYMENT,"withdraw transaction id TXN88213, changed my mind",transaction id TXN88213,,,,,,changed my mind,
+CANCEL_PAYMENT,undo the 10000 EUR payment to tech solutions inc,,tech solutions inc,10000,EUR,,,,
+CANCEL_PAYMENT,"withdraw payment id PMT-4471, incorrect account number",payment id PMT-4471,,,,,,incorrect account number,
+CANCEL_PAYMENT,please cancel my payment of 2500 INR to xyz corp,,xyz corp,2500,INR,,,,
+CANCEL_PAYMENT,cancel my processing transaction order id ORD-7712,order id ORD-7712,,,,,,,processing
+CANCEL_PAYMENT,"cancel grand hotel's payment, order id ORD-7712",order id ORD-7712,grand hotel,,,,,,
+CANCEL_PAYMENT,cancel the processing payment from the account ending 4521,,,,,the account ending 4521,,,processing
+CANCEL_PAYMENT,"please stop payment instruction id INS-556, vendor cancelled the order",instruction id INS-556,,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,cancel my queued transaction invoice INV-2291,invoice INV-2291,,,,,,,queued
+CANCEL_PAYMENT,"cancel green energy pvt ltd's payment, transaction id TXN88213",transaction id TXN88213,green energy pvt ltd,,,,,,
+CANCEL_PAYMENT,cancel the 62000 EUR transfer,,,62000,EUR,,,,
+CANCEL_PAYMENT,is the scheduled payment to michael chen still cancellable,,michael chen,,,,,,scheduled
+CANCEL_PAYMENT,is the scheduled payment to delta enterprises still cancellable,,delta enterprises,,,,,,scheduled
+CANCEL_PAYMENT,undo the 1200 USD payment to green energy pvt ltd,,green energy pvt ltd,1200,USD,,,,
+CANCEL_PAYMENT,cancel the payment to xyz corp from this morning,,xyz corp,,,,from this morning,,
+CANCEL_PAYMENT,cancel the scheduled payment from my usd account,,,,,my usd account,,,scheduled
+CANCEL_PAYMENT,"cancel oceanic exports's payment, instruction id INS-556",instruction id INS-556,oceanic exports,,,,,,
+CANCEL_PAYMENT,"withdraw instruction id INS-556, duplicate payment",instruction id INS-556,,,,,,duplicate payment,
+CANCEL_PAYMENT,cancel the 500 USD transfer,,,500,USD,,,,
+CANCEL_PAYMENT,cancel the 500 dollars transfer,,,500,dollars,,,,
+CANCEL_PAYMENT,"cancel the landlord's payment, transaction id TXN88213",transaction id TXN88213,the landlord,,,,,,
+CANCEL_PAYMENT,"stop the processing payment, wrong currency",,,,,,,wrong currency,processing
+CANCEL_PAYMENT,cancel the 45000 GBP transfer,,,45000,GBP,,,,
+CANCEL_PAYMENT,"cancel the payment to the insurance company, changed my mind",,the insurance company,,,,,changed my mind,
+CANCEL_PAYMENT,cancel the queued payment from my current account,,,,,my current account,,,queued
+CANCEL_PAYMENT,"stop the processing payment, wrong amount",,,,,,,wrong amount,processing
+CANCEL_PAYMENT,cancel the payment to michael chen scheduled for tomorrow,,michael chen,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,is the awaiting approval payment to our supplier still cancellable,,our supplier,,,,,,awaiting approval
+CANCEL_PAYMENT,"cancel the landlord's payment, reference number REF3321",reference number REF3321,the landlord,,,,,,
+CANCEL_PAYMENT,please cancel my pending payment of 150000 euros to the insurance company,,the insurance company,150000,euros,,,,pending
+CANCEL_PAYMENT,undo the 15000 INR payment to oceanic exports,,oceanic exports,15000,INR,,,,
+CANCEL_PAYMENT,please cancel my payment of 62000 rupees to grand hotel,,grand hotel,62000,rupees,,,,
+CANCEL_PAYMENT,"cancel the payment to delta enterprises, wrong currency",,delta enterprises,,,,,wrong currency,
+CANCEL_PAYMENT,"cancel the payment to john smith, incorrect account number",,john smith,,,,,incorrect account number,
+CANCEL_PAYMENT,"cancel the payment to grand hotel, no longer needed",,grand hotel,,,,,no longer needed,
+CANCEL_PAYMENT,"cancel the electricity board's payment, invoice INV-2291",invoice INV-2291,the electricity board,,,,,,
+CANCEL_PAYMENT,cancel the 32000 dollars transfer,,,32000,dollars,,,,
+CANCEL_PAYMENT,"cancel the payment to our supplier, no longer needed",,our supplier,,,,,no longer needed,
+CANCEL_PAYMENT,please cancel my scheduled payment of 15000 INR to xyz corp,,xyz corp,15000,INR,,,,scheduled
+CANCEL_PAYMENT,is the processing payment to green energy pvt ltd still cancellable,,green energy pvt ltd,,,,,,processing
+CANCEL_PAYMENT,cancel the 1200 dollars transfer,,,1200,dollars,,,,
+CANCEL_PAYMENT,undo the 5000 euros payment to grand hotel,,grand hotel,5000,euros,,,,
+CANCEL_PAYMENT,is the scheduled payment to green energy pvt ltd still cancellable,,green energy pvt ltd,,,,,,scheduled
+CANCEL_PAYMENT,"cancel tech solutions inc's payment, instruction id INS-556",instruction id INS-556,tech solutions inc,,,,,,
+CANCEL_PAYMENT,"please stop payment payment id PMT-4471, wrong beneficiary",payment id PMT-4471,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,undo the 25000 euros payment to anita desai,,anita desai,25000,euros,,,,
+CANCEL_PAYMENT,is the awaiting approval payment to anita desai still cancellable,,anita desai,,,,,,awaiting approval
+CANCEL_PAYMENT,is the queued payment to our supplier still cancellable,,our supplier,,,,,,queued
+CANCEL_PAYMENT,"cancel oceanic exports's payment, payment id PMT-4471",payment id PMT-4471,oceanic exports,,,,,,
+CANCEL_PAYMENT,cancel the payment to grand hotel due next monday,,grand hotel,,,,due next monday,,
+CANCEL_PAYMENT,undo the 2500 euros payment to tech solutions inc,,tech solutions inc,2500,euros,,,,
+CANCEL_PAYMENT,cancel the 100000 USD transfer,,,100000,USD,,,,
+CANCEL_PAYMENT,is the scheduled payment to oceanic exports still cancellable,,oceanic exports,,,,,,scheduled
+CANCEL_PAYMENT,"cancel the payment to xyz corp, duplicate payment",,xyz corp,,,,,duplicate payment,
+CANCEL_PAYMENT,is the pending payment to michael chen still cancellable,,michael chen,,,,,,pending
+CANCEL_PAYMENT,"please stop payment payment id PMT-4471, changed my mind",payment id PMT-4471,,,,,,changed my mind,
+CANCEL_PAYMENT,"cancel the insurance company's payment, instruction id INS-556",instruction id INS-556,the insurance company,,,,,,
+CANCEL_PAYMENT,cancel the payment to the electricity board scheduled for tomorrow,,the electricity board,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,cancel the payment to oceanic exports scheduled for today,,oceanic exports,,,,scheduled for today,,
+CANCEL_PAYMENT,"stop the awaiting approval payment, vendor cancelled the order",,,,,,,vendor cancelled the order,awaiting approval
+CANCEL_PAYMENT,"stop the scheduled payment, no longer needed",,,,,,,no longer needed,scheduled
+CANCEL_PAYMENT,please cancel my payment of 250000 rupees to priya sharma,,priya sharma,250000,rupees,,,,
+CANCEL_PAYMENT,cancel the payment to priya sharma dated the 5th,,priya sharma,,,,dated the 5th,,
+CANCEL_PAYMENT,cancel the 62000 INR transfer,,,62000,INR,,,,
+CANCEL_PAYMENT,please cancel my payment of 500 EUR to our supplier,,our supplier,500,EUR,,,,
+CANCEL_PAYMENT,"cancel the payment to priya sharma, no longer needed",,priya sharma,,,,,no longer needed,
+CANCEL_PAYMENT,cancel my queued transaction payment id PMT-4471,payment id PMT-4471,,,,,,,queued
+CANCEL_PAYMENT,cancel the payment to xyz corp due next monday,,xyz corp,,,,due next monday,,
+CANCEL_PAYMENT,"cancel the payment to tech solutions inc, vendor cancelled the order",,tech solutions inc,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,"cancel the landlord's payment, order id ORD-7712",order id ORD-7712,the landlord,,,,,,
+CANCEL_PAYMENT,"withdraw reference number REF3321, incorrect account number",reference number REF3321,,,,,,incorrect account number,
+CANCEL_PAYMENT,"please stop payment transaction id TXN88213, wrong amount",transaction id TXN88213,,,,,,wrong amount,
+CANCEL_PAYMENT,undo the 32000 USD payment to xyz corp,,xyz corp,32000,USD,,,,
+CANCEL_PAYMENT,cancel the awaiting approval payment from my current account,,,,,my current account,,,awaiting approval
+CANCEL_PAYMENT,undo the 7800 dollars payment to michael chen,,michael chen,7800,dollars,,,,
+CANCEL_PAYMENT,"cancel the payment to our supplier, duplicate payment",,our supplier,,,,,duplicate payment,
+CANCEL_PAYMENT,undo the 2500 dollars payment to anita desai,,anita desai,2500,dollars,,,,
+CANCEL_PAYMENT,cancel the 25000 pounds transfer,,,25000,pounds,,,,
+CANCEL_PAYMENT,"cancel the payment to green energy pvt ltd, no longer needed",,green energy pvt ltd,,,,,no longer needed,
+CANCEL_PAYMENT,"withdraw instruction id INS-556, incorrect account number",instruction id INS-556,,,,,,incorrect account number,
+CANCEL_PAYMENT,undo the 5000 USD payment to green energy pvt ltd,,green energy pvt ltd,5000,USD,,,,
+CANCEL_PAYMENT,please cancel my payment of 250000 rupees to xyz corp,,xyz corp,250000,rupees,,,,
+CANCEL_PAYMENT,cancel the payment to anita desai from this morning,,anita desai,,,,from this morning,,
+CANCEL_PAYMENT,"stop the processing payment, no longer needed",,,,,,,no longer needed,processing
+CANCEL_PAYMENT,"please stop payment instruction id INS-556, sent by mistake",instruction id INS-556,,,,,,sent by mistake,
+CANCEL_PAYMENT,"cancel the payment to john smith, no longer needed",,john smith,,,,,no longer needed,
+CANCEL_PAYMENT,undo the 100000 USD payment to priya sharma,,priya sharma,100000,USD,,,,
+CANCEL_PAYMENT,cancel the payment to michael chen dated the 5th,,michael chen,,,,dated the 5th,,
+CANCEL_PAYMENT,"cancel the payment to green energy pvt ltd, changed my mind",,green energy pvt ltd,,,,,changed my mind,
+CANCEL_PAYMENT,"cancel the payment to the insurance company, sent by mistake",,the insurance company,,,,,sent by mistake,
+CANCEL_PAYMENT,is the processing payment to the insurance company still cancellable,,the insurance company,,,,,,processing
+CANCEL_PAYMENT,cancel the pending payment from the corporate account,,,,,the corporate account,,,pending
+CANCEL_PAYMENT,"withdraw instruction id INS-556, sent by mistake",instruction id INS-556,,,,,,sent by mistake,
+CANCEL_PAYMENT,"cancel the payment to oceanic exports, changed my mind",,oceanic exports,,,,,changed my mind,
+CANCEL_PAYMENT,cancel the payment to john smith dated the 5th,,john smith,,,,dated the 5th,,
+CANCEL_PAYMENT,"stop the pending payment, wrong currency",,,,,,,wrong currency,pending
+CANCEL_PAYMENT,cancel the 62000 pounds transfer,,,62000,pounds,,,,
+CANCEL_PAYMENT,"cancel the payment to michael chen, wrong beneficiary",,michael chen,,,,,wrong beneficiary,
+CANCEL_PAYMENT,"cancel the payment to tech solutions inc, wrong beneficiary",,tech solutions inc,,,,,wrong beneficiary,
+CANCEL_PAYMENT,cancel the 75000 GBP transfer,,,75000,GBP,,,,
+CANCEL_PAYMENT,"stop the processing payment, changed my mind",,,,,,,changed my mind,processing
+CANCEL_PAYMENT,cancel the payment to the landlord dated the 5th,,the landlord,,,,dated the 5th,,
+CANCEL_PAYMENT,"stop the processing payment, vendor cancelled the order",,,,,,,vendor cancelled the order,processing
+CANCEL_PAYMENT,cancel the 25000 INR transfer,,,25000,INR,,,,
+CANCEL_PAYMENT,cancel the 250000 euros transfer,,,250000,euros,,,,
+CANCEL_PAYMENT,undo the 2500 EUR payment to the landlord,,the landlord,2500,EUR,,,,
+CANCEL_PAYMENT,please cancel my processing payment of 75000 INR to delta enterprises,,delta enterprises,75000,INR,,,,processing
+CANCEL_PAYMENT,please cancel my payment of 5000 EUR to our supplier,,our supplier,5000,EUR,,,,
+CANCEL_PAYMENT,"cancel the payment to green energy pvt ltd, wrong amount",,green energy pvt ltd,,,,,wrong amount,
+CANCEL_PAYMENT,please cancel my payment of 100000 rupees to michael chen,,michael chen,100000,rupees,,,,
+CANCEL_PAYMENT,"please stop payment transaction id TXN88213, no longer needed",transaction id TXN88213,,,,,,no longer needed,
+CANCEL_PAYMENT,"please stop payment order id ORD-7712, no longer needed",order id ORD-7712,,,,,,no longer needed,
+CANCEL_PAYMENT,"withdraw payment id PMT-4471, no longer needed",payment id PMT-4471,,,,,,no longer needed,
+CANCEL_PAYMENT,cancel my scheduled transaction invoice INV-2291,invoice INV-2291,,,,,,,scheduled
+CANCEL_PAYMENT,please cancel my payment of 7800 INR to delta enterprises,,delta enterprises,7800,INR,,,,
+CANCEL_PAYMENT,cancel the 45000 EUR transfer,,,45000,EUR,,,,
+CANCEL_PAYMENT,is the queued payment to the insurance company still cancellable,,the insurance company,,,,,,queued
+CANCEL_PAYMENT,is the pending payment to grand hotel still cancellable,,grand hotel,,,,,,pending
+CANCEL_PAYMENT,"withdraw payment id PMT-4471, wrong amount",payment id PMT-4471,,,,,,wrong amount,
+CANCEL_PAYMENT,cancel the payment to green energy pvt ltd scheduled for today,,green energy pvt ltd,,,,scheduled for today,,
+CANCEL_PAYMENT,"stop the processing payment, duplicate payment",,,,,,,duplicate payment,processing
+CANCEL_PAYMENT,"cancel the payment to john smith, changed my mind",,john smith,,,,,changed my mind,
+CANCEL_PAYMENT,cancel the payment to grand hotel scheduled for tomorrow,,grand hotel,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,is the scheduled payment to john smith still cancellable,,john smith,,,,,,scheduled
+CANCEL_PAYMENT,cancel my queued transaction order id ORD-7712,order id ORD-7712,,,,,,,queued
+CANCEL_PAYMENT,"stop the scheduled payment, vendor cancelled the order",,,,,,,vendor cancelled the order,scheduled
+CANCEL_PAYMENT,"withdraw payment id PMT-4471, wrong beneficiary",payment id PMT-4471,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,"cancel the payment to tech solutions inc, wrong amount",,tech solutions inc,,,,,wrong amount,
+CANCEL_PAYMENT,"please stop payment transaction id TXN88213, changed my mind",transaction id TXN88213,,,,,,changed my mind,
+CANCEL_PAYMENT,"cancel the payment to the insurance company, no longer needed",,the insurance company,,,,,no longer needed,
+CANCEL_PAYMENT,cancel the 7800 USD transfer,,,7800,USD,,,,
+CANCEL_PAYMENT,cancel the 7800 EUR transfer,,,7800,EUR,,,,
+CANCEL_PAYMENT,"cancel the payment to the electricity board, wrong beneficiary",,the electricity board,,,,,wrong beneficiary,
+CANCEL_PAYMENT,undo the 7800 INR payment to michael chen,,michael chen,7800,INR,,,,
+CANCEL_PAYMENT,cancel the 500 rupees transfer,,,500,rupees,,,,
+CANCEL_PAYMENT,"cancel the payment to xyz corp, no longer needed",,xyz corp,,,,,no longer needed,
+CANCEL_PAYMENT,cancel the awaiting approval payment from my usd account,,,,,my usd account,,,awaiting approval
+CANCEL_PAYMENT,"withdraw invoice INV-2291, no longer needed",invoice INV-2291,,,,,,no longer needed,
+CANCEL_PAYMENT,undo the 7800 dollars payment to the landlord,,the landlord,7800,dollars,,,,
+CANCEL_PAYMENT,cancel the 7800 pounds transfer,,,7800,pounds,,,,
+CANCEL_PAYMENT,"withdraw instruction id INS-556, wrong beneficiary",instruction id INS-556,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,please cancel my payment of 100000 EUR to grand hotel,,grand hotel,100000,EUR,,,,
+CANCEL_PAYMENT,"cancel oceanic exports's payment, transaction id TXN88213",transaction id TXN88213,oceanic exports,,,,,,
+CANCEL_PAYMENT,cancel the payment to the electricity board from this morning,,the electricity board,,,,from this morning,,
+CANCEL_PAYMENT,"cancel the payment to the landlord, vendor cancelled the order",,the landlord,,,,,vendor cancelled the order,
+CANCEL_PAYMENT,cancel the payment to oceanic exports scheduled for tomorrow,,oceanic exports,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,"withdraw transaction id TXN88213, wrong beneficiary",transaction id TXN88213,,,,,,wrong beneficiary,
+CANCEL_PAYMENT,cancel the 7800 INR transfer,,,7800,INR,,,,
+CANCEL_PAYMENT,cancel the awaiting approval payment from the corporate account,,,,,the corporate account,,,awaiting approval
+CANCEL_PAYMENT,"cancel the payment to tech solutions inc, no longer needed",,tech solutions inc,,,,,no longer needed,
+CANCEL_PAYMENT,cancel the 75000 euros transfer,,,75000,euros,,,,
+CANCEL_PAYMENT,"withdraw invoice INV-2291, incorrect account number",invoice INV-2291,,,,,,incorrect account number,
+CANCEL_PAYMENT,"cancel the electricity board's payment, instruction id INS-556",instruction id INS-556,the electricity board,,,,,,
+CANCEL_PAYMENT,"withdraw invoice INV-2291, duplicate payment",invoice INV-2291,,,,,,duplicate payment,
+CANCEL_PAYMENT,"cancel the payment to our supplier, wrong beneficiary",,our supplier,,,,,wrong beneficiary,
+CANCEL_PAYMENT,cancel the payment to anita desai dated the 5th,,anita desai,,,,dated the 5th,,
+CANCEL_PAYMENT,is the pending payment to john smith still cancellable,,john smith,,,,,,pending
+CANCEL_PAYMENT,"cancel oceanic exports's payment, invoice INV-2291",invoice INV-2291,oceanic exports,,,,,,
+CANCEL_PAYMENT,please cancel my payment of 100000 EUR to john smith,,john smith,100000,EUR,,,,
+CANCEL_PAYMENT,please cancel my scheduled payment of 100000 pounds to oceanic exports,,oceanic exports,100000,pounds,,,,scheduled
+CANCEL_PAYMENT,"cancel the landlord's payment, invoice INV-2291",invoice INV-2291,the landlord,,,,,,
+CANCEL_PAYMENT,cancel the payment to the landlord scheduled for tomorrow,,the landlord,,,,scheduled for tomorrow,,
+CANCEL_PAYMENT,cancel the payment to anita desai due next monday,,anita desai,,,,due next monday,,
+CANCEL_PAYMENT,cancel the 10000 USD transfer,,,10000,USD,,,,
+CANCEL_PAYMENT,please cancel my payment of 1200 euros to michael chen,,michael chen,1200,euros,,,,
+CANCEL_PAYMENT,cancel the payment to john smith due next monday,,john smith,,,,due next monday,,
+CANCEL_PAYMENT,undo the 7800 rupees payment to priya sharma,,priya sharma,7800,rupees,,,,
+CANCEL_PAYMENT,undo the 100000 EUR payment to priya sharma,,priya sharma,100000,EUR,,,,
+CANCEL_PAYMENT,undo the 100000 GBP payment to our supplier,,our supplier,100000,GBP,,,,
+CANCEL_PAYMENT,"cancel john smith's payment, order id ORD-7712",order id ORD-7712,john smith,,,,,,
+CANCEL_PAYMENT,undo the 5000 dollars payment to oceanic exports,,oceanic exports,5000,dollars,,,,
+CANCEL_PAYMENT,is the awaiting approval payment to the electricity board still cancellable,,the electricity board,,,,,,awaiting approval
+CANCEL_PAYMENT,cancel the 2500 INR transfer,,,2500,INR,,,,
+CANCEL_PAYMENT,please cancel my payment of 500 dollars to the electricity board,,the electricity board,500,dollars,,,,
+CANCEL_PAYMENT,"withdraw order id ORD-7712, wrong currency",order id ORD-7712,,,,,,wrong currency,
+CANCEL_PAYMENT,"please stop payment instruction id INS-556, wrong amount",instruction id INS-556,,,,,,wrong amount,
+CANCEL_PAYMENT,is the queued payment to green energy pvt ltd still cancellable,,green energy pvt ltd,,,,,,queued

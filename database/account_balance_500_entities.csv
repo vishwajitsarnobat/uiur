@@ -1,0 +1,501 @@
+intent_code,text,account,currency,balance_type,time
+ACCOUNT_BALANCE,what was my balance today,,,,today
+ACCOUNT_BALANCE,what's the on my current account today,my current account,,,today
+ACCOUNT_BALANCE,check the account ending 4521 balance,the account ending 4521,,,
+ACCOUNT_BALANCE,how much do i have left,,,,
+ACCOUNT_BALANCE,what's my cleared balance in my usd account,my usd account,,cleared balance,
+ACCOUNT_BALANCE,give me the current balance please,,,,
+ACCOUNT_BALANCE,balance check on my savings account,my savings account,,,
+ACCOUNT_BALANCE,show book balance for my usd account,my usd account,,book balance,
+ACCOUNT_BALANCE,pull up my current account balance for me,my current account,,,
+ACCOUNT_BALANCE,i want to see how much is left in my nre account,my nre account,,,
+ACCOUNT_BALANCE,show book balance for my salary account,my salary account,,book balance,
+ACCOUNT_BALANCE,quick balance check,,,,
+ACCOUNT_BALANCE,show me the balance on my business checking account,my business checking account,,,
+ACCOUNT_BALANCE,balance check on my usd account,my usd account,,,
+ACCOUNT_BALANCE,what's my book balance in account number 003321,account number 003321,,book balance,
+ACCOUNT_BALANCE,pull up my usd account balance for me,my usd account,,,
+ACCOUNT_BALANCE,balance check on my primary account,my primary account,,,
+ACCOUNT_BALANCE,i want to see how much is left in my usd account,my usd account,,,
+ACCOUNT_BALANCE,can you pull up my book balance,,,book balance,
+ACCOUNT_BALANCE,can you pull up my cleared balance,,,cleared balance,
+ACCOUNT_BALANCE,what's the cleared balance at close of business,,,cleared balance,at close of business
+ACCOUNT_BALANCE,what's my in the payroll account,the payroll account,,,
+ACCOUNT_BALANCE,what's available in my primary account this morning,my primary account,,,this morning
+ACCOUNT_BALANCE,balance check on my nre account,my nre account,,,
+ACCOUNT_BALANCE,how much money is in my salary account,my salary account,,,
+ACCOUNT_BALANCE,what's available in my primary account as of now,my primary account,,,as of now
+ACCOUNT_BALANCE,what's my ledger balance in my savings account,my savings account,,ledger balance,
+ACCOUNT_BALANCE,what's my closing balance looking like for the end of last month,,,closing balance,for the end of last month
+ACCOUNT_BALANCE,can you pull up my closing balance,,,closing balance,
+ACCOUNT_BALANCE,pull up my main account balance for me,my main account,,,
+ACCOUNT_BALANCE,what's the at close of business,,,,at close of business
+ACCOUNT_BALANCE,balance check on the account ending 4521,the account ending 4521,,,
+ACCOUNT_BALANCE,how much money is in my main account,my main account,,,
+ACCOUNT_BALANCE,what's the opening balance on 1st august,,,opening balance,on 1st august
+ACCOUNT_BALANCE,how much rupees do i have in my savings account,my savings account,rupees,,
+ACCOUNT_BALANCE,how much money is in the euro account,the euro account,,,
+ACCOUNT_BALANCE,how much GBP do i have in my current account,my current account,GBP,,
+ACCOUNT_BALANCE,balance check on my business checking account,my business checking account,,,
+ACCOUNT_BALANCE,how much money is in my nre account,my nre account,,,
+ACCOUNT_BALANCE,balance check on the joint account,the joint account,,,
+ACCOUNT_BALANCE,pull up the euro account balance for me,the euro account,,,
+ACCOUNT_BALANCE,show current balance for the corporate account,the corporate account,,current balance,
+ACCOUNT_BALANCE,i want to see how much is left in my primary account,my primary account,,,
+ACCOUNT_BALANCE,balance check on the euro account,the euro account,,,
+ACCOUNT_BALANCE,how much money is in the account ending 4521,the account ending 4521,,,
+ACCOUNT_BALANCE,what's my USD balance,,USD,,
+ACCOUNT_BALANCE,USD ledger balance on our operating account today,our operating account,USD,ledger balance,today
+ACCOUNT_BALANCE,can you pull up my ledger balance,,,ledger balance,
+ACCOUNT_BALANCE,show ledger balance for the payroll account,the payroll account,,ledger balance,
+ACCOUNT_BALANCE,can you pull up my,,,,
+ACCOUNT_BALANCE,pull up the payroll account balance for me,the payroll account,,,
+ACCOUNT_BALANCE,how much money is in my primary account,my primary account,,,
+ACCOUNT_BALANCE,what's available in the payroll account on 1st august,the payroll account,,,on 1st august
+ACCOUNT_BALANCE,what's my looking like as of this moment,,,,as of this moment
+ACCOUNT_BALANCE,check the joint account balance,the joint account,,,
+ACCOUNT_BALANCE,i want to see how much is left in the joint account,the joint account,,,
+ACCOUNT_BALANCE,what's the on my primary account this morning,my primary account,,,this morning
+ACCOUNT_BALANCE,how much money is in my business checking account,my business checking account,,,
+ACCOUNT_BALANCE,can you pull up my current balance,,,current balance,
+ACCOUNT_BALANCE,what's my cleared balance in my savings account,my savings account,,cleared balance,
+ACCOUNT_BALANCE,what's available in the payroll account yesterday,the payroll account,,,yesterday
+ACCOUNT_BALANCE,show me the balance on my primary account,my primary account,,,
+ACCOUNT_BALANCE,how much EUR do i have in my current account,my current account,EUR,,
+ACCOUNT_BALANCE,pull up the joint account balance for me,the joint account,,,
+ACCOUNT_BALANCE,show me the balance on the joint account,the joint account,,,
+ACCOUNT_BALANCE,what's the on my business checking account for last friday,my business checking account,,,for last friday
+ACCOUNT_BALANCE,what was my balance right now,,,,right now
+ACCOUNT_BALANCE,pull up our operating account balance for me,our operating account,,,
+ACCOUNT_BALANCE,show me the balance on the euro account,the euro account,,,
+ACCOUNT_BALANCE,show me the balance on account number 003321,account number 003321,,,
+ACCOUNT_BALANCE,can you pull up my opening balance,,,opening balance,
+ACCOUNT_BALANCE,balance check on my salary account,my salary account,,,
+ACCOUNT_BALANCE,i want to see how much is left in my business checking account,my business checking account,,,
+ACCOUNT_BALANCE,show opening balance for our operating account,our operating account,,opening balance,
+ACCOUNT_BALANCE,what's my in the euro account,the euro account,,,
+ACCOUNT_BALANCE,how much money is in the joint account,the joint account,,,
+ACCOUNT_BALANCE,what's the closing balance at close of business,,,closing balance,at close of business
+ACCOUNT_BALANCE,balance check on the payroll account,the payroll account,,,
+ACCOUNT_BALANCE,what's my pounds balance,,pounds,,
+ACCOUNT_BALANCE,how much money is in account number 003321,account number 003321,,,
+ACCOUNT_BALANCE,pull up my primary account balance for me,my primary account,,,
+ACCOUNT_BALANCE,can you pull up my available balance,,,available balance,
+ACCOUNT_BALANCE,what's my INR balance,,INR,,
+ACCOUNT_BALANCE,how much dollars do i have in my salary account,my salary account,dollars,,
+ACCOUNT_BALANCE,what's available in my main account today,my main account,,,today
+ACCOUNT_BALANCE,how much EUR do i have in the corporate account,the corporate account,EUR,,
+ACCOUNT_BALANCE,balance check on account number 003321,account number 003321,,,
+ACCOUNT_BALANCE,what's the current balance as of now,,,current balance,as of now
+ACCOUNT_BALANCE,what's my available balance in account number 003321,account number 003321,,available balance,
+ACCOUNT_BALANCE,balance check on my current account,my current account,,,
+ACCOUNT_BALANCE,what's my current balance in the payroll account,the payroll account,,current balance,
+ACCOUNT_BALANCE,how much money is in the payroll account,the payroll account,,,
+ACCOUNT_BALANCE,what's my in my savings account,my savings account,,,
+ACCOUNT_BALANCE,what's available in the joint account this morning,the joint account,,,this morning
+ACCOUNT_BALANCE,what's my opening balance in the account ending 4521,the account ending 4521,,opening balance,
+ACCOUNT_BALANCE,what's my available balance in my savings account,my savings account,,available balance,
+ACCOUNT_BALANCE,check account number 003321 balance,account number 003321,,,
+ACCOUNT_BALANCE,i want to see how much is left in our operating account,our operating account,,,
+ACCOUNT_BALANCE,show available balance for the account ending 4521,the account ending 4521,,available balance,
+ACCOUNT_BALANCE,what's my ledger balance in the euro account,the euro account,,ledger balance,
+ACCOUNT_BALANCE,pull up my nre account balance for me,my nre account,,,
+ACCOUNT_BALANCE,balance check on the corporate account,the corporate account,,,
+ACCOUNT_BALANCE,i want to see how much is left in the corporate account,the corporate account,,,
+ACCOUNT_BALANCE,show closing balance for my main account,my main account,,closing balance,
+ACCOUNT_BALANCE,show current balance for our operating account,our operating account,,current balance,
+ACCOUNT_BALANCE,what's my opening balance in my business checking account,my business checking account,,opening balance,
+ACCOUNT_BALANCE,check my main account balance,my main account,,,
+ACCOUNT_BALANCE,i want to see how much is left in my current account,my current account,,,
+ACCOUNT_BALANCE,what's my opening balance in the euro account,the euro account,,opening balance,
+ACCOUNT_BALANCE,what's my current balance in my salary account,my salary account,,current balance,
+ACCOUNT_BALANCE,what's my current balance looking like right now,,,current balance,right now
+ACCOUNT_BALANCE,what's my in the joint account,the joint account,,,
+ACCOUNT_BALANCE,what's my book balance in my usd account,my usd account,,book balance,
+ACCOUNT_BALANCE,pull up account number 003321 balance for me,account number 003321,,,
+ACCOUNT_BALANCE,check my nre account balance,my nre account,,,
+ACCOUNT_BALANCE,check my savings account balance,my savings account,,,
+ACCOUNT_BALANCE,what's the available balance on my usd account right now,my usd account,,available balance,right now
+ACCOUNT_BALANCE,how much money is in my usd account,my usd account,,,
+ACCOUNT_BALANCE,what was my balance for the end of last month,,,,for the end of last month
+ACCOUNT_BALANCE,i want to see how much is left in account number 003321,account number 003321,,,
+ACCOUNT_BALANCE,show cleared balance for my salary account,my salary account,,cleared balance,
+ACCOUNT_BALANCE,how much money is in the corporate account,the corporate account,,,
+ACCOUNT_BALANCE,show cleared balance for the euro account,the euro account,,cleared balance,
+ACCOUNT_BALANCE,pull up the account ending 4521 balance for me,the account ending 4521,,,
+ACCOUNT_BALANCE,check my salary account balance,my salary account,,,
+ACCOUNT_BALANCE,what's my book balance looking like as of now,,,book balance,as of now
+ACCOUNT_BALANCE,balance check on our operating account,our operating account,,,
+ACCOUNT_BALANCE,balance check on my main account,my main account,,,
+ACCOUNT_BALANCE,what's my rupees balance,,rupees,,
+ACCOUNT_BALANCE,show me the balance on my savings account,my savings account,,,
+ACCOUNT_BALANCE,show me the balance on my current account,my current account,,,
+ACCOUNT_BALANCE,rupees available balance on the corporate account at close of business,the corporate account,rupees,available balance,at close of business
+ACCOUNT_BALANCE,what's my looking like at close of business,,,,at close of business
+ACCOUNT_BALANCE,show me the balance on the payroll account,the payroll account,,,
+ACCOUNT_BALANCE,pull up my savings account balance for me,my savings account,,,
+ACCOUNT_BALANCE,what's my book balance in my savings account,my savings account,,book balance,
+ACCOUNT_BALANCE,check the payroll account balance,the payroll account,,,
+ACCOUNT_BALANCE,what's my cleared balance in my current account,my current account,,cleared balance,
+ACCOUNT_BALANCE,how much money is in my savings account,my savings account,,,
+ACCOUNT_BALANCE,show available balance for the payroll account,the payroll account,,available balance,
+ACCOUNT_BALANCE,i want to see how much is left in my salary account,my salary account,,,
+ACCOUNT_BALANCE,show book balance for the joint account,the joint account,,book balance,
+ACCOUNT_BALANCE,show current balance for my nre account,my nre account,,current balance,
+ACCOUNT_BALANCE,what's my opening balance in my usd account,my usd account,,opening balance,
+ACCOUNT_BALANCE,show cleared balance for my main account,my main account,,cleared balance,
+ACCOUNT_BALANCE,pull up my salary account balance for me,my salary account,,,
+ACCOUNT_BALANCE,check our operating account balance,our operating account,,,
+ACCOUNT_BALANCE,what's my opening balance looking like as of this moment,,,opening balance,as of this moment
+ACCOUNT_BALANCE,show opening balance for my usd account,my usd account,,opening balance,
+ACCOUNT_BALANCE,how much money is in our operating account,our operating account,,,
+ACCOUNT_BALANCE,what's my ledger balance looking like as of this moment,,,ledger balance,as of this moment
+ACCOUNT_BALANCE,what's my cleared balance in the corporate account,the corporate account,,cleared balance,
+ACCOUNT_BALANCE,what's my book balance in the euro account,the euro account,,book balance,
+ACCOUNT_BALANCE,what's my EUR balance,,EUR,,
+ACCOUNT_BALANCE,what's available in account number 003321 as of yesterday,account number 003321,,,as of yesterday
+ACCOUNT_BALANCE,i want to see how much is left in the account ending 4521,the account ending 4521,,,
+ACCOUNT_BALANCE,what's my current balance in the account ending 4521,the account ending 4521,,current balance,
+ACCOUNT_BALANCE,i want to see how much is left in my savings account,my savings account,,,
+ACCOUNT_BALANCE,what's my book balance looking like today,,,book balance,today
+ACCOUNT_BALANCE,show me the balance on my main account,my main account,,,
+ACCOUNT_BALANCE,show me the balance on the account ending 4521,the account ending 4521,,,
+ACCOUNT_BALANCE,what's my in my current account,my current account,,,
+ACCOUNT_BALANCE,check my current account balance,my current account,,,
+ACCOUNT_BALANCE,what was my balance for last friday,,,,for last friday
+ACCOUNT_BALANCE,what's available in account number 003321 as of this moment,account number 003321,,,as of this moment
+ACCOUNT_BALANCE,what's my closing balance in my nre account,my nre account,,closing balance,
+ACCOUNT_BALANCE,USD current balance on account number 003321 for last friday,account number 003321,USD,current balance,for last friday
+ACCOUNT_BALANCE,rupees on my nre account as of now,my nre account,rupees,,as of now
+ACCOUNT_BALANCE,what's my available balance in my primary account,my primary account,,available balance,
+ACCOUNT_BALANCE,what's the book balance for last friday,,,book balance,for last friday
+ACCOUNT_BALANCE,what's my looking like on 1st august,,,,on 1st august
+ACCOUNT_BALANCE,show closing balance for the euro account,the euro account,,closing balance,
+ACCOUNT_BALANCE,how much money is in my current account,my current account,,,
+ACCOUNT_BALANCE,what's my dollars balance,,dollars,,
+ACCOUNT_BALANCE,check the euro account balance,the euro account,,,
+ACCOUNT_BALANCE,what's the ledger balance on my primary account today,my primary account,,ledger balance,today
+ACCOUNT_BALANCE,what's my cleared balance looking like this morning,,,cleared balance,this morning
+ACCOUNT_BALANCE,how much EUR do i have in my usd account,my usd account,EUR,,
+ACCOUNT_BALANCE,what was my balance as of this moment,,,,as of this moment
+ACCOUNT_BALANCE,show cleared balance for the corporate account,the corporate account,,cleared balance,
+ACCOUNT_BALANCE,what's my in account number 003321,account number 003321,,,
+ACCOUNT_BALANCE,show closing balance for my salary account,my salary account,,closing balance,
+ACCOUNT_BALANCE,what's my in my business checking account,my business checking account,,,
+ACCOUNT_BALANCE,what's my cleared balance in my salary account,my salary account,,cleared balance,
+ACCOUNT_BALANCE,what's the book balance on my nre account right now,my nre account,,book balance,right now
+ACCOUNT_BALANCE,what's the opening balance as of now,,,opening balance,as of now
+ACCOUNT_BALANCE,what's available in my main account yesterday,my main account,,,yesterday
+ACCOUNT_BALANCE,what's available in account number 003321 for last friday,account number 003321,,,for last friday
+ACCOUNT_BALANCE,show closing balance for my business checking account,my business checking account,,closing balance,
+ACCOUNT_BALANCE,pull up the corporate account balance for me,the corporate account,,,
+ACCOUNT_BALANCE,what's my opening balance in account number 003321,account number 003321,,opening balance,
+ACCOUNT_BALANCE,what was my balance on 1st august,,,,on 1st august
+ACCOUNT_BALANCE,what's my ledger balance in the account ending 4521,the account ending 4521,,ledger balance,
+ACCOUNT_BALANCE,pull up my business checking account balance for me,my business checking account,,,
+ACCOUNT_BALANCE,what's my opening balance looking like this morning,,,opening balance,this morning
+ACCOUNT_BALANCE,what's my available balance looking like on 1st august,,,available balance,on 1st august
+ACCOUNT_BALANCE,USD closing balance on my salary account for last friday,my salary account,USD,closing balance,for last friday
+ACCOUNT_BALANCE,show me the balance on our operating account,our operating account,,,
+ACCOUNT_BALANCE,what's my book balance in the corporate account,the corporate account,,book balance,
+ACCOUNT_BALANCE,what's my cleared balance in the joint account,the joint account,,cleared balance,
+ACCOUNT_BALANCE,what's my opening balance in my primary account,my primary account,,opening balance,
+ACCOUNT_BALANCE,what's my closing balance looking like at close of business,,,closing balance,at close of business
+ACCOUNT_BALANCE,what's my euros balance,,euros,,
+ACCOUNT_BALANCE,what's available in my salary account at close of business,my salary account,,,at close of business
+ACCOUNT_BALANCE,what's available in my nre account as of this moment,my nre account,,,as of this moment
+ACCOUNT_BALANCE,what's my opening balance in my current account,my current account,,opening balance,
+ACCOUNT_BALANCE,what's my in my salary account,my salary account,,,
+ACCOUNT_BALANCE,what's my book balance looking like right now,,,book balance,right now
+ACCOUNT_BALANCE,dollars on my nre account this morning,my nre account,dollars,,this morning
+ACCOUNT_BALANCE,show ledger balance for my savings account,my savings account,,ledger balance,
+ACCOUNT_BALANCE,what's available in the payroll account this morning,the payroll account,,,this morning
+ACCOUNT_BALANCE,what was my balance yesterday,,,,yesterday
+ACCOUNT_BALANCE,show available balance for account number 003321,account number 003321,,available balance,
+ACCOUNT_BALANCE,what's the book balance on my business checking account this morning,my business checking account,,book balance,this morning
+ACCOUNT_BALANCE,USD ledger balance on my usd account on 1st august,my usd account,USD,ledger balance,on 1st august
+ACCOUNT_BALANCE,what's my ledger balance in my usd account,my usd account,,ledger balance,
+ACCOUNT_BALANCE,what's the opening balance on our operating account for the end of last month,our operating account,,opening balance,for the end of last month
+ACCOUNT_BALANCE,what's available in the account ending 4521 as of now,the account ending 4521,,,as of now
+ACCOUNT_BALANCE,how much USD do i have in my primary account,my primary account,USD,,
+ACCOUNT_BALANCE,what's available in account number 003321 on 1st august,account number 003321,,,on 1st august
+ACCOUNT_BALANCE,what's the book balance today,,,book balance,today
+ACCOUNT_BALANCE,USD book balance on the corporate account as of this moment,the corporate account,USD,book balance,as of this moment
+ACCOUNT_BALANCE,show ledger balance for our operating account,our operating account,,ledger balance,
+ACCOUNT_BALANCE,how much INR do i have in the euro account,the euro account,INR,,
+ACCOUNT_BALANCE,what's my current balance looking like today,,,current balance,today
+ACCOUNT_BALANCE,show me the balance on my usd account,my usd account,,,
+ACCOUNT_BALANCE,show available balance for the corporate account,the corporate account,,available balance,
+ACCOUNT_BALANCE,what's the book balance this morning,,,book balance,this morning
+ACCOUNT_BALANCE,show me the balance on the corporate account,the corporate account,,,
+ACCOUNT_BALANCE,what's the on the euro account at close of business,the euro account,,,at close of business
+ACCOUNT_BALANCE,i want to see how much is left in the euro account,the euro account,,,
+ACCOUNT_BALANCE,what's the on the corporate account as of yesterday,the corporate account,,,as of yesterday
+ACCOUNT_BALANCE,show closing balance for my nre account,my nre account,,closing balance,
+ACCOUNT_BALANCE,how much GBP do i have in my primary account,my primary account,GBP,,
+ACCOUNT_BALANCE,what's available in the payroll account as of now,the payroll account,,,as of now
+ACCOUNT_BALANCE,what's my GBP balance,,GBP,,
+ACCOUNT_BALANCE,show current balance for my usd account,my usd account,,current balance,
+ACCOUNT_BALANCE,what's available in our operating account this morning,our operating account,,,this morning
+ACCOUNT_BALANCE,show available balance for my business checking account,my business checking account,,available balance,
+ACCOUNT_BALANCE,show ledger balance for the account ending 4521,the account ending 4521,,ledger balance,
+ACCOUNT_BALANCE,what's my looking like as of yesterday,,,,as of yesterday
+ACCOUNT_BALANCE,what's my in my usd account,my usd account,,,
+ACCOUNT_BALANCE,what was my balance at close of business,,,,at close of business
+ACCOUNT_BALANCE,pounds ledger balance on my usd account on 1st august,my usd account,pounds,ledger balance,on 1st august
+ACCOUNT_BALANCE,what's the as of yesterday,,,,as of yesterday
+ACCOUNT_BALANCE,show me the balance on my nre account,my nre account,,,
+ACCOUNT_BALANCE,rupees ledger balance on the euro account on 1st august,the euro account,rupees,ledger balance,on 1st august
+ACCOUNT_BALANCE,show opening balance for my nre account,my nre account,,opening balance,
+ACCOUNT_BALANCE,what's my current balance in the euro account,the euro account,,current balance,
+ACCOUNT_BALANCE,i want to see how much is left in the payroll account,the payroll account,,,
+ACCOUNT_BALANCE,what's my closing balance in the payroll account,the payroll account,,closing balance,
+ACCOUNT_BALANCE,show available balance for my usd account,my usd account,,available balance,
+ACCOUNT_BALANCE,show current balance for my main account,my main account,,current balance,
+ACCOUNT_BALANCE,what's available in my main account as of now,my main account,,,as of now
+ACCOUNT_BALANCE,what's my in my primary account,my primary account,,,
+ACCOUNT_BALANCE,rupees on the corporate account this morning,the corporate account,rupees,,this morning
+ACCOUNT_BALANCE,show closing balance for the account ending 4521,the account ending 4521,,closing balance,
+ACCOUNT_BALANCE,what's available in our operating account for the end of last month,our operating account,,,for the end of last month
+ACCOUNT_BALANCE,what's my closing balance in the joint account,the joint account,,closing balance,
+ACCOUNT_BALANCE,what's my in the corporate account,the corporate account,,,
+ACCOUNT_BALANCE,how much USD do i have in the euro account,the euro account,USD,,
+ACCOUNT_BALANCE,show cleared balance for my primary account,my primary account,,cleared balance,
+ACCOUNT_BALANCE,show current balance for the euro account,the euro account,,current balance,
+ACCOUNT_BALANCE,what's the on our operating account for last friday,our operating account,,,for last friday
+ACCOUNT_BALANCE,what's my available balance in our operating account,our operating account,,available balance,
+ACCOUNT_BALANCE,what's available in my main account on 1st august,my main account,,,on 1st august
+ACCOUNT_BALANCE,what's the cleared balance on 1st august,,,cleared balance,on 1st august
+ACCOUNT_BALANCE,show book balance for my primary account,my primary account,,book balance,
+ACCOUNT_BALANCE,what's available in my usd account right now,my usd account,,,right now
+ACCOUNT_BALANCE,what's the current balance on the euro account right now,the euro account,,current balance,right now
+ACCOUNT_BALANCE,what's my in our operating account,our operating account,,,
+ACCOUNT_BALANCE,check my business checking account balance,my business checking account,,,
+ACCOUNT_BALANCE,what's the yesterday,,,,yesterday
+ACCOUNT_BALANCE,show cleared balance for my nre account,my nre account,,cleared balance,
+ACCOUNT_BALANCE,what's my ledger balance looking like on 1st august,,,ledger balance,on 1st august
+ACCOUNT_BALANCE,show book balance for the euro account,the euro account,,book balance,
+ACCOUNT_BALANCE,what's my looking like this morning,,,,this morning
+ACCOUNT_BALANCE,i want to see how much is left in my main account,my main account,,,
+ACCOUNT_BALANCE,what's the on my usd account this morning,my usd account,,,this morning
+ACCOUNT_BALANCE,what's the cleared balance on the account ending 4521 as of now,the account ending 4521,,cleared balance,as of now
+ACCOUNT_BALANCE,how much GBP do i have in my savings account,my savings account,GBP,,
+ACCOUNT_BALANCE,check my usd account balance,my usd account,,,
+ACCOUNT_BALANCE,check my primary account balance,my primary account,,,
+ACCOUNT_BALANCE,what's my book balance in my primary account,my primary account,,book balance,
+ACCOUNT_BALANCE,what's my current balance in account number 003321,account number 003321,,current balance,
+ACCOUNT_BALANCE,check the corporate account balance,the corporate account,,,
+ACCOUNT_BALANCE,what was my balance as of now,,,,as of now
+ACCOUNT_BALANCE,what's the on my nre account as of now,my nre account,,,as of now
+ACCOUNT_BALANCE,what's available in my savings account for last friday,my savings account,,,for last friday
+ACCOUNT_BALANCE,what's my cleared balance in account number 003321,account number 003321,,cleared balance,
+ACCOUNT_BALANCE,what was my balance this morning,,,,this morning
+ACCOUNT_BALANCE,show opening balance for my main account,my main account,,opening balance,
+ACCOUNT_BALANCE,how much dollars do i have in my savings account,my savings account,dollars,,
+ACCOUNT_BALANCE,what's the ledger balance on the payroll account at close of business,the payroll account,,ledger balance,at close of business
+ACCOUNT_BALANCE,what's the book balance yesterday,,,book balance,yesterday
+ACCOUNT_BALANCE,what's available in my salary account today,my salary account,,,today
+ACCOUNT_BALANCE,show cleared balance for my usd account,my usd account,,cleared balance,
+ACCOUNT_BALANCE,what's my in my main account,my main account,,,
+ACCOUNT_BALANCE,what's available in my savings account on 1st august,my savings account,,,on 1st august
+ACCOUNT_BALANCE,what's the cleared balance as of now,,,cleared balance,as of now
+ACCOUNT_BALANCE,how much dollars do i have in my primary account,my primary account,dollars,,
+ACCOUNT_BALANCE,what's the ledger balance for last friday,,,ledger balance,for last friday
+ACCOUNT_BALANCE,what's the opening balance on the joint account at close of business,the joint account,,opening balance,at close of business
+ACCOUNT_BALANCE,what's my available balance in my nre account,my nre account,,available balance,
+ACCOUNT_BALANCE,what's my ledger balance in my nre account,my nre account,,ledger balance,
+ACCOUNT_BALANCE,show ledger balance for my salary account,my salary account,,ledger balance,
+ACCOUNT_BALANCE,show opening balance for the account ending 4521,the account ending 4521,,opening balance,
+ACCOUNT_BALANCE,what's my looking like today,,,,today
+ACCOUNT_BALANCE,what's the as of now,,,,as of now
+ACCOUNT_BALANCE,rupees available balance on account number 003321 this morning,account number 003321,rupees,available balance,this morning
+ACCOUNT_BALANCE,show ledger balance for the joint account,the joint account,,ledger balance,
+ACCOUNT_BALANCE,what's my cleared balance in the payroll account,the payroll account,,cleared balance,
+ACCOUNT_BALANCE,what's my book balance in my business checking account,my business checking account,,book balance,
+ACCOUNT_BALANCE,what's my book balance in my salary account,my salary account,,book balance,
+ACCOUNT_BALANCE,what's available in my savings account at close of business,my savings account,,,at close of business
+ACCOUNT_BALANCE,how much INR do i have in my current account,my current account,INR,,
+ACCOUNT_BALANCE,what's my available balance in my usd account,my usd account,,available balance,
+ACCOUNT_BALANCE,what's the current balance on my current account for the end of last month,my current account,,current balance,for the end of last month
+ACCOUNT_BALANCE,what's the on my primary account right now,my primary account,,,right now
+ACCOUNT_BALANCE,what's my book balance in the joint account,the joint account,,book balance,
+ACCOUNT_BALANCE,what's available in my business checking account yesterday,my business checking account,,,yesterday
+ACCOUNT_BALANCE,how much rupees do i have in my business checking account,my business checking account,rupees,,
+ACCOUNT_BALANCE,what's the on the corporate account today,the corporate account,,,today
+ACCOUNT_BALANCE,what's available in our operating account as of yesterday,our operating account,,,as of yesterday
+ACCOUNT_BALANCE,dollars current balance on my salary account this morning,my salary account,dollars,current balance,this morning
+ACCOUNT_BALANCE,what's the cleared balance on the corporate account yesterday,the corporate account,,cleared balance,yesterday
+ACCOUNT_BALANCE,what's the for last friday,,,,for last friday
+ACCOUNT_BALANCE,what's available in the account ending 4521 as of this moment,the account ending 4521,,,as of this moment
+ACCOUNT_BALANCE,what's my available balance looking like for the end of last month,,,available balance,for the end of last month
+ACCOUNT_BALANCE,what's the this morning,,,,this morning
+ACCOUNT_BALANCE,what's the current balance on my usd account at close of business,my usd account,,current balance,at close of business
+ACCOUNT_BALANCE,show cleared balance for account number 003321,account number 003321,,cleared balance,
+ACCOUNT_BALANCE,what's available in my savings account as of yesterday,my savings account,,,as of yesterday
+ACCOUNT_BALANCE,what's my in the account ending 4521,the account ending 4521,,,
+ACCOUNT_BALANCE,what's my current balance in my main account,my main account,,current balance,
+ACCOUNT_BALANCE,what's the current balance on our operating account for the end of last month,our operating account,,current balance,for the end of last month
+ACCOUNT_BALANCE,what's my book balance in our operating account,our operating account,,book balance,
+ACCOUNT_BALANCE,what's available in the euro account today,the euro account,,,today
+ACCOUNT_BALANCE,show book balance for the corporate account,the corporate account,,book balance,
+ACCOUNT_BALANCE,show me the balance on my salary account,my salary account,,,
+ACCOUNT_BALANCE,show opening balance for my salary account,my salary account,,opening balance,
+ACCOUNT_BALANCE,show closing balance for my current account,my current account,,closing balance,
+ACCOUNT_BALANCE,show cleared balance for the payroll account,the payroll account,,cleared balance,
+ACCOUNT_BALANCE,what's my opening balance in my savings account,my savings account,,opening balance,
+ACCOUNT_BALANCE,how much EUR do i have in account number 003321,account number 003321,EUR,,
+ACCOUNT_BALANCE,what's my cleared balance looking like as of this moment,,,cleared balance,as of this moment
+ACCOUNT_BALANCE,show available balance for the joint account,the joint account,,available balance,
+ACCOUNT_BALANCE,how much GBP do i have in the euro account,the euro account,GBP,,
+ACCOUNT_BALANCE,EUR on my primary account for the end of last month,my primary account,EUR,,for the end of last month
+ACCOUNT_BALANCE,what's the available balance on the account ending 4521 as of now,the account ending 4521,,available balance,as of now
+ACCOUNT_BALANCE,what's my ledger balance in my salary account,my salary account,,ledger balance,
+ACCOUNT_BALANCE,what's available in the corporate account as of yesterday,the corporate account,,,as of yesterday
+ACCOUNT_BALANCE,what's the on account number 003321 right now,account number 003321,,,right now
+ACCOUNT_BALANCE,what's available in our operating account on 1st august,our operating account,,,on 1st august
+ACCOUNT_BALANCE,what's available in the euro account this morning,the euro account,,,this morning
+ACCOUNT_BALANCE,what's my cleared balance in our operating account,our operating account,,cleared balance,
+ACCOUNT_BALANCE,what's available in my nre account for last friday,my nre account,,,for last friday
+ACCOUNT_BALANCE,how much dollars do i have in our operating account,our operating account,dollars,,
+ACCOUNT_BALANCE,show closing balance for the corporate account,the corporate account,,closing balance,
+ACCOUNT_BALANCE,what's available in my savings account right now,my savings account,,,right now
+ACCOUNT_BALANCE,what's available in the payroll account right now,the payroll account,,,right now
+ACCOUNT_BALANCE,what's the on my usd account as of this moment,my usd account,,,as of this moment
+ACCOUNT_BALANCE,what's available in my salary account as of now,my salary account,,,as of now
+ACCOUNT_BALANCE,show closing balance for the joint account,the joint account,,closing balance,
+ACCOUNT_BALANCE,what's the current balance this morning,,,current balance,this morning
+ACCOUNT_BALANCE,what's available in my main account for last friday,my main account,,,for last friday
+ACCOUNT_BALANCE,how much rupees do i have in my main account,my main account,rupees,,
+ACCOUNT_BALANCE,show current balance for my savings account,my savings account,,current balance,
+ACCOUNT_BALANCE,how much dollars do i have in the corporate account,the corporate account,dollars,,
+ACCOUNT_BALANCE,what's available in my business checking account on 1st august,my business checking account,,,on 1st august
+ACCOUNT_BALANCE,what's the closing balance on the corporate account as of now,the corporate account,,closing balance,as of now
+ACCOUNT_BALANCE,how much EUR do i have in my primary account,my primary account,EUR,,
+ACCOUNT_BALANCE,show ledger balance for my usd account,my usd account,,ledger balance,
+ACCOUNT_BALANCE,what's available in the corporate account for the end of last month,the corporate account,,,for the end of last month
+ACCOUNT_BALANCE,what's the book balance on my main account on 1st august,my main account,,book balance,on 1st august
+ACCOUNT_BALANCE,what's my opening balance looking like for last friday,,,opening balance,for last friday
+ACCOUNT_BALANCE,how much pounds do i have in the payroll account,the payroll account,pounds,,
+ACCOUNT_BALANCE,show ledger balance for the corporate account,the corporate account,,ledger balance,
+ACCOUNT_BALANCE,how much pounds do i have in my savings account,my savings account,pounds,,
+ACCOUNT_BALANCE,how much GBP do i have in my business checking account,my business checking account,GBP,,
+ACCOUNT_BALANCE,what's the on my main account at close of business,my main account,,,at close of business
+ACCOUNT_BALANCE,show ledger balance for my main account,my main account,,ledger balance,
+ACCOUNT_BALANCE,how much USD do i have in our operating account,our operating account,USD,,
+ACCOUNT_BALANCE,what's my book balance in my current account,my current account,,book balance,
+ACCOUNT_BALANCE,what's my closing balance looking like this morning,,,closing balance,this morning
+ACCOUNT_BALANCE,what's the on my business checking account today,my business checking account,,,today
+ACCOUNT_BALANCE,how much euros do i have in the payroll account,the payroll account,euros,,
+ACCOUNT_BALANCE,what's available in the corporate account this morning,the corporate account,,,this morning
+ACCOUNT_BALANCE,what's the closing balance on my main account right now,my main account,,closing balance,right now
+ACCOUNT_BALANCE,what's my opening balance in my main account,my main account,,opening balance,
+ACCOUNT_BALANCE,show opening balance for my current account,my current account,,opening balance,
+ACCOUNT_BALANCE,what's available in my nre account today,my nre account,,,today
+ACCOUNT_BALANCE,what's the book balance on my primary account on 1st august,my primary account,,book balance,on 1st august
+ACCOUNT_BALANCE,what's my book balance in the payroll account,the payroll account,,book balance,
+ACCOUNT_BALANCE,what's available in the corporate account right now,the corporate account,,,right now
+ACCOUNT_BALANCE,how much USD do i have in the corporate account,the corporate account,USD,,
+ACCOUNT_BALANCE,what's my available balance in the corporate account,the corporate account,,available balance,
+ACCOUNT_BALANCE,what's available in my primary account today,my primary account,,,today
+ACCOUNT_BALANCE,how much euros do i have in the corporate account,the corporate account,euros,,
+ACCOUNT_BALANCE,show cleared balance for our operating account,our operating account,,cleared balance,
+ACCOUNT_BALANCE,how much euros do i have in my savings account,my savings account,euros,,
+ACCOUNT_BALANCE,what's the opening balance this morning,,,opening balance,this morning
+ACCOUNT_BALANCE,what's my book balance looking like as of this moment,,,book balance,as of this moment
+ACCOUNT_BALANCE,what's my closing balance in my savings account,my savings account,,closing balance,
+ACCOUNT_BALANCE,show available balance for the euro account,the euro account,,available balance,
+ACCOUNT_BALANCE,what's the ledger balance as of this moment,,,ledger balance,as of this moment
+ACCOUNT_BALANCE,what's the on the corporate account right now,the corporate account,,,right now
+ACCOUNT_BALANCE,what's available in the payroll account at close of business,the payroll account,,,at close of business
+ACCOUNT_BALANCE,what's available in my current account today,my current account,,,today
+ACCOUNT_BALANCE,USD on the account ending 4521 as of this moment,the account ending 4521,USD,,as of this moment
+ACCOUNT_BALANCE,how much EUR do i have in the joint account,the joint account,EUR,,
+ACCOUNT_BALANCE,what's the today,,,,today
+ACCOUNT_BALANCE,show cleared balance for my business checking account,my business checking account,,cleared balance,
+ACCOUNT_BALANCE,what's my ledger balance looking like as of now,,,ledger balance,as of now
+ACCOUNT_BALANCE,what's the on account number 003321 at close of business,account number 003321,,,at close of business
+ACCOUNT_BALANCE,what's my available balance in the payroll account,the payroll account,,available balance,
+ACCOUNT_BALANCE,what's the cleared balance on my current account this morning,my current account,,cleared balance,this morning
+ACCOUNT_BALANCE,what's available in my usd account for the end of last month,my usd account,,,for the end of last month
+ACCOUNT_BALANCE,show ledger balance for the euro account,the euro account,,ledger balance,
+ACCOUNT_BALANCE,GBP opening balance on the corporate account as of now,the corporate account,GBP,opening balance,as of now
+ACCOUNT_BALANCE,what's my opening balance in the joint account,the joint account,,opening balance,
+ACCOUNT_BALANCE,what's available in the corporate account yesterday,the corporate account,,,yesterday
+ACCOUNT_BALANCE,what's my book balance in the account ending 4521,the account ending 4521,,book balance,
+ACCOUNT_BALANCE,what's my available balance in my main account,my main account,,available balance,
+ACCOUNT_BALANCE,what's the ledger balance on account number 003321 yesterday,account number 003321,,ledger balance,yesterday
+ACCOUNT_BALANCE,what's available in the euro account as of yesterday,the euro account,,,as of yesterday
+ACCOUNT_BALANCE,what's my cleared balance in my main account,my main account,,cleared balance,
+ACCOUNT_BALANCE,show opening balance for my savings account,my savings account,,opening balance,
+ACCOUNT_BALANCE,what's the opening balance on my nre account at close of business,my nre account,,opening balance,at close of business
+ACCOUNT_BALANCE,how much USD do i have in my salary account,my salary account,USD,,
+ACCOUNT_BALANCE,show closing balance for my savings account,my savings account,,closing balance,
+ACCOUNT_BALANCE,show available balance for my current account,my current account,,available balance,
+ACCOUNT_BALANCE,what's the closing balance on account number 003321 yesterday,account number 003321,,closing balance,yesterday
+ACCOUNT_BALANCE,what's the ledger balance on my main account right now,my main account,,ledger balance,right now
+ACCOUNT_BALANCE,what's my book balance in my nre account,my nre account,,book balance,
+ACCOUNT_BALANCE,what's available in the corporate account as of now,the corporate account,,,as of now
+ACCOUNT_BALANCE,show available balance for my savings account,my savings account,,available balance,
+ACCOUNT_BALANCE,show ledger balance for my nre account,my nre account,,ledger balance,
+ACCOUNT_BALANCE,how much USD do i have in my current account,my current account,USD,,
+ACCOUNT_BALANCE,what's available in my salary account for last friday,my salary account,,,for last friday
+ACCOUNT_BALANCE,what's the current balance today,,,current balance,today
+ACCOUNT_BALANCE,rupees available balance on the euro account as of yesterday,the euro account,rupees,available balance,as of yesterday
+ACCOUNT_BALANCE,what's the cleared balance on the euro account for last friday,the euro account,,cleared balance,for last friday
+ACCOUNT_BALANCE,what's the book balance on the corporate account as of yesterday,the corporate account,,book balance,as of yesterday
+ACCOUNT_BALANCE,what's the current balance on the account ending 4521 at close of business,the account ending 4521,,current balance,at close of business
+ACCOUNT_BALANCE,how much euros do i have in the account ending 4521,the account ending 4521,euros,,
+ACCOUNT_BALANCE,show cleared balance for my current account,my current account,,cleared balance,
+ACCOUNT_BALANCE,what's my opening balance in our operating account,our operating account,,opening balance,
+ACCOUNT_BALANCE,what's my current balance in my business checking account,my business checking account,,current balance,
+ACCOUNT_BALANCE,what's the current balance on my main account for last friday,my main account,,current balance,for last friday
+ACCOUNT_BALANCE,what's my closing balance in my main account,my main account,,closing balance,
+ACCOUNT_BALANCE,show closing balance for the payroll account,the payroll account,,closing balance,
+ACCOUNT_BALANCE,how much GBP do i have in the joint account,the joint account,GBP,,
+ACCOUNT_BALANCE,how much INR do i have in the payroll account,the payroll account,INR,,
+ACCOUNT_BALANCE,what's the book balance on my main account at close of business,my main account,,book balance,at close of business
+ACCOUNT_BALANCE,what's my ledger balance in the payroll account,the payroll account,,ledger balance,
+ACCOUNT_BALANCE,what's my opening balance looking like for the end of last month,,,opening balance,for the end of last month
+ACCOUNT_BALANCE,what's the current balance on account number 003321 as of this moment,account number 003321,,current balance,as of this moment
+ACCOUNT_BALANCE,show ledger balance for my current account,my current account,,ledger balance,
+ACCOUNT_BALANCE,how much GBP do i have in the account ending 4521,the account ending 4521,GBP,,
+ACCOUNT_BALANCE,how much pounds do i have in my main account,my main account,pounds,,
+ACCOUNT_BALANCE,show current balance for my business checking account,my business checking account,,current balance,
+ACCOUNT_BALANCE,what's my looking like right now,,,,right now
+ACCOUNT_BALANCE,how much INR do i have in my usd account,my usd account,INR,,
+ACCOUNT_BALANCE,dollars available balance on the corporate account on 1st august,the corporate account,dollars,available balance,on 1st august
+ACCOUNT_BALANCE,what's my cleared balance in the euro account,the euro account,,cleared balance,
+ACCOUNT_BALANCE,what's my cleared balance looking like on 1st august,,,cleared balance,on 1st august
+ACCOUNT_BALANCE,show closing balance for my primary account,my primary account,,closing balance,
+ACCOUNT_BALANCE,what's my ledger balance looking like right now,,,ledger balance,right now
+ACCOUNT_BALANCE,what's my book balance in my main account,my main account,,book balance,
+ACCOUNT_BALANCE,how much rupees do i have in the joint account,the joint account,rupees,,
+ACCOUNT_BALANCE,what's the opening balance today,,,opening balance,today
+ACCOUNT_BALANCE,what was my balance as of yesterday,,,,as of yesterday
+ACCOUNT_BALANCE,what's the cleared balance on my usd account yesterday,my usd account,,cleared balance,yesterday
+ACCOUNT_BALANCE,what's the on my main account as of now,my main account,,,as of now
+ACCOUNT_BALANCE,how much EUR do i have in my savings account,my savings account,EUR,,
+ACCOUNT_BALANCE,show available balance for my nre account,my nre account,,available balance,
+ACCOUNT_BALANCE,what's my closing balance in account number 003321,account number 003321,,closing balance,
+ACCOUNT_BALANCE,how much pounds do i have in my current account,my current account,pounds,,
+ACCOUNT_BALANCE,show opening balance for the payroll account,the payroll account,,opening balance,
+ACCOUNT_BALANCE,what's the ledger balance yesterday,,,ledger balance,yesterday
+ACCOUNT_BALANCE,euros current balance on account number 003321 as of yesterday,account number 003321,euros,current balance,as of yesterday
+ACCOUNT_BALANCE,what's available in my nre account at close of business,my nre account,,,at close of business
+ACCOUNT_BALANCE,what's the cleared balance for the end of last month,,,cleared balance,for the end of last month
+ACCOUNT_BALANCE,what's the available balance on the account ending 4521 yesterday,the account ending 4521,,available balance,yesterday
+ACCOUNT_BALANCE,what's available in my business checking account today,my business checking account,,,today
+ACCOUNT_BALANCE,what's available in my current account for the end of last month,my current account,,,for the end of last month
+ACCOUNT_BALANCE,how much GBP do i have in the payroll account,the payroll account,GBP,,
+ACCOUNT_BALANCE,what's my looking like for the end of last month,,,,for the end of last month
+ACCOUNT_BALANCE,what's my cleared balance looking like as of yesterday,,,cleared balance,as of yesterday
+ACCOUNT_BALANCE,what's available in our operating account as of now,our operating account,,,as of now
+ACCOUNT_BALANCE,what's my closing balance looking like right now,,,closing balance,right now
+ACCOUNT_BALANCE,what's my cleared balance in my primary account,my primary account,,cleared balance,
+ACCOUNT_BALANCE,what's my ledger balance looking like as of yesterday,,,ledger balance,as of yesterday
+ACCOUNT_BALANCE,what's my cleared balance in my nre account,my nre account,,cleared balance,
+ACCOUNT_BALANCE,what's the ledger balance as of yesterday,,,ledger balance,as of yesterday
+ACCOUNT_BALANCE,show cleared balance for my savings account,my savings account,,cleared balance,
+ACCOUNT_BALANCE,what's the cleared balance this morning,,,cleared balance,this morning
+ACCOUNT_BALANCE,what's my available balance looking like at close of business,,,available balance,at close of business
+ACCOUNT_BALANCE,what's the closing balance for the end of last month,,,closing balance,for the end of last month
