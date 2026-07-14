@@ -1,0 +1,501 @@
+intent_code,text,amount,currency,beneficiary,account,method,time,reference,purpose
+NEW_PAYMENT,Send funds to Priya Sharma via wire transfer.,,,Priya Sharma,,wire transfer,,,
+NEW_PAYMENT,"Transfer 18,000 INR from current account to Priya Sharma for loan EMI.","18,000",INR,Priya Sharma,current account,,,,loan EMI
+NEW_PAYMENT,Send 120 dollars as vendor payment to Mr. Verma.,120,dollars,Mr. Verma,,,,,vendor payment
+NEW_PAYMENT,Wire 500 dollars to Acme Logistics from corporate account 55210 immediately.,500,dollars,Acme Logistics,corporate account 55210,wire,immediately,,
+NEW_PAYMENT,"Transfer 3,750 EUR to Sarah Connor immediately.","3,750",EUR,Sarah Connor,,,immediately,,transfer
+NEW_PAYMENT,I'd like to make a payment to Sarah Connor.,,,Sarah Connor,,,,,
+NEW_PAYMENT,Wire 25000 INR to Global Traders Ltd from account ending 9987 tomorrow.,25000,INR,Global Traders Ltd,account ending 9987,wire,tomorrow,,
+NEW_PAYMENT,"Kindly transfer 8,500 GBP to Emily Davis immediately from account ending 1204.","8,500",GBP,Emily Davis,account ending 1204,,immediately,,transfer
+NEW_PAYMENT,Please initiate a payment of 750 GBP to the software vendor from current account 22110098.,750,GBP,the software vendor,current account 22110098,,,,
+NEW_PAYMENT,"Pay the utility bill payment for John Mathews, amount 1,00,000 INR.","1,00,000",INR,John Mathews,,,,,utility bill payment
+NEW_PAYMENT,"Pay 45,000 rupees for invoice payment, reference March fees, at 5 PM.","45,000",rupees,,,,at 5 PM,March fees,invoice payment
+NEW_PAYMENT,"Process a RTGS payment of 1,00,000 INR to Tata Motors.","1,00,000",INR,Tata Motors,,RTGS,,,
+NEW_PAYMENT,Transfer 2.5 lakh INR from current account 22110098 to the marketing agency for rent.,2.5 lakh,INR,the marketing agency,current account 22110098,,,,rent
+NEW_PAYMENT,"Send 4,400 EUR to the software vendor.","4,400",EUR,the software vendor,,,,,
+NEW_PAYMENT,"Wire 3,750 EUR to David Lee from joint account on 15th July.","3,750",EUR,David Lee,joint account,wire,on 15th July,,
+NEW_PAYMENT,"Send 45,000 rupees to Priya Sharma using wire transfer, reference salary July.","45,000",rupees,Priya Sharma,,wire transfer,,salary July,
+NEW_PAYMENT,"Send 2.5 lakh INR to Global Traders Ltd using NEFT, reference Feb rent.",2.5 lakh,INR,Global Traders Ltd,,NEFT,,Feb rent,
+NEW_PAYMENT,Transfer money to the marketing agency from account ending 4021.,,,the marketing agency,account ending 4021,,,,transfer
+NEW_PAYMENT,I need to pay my accountant 10 million USD for salary payment.,10 million,USD,my accountant,,,,,salary payment
+NEW_PAYMENT,Send 330 pounds to the marketing agency.,330,pounds,the marketing agency,,,,,
+NEW_PAYMENT,Send funds to John Mathews via bank transfer.,,,John Mathews,,bank transfer,,,
+NEW_PAYMENT,"Wire 1,00,000 INR to my cousin Meera from checking account on 1st August.","1,00,000",INR,my cousin Meera,checking account,wire,on 1st August,,
+NEW_PAYMENT,"Transfer the tax department 2,000 euros tomorrow.","2,000",euros,the tax department,,,tomorrow,,transfer
+NEW_PAYMENT,"Transfer 8,500 GBP to ABC Suppliers Pvt Ltd before noon.","8,500",GBP,ABC Suppliers Pvt Ltd,,,before noon,,transfer
+NEW_PAYMENT,Make a payment of 2.5 lakh INR to the electricity board in two days via RTGS.,2.5 lakh,INR,the electricity board,,RTGS,in two days,,
+NEW_PAYMENT,Transfer 500 dollars to our supplier in Mumbai this Friday.,500,dollars,our supplier in Mumbai,,,this Friday,,transfer
+NEW_PAYMENT,I'd like to make a payment to the marketing agency.,,,the marketing agency,,,,,
+NEW_PAYMENT,Pay subscription fee of 330 pounds to Infosys Ltd via NEFT.,330,pounds,Infosys Ltd,,NEFT,,,subscription fee
+NEW_PAYMENT,I need to pay my freelancer Alex 500 USD for rent.,500,USD,my freelancer Alex,,,,,rent
+NEW_PAYMENT,"Transfer 3,750 EUR from salary account to Acme Logistics for school fees.","3,750",EUR,Acme Logistics,salary account,,,,school fees
+NEW_PAYMENT,"Pay 4,400 EUR to John Mathews for utility bill payment on 15th July.","4,400",EUR,John Mathews,,,on 15th July,,utility bill payment
+NEW_PAYMENT,"I need to pay the IT vendor 10,000.50 USD for commission.","10,000.50",USD,the IT vendor,,,,,commission
+NEW_PAYMENT,I want to pay Mr. Verma this Friday using internal transfer.,,,Mr. Verma,,internal transfer,this Friday,,
+NEW_PAYMENT,"Send 10 million USD to my nephew Rohan using NEFT, reference order #5567.",10 million,USD,my nephew Rohan,,NEFT,,order #5567,
+NEW_PAYMENT,Send funds to Sarah Connor via UPI.,,,Sarah Connor,,UPI,,,
+NEW_PAYMENT,I need to pay the IT vendor 500 USD for medical bill.,500,USD,the IT vendor,,,,,medical bill
+NEW_PAYMENT,Please initiate a payment of 10 million USD to my sister Anita from savings account.,10 million,USD,my sister Anita,savings account,,,,
+NEW_PAYMENT,"Pay 2,000 euros to the marketing agency for invoice payment at 5 PM.","2,000",euros,the marketing agency,,,at 5 PM,,invoice payment
+NEW_PAYMENT,"Make a payment of 45,000 rupees to our supplier in Mumbai at 5 PM via ACH.","45,000",rupees,our supplier in Mumbai,,ACH,at 5 PM,,
+NEW_PAYMENT,I need to pay Reliance Industries 60000 INR for tax.,60000,INR,Reliance Industries,,,,,tax
+NEW_PAYMENT,Release 15000 EUR to Global Traders Ltd against invoice number 4456.,15000,EUR,Global Traders Ltd,,,,invoice number 4456,
+NEW_PAYMENT,Send 500 USD to my nephew Rohan.,500,USD,my nephew Rohan,,,,,
+NEW_PAYMENT,Pay the plumber using RTGS from account ending 3359.,,,the plumber,account ending 3359,RTGS,,,
+NEW_PAYMENT,"Send 1,25,000 INR to Rajesh Kumar.","1,25,000",INR,Rajesh Kumar,,,,,
+NEW_PAYMENT,"Pay the transfer for the caterer, amount 3 million USD.",3 million,USD,the caterer,,,,,transfer
+NEW_PAYMENT,"Pay 4,400 EUR to the tax department from corporate account 55210 via SWIFT next Monday.","4,400",EUR,the tax department,corporate account 55210,SWIFT,next Monday,,
+NEW_PAYMENT,"Pay 8,500 GBP to XYZ Corp for transfer tonight.","8,500",GBP,XYZ Corp,,,tonight,,transfer
+NEW_PAYMENT,I want to pay Acme Logistics immediately using IMPS.,,,Acme Logistics,,IMPS,immediately,,
+NEW_PAYMENT,"Pay 45,000 rupees to the electricity board for consulting fee tonight.","45,000",rupees,the electricity board,,,tonight,,consulting fee
+NEW_PAYMENT,"Please initiate a payment of 50,000 rupees to Reliance Industries from business account.","50,000",rupees,Reliance Industries,business account,,,,
+NEW_PAYMENT,Transfer 5 lakh INR to the tax department right now.,5 lakh,INR,the tax department,,,right now,,transfer
+NEW_PAYMENT,Send funds to Rajesh Kumar via wire transfer.,,,Rajesh Kumar,,wire transfer,,,
+NEW_PAYMENT,"Pay the refund for ABC Suppliers Pvt Ltd, amount 330 pounds.",330,pounds,ABC Suppliers Pvt Ltd,,,,,refund
+NEW_PAYMENT,Kindly transfer 330 pounds to Infosys Ltd by Friday from HDFC account.,330,pounds,Infosys Ltd,HDFC account,,by Friday,,transfer
+NEW_PAYMENT,"Wire 45,000 rupees to my cousin Meera immediately.","45,000",rupees,my cousin Meera,,wire,immediately,,
+NEW_PAYMENT,"Wire 50,000 rupees to the caterer from account ending 4021 on 30th June.","50,000",rupees,the caterer,account ending 4021,wire,on 30th June,,
+NEW_PAYMENT,Send 5 lakh INR as gift to Global Traders Ltd.,5 lakh,INR,Global Traders Ltd,,,,,gift
+NEW_PAYMENT,"Send 10 million USD to my sister Anita using IMPS, reference invoice 8821.",10 million,USD,my sister Anita,,IMPS,,invoice 8821,
+NEW_PAYMENT,I want to pay my cousin Meera right now using SEPA.,,,my cousin Meera,,SEPA,right now,,
+NEW_PAYMENT,Transfer 500 USD from account ending 3359 to Reliance Industries for invoice payment.,500,USD,Reliance Industries,account ending 3359,,,,invoice payment
+NEW_PAYMENT,"Pay 2,000 euros to the marketing agency for consulting fee on 15th July.","2,000",euros,the marketing agency,,,on 15th July,,consulting fee
+NEW_PAYMENT,"Transfer 1,00,000 INR to Bright Solutions Inc in two days.","1,00,000",INR,Bright Solutions Inc,,,in two days,,transfer
+NEW_PAYMENT,I need to pay the landlord Mr. Singh 750 GBP for subscription fee.,750,GBP,the landlord Mr. Singh,,,,,subscription fee
+NEW_PAYMENT,"Please pay Emily Davis 60000 INR from account number 004455667, ref invoice INV-778.",60000,INR,Emily Davis,account number 004455667,,,invoice INV-778,
+NEW_PAYMENT,"Transfer 10,000.50 USD from account XYZ001 to the landlord Mr. Singh for salary payment.","10,000.50",USD,the landlord Mr. Singh,account XYZ001,,,,salary payment
+NEW_PAYMENT,I'd like to make a payment to the software vendor.,,,the software vendor,,,,,
+NEW_PAYMENT,Transfer money to the plumber from account ending 3359.,,,the plumber,account ending 3359,,,,transfer
+NEW_PAYMENT,"Pay Mr. Verma 120 dollars in two days, reference invoice INV-778.",120,dollars,Mr. Verma,,,in two days,invoice INV-778,
+NEW_PAYMENT,Transfer 100 USD from checking account to the marketing agency for gift.,100,USD,the marketing agency,checking account,,,,gift
+NEW_PAYMENT,"Set up a payment to my accountant of 4,400 EUR on 1st August.","4,400",EUR,my accountant,,,on 1st August,,
+NEW_PAYMENT,I'd like to make a payment to my nephew Rohan.,,,my nephew Rohan,,,,,
+NEW_PAYMENT,I want to pay Tata Motors before noon using wire transfer.,,,Tata Motors,,wire transfer,before noon,,
+NEW_PAYMENT,"Pay 4,400 EUR for reimbursement, reference salary July, tonight.","4,400",EUR,,,,tonight,salary July,reimbursement
+NEW_PAYMENT,Make a payment of 15000 EUR to John Mathews this Friday via IMPS.,15000,EUR,John Mathews,,IMPS,this Friday,,
+NEW_PAYMENT,Set up a payment to my sister Anita of 999 USD today.,999,USD,my sister Anita,,,today,,
+NEW_PAYMENT,I need to pay Emily Davis 500 USD for internet bill.,500,USD,Emily Davis,,,,,internet bill
+NEW_PAYMENT,"Transfer 2,000 euros to the IT vendor on the 1st.","2,000",euros,the IT vendor,,,on the 1st,,transfer
+NEW_PAYMENT,Send 10 million USD as consulting fee to the landlord Mr. Singh.,10 million,USD,the landlord Mr. Singh,,,,,consulting fee
+NEW_PAYMENT,Send funds to Mr. Verma via IMPS.,,,Mr. Verma,,IMPS,,,
+NEW_PAYMENT,"Send 750 GBP to John Mathews using internal transfer, reference March fees.",750,GBP,John Mathews,,internal transfer,,March fees,
+NEW_PAYMENT,Please initiate a payment of 25000 INR to the IT vendor from current account 22110098.,25000,INR,the IT vendor,current account 22110098,,,,
+NEW_PAYMENT,Pay 999 USD to David Lee for advance payment tonight.,999,USD,David Lee,,,tonight,,advance payment
+NEW_PAYMENT,"Process a RTGS payment of 8,500 GBP to Mr. Verma.","8,500",GBP,Mr. Verma,,RTGS,,,
+NEW_PAYMENT,Transfer money to my nephew Rohan from savings account.,,,my nephew Rohan,savings account,,,,transfer
+NEW_PAYMENT,Send 750 GBP as internet bill to the plumber.,750,GBP,the plumber,,,,,internet bill
+NEW_PAYMENT,Wire 2500 dollars to Reliance Industries from HDFC account next week.,2500,dollars,Reliance Industries,HDFC account,wire,next week,,
+NEW_PAYMENT,I need to pay John Mathews 100 USD for consulting fee.,100,USD,John Mathews,,,,,consulting fee
+NEW_PAYMENT,"Set up a payment to Acme Logistics of 2,000 EUR before noon.","2,000",EUR,Acme Logistics,,,before noon,,
+NEW_PAYMENT,"Pay tax of 18,000 INR to my nephew Rohan via internal transfer.","18,000",INR,my nephew Rohan,,internal transfer,,,tax
+NEW_PAYMENT,"Set up a payment to the caterer of 2,000 euros by Friday.","2,000",euros,the caterer,,,by Friday,,
+NEW_PAYMENT,Send 500 USD as invoice payment to my nephew Rohan.,500,USD,my nephew Rohan,,,,,invoice payment
+NEW_PAYMENT,I want to pay the caterer immediately using SEPA.,,,the caterer,,SEPA,immediately,,
+NEW_PAYMENT,I'd like to make a payment to the caterer.,,,the caterer,,,,,
+NEW_PAYMENT,Transfer money to Rajesh Kumar from HDFC account.,,,Rajesh Kumar,HDFC account,,,,transfer
+NEW_PAYMENT,"Process a RTGS payment of 2,000 euros to our supplier in Mumbai.","2,000",euros,our supplier in Mumbai,,RTGS,,,
+NEW_PAYMENT,Send funds to Reliance Industries via wire transfer.,,,Reliance Industries,,wire transfer,,,
+NEW_PAYMENT,"Wire 10,000.50 USD to Rajesh Kumar tonight.","10,000.50",USD,Rajesh Kumar,,wire,tonight,,
+NEW_PAYMENT,"Pay the advance payment for Tata Motors, amount 5 lakh INR.",5 lakh,INR,Tata Motors,,,,,advance payment
+NEW_PAYMENT,"Transfer 1,00,000 INR to John Mathews on 1st August.","1,00,000",INR,John Mathews,,,on 1st August,,transfer
+NEW_PAYMENT,Transfer 120 dollars to the landlord Mr. Singh this Friday.,120,dollars,the landlord Mr. Singh,,,this Friday,,transfer
+NEW_PAYMENT,Transfer money to Acme Logistics from account ending 3359.,,,Acme Logistics,account ending 3359,,,,transfer
+NEW_PAYMENT,Transfer 15000 EUR to David Lee on 30th June.,15000,EUR,David Lee,,,on 30th June,,transfer
+NEW_PAYMENT,"Send 999 USD to Infosys Ltd using IMPS, reference PO#3345.",999,USD,Infosys Ltd,,IMPS,,PO#3345,
+NEW_PAYMENT,"Release 4,400 EUR to my nephew Rohan against order #5567.","4,400",EUR,my nephew Rohan,,,,order #5567,
+NEW_PAYMENT,"Process a RTGS payment of 45,000 rupees to XYZ Corp.","45,000",rupees,XYZ Corp,,RTGS,,,
+NEW_PAYMENT,Send 100 USD as utility bill payment to Bright Solutions Inc.,100,USD,Bright Solutions Inc,,,,,utility bill payment
+NEW_PAYMENT,Set up a payment to my cousin Meera of 3 million USD this Friday.,3 million,USD,my cousin Meera,,,this Friday,,
+NEW_PAYMENT,Pay Rajesh Kumar using internal transfer from business account.,,,Rajesh Kumar,business account,internal transfer,,,
+NEW_PAYMENT,I want to pay my landlord tonight using wire.,,,my landlord,,wire,tonight,,
+NEW_PAYMENT,"I need to pay Reliance Industries 2,000 EUR for vendor payment.","2,000",EUR,Reliance Industries,,,,,vendor payment
+NEW_PAYMENT,Set up a payment to the IT vendor of 5 lakh INR on 15th July.,5 lakh,INR,the IT vendor,,,on 15th July,,
+NEW_PAYMENT,Pay 5 lakh INR to my nephew Rohan for tax on 30th June.,5 lakh,INR,my nephew Rohan,,,on 30th June,,tax
+NEW_PAYMENT,Release 2.5 lakh INR to Emily Davis against note: consulting July.,2.5 lakh,INR,Emily Davis,,,,note: consulting July,
+NEW_PAYMENT,I want to pay John Mathews by end of month using IMPS.,,,John Mathews,,IMPS,by end of month,,
+NEW_PAYMENT,Kindly transfer 750 pounds to XYZ Corp today from account ending 3359.,750,pounds,XYZ Corp,account ending 3359,,today,,transfer
+NEW_PAYMENT,Transfer money to Priya Sharma from salary account.,,,Priya Sharma,salary account,,,,transfer
+NEW_PAYMENT,"Pay the subscription fee for my landlord, amount 3 million USD.",3 million,USD,my landlord,,,,,subscription fee
+NEW_PAYMENT,"I need to pay Global Traders Ltd 2,50,000 INR for tax.","2,50,000",INR,Global Traders Ltd,,,,,tax
+NEW_PAYMENT,Send funds to ABC Suppliers Pvt Ltd via SWIFT.,,,ABC Suppliers Pvt Ltd,,SWIFT,,,
+NEW_PAYMENT,"Transfer my landlord 2,50,000 INR in two days.","2,50,000",INR,my landlord,,,in two days,,transfer
+NEW_PAYMENT,"Pay the consulting fee for Rajesh Kumar, amount 10 million USD.",10 million,USD,Rajesh Kumar,,,,,consulting fee
+NEW_PAYMENT,"Process a SEPA payment of 10,000.50 USD to Infosys Ltd.","10,000.50",USD,Infosys Ltd,,SEPA,,,
+NEW_PAYMENT,"Process a NEFT payment of 3,750 EUR to my sister Anita.","3,750",EUR,my sister Anita,,NEFT,,,
+NEW_PAYMENT,Send funds to Priya Sharma via NEFT.,,,Priya Sharma,,NEFT,,,
+NEW_PAYMENT,"Pay 15000 EUR for refund, reference note: consulting July, at 5 PM.",15000,EUR,,,,at 5 PM,note: consulting July,refund
+NEW_PAYMENT,Transfer money to my landlord from account ending 7821.,,,my landlord,account ending 7821,,,,transfer
+NEW_PAYMENT,"Pay our supplier in Mumbai 60000 INR at 5 PM, reference ref TXN99231.",60000,INR,our supplier in Mumbai,,,at 5 PM,ref TXN99231,
+NEW_PAYMENT,"Process a IMPS payment of 8,500 GBP to the electricity board.","8,500",GBP,the electricity board,,IMPS,,,
+NEW_PAYMENT,Transfer 5 lakh INR to my nephew Rohan by Friday.,5 lakh,INR,my nephew Rohan,,,by Friday,,transfer
+NEW_PAYMENT,Wire 3 million USD to Acme Logistics tonight.,3 million,USD,Acme Logistics,,wire,tonight,,
+NEW_PAYMENT,Wire 2.5 lakh INR to John Mathews from account number 004455667 immediately.,2.5 lakh,INR,John Mathews,account number 004455667,wire,immediately,,
+NEW_PAYMENT,"Pay 1,00,000 INR for transfer, reference March fees, today.","1,00,000",INR,,,,today,March fees,transfer
+NEW_PAYMENT,"Make a payment of 2,000 EUR to the caterer on the 1st via wire.","2,000",EUR,the caterer,,wire,on the 1st,,
+NEW_PAYMENT,Transfer 500 USD to Infosys Ltd right now.,500,USD,Infosys Ltd,,,right now,,transfer
+NEW_PAYMENT,Wire 999 USD to XYZ Corp next week.,999,USD,XYZ Corp,,wire,next week,,
+NEW_PAYMENT,"Transfer 3,750 EUR to the electricity board on the 1st.","3,750",EUR,the electricity board,,,on the 1st,,transfer
+NEW_PAYMENT,"Pay 750 GBP for donation, reference contract ref C-2201, on 15th July.",750,GBP,,,,on 15th July,contract ref C-2201,donation
+NEW_PAYMENT,"Pay my accountant 120 dollars on 15th July, reference PO#3345.",120,dollars,my accountant,,,on 15th July,PO#3345,
+NEW_PAYMENT,"Pay the IT vendor 750 pounds before noon, reference March fees.",750,pounds,the IT vendor,,,before noon,March fees,
+NEW_PAYMENT,Transfer 15000 EUR to my nephew Rohan by Friday.,15000,EUR,my nephew Rohan,,,by Friday,,transfer
+NEW_PAYMENT,"Transfer 2,50,000 INR to Reliance Industries tonight.","2,50,000",INR,Reliance Industries,,,tonight,,transfer
+NEW_PAYMENT,Send 500 dollars as salary payment to the caterer.,500,dollars,the caterer,,,,,salary payment
+NEW_PAYMENT,"I need to pay the electricity board 45,000 rupees for loan EMI.","45,000",rupees,the electricity board,,,,,loan EMI
+NEW_PAYMENT,I'd like to make a payment to David Lee.,,,David Lee,,,,,
+NEW_PAYMENT,"Transfer 45,000 rupees to my landlord on 1st August.","45,000",rupees,my landlord,,,on 1st August,,transfer
+NEW_PAYMENT,"Pay refund of 1,00,000 INR to the IT vendor via RTGS.","1,00,000",INR,the IT vendor,,RTGS,,,refund
+NEW_PAYMENT,Release 15000 EUR to Emily Davis against invoice 8821.,15000,EUR,Emily Davis,,,,invoice 8821,
+NEW_PAYMENT,"Pay 3,750 EUR to the landlord Mr. Singh from salary account via wire transfer next week.","3,750",EUR,the landlord Mr. Singh,salary account,wire transfer,next week,,
+NEW_PAYMENT,"Wire 2,000 euros to Sarah Connor from salary account in two days.","2,000",euros,Sarah Connor,salary account,wire,in two days,,
+NEW_PAYMENT,"Process a SEPA payment of 2,50,000 INR to Reliance Industries.","2,50,000",INR,Reliance Industries,,SEPA,,,
+NEW_PAYMENT,"Pay gift of 2,50,000 INR to Global Traders Ltd via wire transfer.","2,50,000",INR,Global Traders Ltd,,wire transfer,,,gift
+NEW_PAYMENT,Pay Bright Solutions Inc using internal transfer from HDFC account.,,,Bright Solutions Inc,HDFC account,internal transfer,,,
+NEW_PAYMENT,"Pay the utility bill payment for our supplier in Mumbai, amount 4,400 EUR.","4,400",EUR,our supplier in Mumbai,,,,,utility bill payment
+NEW_PAYMENT,Pay transfer of 500 dollars to Sarah Connor via internal transfer.,500,dollars,Sarah Connor,,internal transfer,,,transfer
+NEW_PAYMENT,"Pay the invoice payment for the marketing agency, amount 3,750 EUR.","3,750",EUR,the marketing agency,,,,,invoice payment
+NEW_PAYMENT,I want to pay the plumber tomorrow using IMPS.,,,the plumber,,IMPS,tomorrow,,
+NEW_PAYMENT,I need to pay the marketing agency 999 USD for transfer.,999,USD,the marketing agency,,,,,transfer
+NEW_PAYMENT,Send funds to my landlord via internal transfer.,,,my landlord,,internal transfer,,,
+NEW_PAYMENT,Send funds to the marketing agency via ACH.,,,the marketing agency,,ACH,,,
+NEW_PAYMENT,"Release 1,00,000 INR to Priya Sharma against ref TXN99231.","1,00,000",INR,Priya Sharma,,,,ref TXN99231,
+NEW_PAYMENT,"Process a NEFT payment of 10,000.50 USD to the plumber.","10,000.50",USD,the plumber,,NEFT,,,
+NEW_PAYMENT,"Send 330 pounds to Reliance Industries using wire transfer, reference order #5567.",330,pounds,Reliance Industries,,wire transfer,,order #5567,
+NEW_PAYMENT,"Transfer 8,500 GBP to the landlord Mr. Singh on 1st August.","8,500",GBP,the landlord Mr. Singh,,,on 1st August,,transfer
+NEW_PAYMENT,I want to pay XYZ Corp right now using SWIFT.,,,XYZ Corp,,SWIFT,right now,,
+NEW_PAYMENT,"Wire 45,000 rupees to Tata Motors from account ending 4021 before noon.","45,000",rupees,Tata Motors,account ending 4021,wire,before noon,,
+NEW_PAYMENT,Send 500 dollars to the software vendor.,500,dollars,the software vendor,,,,,
+NEW_PAYMENT,Set up a payment to Infosys Ltd of 999 USD next week.,999,USD,Infosys Ltd,,,next week,,
+NEW_PAYMENT,"Pay tax of 2,50,000 INR to the software vendor via wire.","2,50,000",INR,the software vendor,,wire,,,tax
+NEW_PAYMENT,Transfer 120 dollars to the software vendor tomorrow.,120,dollars,the software vendor,,,tomorrow,,transfer
+NEW_PAYMENT,Send funds to Bright Solutions Inc via bank transfer.,,,Bright Solutions Inc,,bank transfer,,,
+NEW_PAYMENT,"Send 2,50,000 INR as electricity bill to Reliance Industries.","2,50,000",INR,Reliance Industries,,,,,electricity bill
+NEW_PAYMENT,"Release 3,750 EUR to David Lee against contract ref C-2201.","3,750",EUR,David Lee,,,,contract ref C-2201,
+NEW_PAYMENT,"Wire 8,500 GBP to my nephew Rohan from business account today.","8,500",GBP,my nephew Rohan,business account,wire,today,,
+NEW_PAYMENT,"Transfer the caterer 4,400 EUR this Friday.","4,400",EUR,the caterer,,,this Friday,,transfer
+NEW_PAYMENT,I'd like to make a payment to my freelancer Alex.,,,my freelancer Alex,,,,,
+NEW_PAYMENT,Please initiate a payment of 500 USD to David Lee from salary account.,500,USD,David Lee,salary account,,,,
+NEW_PAYMENT,"Send 8,500 GBP as school fees to my accountant.","8,500",GBP,my accountant,,,,,school fees
+NEW_PAYMENT,Send 750 GBP as consulting fee to Tata Motors.,750,GBP,Tata Motors,,,,,consulting fee
+NEW_PAYMENT,"Kindly transfer 2,000 EUR to the marketing agency on 30th June from account ending 4021.","2,000",EUR,the marketing agency,account ending 4021,,on 30th June,,transfer
+NEW_PAYMENT,Release 330 pounds to my sister Anita against invoice number 4456.,330,pounds,my sister Anita,,,,invoice number 4456,
+NEW_PAYMENT,Pay Tata Motors using SWIFT from account ending 7821.,,,Tata Motors,account ending 7821,SWIFT,,,
+NEW_PAYMENT,Pay the IT vendor using IMPS from checking account.,,,the IT vendor,checking account,IMPS,,,
+NEW_PAYMENT,Transfer 120 dollars from current account 22110098 to Acme Logistics for medical bill.,120,dollars,Acme Logistics,current account 22110098,,,,medical bill
+NEW_PAYMENT,"Send 2,000 EUR to the landlord Mr. Singh.","2,000",EUR,the landlord Mr. Singh,,,,,
+NEW_PAYMENT,Transfer money to Sarah Connor from account ending 9987.,,,Sarah Connor,account ending 9987,,,,transfer
+NEW_PAYMENT,"Send 1,25,000 INR to Mr. Verma using bank transfer, reference invoice number 4456.","1,25,000",INR,Mr. Verma,,bank transfer,,invoice number 4456,
+NEW_PAYMENT,Kindly transfer 100 USD to the landlord Mr. Singh tomorrow from HDFC account.,100,USD,the landlord Mr. Singh,HDFC account,,tomorrow,,transfer
+NEW_PAYMENT,"Send 8,500 GBP as medical bill to my accountant.","8,500",GBP,my accountant,,,,,medical bill
+NEW_PAYMENT,"I need to pay the marketing agency 8,500 GBP for loan EMI.","8,500",GBP,the marketing agency,,,,,loan EMI
+NEW_PAYMENT,"Please initiate a payment of 10,000.50 USD to ABC Suppliers Pvt Ltd from checking account.","10,000.50",USD,ABC Suppliers Pvt Ltd,checking account,,,,
+NEW_PAYMENT,Send 750 GBP as donation to Infosys Ltd.,750,GBP,Infosys Ltd,,,,,donation
+NEW_PAYMENT,"Transfer 7,200 USD to the landlord Mr. Singh next Monday.","7,200",USD,the landlord Mr. Singh,,,next Monday,,transfer
+NEW_PAYMENT,"Send 3,750 EUR to Emily Davis.","3,750",EUR,Emily Davis,,,,,
+NEW_PAYMENT,Transfer 2500 dollars to my nephew Rohan on 15th July.,2500,dollars,my nephew Rohan,,,on 15th July,,transfer
+NEW_PAYMENT,"Kindly transfer 45,000 rupees to Bright Solutions Inc in two days from account ending 7821.","45,000",rupees,Bright Solutions Inc,account ending 7821,,in two days,,transfer
+NEW_PAYMENT,"Pay the gift for Reliance Industries, amount 1,25,000 INR.","1,25,000",INR,Reliance Industries,,,,,gift
+NEW_PAYMENT,"Pay the insurance premium for the IT vendor, amount 330 pounds.",330,pounds,the IT vendor,,,,,insurance premium
+NEW_PAYMENT,Make a payment of 100 USD to the landlord Mr. Singh by Friday via UPI.,100,USD,the landlord Mr. Singh,,UPI,by Friday,,
+NEW_PAYMENT,Wire 15000 EUR to Priya Sharma this evening.,15000,EUR,Priya Sharma,,wire,this evening,,
+NEW_PAYMENT,"Wire 2,000 euros to our supplier in Mumbai by Friday.","2,000",euros,our supplier in Mumbai,,wire,by Friday,,
+NEW_PAYMENT,Transfer my sister Anita 2.5 lakh INR on 1st August.,2.5 lakh,INR,my sister Anita,,,on 1st August,,transfer
+NEW_PAYMENT,Set up a payment to Mr. Verma of 120 dollars on the 1st.,120,dollars,Mr. Verma,,,on the 1st,,
+NEW_PAYMENT,Send funds to Reliance Industries via SWIFT.,,,Reliance Industries,,SWIFT,,,
+NEW_PAYMENT,"Kindly transfer 7,200 USD to Tata Motors today from checking account.","7,200",USD,Tata Motors,checking account,,today,,transfer
+NEW_PAYMENT,"Pay 10,000.50 USD to the plumber for gift on 1st August.","10,000.50",USD,the plumber,,,on 1st August,,gift
+NEW_PAYMENT,"Please initiate a payment of 18,000 INR to my cousin Meera from account ending 1204.","18,000",INR,my cousin Meera,account ending 1204,,,,
+NEW_PAYMENT,Process a NEFT payment of 330 pounds to Mr. Verma.,330,pounds,Mr. Verma,,NEFT,,,
+NEW_PAYMENT,"Wire 10,000.50 USD to Tata Motors from account ending 7821 next week.","10,000.50",USD,Tata Motors,account ending 7821,wire,next week,,
+NEW_PAYMENT,Send 60000 INR to the marketing agency.,60000,INR,the marketing agency,,,,,
+NEW_PAYMENT,Transfer money to Mr. Verma from corporate account 55210.,,,Mr. Verma,corporate account 55210,,,,transfer
+NEW_PAYMENT,I need to pay the landlord Mr. Singh 330 pounds for school fees.,330,pounds,the landlord Mr. Singh,,,,,school fees
+NEW_PAYMENT,I'd like to make a payment to Acme Logistics.,,,Acme Logistics,,,,,
+NEW_PAYMENT,"Transfer my cousin Meera 2,000 euros on 1st August.","2,000",euros,my cousin Meera,,,on 1st August,,transfer
+NEW_PAYMENT,Release 500 USD to XYZ Corp against salary July.,500,USD,XYZ Corp,,,,salary July,
+NEW_PAYMENT,"Pay the electricity board 7,200 USD tomorrow, reference March fees.","7,200",USD,the electricity board,,,tomorrow,March fees,
+NEW_PAYMENT,"Pay the school fees for my cousin Meera, amount 5 lakh INR.",5 lakh,INR,my cousin Meera,,,,,school fees
+NEW_PAYMENT,"Process a NEFT payment of 50,000 rupees to Emily Davis.","50,000",rupees,Emily Davis,,NEFT,,,
+NEW_PAYMENT,Transfer 10 million USD to my accountant tomorrow.,10 million,USD,my accountant,,,tomorrow,,transfer
+NEW_PAYMENT,Transfer 999 USD to our supplier in Mumbai by end of month.,999,USD,our supplier in Mumbai,,,by end of month,,transfer
+NEW_PAYMENT,Process a internal transfer payment of 5 lakh INR to Bright Solutions Inc.,5 lakh,INR,Bright Solutions Inc,,internal transfer,,,
+NEW_PAYMENT,"Pay the tax for Global Traders Ltd, amount 2,000 EUR.","2,000",EUR,Global Traders Ltd,,,,,tax
+NEW_PAYMENT,"Release 2,000 euros to my nephew Rohan against invoice INV-2023-045.","2,000",euros,my nephew Rohan,,,,invoice INV-2023-045,
+NEW_PAYMENT,"Wire 50,000 rupees to the marketing agency on 15th July.","50,000",rupees,the marketing agency,,wire,on 15th July,,
+NEW_PAYMENT,"Pay my sister Anita 2.5 lakh INR on the 1st, reference note: consulting July.",2.5 lakh,INR,my sister Anita,,,on the 1st,note: consulting July,
+NEW_PAYMENT,I want to pay the marketing agency by Friday using IMPS.,,,the marketing agency,,IMPS,by Friday,,
+NEW_PAYMENT,I want to pay our supplier in Mumbai right now using ACH.,,,our supplier in Mumbai,,ACH,right now,,
+NEW_PAYMENT,Transfer 2500 dollars to our supplier in Mumbai by Friday.,2500,dollars,our supplier in Mumbai,,,by Friday,,transfer
+NEW_PAYMENT,"Transfer 1,00,000 INR from account ending 9987 to my freelancer Alex for reimbursement.","1,00,000",INR,my freelancer Alex,account ending 9987,,,,reimbursement
+NEW_PAYMENT,"Pay 1,25,000 INR to my landlord for internet bill this evening.","1,25,000",INR,my landlord,,,this evening,,internet bill
+NEW_PAYMENT,Release 15000 EUR to Mr. Verma against March fees.,15000,EUR,Mr. Verma,,,,March fees,
+NEW_PAYMENT,Transfer money to the IT vendor from account ending 3359.,,,the IT vendor,account ending 3359,,,,transfer
+NEW_PAYMENT,Process a wire transfer payment of 5 lakh INR to Acme Logistics.,5 lakh,INR,Acme Logistics,,wire transfer,,,
+NEW_PAYMENT,"Process a wire payment of 7,200 USD to my cousin Meera.","7,200",USD,my cousin Meera,,wire,,,
+NEW_PAYMENT,Pay ABC Suppliers Pvt Ltd using SWIFT from account ending 3359.,,,ABC Suppliers Pvt Ltd,account ending 3359,SWIFT,,,
+NEW_PAYMENT,Transfer 500 USD from account ending 3359 to the IT vendor for reimbursement.,500,USD,the IT vendor,account ending 3359,,,,reimbursement
+NEW_PAYMENT,"Pay 50,000 rupees to my nephew Rohan from current account via ACH today.","50,000",rupees,my nephew Rohan,current account,ACH,today,,
+NEW_PAYMENT,"Please pay Tata Motors 10 million USD from account XYZ001, ref PO#3345.",10 million,USD,Tata Motors,account XYZ001,,,PO#3345,
+NEW_PAYMENT,"Pay Mr. Verma 4,400 EUR right now, reference Feb rent.","4,400",EUR,Mr. Verma,,,right now,Feb rent,
+NEW_PAYMENT,Wire 330 pounds to the marketing agency from business account next Monday.,330,pounds,the marketing agency,business account,wire,next Monday,,
+NEW_PAYMENT,"Pay 1,25,000 INR for gift, reference contract ref C-2201, right now.","1,25,000",INR,,,,right now,contract ref C-2201,gift
+NEW_PAYMENT,Transfer money to Reliance Industries from business account.,,,Reliance Industries,business account,,,,transfer
+NEW_PAYMENT,Transfer 500 USD to my nephew Rohan tomorrow.,500,USD,my nephew Rohan,,,tomorrow,,transfer
+NEW_PAYMENT,Process a RTGS payment of 500 dollars to my accountant.,500,dollars,my accountant,,RTGS,,,
+NEW_PAYMENT,Transfer money to the electricity board from checking account.,,,the electricity board,checking account,,,,transfer
+NEW_PAYMENT,"Send 25000 INR to the IT vendor using wire, reference invoice INV-778.",25000,INR,the IT vendor,,wire,,invoice INV-778,
+NEW_PAYMENT,I want to pay Rajesh Kumar tonight using NEFT.,,,Rajesh Kumar,,NEFT,tonight,,
+NEW_PAYMENT,"Pay 25000 INR for tax, reference invoice number 4456, at 5 PM.",25000,INR,,,,at 5 PM,invoice number 4456,tax
+NEW_PAYMENT,Set up a payment to our supplier in Mumbai of 2500 dollars next Monday.,2500,dollars,our supplier in Mumbai,,,next Monday,,
+NEW_PAYMENT,"Send 8,500 GBP to the caterer using ACH, reference invoice number 4456.","8,500",GBP,the caterer,,ACH,,invoice number 4456,
+NEW_PAYMENT,Process a IMPS payment of 2500 dollars to the marketing agency.,2500,dollars,the marketing agency,,IMPS,,,
+NEW_PAYMENT,Send 15000 EUR to my nephew Rohan.,15000,EUR,my nephew Rohan,,,,,
+NEW_PAYMENT,Send 5 lakh INR to the landlord Mr. Singh.,5 lakh,INR,the landlord Mr. Singh,,,,,
+NEW_PAYMENT,"Transfer 7,200 USD from HDFC account to the tax department for invoice payment.","7,200",USD,the tax department,HDFC account,,,,invoice payment
+NEW_PAYMENT,"Wire 45,000 rupees to the caterer from account ending 9987 next week.","45,000",rupees,the caterer,account ending 9987,wire,next week,,
+NEW_PAYMENT,"Pay 2,000 EUR to the landlord Mr. Singh for insurance premium immediately.","2,000",EUR,the landlord Mr. Singh,,,immediately,,insurance premium
+NEW_PAYMENT,Make a payment of 100 USD to Infosys Ltd before noon via wire.,100,USD,Infosys Ltd,,wire,before noon,,
+NEW_PAYMENT,I want to pay my nephew Rohan on 15th July using SEPA.,,,my nephew Rohan,,SEPA,on 15th July,,
+NEW_PAYMENT,Transfer money to Tata Motors from current account.,,,Tata Motors,current account,,,,transfer
+NEW_PAYMENT,Transfer 999 USD to my landlord before noon.,999,USD,my landlord,,,before noon,,transfer
+NEW_PAYMENT,"Send 10,000.50 USD to the marketing agency using IMPS, reference invoice INV-2023-045.","10,000.50",USD,the marketing agency,,IMPS,,invoice INV-2023-045,
+NEW_PAYMENT,Send funds to the plumber via RTGS.,,,the plumber,,RTGS,,,
+NEW_PAYMENT,"Transfer 18,000 INR from HDFC account to Global Traders Ltd for internet bill.","18,000",INR,Global Traders Ltd,HDFC account,,,,internet bill
+NEW_PAYMENT,Transfer money to the IT vendor from corporate account 55210.,,,the IT vendor,corporate account 55210,,,,transfer
+NEW_PAYMENT,Wire 500 dollars to XYZ Corp tonight.,500,dollars,XYZ Corp,,wire,tonight,,
+NEW_PAYMENT,"Transfer 8,500 GBP to my landlord on 15th July.","8,500",GBP,my landlord,,,on 15th July,,transfer
+NEW_PAYMENT,I want to pay the software vendor right now using wire transfer.,,,the software vendor,,wire transfer,right now,,
+NEW_PAYMENT,Make a payment of 10 million USD to Emily Davis in two days via wire.,10 million,USD,Emily Davis,,wire,in two days,,
+NEW_PAYMENT,Transfer money to the caterer from account ending 3359.,,,the caterer,account ending 3359,,,,transfer
+NEW_PAYMENT,"Pay 500 USD for consulting fee, reference ref TXN99231, on 30th June.",500,USD,,,,on 30th June,ref TXN99231,consulting fee
+NEW_PAYMENT,Transfer 3 million USD to Mr. Verma next week.,3 million,USD,Mr. Verma,,,next week,,transfer
+NEW_PAYMENT,Pay the electricity board using SEPA from account ending 7821.,,,the electricity board,account ending 7821,SEPA,,,
+NEW_PAYMENT,I need to pay Bright Solutions Inc 750 pounds for maintenance charges.,750,pounds,Bright Solutions Inc,,,,,maintenance charges
+NEW_PAYMENT,Please initiate a payment of 60000 INR to the software vendor from salary account.,60000,INR,the software vendor,salary account,,,,
+NEW_PAYMENT,Make a payment of 2500 dollars to Sarah Connor by end of month via ACH.,2500,dollars,Sarah Connor,,ACH,by end of month,,
+NEW_PAYMENT,Pay ABC Suppliers Pvt Ltd using NEFT from corporate account 55210.,,,ABC Suppliers Pvt Ltd,corporate account 55210,NEFT,,,
+NEW_PAYMENT,"Pay tax of 1,25,000 INR to my nephew Rohan via UPI.","1,25,000",INR,my nephew Rohan,,UPI,,,tax
+NEW_PAYMENT,Transfer money to XYZ Corp from account XYZ001.,,,XYZ Corp,account XYZ001,,,,transfer
+NEW_PAYMENT,Transfer 3 million USD to the marketing agency this evening.,3 million,USD,the marketing agency,,,this evening,,transfer
+NEW_PAYMENT,Send 10 million USD as consulting fee to Sarah Connor.,10 million,USD,Sarah Connor,,,,,consulting fee
+NEW_PAYMENT,Kindly transfer 2.5 lakh INR to my accountant in two days from current account.,2.5 lakh,INR,my accountant,current account,,in two days,,transfer
+NEW_PAYMENT,I want to pay Acme Logistics on 15th July using UPI.,,,Acme Logistics,,UPI,on 15th July,,
+NEW_PAYMENT,Transfer 25000 INR to my sister Anita by end of month.,25000,INR,my sister Anita,,,by end of month,,transfer
+NEW_PAYMENT,Pay Emily Davis using IMPS from account ending 4021.,,,Emily Davis,account ending 4021,IMPS,,,
+NEW_PAYMENT,Send funds to the caterer via RTGS.,,,the caterer,,RTGS,,,
+NEW_PAYMENT,Process a internal transfer payment of 25000 INR to Bright Solutions Inc.,25000,INR,Bright Solutions Inc,,internal transfer,,,
+NEW_PAYMENT,Send 500 dollars as consulting fee to my cousin Meera.,500,dollars,my cousin Meera,,,,,consulting fee
+NEW_PAYMENT,Send funds to Priya Sharma via IMPS.,,,Priya Sharma,,IMPS,,,
+NEW_PAYMENT,"Release 1,00,000 INR to the electricity board against invoice INV-2023-045.","1,00,000",INR,the electricity board,,,,invoice INV-2023-045,
+NEW_PAYMENT,"Please pay John Mathews 2,50,000 INR from account ending 3359, ref note: consulting July.","2,50,000",INR,John Mathews,account ending 3359,,,note: consulting July,
+NEW_PAYMENT,Send 10 million USD as rent to my sister Anita.,10 million,USD,my sister Anita,,,,,rent
+NEW_PAYMENT,"Process a SEPA payment of 10,000.50 USD to Rajesh Kumar.","10,000.50",USD,Rajesh Kumar,,SEPA,,,
+NEW_PAYMENT,"Pay 2,000 EUR for maintenance charges, reference invoice INV-2023-045, this evening.","2,000",EUR,,,,this evening,invoice INV-2023-045,maintenance charges
+NEW_PAYMENT,Send funds to David Lee via wire.,,,David Lee,,wire,,,
+NEW_PAYMENT,"Wire 2,50,000 INR to my freelancer Alex by end of month.","2,50,000",INR,my freelancer Alex,,wire,by end of month,,
+NEW_PAYMENT,"Pay consulting fee of 50,000 rupees to the landlord Mr. Singh via UPI.","50,000",rupees,the landlord Mr. Singh,,UPI,,,consulting fee
+NEW_PAYMENT,Process a bank transfer payment of 100 USD to Acme Logistics.,100,USD,Acme Logistics,,bank transfer,,,
+NEW_PAYMENT,Please initiate a payment of 60000 INR to our supplier in Mumbai from corporate account 55210.,60000,INR,our supplier in Mumbai,corporate account 55210,,,,
+NEW_PAYMENT,"Pay 500 USD for salary payment, reference salary July, this Friday.",500,USD,,,,this Friday,salary July,salary payment
+NEW_PAYMENT,Wire 500 dollars to the IT vendor from account ending 1204 tonight.,500,dollars,the IT vendor,account ending 1204,wire,tonight,,
+NEW_PAYMENT,"Pay Infosys Ltd 2,000 euros next Monday, reference invoice 8821.","2,000",euros,Infosys Ltd,,,next Monday,invoice 8821,
+NEW_PAYMENT,Pay 2.5 lakh INR to the landlord Mr. Singh for refund today.,2.5 lakh,INR,the landlord Mr. Singh,,,today,,refund
+NEW_PAYMENT,"Make a payment of 3,750 EUR to my sister Anita on 15th July via wire.","3,750",EUR,my sister Anita,,wire,on 15th July,,
+NEW_PAYMENT,I want to pay my nephew Rohan this Friday using RTGS.,,,my nephew Rohan,,RTGS,this Friday,,
+NEW_PAYMENT,Send 750 GBP as internet bill to Bright Solutions Inc.,750,GBP,Bright Solutions Inc,,,,,internet bill
+NEW_PAYMENT,Process a NEFT payment of 3 million USD to Global Traders Ltd.,3 million,USD,Global Traders Ltd,,NEFT,,,
+NEW_PAYMENT,Send 500 USD to Bright Solutions Inc.,500,USD,Bright Solutions Inc,,,,,
+NEW_PAYMENT,Set up a payment to John Mathews of 120 dollars right now.,120,dollars,John Mathews,,,right now,,
+NEW_PAYMENT,Send 500 dollars to Reliance Industries.,500,dollars,Reliance Industries,,,,,
+NEW_PAYMENT,Transfer 500 dollars to Rajesh Kumar right now.,500,dollars,Rajesh Kumar,,,right now,,transfer
+NEW_PAYMENT,Transfer money to the software vendor from account ending 7821.,,,the software vendor,account ending 7821,,,,transfer
+NEW_PAYMENT,Kindly transfer 100 USD to Infosys Ltd this Friday from account ending 9987.,100,USD,Infosys Ltd,account ending 9987,,this Friday,,transfer
+NEW_PAYMENT,"Pay Rajesh Kumar 2,000 EUR at 5 PM, reference March fees.","2,000",EUR,Rajesh Kumar,,,at 5 PM,March fees,
+NEW_PAYMENT,I want to pay XYZ Corp immediately using SEPA.,,,XYZ Corp,,SEPA,immediately,,
+NEW_PAYMENT,"Transfer 1,00,000 INR to XYZ Corp tonight.","1,00,000",INR,XYZ Corp,,,tonight,,transfer
+NEW_PAYMENT,Release 100 USD to ABC Suppliers Pvt Ltd against invoice INV-2023-045.,100,USD,ABC Suppliers Pvt Ltd,,,,invoice INV-2023-045,
+NEW_PAYMENT,"Send 2,50,000 INR as refund to the marketing agency.","2,50,000",INR,the marketing agency,,,,,refund
+NEW_PAYMENT,I need to pay ABC Suppliers Pvt Ltd 50000 INR for advance payment.,50000,INR,ABC Suppliers Pvt Ltd,,,,,advance payment
+NEW_PAYMENT,Release 500 dollars to Mr. Verma against salary July.,500,dollars,Mr. Verma,,,,salary July,
+NEW_PAYMENT,"Transfer 2,000 EUR to the electricity board tomorrow.","2,000",EUR,the electricity board,,,tomorrow,,transfer
+NEW_PAYMENT,Make a payment of 10 million USD to Emily Davis right now via NEFT.,10 million,USD,Emily Davis,,NEFT,right now,,
+NEW_PAYMENT,Make a payment of 120 dollars to my freelancer Alex this Friday via ACH.,120,dollars,my freelancer Alex,,ACH,this Friday,,
+NEW_PAYMENT,"Kindly transfer 7,200 USD to my accountant right now from joint account.","7,200",USD,my accountant,joint account,,right now,,transfer
+NEW_PAYMENT,"Pay 8,500 GBP to Global Traders Ltd from account ending 3359 via bank transfer this Friday.","8,500",GBP,Global Traders Ltd,account ending 3359,bank transfer,this Friday,,
+NEW_PAYMENT,"Pay the loan EMI for Global Traders Ltd, amount 120 dollars.",120,dollars,Global Traders Ltd,,,,,loan EMI
+NEW_PAYMENT,"Release 2,000 euros to the tax department against PO#3345.","2,000",euros,the tax department,,,,PO#3345,
+NEW_PAYMENT,Transfer 500 dollars to ABC Suppliers Pvt Ltd on the 1st.,500,dollars,ABC Suppliers Pvt Ltd,,,on the 1st,,transfer
+NEW_PAYMENT,Transfer the plumber 50000 INR by end of month.,50000,INR,the plumber,,,by end of month,,transfer
+NEW_PAYMENT,"Make a payment of 8,500 GBP to ABC Suppliers Pvt Ltd this evening via IMPS.","8,500",GBP,ABC Suppliers Pvt Ltd,,IMPS,this evening,,
+NEW_PAYMENT,"Transfer Tata Motors 8,500 GBP in two days.","8,500",GBP,Tata Motors,,,in two days,,transfer
+NEW_PAYMENT,Transfer 750 pounds from checking account to the caterer for tax payment.,750,pounds,the caterer,checking account,,,,tax payment
+NEW_PAYMENT,Process a IMPS payment of 50000 INR to Emily Davis.,50000,INR,Emily Davis,,IMPS,,,
+NEW_PAYMENT,I want to pay the electricity board today using internal transfer.,,,the electricity board,,internal transfer,today,,
+NEW_PAYMENT,Transfer 500 USD from account ending 1204 to my accountant for invoice payment.,500,USD,my accountant,account ending 1204,,,,invoice payment
+NEW_PAYMENT,Transfer 750 GBP from current account 22110098 to David Lee for invoice payment.,750,GBP,David Lee,current account 22110098,,,,invoice payment
+NEW_PAYMENT,I want to pay Rajesh Kumar at 5 PM using SEPA.,,,Rajesh Kumar,,SEPA,at 5 PM,,
+NEW_PAYMENT,Pay medical bill of 15000 EUR to the marketing agency via NEFT.,15000,EUR,the marketing agency,,NEFT,,,medical bill
+NEW_PAYMENT,Pay the IT vendor using SEPA from savings account.,,,the IT vendor,savings account,SEPA,,,
+NEW_PAYMENT,"Please pay the electricity board 1,00,000 INR from current account, ref ref TXN99231.","1,00,000",INR,the electricity board,current account,,,ref TXN99231,
+NEW_PAYMENT,Release 750 pounds to David Lee against March fees.,750,pounds,David Lee,,,,March fees,
+NEW_PAYMENT,Transfer 25000 INR from account ending 7821 to ABC Suppliers Pvt Ltd for internet bill.,25000,INR,ABC Suppliers Pvt Ltd,account ending 7821,,,,internet bill
+NEW_PAYMENT,Transfer the electricity board 15000 EUR tomorrow.,15000,EUR,the electricity board,,,tomorrow,,transfer
+NEW_PAYMENT,"Pay the consulting fee for XYZ Corp, amount 2,000 euros.","2,000",euros,XYZ Corp,,,,,consulting fee
+NEW_PAYMENT,"Please initiate a payment of 1,25,000 INR to the software vendor from current account 22110098.","1,25,000",INR,the software vendor,current account 22110098,,,,
+NEW_PAYMENT,"Please initiate a payment of 1,00,000 INR to Infosys Ltd from current account 22110098.","1,00,000",INR,Infosys Ltd,current account 22110098,,,,
+NEW_PAYMENT,"Set up a payment to my nephew Rohan of 8,500 GBP today.","8,500",GBP,my nephew Rohan,,,today,,
+NEW_PAYMENT,"Pay 4,400 EUR to our supplier in Mumbai for subscription fee by end of month.","4,400",EUR,our supplier in Mumbai,,,by end of month,,subscription fee
+NEW_PAYMENT,Transfer money to Rajesh Kumar from account XYZ001.,,,Rajesh Kumar,account XYZ001,,,,transfer
+NEW_PAYMENT,"Transfer Tata Motors 1,25,000 INR by end of month.","1,25,000",INR,Tata Motors,,,by end of month,,transfer
+NEW_PAYMENT,"Send 3,750 EUR to Priya Sharma.","3,750",EUR,Priya Sharma,,,,,
+NEW_PAYMENT,Pay Rajesh Kumar using IMPS from business account.,,,Rajesh Kumar,business account,IMPS,,,
+NEW_PAYMENT,"Pay 8,500 GBP for tax, reference salary July, next Monday.","8,500",GBP,,,,next Monday,salary July,tax
+NEW_PAYMENT,"I need to pay the marketing agency 50,000 rupees for tax payment.","50,000",rupees,the marketing agency,,,,,tax payment
+NEW_PAYMENT,"Send 999 USD to Priya Sharma using NEFT, reference note: consulting July.",999,USD,Priya Sharma,,NEFT,,note: consulting July,
+NEW_PAYMENT,"Wire 18,000 INR to Priya Sharma by end of month.","18,000",INR,Priya Sharma,,wire,by end of month,,
+NEW_PAYMENT,Pay 50000 INR to Global Traders Ltd for commission tonight.,50000,INR,Global Traders Ltd,,,tonight,,commission
+NEW_PAYMENT,Send funds to the software vendor via SEPA.,,,the software vendor,,SEPA,,,
+NEW_PAYMENT,Transfer 15000 EUR to Emily Davis by Friday.,15000,EUR,Emily Davis,,,by Friday,,transfer
+NEW_PAYMENT,Set up a payment to the landlord Mr. Singh of 999 USD next Monday.,999,USD,the landlord Mr. Singh,,,next Monday,,
+NEW_PAYMENT,"Process a wire payment of 1,25,000 INR to the tax department.","1,25,000",INR,the tax department,,wire,,,
+NEW_PAYMENT,Send funds to my accountant via ACH.,,,my accountant,,ACH,,,
+NEW_PAYMENT,Set up a payment to Acme Logistics of 750 pounds by end of month.,750,pounds,Acme Logistics,,,by end of month,,
+NEW_PAYMENT,Transfer 15000 EUR from account ending 9987 to our supplier in Mumbai for school fees.,15000,EUR,our supplier in Mumbai,account ending 9987,,,,school fees
+NEW_PAYMENT,Wire 2.5 lakh INR to the IT vendor next week.,2.5 lakh,INR,the IT vendor,,wire,next week,,
+NEW_PAYMENT,"Transfer 2,000 euros to Infosys Ltd next Monday.","2,000",euros,Infosys Ltd,,,next Monday,,transfer
+NEW_PAYMENT,Send funds to Infosys Ltd via NEFT.,,,Infosys Ltd,,NEFT,,,
+NEW_PAYMENT,"Pay 750 GBP for maintenance charges, reference PO#3345, next Monday.",750,GBP,,,,next Monday,PO#3345,maintenance charges
+NEW_PAYMENT,Wire 10 million USD to Emily Davis right now.,10 million,USD,Emily Davis,,wire,right now,,
+NEW_PAYMENT,"Please pay the marketing agency 50000 INR from business account, ref invoice 8821.",50000,INR,the marketing agency,business account,,,invoice 8821,
+NEW_PAYMENT,I need to pay the landlord Mr. Singh 60000 INR for school fees.,60000,INR,the landlord Mr. Singh,,,,,school fees
+NEW_PAYMENT,"Transfer 4,400 EUR to the plumber by end of month.","4,400",EUR,the plumber,,,by end of month,,transfer
+NEW_PAYMENT,"Pay Sarah Connor 50,000 rupees tomorrow, reference invoice number 4456.","50,000",rupees,Sarah Connor,,,tomorrow,invoice number 4456,
+NEW_PAYMENT,Transfer 3 million USD to our supplier in Mumbai on 15th July.,3 million,USD,our supplier in Mumbai,,,on 15th July,,transfer
+NEW_PAYMENT,"Please pay my nephew Rohan 4,400 EUR from account ending 7821, ref contract ref C-2201.","4,400",EUR,my nephew Rohan,account ending 7821,,,contract ref C-2201,
+NEW_PAYMENT,I need to pay XYZ Corp 999 USD for consulting fee.,999,USD,XYZ Corp,,,,,consulting fee
+NEW_PAYMENT,"Pay 18,000 INR for school fees, reference March fees, on the 1st.","18,000",INR,,,,on the 1st,March fees,school fees
+NEW_PAYMENT,Send 330 pounds to ABC Suppliers Pvt Ltd.,330,pounds,ABC Suppliers Pvt Ltd,,,,,
+NEW_PAYMENT,"Release 8,500 GBP to the software vendor against invoice INV-2023-045.","8,500",GBP,the software vendor,,,,invoice INV-2023-045,
+NEW_PAYMENT,"Please pay the plumber 750 GBP from corporate account 55210, ref invoice 8821.",750,GBP,the plumber,corporate account 55210,,,invoice 8821,
+NEW_PAYMENT,"Release 45,000 rupees to Tata Motors against March fees.","45,000",rupees,Tata Motors,,,,March fees,
+NEW_PAYMENT,"Send 1,00,000 INR to Infosys Ltd using wire, reference order #5567.","1,00,000",INR,Infosys Ltd,,wire,,order #5567,
+NEW_PAYMENT,Pay 2.5 lakh INR to John Mathews for gift before noon.,2.5 lakh,INR,John Mathews,,,before noon,,gift
+NEW_PAYMENT,Send 750 GBP as utility bill payment to my landlord.,750,GBP,my landlord,,,,,utility bill payment
+NEW_PAYMENT,"Transfer 18,000 INR to Global Traders Ltd right now.","18,000",INR,Global Traders Ltd,,,right now,,transfer
+NEW_PAYMENT,"Send 330 pounds to David Lee using RTGS, reference March fees.",330,pounds,David Lee,,RTGS,,March fees,
+NEW_PAYMENT,"I need to pay Priya Sharma 7,200 USD for medical bill.","7,200",USD,Priya Sharma,,,,,medical bill
+NEW_PAYMENT,Set up a payment to the electricity board of 50000 INR on 1st August.,50000,INR,the electricity board,,,on 1st August,,
+NEW_PAYMENT,"Please pay the plumber 330 pounds from corporate account 55210, ref note: consulting July.",330,pounds,the plumber,corporate account 55210,,,note: consulting July,
+NEW_PAYMENT,"Release 10,000.50 USD to Reliance Industries against note: consulting July.","10,000.50",USD,Reliance Industries,,,,note: consulting July,
+NEW_PAYMENT,Send 100 USD as insurance premium to my freelancer Alex.,100,USD,my freelancer Alex,,,,,insurance premium
+NEW_PAYMENT,I need to pay Reliance Industries 5 lakh INR for internet bill.,5 lakh,INR,Reliance Industries,,,,,internet bill
+NEW_PAYMENT,Transfer money to my sister Anita from account ending 4021.,,,my sister Anita,account ending 4021,,,,transfer
+NEW_PAYMENT,"Pay the school fees for our supplier in Mumbai, amount 60000 INR.",60000,INR,our supplier in Mumbai,,,,,school fees
+NEW_PAYMENT,"Transfer 2,000 EUR to my sister Anita by Friday.","2,000",EUR,my sister Anita,,,by Friday,,transfer
+NEW_PAYMENT,"Set up a payment to my freelancer Alex of 8,500 GBP in two days.","8,500",GBP,my freelancer Alex,,,in two days,,
+NEW_PAYMENT,"Please pay my sister Anita 120 dollars from salary account, ref invoice INV-778.",120,dollars,my sister Anita,salary account,,,invoice INV-778,
+NEW_PAYMENT,I want to pay my accountant this evening using internal transfer.,,,my accountant,,internal transfer,this evening,,
+NEW_PAYMENT,"Pay 750 GBP for school fees, reference invoice INV-778, tomorrow.",750,GBP,,,,tomorrow,invoice INV-778,school fees
+NEW_PAYMENT,Process a SWIFT payment of 2500 dollars to Global Traders Ltd.,2500,dollars,Global Traders Ltd,,SWIFT,,,
+NEW_PAYMENT,Pay salary payment of 2.5 lakh INR to the caterer via SWIFT.,2.5 lakh,INR,the caterer,,SWIFT,,,salary payment
+NEW_PAYMENT,"Pay 1,00,000 INR to the tax department from HDFC account via wire transfer on 30th June.","1,00,000",INR,the tax department,HDFC account,wire transfer,on 30th June,,
+NEW_PAYMENT,"Send 2,000 EUR to Sarah Connor.","2,000",EUR,Sarah Connor,,,,,
+NEW_PAYMENT,"Please initiate a payment of 1,25,000 INR to the IT vendor from account ending 9987.","1,25,000",INR,the IT vendor,account ending 9987,,,,
+NEW_PAYMENT,I want to pay Global Traders Ltd next Monday using UPI.,,,Global Traders Ltd,,UPI,next Monday,,
+NEW_PAYMENT,Make a payment of 5 lakh INR to Emily Davis on the 1st via SEPA.,5 lakh,INR,Emily Davis,,SEPA,on the 1st,,
+NEW_PAYMENT,I want to pay Bright Solutions Inc in two days using wire transfer.,,,Bright Solutions Inc,,wire transfer,in two days,,
+NEW_PAYMENT,Set up a payment to XYZ Corp of 50000 INR on the 1st.,50000,INR,XYZ Corp,,,on the 1st,,
+NEW_PAYMENT,Set up a payment to Priya Sharma of 999 USD on 30th June.,999,USD,Priya Sharma,,,on 30th June,,
+NEW_PAYMENT,"Transfer 7,200 USD to Reliance Industries immediately.","7,200",USD,Reliance Industries,,,immediately,,transfer
+NEW_PAYMENT,Process a NEFT payment of 10 million USD to my landlord.,10 million,USD,my landlord,,NEFT,,,
+NEW_PAYMENT,Transfer 500 dollars to my landlord this Friday.,500,dollars,my landlord,,,this Friday,,transfer
+NEW_PAYMENT,"Wire 8,500 GBP to Priya Sharma on 15th July.","8,500",GBP,Priya Sharma,,wire,on 15th July,,
+NEW_PAYMENT,Send funds to Reliance Industries via SEPA.,,,Reliance Industries,,SEPA,,,
+NEW_PAYMENT,Send 2500 dollars as maintenance charges to the IT vendor.,2500,dollars,the IT vendor,,,,,maintenance charges
+NEW_PAYMENT,Send funds to the IT vendor via IMPS.,,,the IT vendor,,IMPS,,,
+NEW_PAYMENT,"Pay Tata Motors 3 million USD on 1st August, reference March fees.",3 million,USD,Tata Motors,,,on 1st August,March fees,
+NEW_PAYMENT,Set up a payment to Acme Logistics of 500 USD on 15th July.,500,USD,Acme Logistics,,,on 15th July,,
+NEW_PAYMENT,"Transfer my accountant 45,000 rupees on the 1st.","45,000",rupees,my accountant,,,on the 1st,,transfer
+NEW_PAYMENT,"Please pay the IT vendor 15000 EUR from corporate account 55210, ref invoice number 4456.",15000,EUR,the IT vendor,corporate account 55210,,,invoice number 4456,
+NEW_PAYMENT,Transfer Rajesh Kumar 2500 dollars in two days.,2500,dollars,Rajesh Kumar,,,in two days,,transfer
+NEW_PAYMENT,"Send 2,000 EUR as rent to the tax department.","2,000",EUR,the tax department,,,,,rent
+NEW_PAYMENT,Process a UPI payment of 999 USD to my sister Anita.,999,USD,my sister Anita,,UPI,,,
+NEW_PAYMENT,Transfer 500 USD from corporate account 55210 to Mr. Verma for consulting fee.,500,USD,Mr. Verma,corporate account 55210,,,,consulting fee
+NEW_PAYMENT,"Pay the electricity bill for the caterer, amount 3,750 EUR.","3,750",EUR,the caterer,,,,,electricity bill
+NEW_PAYMENT,Wire 60000 INR to Bright Solutions Inc from current account 22110098 this Friday.,60000,INR,Bright Solutions Inc,current account 22110098,wire,this Friday,,
+NEW_PAYMENT,"Pay the invoice payment for my accountant, amount 100 USD.",100,USD,my accountant,,,,,invoice payment
+NEW_PAYMENT,"Pay the electricity bill for David Lee, amount 2,000 EUR.","2,000",EUR,David Lee,,,,,electricity bill
+NEW_PAYMENT,Send funds to Reliance Industries via NEFT.,,,Reliance Industries,,NEFT,,,
+NEW_PAYMENT,"Pay the maintenance charges for Priya Sharma, amount 100 USD.",100,USD,Priya Sharma,,,,,maintenance charges
+NEW_PAYMENT,Pay Mr. Verma using wire from salary account.,,,Mr. Verma,salary account,wire,,,
+NEW_PAYMENT,"Pay our supplier in Mumbai 4,400 EUR on 15th July, reference PO#3345.","4,400",EUR,our supplier in Mumbai,,,on 15th July,PO#3345,
+NEW_PAYMENT,"Pay 1,25,000 INR to XYZ Corp for medical bill by end of month.","1,25,000",INR,XYZ Corp,,,by end of month,,medical bill
+NEW_PAYMENT,Pay the software vendor using SWIFT from joint account.,,,the software vendor,joint account,SWIFT,,,
+NEW_PAYMENT,"Release 10,000.50 USD to the software vendor against order #5567.","10,000.50",USD,the software vendor,,,,order #5567,
+NEW_PAYMENT,Send 500 dollars as invoice payment to Acme Logistics.,500,dollars,Acme Logistics,,,,,invoice payment
+NEW_PAYMENT,I'd like to make a payment to XYZ Corp.,,,XYZ Corp,,,,,
+NEW_PAYMENT,I'd like to make a payment to our supplier in Mumbai.,,,our supplier in Mumbai,,,,,
+NEW_PAYMENT,Transfer money to Mr. Verma from current account.,,,Mr. Verma,current account,,,,transfer
+NEW_PAYMENT,Send 100 USD to my freelancer Alex.,100,USD,my freelancer Alex,,,,,
+NEW_PAYMENT,"Wire 2,000 EUR to XYZ Corp from business account at 5 PM.","2,000",EUR,XYZ Corp,business account,wire,at 5 PM,,
+NEW_PAYMENT,"Pay the advance payment for the plumber, amount 100 USD.",100,USD,the plumber,,,,,advance payment
+NEW_PAYMENT,Send funds to the electricity board via internal transfer.,,,the electricity board,,internal transfer,,,
+NEW_PAYMENT,"Send 1,00,000 INR to Global Traders Ltd using RTGS, reference invoice INV-2023-045.","1,00,000",INR,Global Traders Ltd,,RTGS,,invoice INV-2023-045,
+NEW_PAYMENT,"Wire 4,400 EUR to Acme Logistics from savings account at 5 PM.","4,400",EUR,Acme Logistics,savings account,wire,at 5 PM,,
+NEW_PAYMENT,Transfer 50000 INR to the tax department immediately.,50000,INR,the tax department,,,immediately,,transfer
+NEW_PAYMENT,"Pay the loan EMI for Global Traders Ltd, amount 4,400 EUR.","4,400",EUR,Global Traders Ltd,,,,,loan EMI
+NEW_PAYMENT,Send funds to Sarah Connor via ACH.,,,Sarah Connor,,ACH,,,
+NEW_PAYMENT,Wire 100 USD to the tax department from joint account next Monday.,100,USD,the tax department,joint account,wire,next Monday,,
+NEW_PAYMENT,Pay consulting fee of 2500 dollars to my accountant via ACH.,2500,dollars,my accountant,,ACH,,,consulting fee
+NEW_PAYMENT,Set up a payment to Acme Logistics of 500 USD by Friday.,500,USD,Acme Logistics,,,by Friday,,
+NEW_PAYMENT,"Pay 45,000 rupees for vendor payment, reference March fees, today.","45,000",rupees,,,,today,March fees,vendor payment
+NEW_PAYMENT,Send 500 USD to the caterer.,500,USD,the caterer,,,,,
+NEW_PAYMENT,Wire 120 dollars to John Mathews tonight.,120,dollars,John Mathews,,wire,tonight,,
+NEW_PAYMENT,"Please pay my landlord 45,000 rupees from current account, ref ref TXN99231.","45,000",rupees,my landlord,current account,,,ref TXN99231,
+NEW_PAYMENT,"Pay Tata Motors 25000 INR immediately, reference salary July.",25000,INR,Tata Motors,,,immediately,salary July,
+NEW_PAYMENT,"Send 1,00,000 INR as maintenance charges to my freelancer Alex.","1,00,000",INR,my freelancer Alex,,,,,maintenance charges
+NEW_PAYMENT,"Transfer 2,000 EUR from joint account to ABC Suppliers Pvt Ltd for medical bill.","2,000",EUR,ABC Suppliers Pvt Ltd,joint account,,,,medical bill
+NEW_PAYMENT,"Transfer 18,000 INR to my accountant at 5 PM.","18,000",INR,my accountant,,,at 5 PM,,transfer
+NEW_PAYMENT,I'd like to make a payment to my cousin Meera.,,,my cousin Meera,,,,,
+NEW_PAYMENT,"Pay Rajesh Kumar 60000 INR in two days, reference note: consulting July.",60000,INR,Rajesh Kumar,,,in two days,note: consulting July,
+NEW_PAYMENT,Make a payment of 2500 dollars to Mr. Verma before noon via ACH.,2500,dollars,Mr. Verma,,ACH,before noon,,
+NEW_PAYMENT,Release 100 USD to my nephew Rohan against PO#3345.,100,USD,my nephew Rohan,,,,PO#3345,
+NEW_PAYMENT,Send 60000 INR as invoice payment to the tax department.,60000,INR,the tax department,,,,,invoice payment
+NEW_PAYMENT,"Kindly transfer 7,200 USD to the landlord Mr. Singh this evening from account ending 1204.","7,200",USD,the landlord Mr. Singh,account ending 1204,,this evening,,transfer
+NEW_PAYMENT,I need to pay ABC Suppliers Pvt Ltd 750 GBP for electricity bill.,750,GBP,ABC Suppliers Pvt Ltd,,,,,electricity bill
+NEW_PAYMENT,"I need to pay the plumber 2,50,000 INR for medical bill.","2,50,000",INR,the plumber,,,,,medical bill
+NEW_PAYMENT,"Kindly transfer 1,00,000 INR to my accountant on 15th July from account ending 3359.","1,00,000",INR,my accountant,account ending 3359,,on 15th July,,transfer
+NEW_PAYMENT,"Transfer the electricity board 2,50,000 INR tonight.","2,50,000",INR,the electricity board,,,tonight,,transfer
+NEW_PAYMENT,Send 500 USD as insurance premium to the electricity board.,500,USD,the electricity board,,,,,insurance premium
+NEW_PAYMENT,Send funds to my nephew Rohan via ACH.,,,my nephew Rohan,,ACH,,,
+NEW_PAYMENT,"Process a IMPS payment of 4,400 EUR to David Lee.","4,400",EUR,David Lee,,IMPS,,,
+NEW_PAYMENT,"Pay the electricity bill for Rajesh Kumar, amount 500 dollars.",500,dollars,Rajesh Kumar,,,,,electricity bill
+NEW_PAYMENT,Wire 15000 EUR to Global Traders Ltd from business account tonight.,15000,EUR,Global Traders Ltd,business account,wire,tonight,,
+NEW_PAYMENT,"Please initiate a payment of 2,000 EUR to Sarah Connor from account ending 3359.","2,000",EUR,Sarah Connor,account ending 3359,,,,
+NEW_PAYMENT,I'd like to make a payment to Tata Motors.,,,Tata Motors,,,,,
+NEW_PAYMENT,Send funds to the landlord Mr. Singh via internal transfer.,,,the landlord Mr. Singh,,internal transfer,,,
+NEW_PAYMENT,Transfer 15000 EUR to Bright Solutions Inc by end of month.,15000,EUR,Bright Solutions Inc,,,by end of month,,transfer
+NEW_PAYMENT,"Pay 4,400 EUR to my sister Anita from corporate account 55210 via ACH before noon.","4,400",EUR,my sister Anita,corporate account 55210,ACH,before noon,,
+NEW_PAYMENT,Wire 100 USD to the marketing agency right now.,100,USD,the marketing agency,,wire,right now,,
+NEW_PAYMENT,Kindly transfer 25000 INR to Acme Logistics this Friday from current account.,25000,INR,Acme Logistics,current account,,this Friday,,transfer
+NEW_PAYMENT,Send 500 USD as tax to Tata Motors.,500,USD,Tata Motors,,,,,tax
+NEW_PAYMENT,"Pay 2,50,000 INR to my nephew Rohan for refund next week.","2,50,000",INR,my nephew Rohan,,,next week,,refund
+NEW_PAYMENT,I'd like to make a payment to John Mathews.,,,John Mathews,,,,,
+NEW_PAYMENT,"Pay our supplier in Mumbai 45,000 rupees before noon, reference ref TXN99231.","45,000",rupees,our supplier in Mumbai,,,before noon,ref TXN99231,
+NEW_PAYMENT,I'd like to make a payment to the plumber.,,,the plumber,,,,,
+NEW_PAYMENT,"Pay 100 USD for utility bill payment, reference salary July, at 5 PM.",100,USD,,,,at 5 PM,salary July,utility bill payment
+NEW_PAYMENT,Pay John Mathews using bank transfer from account XYZ001.,,,John Mathews,account XYZ001,bank transfer,,,
+NEW_PAYMENT,"Transfer 1,25,000 INR from HDFC account to the tax department for internet bill.","1,25,000",INR,the tax department,HDFC account,,,,internet bill
+NEW_PAYMENT,Process a internal transfer payment of 2500 dollars to XYZ Corp.,2500,dollars,XYZ Corp,,internal transfer,,,
+NEW_PAYMENT,Make a payment of 25000 INR to XYZ Corp on the 1st via bank transfer.,25000,INR,XYZ Corp,,bank transfer,on the 1st,,
+NEW_PAYMENT,Transfer the plumber 500 dollars on 30th June.,500,dollars,the plumber,,,on 30th June,,transfer
+NEW_PAYMENT,I'd like to make a payment to Rajesh Kumar.,,,Rajesh Kumar,,,,,
+NEW_PAYMENT,Kindly transfer 120 dollars to David Lee right now from account number 004455667.,120,dollars,David Lee,account number 004455667,,right now,,transfer
+NEW_PAYMENT,Send 2500 dollars to Sarah Connor.,2500,dollars,Sarah Connor,,,,,
+NEW_PAYMENT,Pay Bright Solutions Inc using NEFT from HDFC account.,,,Bright Solutions Inc,HDFC account,NEFT,,,
+NEW_PAYMENT,"Pay 3,750 EUR to the marketing agency from account ending 9987 via wire next Monday.","3,750",EUR,the marketing agency,account ending 9987,wire,next Monday,,
+NEW_PAYMENT,"Pay the vendor payment for Reliance Industries, amount 500 USD.",500,USD,Reliance Industries,,,,,vendor payment
+NEW_PAYMENT,"Pay the rent for ABC Suppliers Pvt Ltd, amount 1,00,000 INR.","1,00,000",INR,ABC Suppliers Pvt Ltd,,,,,rent
+NEW_PAYMENT,Process a wire transfer payment of 500 USD to the landlord Mr. Singh.,500,USD,the landlord Mr. Singh,,wire transfer,,,
+NEW_PAYMENT,Transfer money to our supplier in Mumbai from account XYZ001.,,,our supplier in Mumbai,account XYZ001,,,,transfer
+NEW_PAYMENT,Transfer 10 million USD to Rajesh Kumar at 5 PM.,10 million,USD,Rajesh Kumar,,,at 5 PM,,transfer
