@@ -1,0 +1,501 @@
+intent_code,text,account,time,transaction_type,amount,currency,beneficiary,reference,status
+TRANSACTION_HISTORY,Show my fee transactions for business account yesterday.,business account,yesterday,fee,,,,,
+TRANSACTION_HISTORY,What transactions happened from 1st June to 30th June on account ending 3359?,account ending 3359,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,List transactions referencing invoice INV-778.,,,,,,,invoice INV-778,
+TRANSACTION_HISTORY,Get transaction history for current account between yesterday.,current account,yesterday,,,,,,
+TRANSACTION_HISTORY,Show recent activity on business account.,business account,,,,,,,
+TRANSACTION_HISTORY,Get all fee transactions to Priya Sharma in INR.,,,fee,,INR,Priya Sharma,,
+TRANSACTION_HISTORY,Show recent activity on account ending 3359.,account ending 3359,,,,,,,
+TRANSACTION_HISTORY,Get all interest transactions to Priya Sharma in GBP.,,,interest,,GBP,Priya Sharma,,
+TRANSACTION_HISTORY,Get all deposit transactions to John Mathews in USD.,,,deposit,,USD,John Mathews,,
+TRANSACTION_HISTORY,Show all failed transactions this quarter.,,this quarter,,,,,,failed
+TRANSACTION_HISTORY,Get transaction history for account ending 3359 between last week.,account ending 3359,last week,,,,,,
+TRANSACTION_HISTORY,Can you pull up my transactions from 1st June to 30th June?,,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Any rejected transactions on savings account this quarter?,savings account,this quarter,,,,,,rejected
+TRANSACTION_HISTORY,What transactions happened from 1st June to 30th June on savings account?,savings account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Show transactions last week for savings account.,savings account,last week,,,,,,
+TRANSACTION_HISTORY,Pull all payment entries for account ending 3359.,account ending 3359,,payment,,,,,
+TRANSACTION_HISTORY,Show recent activity on current account.,current account,,,,,,,
+TRANSACTION_HISTORY,I want to see fee activity yesterday.,,yesterday,fee,,,,,
+TRANSACTION_HISTORY,Pull all debit entries for business account.,business account,,debit,,,,,
+TRANSACTION_HISTORY,Fetch history of withdrawal payments to ABC Suppliers Pvt Ltd.,,,withdrawal,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Fetch history of refund payments to John Mathews.,,,refund,,,John Mathews,,
+TRANSACTION_HISTORY,Pull all refund entries for business account.,business account,,refund,,,,,
+TRANSACTION_HISTORY,List reversed refund transactions this quarter.,,this quarter,refund,,,,,reversed
+TRANSACTION_HISTORY,What transactions happened from 1st June to 30th June on business account?,business account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,List transactions referencing instruction ID 8821.,,,,,,,instruction ID 8821,
+TRANSACTION_HISTORY,Show transactions last month for business account.,business account,last month,,,,,,
+TRANSACTION_HISTORY,Pull all withdrawal entries for savings account.,savings account,,withdrawal,,,,,
+TRANSACTION_HISTORY,How many payment transactions did I have from 1st June to 30th June?,,from 1st June to 30th June,payment,,,,,
+TRANSACTION_HISTORY,I want to see transfer activity this quarter.,,this quarter,transfer,,,,,
+TRANSACTION_HISTORY,Get all deposit transactions to ABC Suppliers Pvt Ltd in EUR.,,,deposit,,EUR,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Get all withdrawal transactions to Priya Sharma in INR.,,,withdrawal,,INR,Priya Sharma,,
+TRANSACTION_HISTORY,Get transaction history for savings account between today.,savings account,today,,,,,,
+TRANSACTION_HISTORY,List reversed fee transactions last week.,,last week,fee,,,,,reversed
+TRANSACTION_HISTORY,Show my debit transactions for current account from 1st June to 30th June.,current account,from 1st June to 30th June,debit,,,,,
+TRANSACTION_HISTORY,List successful fee transactions from 1st June to 30th June.,,from 1st June to 30th June,fee,,,,,successful
+TRANSACTION_HISTORY,I want to see payment activity yesterday.,,yesterday,payment,,,,,
+TRANSACTION_HISTORY,List cancelled credit transactions last week.,,last week,credit,,,,,cancelled
+TRANSACTION_HISTORY,Show all rejected transactions this quarter.,,this quarter,,,,,,rejected
+TRANSACTION_HISTORY,I want to see payment activity today.,,today,payment,,,,,
+TRANSACTION_HISTORY,Fetch history of fee payments to Global Traders Ltd.,,,fee,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Any successful transactions on current account from 1st June to 30th June?,current account,from 1st June to 30th June,,,,,,successful
+TRANSACTION_HISTORY,List successful interest transactions today.,,today,interest,,,,,successful
+TRANSACTION_HISTORY,Can you pull up my transactions this quarter?,,this quarter,,,,,,
+TRANSACTION_HISTORY,Pull all payment entries for savings account.,savings account,,payment,,,,,
+TRANSACTION_HISTORY,Give me a rundown of transactions with Priya Sharma.,,,,,,Priya Sharma,,
+TRANSACTION_HISTORY,Pull all interest entries for savings account.,savings account,,interest,,,,,
+TRANSACTION_HISTORY,Show all rejected transactions today.,,today,,,,,,rejected
+TRANSACTION_HISTORY,Can you pull up my transactions last month?,,last month,,,,,,
+TRANSACTION_HISTORY,Show my transfer transactions for current account last week.,current account,last week,transfer,,,,,
+TRANSACTION_HISTORY,How many refund transactions did I have last week?,,last week,refund,,,,,
+TRANSACTION_HISTORY,Get all refund transactions to John Mathews in GBP.,,,refund,,GBP,John Mathews,,
+TRANSACTION_HISTORY,List transactions referencing TXN99231.,,,,,,,TXN99231,
+TRANSACTION_HISTORY,I want to see credit activity from 1st June to 30th June.,,from 1st June to 30th June,credit,,,,,
+TRANSACTION_HISTORY,Give me a rundown of transactions with John Mathews.,,,,,,John Mathews,,
+TRANSACTION_HISTORY,Can you pull up my transactions yesterday?,,yesterday,,,,,,
+TRANSACTION_HISTORY,Fetch history of transfer payments to ABC Suppliers Pvt Ltd.,,,transfer,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,I want to see fee activity from 1st June to 30th June.,,from 1st June to 30th June,fee,,,,,
+TRANSACTION_HISTORY,I want to see debit activity last month.,,last month,debit,,,,,
+TRANSACTION_HISTORY,"Show refund of 10,000.50 INR from 1st June to 30th June.",,from 1st June to 30th June,refund,"10,000.50",INR,,,
+TRANSACTION_HISTORY,What transactions happened today on savings account?,savings account,today,,,,,,
+TRANSACTION_HISTORY,Show my account activity today.,,today,,,,,,
+TRANSACTION_HISTORY,List failed payment transactions last month.,,last month,payment,,,,,failed
+TRANSACTION_HISTORY,Show me what came in and out of current account this quarter.,current account,this quarter,,,,,,
+TRANSACTION_HISTORY,Give me a rundown of transactions with Global Traders Ltd.,,,,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Show my account activity this quarter.,,this quarter,,,,,,
+TRANSACTION_HISTORY,Any rejected transactions on business account yesterday?,business account,yesterday,,,,,,rejected
+TRANSACTION_HISTORY,Get all credit transactions to John Mathews in INR.,,,credit,,INR,John Mathews,,
+TRANSACTION_HISTORY,List reversed refund transactions today.,,today,refund,,,,,reversed
+TRANSACTION_HISTORY,Show all failed transactions from 1st June to 30th June.,,from 1st June to 30th June,,,,,,failed
+TRANSACTION_HISTORY,I want to see deposit activity last week.,,last week,deposit,,,,,
+TRANSACTION_HISTORY,Show all reversed transactions this quarter.,,this quarter,,,,,,reversed
+TRANSACTION_HISTORY,How many credit transactions did I have last week?,,last week,credit,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of savings account yesterday.,savings account,yesterday,,,,,,
+TRANSACTION_HISTORY,Pull all debit entries for account ending 3359.,account ending 3359,,debit,,,,,
+TRANSACTION_HISTORY,How many charge transactions did I have today?,,today,charge,,,,,
+TRANSACTION_HISTORY,Show transactions today for savings account.,savings account,today,,,,,,
+TRANSACTION_HISTORY,Show all reversed transactions yesterday.,,yesterday,,,,,,reversed
+TRANSACTION_HISTORY,List reversed charge transactions this quarter.,,this quarter,charge,,,,,reversed
+TRANSACTION_HISTORY,Show transactions last week for account ending 3359.,account ending 3359,last week,,,,,,
+TRANSACTION_HISTORY,I want to see withdrawal activity from 1st June to 30th June.,,from 1st June to 30th June,withdrawal,,,,,
+TRANSACTION_HISTORY,Give me a rundown of transactions with ABC Suppliers Pvt Ltd.,,,,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Any rejected transactions on business account last month?,business account,last month,,,,,,rejected
+TRANSACTION_HISTORY,Fetch history of transfer payments to Priya Sharma.,,,transfer,,,Priya Sharma,,
+TRANSACTION_HISTORY,Fetch history of refund payments to Priya Sharma.,,,refund,,,Priya Sharma,,
+TRANSACTION_HISTORY,How many credit transactions did I have from 1st June to 30th June?,,from 1st June to 30th June,credit,,,,,
+TRANSACTION_HISTORY,List transactions with Global Traders Ltd last month.,,last month,,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,List transactions with John Mathews this quarter.,,this quarter,,,,John Mathews,,
+TRANSACTION_HISTORY,List failed interest transactions from 1st June to 30th June.,,from 1st June to 30th June,interest,,,,,failed
+TRANSACTION_HISTORY,List reversed withdrawal transactions today.,,today,withdrawal,,,,,reversed
+TRANSACTION_HISTORY,Pull all charge entries for current account.,current account,,charge,,,,,
+TRANSACTION_HISTORY,Show transactions yesterday for savings account.,savings account,yesterday,,,,,,
+TRANSACTION_HISTORY,List rejected credit transactions last month.,,last month,credit,,,,,rejected
+TRANSACTION_HISTORY,Show all failed transactions today.,,today,,,,,,failed
+TRANSACTION_HISTORY,Show all successful transactions last month.,,last month,,,,,,successful
+TRANSACTION_HISTORY,Show me what came in and out of current account from 1st June to 30th June.,current account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,List reversed credit transactions yesterday.,,yesterday,credit,,,,,reversed
+TRANSACTION_HISTORY,"Show transfer of 10,000.50 USD this quarter.",,this quarter,transfer,"10,000.50",USD,,,
+TRANSACTION_HISTORY,Any cancelled transactions on business account from 1st June to 30th June?,business account,from 1st June to 30th June,,,,,,cancelled
+TRANSACTION_HISTORY,How many charge transactions did I have this quarter?,,this quarter,charge,,,,,
+TRANSACTION_HISTORY,Pull all debit entries for current account.,current account,,debit,,,,,
+TRANSACTION_HISTORY,Show transactions from 1st June to 30th June for current account.,current account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Get all deposit transactions to Priya Sharma in EUR.,,,deposit,,EUR,Priya Sharma,,
+TRANSACTION_HISTORY,How many deposit transactions did I have yesterday?,,yesterday,deposit,,,,,
+TRANSACTION_HISTORY,Get all debit transactions to John Mathews in USD.,,,debit,,USD,John Mathews,,
+TRANSACTION_HISTORY,List rejected charge transactions last week.,,last week,charge,,,,,rejected
+TRANSACTION_HISTORY,Show me what came in and out of business account today.,business account,today,,,,,,
+TRANSACTION_HISTORY,Get transaction history for account ending 3359 between today.,account ending 3359,today,,,,,,
+TRANSACTION_HISTORY,Pull all credit entries for current account.,current account,,credit,,,,,
+TRANSACTION_HISTORY,Show my withdrawal transactions for business account last month.,business account,last month,withdrawal,,,,,
+TRANSACTION_HISTORY,I want to see credit activity today.,,today,credit,,,,,
+TRANSACTION_HISTORY,Show my withdrawal transactions for savings account today.,savings account,today,withdrawal,,,,,
+TRANSACTION_HISTORY,List failed interest transactions yesterday.,,yesterday,interest,,,,,failed
+TRANSACTION_HISTORY,Pull all transfer entries for savings account.,savings account,,transfer,,,,,
+TRANSACTION_HISTORY,How many payment transactions did I have last month?,,last month,payment,,,,,
+TRANSACTION_HISTORY,List transactions with Priya Sharma last week.,,last week,,,,Priya Sharma,,
+TRANSACTION_HISTORY,Fetch history of debit payments to Global Traders Ltd.,,,debit,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Show me what came in and out of current account last week.,current account,last week,,,,,,
+TRANSACTION_HISTORY,How many refund transactions did I have yesterday?,,yesterday,refund,,,,,
+TRANSACTION_HISTORY,List transactions with Priya Sharma last month.,,last month,,,,Priya Sharma,,
+TRANSACTION_HISTORY,Can you pull up my transactions last week?,,last week,,,,,,
+TRANSACTION_HISTORY,I want to see interest activity from 1st June to 30th June.,,from 1st June to 30th June,interest,,,,,
+TRANSACTION_HISTORY,"Show interest of 10,000.50 USD today.",,today,interest,"10,000.50",USD,,,
+TRANSACTION_HISTORY,Show charge of 500 INR last week.,,last week,charge,500,INR,,,
+TRANSACTION_HISTORY,Show all successful transactions yesterday.,,yesterday,,,,,,successful
+TRANSACTION_HISTORY,Get transaction history for savings account between from 1st June to 30th June.,savings account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of account ending 3359 last month.,account ending 3359,last month,,,,,,
+TRANSACTION_HISTORY,Fetch history of interest payments to ABC Suppliers Pvt Ltd.,,,interest,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Show my payment transactions for current account yesterday.,current account,yesterday,payment,,,,,
+TRANSACTION_HISTORY,What transactions happened today on current account?,current account,today,,,,,,
+TRANSACTION_HISTORY,Get transaction history for account ending 3359 between yesterday.,account ending 3359,yesterday,,,,,,
+TRANSACTION_HISTORY,Fetch history of fee payments to John Mathews.,,,fee,,,John Mathews,,
+TRANSACTION_HISTORY,"Show fee of 2,000 GBP today.",,today,fee,"2,000",GBP,,,
+TRANSACTION_HISTORY,Get all credit transactions to ABC Suppliers Pvt Ltd in INR.,,,credit,,INR,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Fetch history of payment payments to Priya Sharma.,,,payment,,,Priya Sharma,,
+TRANSACTION_HISTORY,Pull all debit entries for savings account.,savings account,,debit,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of savings account last month.,savings account,last month,,,,,,
+TRANSACTION_HISTORY,How many transfer transactions did I have from 1st June to 30th June?,,from 1st June to 30th June,transfer,,,,,
+TRANSACTION_HISTORY,Show my account activity from 1st June to 30th June.,,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of business account last week.,business account,last week,,,,,,
+TRANSACTION_HISTORY,Any failed transactions on current account yesterday?,current account,yesterday,,,,,,failed
+TRANSACTION_HISTORY,Show my withdrawal transactions for business account from 1st June to 30th June.,business account,from 1st June to 30th June,withdrawal,,,,,
+TRANSACTION_HISTORY,"Show credit of 2,000 INR yesterday.",,yesterday,credit,"2,000",INR,,,
+TRANSACTION_HISTORY,Show my charge transactions for savings account last week.,savings account,last week,charge,,,,,
+TRANSACTION_HISTORY,Show transfer of 50000 EUR last month.,,last month,transfer,50000,EUR,,,
+TRANSACTION_HISTORY,Pull all fee entries for business account.,business account,,fee,,,,,
+TRANSACTION_HISTORY,Pull all refund entries for current account.,current account,,refund,,,,,
+TRANSACTION_HISTORY,How many interest transactions did I have yesterday?,,yesterday,interest,,,,,
+TRANSACTION_HISTORY,List reversed credit transactions this quarter.,,this quarter,credit,,,,,reversed
+TRANSACTION_HISTORY,Get transaction history for current account between today.,current account,today,,,,,,
+TRANSACTION_HISTORY,Fetch history of fee payments to Priya Sharma.,,,fee,,,Priya Sharma,,
+TRANSACTION_HISTORY,List cancelled refund transactions this quarter.,,this quarter,refund,,,,,cancelled
+TRANSACTION_HISTORY,Any successful transactions on current account yesterday?,current account,yesterday,,,,,,successful
+TRANSACTION_HISTORY,Get transaction history for business account between from 1st June to 30th June.,business account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Any reversed transactions on business account last week?,business account,last week,,,,,,reversed
+TRANSACTION_HISTORY,How many payment transactions did I have today?,,today,payment,,,,,
+TRANSACTION_HISTORY,Show my refund transactions for business account today.,business account,today,refund,,,,,
+TRANSACTION_HISTORY,Pull all withdrawal entries for current account.,current account,,withdrawal,,,,,
+TRANSACTION_HISTORY,Get all refund transactions to Priya Sharma in GBP.,,,refund,,GBP,Priya Sharma,,
+TRANSACTION_HISTORY,Pull all transfer entries for current account.,current account,,transfer,,,,,
+TRANSACTION_HISTORY,What transactions happened last month on business account?,business account,last month,,,,,,
+TRANSACTION_HISTORY,List transactions with Global Traders Ltd last week.,,last week,,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Show my account activity last month.,,last month,,,,,,
+TRANSACTION_HISTORY,How many credit transactions did I have last month?,,last month,credit,,,,,
+TRANSACTION_HISTORY,List rejected credit transactions last week.,,last week,credit,,,,,rejected
+TRANSACTION_HISTORY,What transactions happened this quarter on business account?,business account,this quarter,,,,,,
+TRANSACTION_HISTORY,List cancelled debit transactions this quarter.,,this quarter,debit,,,,,cancelled
+TRANSACTION_HISTORY,Show all rejected transactions last month.,,last month,,,,,,rejected
+TRANSACTION_HISTORY,What transactions happened this quarter on account ending 3359?,account ending 3359,this quarter,,,,,,
+TRANSACTION_HISTORY,Show my account activity last week.,,last week,,,,,,
+TRANSACTION_HISTORY,Get all interest transactions to John Mathews in INR.,,,interest,,INR,John Mathews,,
+TRANSACTION_HISTORY,I want to see refund activity today.,,today,refund,,,,,
+TRANSACTION_HISTORY,Show transactions last week for business account.,business account,last week,,,,,,
+TRANSACTION_HISTORY,Any cancelled transactions on current account from 1st June to 30th June?,current account,from 1st June to 30th June,,,,,,cancelled
+TRANSACTION_HISTORY,Show all cancelled transactions today.,,today,,,,,,cancelled
+TRANSACTION_HISTORY,What transactions happened this quarter on current account?,current account,this quarter,,,,,,
+TRANSACTION_HISTORY,Get all transfer transactions to ABC Suppliers Pvt Ltd in EUR.,,,transfer,,EUR,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Show transactions today for business account.,business account,today,,,,,,
+TRANSACTION_HISTORY,Pull all refund entries for savings account.,savings account,,refund,,,,,
+TRANSACTION_HISTORY,Get all withdrawal transactions to Global Traders Ltd in INR.,,,withdrawal,,INR,Global Traders Ltd,,
+TRANSACTION_HISTORY,"Show interest of 10,000.50 EUR this quarter.",,this quarter,interest,"10,000.50",EUR,,,
+TRANSACTION_HISTORY,List transactions with ABC Suppliers Pvt Ltd from 1st June to 30th June.,,from 1st June to 30th June,,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,List failed payment transactions from 1st June to 30th June.,,from 1st June to 30th June,payment,,,,,failed
+TRANSACTION_HISTORY,List rejected credit transactions yesterday.,,yesterday,credit,,,,,rejected
+TRANSACTION_HISTORY,Any failed transactions on savings account this quarter?,savings account,this quarter,,,,,,failed
+TRANSACTION_HISTORY,How many deposit transactions did I have this quarter?,,this quarter,deposit,,,,,
+TRANSACTION_HISTORY,What transactions happened yesterday on account ending 3359?,account ending 3359,yesterday,,,,,,
+TRANSACTION_HISTORY,Fetch history of withdrawal payments to Priya Sharma.,,,withdrawal,,,Priya Sharma,,
+TRANSACTION_HISTORY,Any reversed transactions on savings account yesterday?,savings account,yesterday,,,,,,reversed
+TRANSACTION_HISTORY,Any rejected transactions on savings account today?,savings account,today,,,,,,rejected
+TRANSACTION_HISTORY,Pull all deposit entries for business account.,business account,,deposit,,,,,
+TRANSACTION_HISTORY,Show my payment transactions for business account yesterday.,business account,yesterday,payment,,,,,
+TRANSACTION_HISTORY,Any failed transactions on business account today?,business account,today,,,,,,failed
+TRANSACTION_HISTORY,Show me what came in and out of savings account from 1st June to 30th June.,savings account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Get transaction history for savings account between this quarter.,savings account,this quarter,,,,,,
+TRANSACTION_HISTORY,Show recent activity on savings account.,savings account,,,,,,,
+TRANSACTION_HISTORY,I want to see charge activity from 1st June to 30th June.,,from 1st June to 30th June,charge,,,,,
+TRANSACTION_HISTORY,Show my withdrawal transactions for account ending 3359 today.,account ending 3359,today,withdrawal,,,,,
+TRANSACTION_HISTORY,Get transaction history for current account between last week.,current account,last week,,,,,,
+TRANSACTION_HISTORY,How many fee transactions did I have last week?,,last week,fee,,,,,
+TRANSACTION_HISTORY,Pull all fee entries for current account.,current account,,fee,,,,,
+TRANSACTION_HISTORY,Show all reversed transactions last week.,,last week,,,,,,reversed
+TRANSACTION_HISTORY,Can you pull up my transactions today?,,today,,,,,,
+TRANSACTION_HISTORY,Fetch history of credit payments to ABC Suppliers Pvt Ltd.,,,credit,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,What transactions happened today on account ending 3359?,account ending 3359,today,,,,,,
+TRANSACTION_HISTORY,Show fee of 500 USD from 1st June to 30th June.,,from 1st June to 30th June,fee,500,USD,,,
+TRANSACTION_HISTORY,Show me what came in and out of account ending 3359 last week.,account ending 3359,last week,,,,,,
+TRANSACTION_HISTORY,Any failed transactions on current account today?,current account,today,,,,,,failed
+TRANSACTION_HISTORY,Pull all payment entries for current account.,current account,,payment,,,,,
+TRANSACTION_HISTORY,"Show transfer of 2,000 GBP yesterday.",,yesterday,transfer,"2,000",GBP,,,
+TRANSACTION_HISTORY,List cancelled payment transactions yesterday.,,yesterday,payment,,,,,cancelled
+TRANSACTION_HISTORY,How many fee transactions did I have yesterday?,,yesterday,fee,,,,,
+TRANSACTION_HISTORY,List reversed fee transactions from 1st June to 30th June.,,from 1st June to 30th June,fee,,,,,reversed
+TRANSACTION_HISTORY,Any reversed transactions on account ending 3359 last week?,account ending 3359,last week,,,,,,reversed
+TRANSACTION_HISTORY,How many debit transactions did I have last week?,,last week,debit,,,,,
+TRANSACTION_HISTORY,Any successful transactions on current account last month?,current account,last month,,,,,,successful
+TRANSACTION_HISTORY,What transactions happened last month on account ending 3359?,account ending 3359,last month,,,,,,
+TRANSACTION_HISTORY,Any failed transactions on current account last month?,current account,last month,,,,,,failed
+TRANSACTION_HISTORY,List transactions with John Mathews last month.,,last month,,,,John Mathews,,
+TRANSACTION_HISTORY,Any cancelled transactions on savings account yesterday?,savings account,yesterday,,,,,,cancelled
+TRANSACTION_HISTORY,Show transactions last month for account ending 3359.,account ending 3359,last month,,,,,,
+TRANSACTION_HISTORY,List failed charge transactions today.,,today,charge,,,,,failed
+TRANSACTION_HISTORY,Show my charge transactions for current account from 1st June to 30th June.,current account,from 1st June to 30th June,charge,,,,,
+TRANSACTION_HISTORY,Pull all deposit entries for savings account.,savings account,,deposit,,,,,
+TRANSACTION_HISTORY,Show transactions this quarter for business account.,business account,this quarter,,,,,,
+TRANSACTION_HISTORY,What transactions happened last week on savings account?,savings account,last week,,,,,,
+TRANSACTION_HISTORY,Show my account activity yesterday.,,yesterday,,,,,,
+TRANSACTION_HISTORY,Get transaction history for account ending 3359 between last month.,account ending 3359,last month,,,,,,
+TRANSACTION_HISTORY,Show my deposit transactions for account ending 3359 yesterday.,account ending 3359,yesterday,deposit,,,,,
+TRANSACTION_HISTORY,Show transfer of 50000 USD yesterday.,,yesterday,transfer,50000,USD,,,
+TRANSACTION_HISTORY,Show withdrawal of 500 USD from 1st June to 30th June.,,from 1st June to 30th June,withdrawal,500,USD,,,
+TRANSACTION_HISTORY,List rejected charge transactions today.,,today,charge,,,,,rejected
+TRANSACTION_HISTORY,List failed refund transactions yesterday.,,yesterday,refund,,,,,failed
+TRANSACTION_HISTORY,What transactions happened from 1st June to 30th June on current account?,current account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,List transactions with Global Traders Ltd yesterday.,,yesterday,,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Get all deposit transactions to Global Traders Ltd in USD.,,,deposit,,USD,Global Traders Ltd,,
+TRANSACTION_HISTORY,Pull all transfer entries for account ending 3359.,account ending 3359,,transfer,,,,,
+TRANSACTION_HISTORY,List transactions with John Mathews last week.,,last week,,,,John Mathews,,
+TRANSACTION_HISTORY,Show me what came in and out of account ending 3359 from 1st June to 30th June.,account ending 3359,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,"Show debit of 2,000 GBP last month.",,last month,debit,"2,000",GBP,,,
+TRANSACTION_HISTORY,I want to see payment activity last week.,,last week,payment,,,,,
+TRANSACTION_HISTORY,Get transaction history for savings account between last week.,savings account,last week,,,,,,
+TRANSACTION_HISTORY,Get all refund transactions to Priya Sharma in USD.,,,refund,,USD,Priya Sharma,,
+TRANSACTION_HISTORY,List reversed payment transactions last month.,,last month,payment,,,,,reversed
+TRANSACTION_HISTORY,Show credit of 500 INR today.,,today,credit,500,INR,,,
+TRANSACTION_HISTORY,List transactions with Priya Sharma today.,,today,,,,Priya Sharma,,
+TRANSACTION_HISTORY,List successful refund transactions last week.,,last week,refund,,,,,successful
+TRANSACTION_HISTORY,Show all successful transactions from 1st June to 30th June.,,from 1st June to 30th June,,,,,,successful
+TRANSACTION_HISTORY,Fetch history of credit payments to John Mathews.,,,credit,,,John Mathews,,
+TRANSACTION_HISTORY,Show my withdrawal transactions for business account today.,business account,today,withdrawal,,,,,
+TRANSACTION_HISTORY,List rejected fee transactions from 1st June to 30th June.,,from 1st June to 30th June,fee,,,,,rejected
+TRANSACTION_HISTORY,Any successful transactions on account ending 3359 last week?,account ending 3359,last week,,,,,,successful
+TRANSACTION_HISTORY,How many credit transactions did I have today?,,today,credit,,,,,
+TRANSACTION_HISTORY,What transactions happened today on business account?,business account,today,,,,,,
+TRANSACTION_HISTORY,What transactions happened last month on savings account?,savings account,last month,,,,,,
+TRANSACTION_HISTORY,"Show payment of 2,000 GBP yesterday.",,yesterday,payment,"2,000",GBP,,,
+TRANSACTION_HISTORY,Any successful transactions on account ending 3359 yesterday?,account ending 3359,yesterday,,,,,,successful
+TRANSACTION_HISTORY,Get transaction history for business account between yesterday.,business account,yesterday,,,,,,
+TRANSACTION_HISTORY,How many transfer transactions did I have last week?,,last week,transfer,,,,,
+TRANSACTION_HISTORY,Pull all credit entries for account ending 3359.,account ending 3359,,credit,,,,,
+TRANSACTION_HISTORY,Show all cancelled transactions last week.,,last week,,,,,,cancelled
+TRANSACTION_HISTORY,Fetch history of refund payments to ABC Suppliers Pvt Ltd.,,,refund,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,I want to see debit activity this quarter.,,this quarter,debit,,,,,
+TRANSACTION_HISTORY,I want to see fee activity last month.,,last month,fee,,,,,
+TRANSACTION_HISTORY,Show my interest transactions for current account last month.,current account,last month,interest,,,,,
+TRANSACTION_HISTORY,Get all transfer transactions to ABC Suppliers Pvt Ltd in USD.,,,transfer,,USD,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,List transactions with Global Traders Ltd today.,,today,,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Fetch history of credit payments to Global Traders Ltd.,,,credit,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Pull all interest entries for business account.,business account,,interest,,,,,
+TRANSACTION_HISTORY,Pull all payment entries for business account.,business account,,payment,,,,,
+TRANSACTION_HISTORY,Any cancelled transactions on account ending 3359 last week?,account ending 3359,last week,,,,,,cancelled
+TRANSACTION_HISTORY,List successful withdrawal transactions this quarter.,,this quarter,withdrawal,,,,,successful
+TRANSACTION_HISTORY,I want to see interest activity yesterday.,,yesterday,interest,,,,,
+TRANSACTION_HISTORY,Pull all interest entries for account ending 3359.,account ending 3359,,interest,,,,,
+TRANSACTION_HISTORY,List rejected deposit transactions last week.,,last week,deposit,,,,,rejected
+TRANSACTION_HISTORY,How many charge transactions did I have yesterday?,,yesterday,charge,,,,,
+TRANSACTION_HISTORY,"Show refund of 2,000 USD this quarter.",,this quarter,refund,"2,000",USD,,,
+TRANSACTION_HISTORY,Fetch history of deposit payments to Global Traders Ltd.,,,deposit,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,List rejected withdrawal transactions today.,,today,withdrawal,,,,,rejected
+TRANSACTION_HISTORY,What transactions happened last week on business account?,business account,last week,,,,,,
+TRANSACTION_HISTORY,Show transactions from 1st June to 30th June for business account.,business account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,List failed refund transactions last week.,,last week,refund,,,,,failed
+TRANSACTION_HISTORY,Get transaction history for current account between this quarter.,current account,this quarter,,,,,,
+TRANSACTION_HISTORY,I want to see withdrawal activity last week.,,last week,withdrawal,,,,,
+TRANSACTION_HISTORY,List reversed fee transactions last month.,,last month,fee,,,,,reversed
+TRANSACTION_HISTORY,How many withdrawal transactions did I have last month?,,last month,withdrawal,,,,,
+TRANSACTION_HISTORY,I want to see refund activity this quarter.,,this quarter,refund,,,,,
+TRANSACTION_HISTORY,Fetch history of interest payments to John Mathews.,,,interest,,,John Mathews,,
+TRANSACTION_HISTORY,Show my refund transactions for savings account from 1st June to 30th June.,savings account,from 1st June to 30th June,refund,,,,,
+TRANSACTION_HISTORY,Any failed transactions on current account this quarter?,current account,this quarter,,,,,,failed
+TRANSACTION_HISTORY,Show all cancelled transactions from 1st June to 30th June.,,from 1st June to 30th June,,,,,,cancelled
+TRANSACTION_HISTORY,List failed charge transactions last month.,,last month,charge,,,,,failed
+TRANSACTION_HISTORY,Show debit of 500 USD this quarter.,,this quarter,debit,500,USD,,,
+TRANSACTION_HISTORY,Show withdrawal of 500 USD yesterday.,,yesterday,withdrawal,500,USD,,,
+TRANSACTION_HISTORY,Show my refund transactions for current account from 1st June to 30th June.,current account,from 1st June to 30th June,refund,,,,,
+TRANSACTION_HISTORY,Fetch history of refund payments to Global Traders Ltd.,,,refund,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,"Show payment of 2,000 INR this quarter.",,this quarter,payment,"2,000",INR,,,
+TRANSACTION_HISTORY,How many fee transactions did I have today?,,today,fee,,,,,
+TRANSACTION_HISTORY,I want to see transfer activity from 1st June to 30th June.,,from 1st June to 30th June,transfer,,,,,
+TRANSACTION_HISTORY,I want to see charge activity last week.,,last week,charge,,,,,
+TRANSACTION_HISTORY,Show all reversed transactions from 1st June to 30th June.,,from 1st June to 30th June,,,,,,reversed
+TRANSACTION_HISTORY,Show transactions from 1st June to 30th June for account ending 3359.,account ending 3359,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,"Show refund of 2,000 INR last month.",,last month,refund,"2,000",INR,,,
+TRANSACTION_HISTORY,Show payment of 500 INR today.,,today,payment,500,INR,,,
+TRANSACTION_HISTORY,Get transaction history for savings account between last month.,savings account,last month,,,,,,
+TRANSACTION_HISTORY,Fetch history of debit payments to John Mathews.,,,debit,,,John Mathews,,
+TRANSACTION_HISTORY,Show my fee transactions for current account from 1st June to 30th June.,current account,from 1st June to 30th June,fee,,,,,
+TRANSACTION_HISTORY,List failed debit transactions last month.,,last month,debit,,,,,failed
+TRANSACTION_HISTORY,I want to see interest activity this quarter.,,this quarter,interest,,,,,
+TRANSACTION_HISTORY,Show my credit transactions for savings account from 1st June to 30th June.,savings account,from 1st June to 30th June,credit,,,,,
+TRANSACTION_HISTORY,List transactions with ABC Suppliers Pvt Ltd yesterday.,,yesterday,,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Show transfer of 500 GBP yesterday.,,yesterday,transfer,500,GBP,,,
+TRANSACTION_HISTORY,How many interest transactions did I have last month?,,last month,interest,,,,,
+TRANSACTION_HISTORY,Show my transfer transactions for current account yesterday.,current account,yesterday,transfer,,,,,
+TRANSACTION_HISTORY,List rejected withdrawal transactions yesterday.,,yesterday,withdrawal,,,,,rejected
+TRANSACTION_HISTORY,Show my interest transactions for business account yesterday.,business account,yesterday,interest,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of savings account this quarter.,savings account,this quarter,,,,,,
+TRANSACTION_HISTORY,How many deposit transactions did I have last month?,,last month,deposit,,,,,
+TRANSACTION_HISTORY,Get all deposit transactions to Global Traders Ltd in EUR.,,,deposit,,EUR,Global Traders Ltd,,
+TRANSACTION_HISTORY,List failed withdrawal transactions today.,,today,withdrawal,,,,,failed
+TRANSACTION_HISTORY,How many withdrawal transactions did I have today?,,today,withdrawal,,,,,
+TRANSACTION_HISTORY,How many credit transactions did I have this quarter?,,this quarter,credit,,,,,
+TRANSACTION_HISTORY,I want to see deposit activity yesterday.,,yesterday,deposit,,,,,
+TRANSACTION_HISTORY,Pull all refund entries for account ending 3359.,account ending 3359,,refund,,,,,
+TRANSACTION_HISTORY,List cancelled credit transactions this quarter.,,this quarter,credit,,,,,cancelled
+TRANSACTION_HISTORY,Show me what came in and out of current account yesterday.,current account,yesterday,,,,,,
+TRANSACTION_HISTORY,How many debit transactions did I have today?,,today,debit,,,,,
+TRANSACTION_HISTORY,Show all cancelled transactions yesterday.,,yesterday,,,,,,cancelled
+TRANSACTION_HISTORY,"Show transfer of 10,000.50 GBP last month.",,last month,transfer,"10,000.50",GBP,,,
+TRANSACTION_HISTORY,Show all cancelled transactions this quarter.,,this quarter,,,,,,cancelled
+TRANSACTION_HISTORY,Show my payment transactions for current account last week.,current account,last week,payment,,,,,
+TRANSACTION_HISTORY,"Show withdrawal of 2,000 GBP last month.",,last month,withdrawal,"2,000",GBP,,,
+TRANSACTION_HISTORY,Any rejected transactions on business account this quarter?,business account,this quarter,,,,,,rejected
+TRANSACTION_HISTORY,Get all fee transactions to John Mathews in USD.,,,fee,,USD,John Mathews,,
+TRANSACTION_HISTORY,Fetch history of withdrawal payments to Global Traders Ltd.,,,withdrawal,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Show all rejected transactions last week.,,last week,,,,,,rejected
+TRANSACTION_HISTORY,I want to see transfer activity yesterday.,,yesterday,transfer,,,,,
+TRANSACTION_HISTORY,Get all interest transactions to Priya Sharma in USD.,,,interest,,USD,Priya Sharma,,
+TRANSACTION_HISTORY,Pull all charge entries for savings account.,savings account,,charge,,,,,
+TRANSACTION_HISTORY,Show transactions yesterday for current account.,current account,yesterday,,,,,,
+TRANSACTION_HISTORY,Fetch history of interest payments to Global Traders Ltd.,,,interest,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,What transactions happened last week on account ending 3359?,account ending 3359,last week,,,,,,
+TRANSACTION_HISTORY,Get all charge transactions to Priya Sharma in USD.,,,charge,,USD,Priya Sharma,,
+TRANSACTION_HISTORY,Fetch history of debit payments to Priya Sharma.,,,debit,,,Priya Sharma,,
+TRANSACTION_HISTORY,Show all rejected transactions from 1st June to 30th June.,,from 1st June to 30th June,,,,,,rejected
+TRANSACTION_HISTORY,Show my deposit transactions for current account from 1st June to 30th June.,current account,from 1st June to 30th June,deposit,,,,,
+TRANSACTION_HISTORY,I want to see fee activity last week.,,last week,fee,,,,,
+TRANSACTION_HISTORY,Pull all transfer entries for business account.,business account,,transfer,,,,,
+TRANSACTION_HISTORY,I want to see credit activity this quarter.,,this quarter,credit,,,,,
+TRANSACTION_HISTORY,"Show charge of 10,000.50 EUR yesterday.",,yesterday,charge,"10,000.50",EUR,,,
+TRANSACTION_HISTORY,Show my fee transactions for business account from 1st June to 30th June.,business account,from 1st June to 30th June,fee,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of business account from 1st June to 30th June.,business account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,List successful refund transactions from 1st June to 30th June.,,from 1st June to 30th June,refund,,,,,successful
+TRANSACTION_HISTORY,How many interest transactions did I have last week?,,last week,interest,,,,,
+TRANSACTION_HISTORY,Get all transfer transactions to Priya Sharma in GBP.,,,transfer,,GBP,Priya Sharma,,
+TRANSACTION_HISTORY,List successful debit transactions last week.,,last week,debit,,,,,successful
+TRANSACTION_HISTORY,How many refund transactions did I have from 1st June to 30th June?,,from 1st June to 30th June,refund,,,,,
+TRANSACTION_HISTORY,I want to see credit activity last month.,,last month,credit,,,,,
+TRANSACTION_HISTORY,Show my deposit transactions for current account last month.,current account,last month,deposit,,,,,
+TRANSACTION_HISTORY,Any successful transactions on account ending 3359 this quarter?,account ending 3359,this quarter,,,,,,successful
+TRANSACTION_HISTORY,List reversed deposit transactions last week.,,last week,deposit,,,,,reversed
+TRANSACTION_HISTORY,Any rejected transactions on current account last week?,current account,last week,,,,,,rejected
+TRANSACTION_HISTORY,Get all interest transactions to John Mathews in EUR.,,,interest,,EUR,John Mathews,,
+TRANSACTION_HISTORY,How many transfer transactions did I have today?,,today,transfer,,,,,
+TRANSACTION_HISTORY,Any cancelled transactions on business account this quarter?,business account,this quarter,,,,,,cancelled
+TRANSACTION_HISTORY,List transactions with John Mathews from 1st June to 30th June.,,from 1st June to 30th June,,,,John Mathews,,
+TRANSACTION_HISTORY,Show transactions this quarter for savings account.,savings account,this quarter,,,,,,
+TRANSACTION_HISTORY,List failed credit transactions yesterday.,,yesterday,credit,,,,,failed
+TRANSACTION_HISTORY,Any rejected transactions on account ending 3359 last month?,account ending 3359,last month,,,,,,rejected
+TRANSACTION_HISTORY,Show my refund transactions for current account this quarter.,current account,this quarter,refund,,,,,
+TRANSACTION_HISTORY,Fetch history of transfer payments to John Mathews.,,,transfer,,,John Mathews,,
+TRANSACTION_HISTORY,I want to see refund activity from 1st June to 30th June.,,from 1st June to 30th June,refund,,,,,
+TRANSACTION_HISTORY,Get all payment transactions to Global Traders Ltd in USD.,,,payment,,USD,Global Traders Ltd,,
+TRANSACTION_HISTORY,Show my interest transactions for business account from 1st June to 30th June.,business account,from 1st June to 30th June,interest,,,,,
+TRANSACTION_HISTORY,How many fee transactions did I have from 1st June to 30th June?,,from 1st June to 30th June,fee,,,,,
+TRANSACTION_HISTORY,Show my transfer transactions for savings account today.,savings account,today,transfer,,,,,
+TRANSACTION_HISTORY,Fetch history of charge payments to Global Traders Ltd.,,,charge,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Any cancelled transactions on savings account today?,savings account,today,,,,,,cancelled
+TRANSACTION_HISTORY,Get all interest transactions to ABC Suppliers Pvt Ltd in GBP.,,,interest,,GBP,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Show transfer of 50000 GBP yesterday.,,yesterday,transfer,50000,GBP,,,
+TRANSACTION_HISTORY,Show me what came in and out of business account this quarter.,business account,this quarter,,,,,,
+TRANSACTION_HISTORY,List rejected withdrawal transactions from 1st June to 30th June.,,from 1st June to 30th June,withdrawal,,,,,rejected
+TRANSACTION_HISTORY,Pull all interest entries for current account.,current account,,interest,,,,,
+TRANSACTION_HISTORY,List cancelled credit transactions yesterday.,,yesterday,credit,,,,,cancelled
+TRANSACTION_HISTORY,Show transactions yesterday for account ending 3359.,account ending 3359,yesterday,,,,,,
+TRANSACTION_HISTORY,Get transaction history for business account between this quarter.,business account,this quarter,,,,,,
+TRANSACTION_HISTORY,Pull all deposit entries for account ending 3359.,account ending 3359,,deposit,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of savings account last week.,savings account,last week,,,,,,
+TRANSACTION_HISTORY,How many deposit transactions did I have today?,,today,deposit,,,,,
+TRANSACTION_HISTORY,Get transaction history for savings account between yesterday.,savings account,yesterday,,,,,,
+TRANSACTION_HISTORY,Show all successful transactions today.,,today,,,,,,successful
+TRANSACTION_HISTORY,I want to see transfer activity today.,,today,transfer,,,,,
+TRANSACTION_HISTORY,Show all rejected transactions yesterday.,,yesterday,,,,,,rejected
+TRANSACTION_HISTORY,Get all payment transactions to ABC Suppliers Pvt Ltd in EUR.,,,payment,,EUR,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Show refund of 500 EUR yesterday.,,yesterday,refund,500,EUR,,,
+TRANSACTION_HISTORY,How many withdrawal transactions did I have yesterday?,,yesterday,withdrawal,,,,,
+TRANSACTION_HISTORY,Get all fee transactions to John Mathews in INR.,,,fee,,INR,John Mathews,,
+TRANSACTION_HISTORY,Show my credit transactions for account ending 3359 yesterday.,account ending 3359,yesterday,credit,,,,,
+TRANSACTION_HISTORY,List cancelled withdrawal transactions from 1st June to 30th June.,,from 1st June to 30th June,withdrawal,,,,,cancelled
+TRANSACTION_HISTORY,Show me what came in and out of account ending 3359 today.,account ending 3359,today,,,,,,
+TRANSACTION_HISTORY,"Show fee of 10,000.50 INR last month.",,last month,fee,"10,000.50",INR,,,
+TRANSACTION_HISTORY,Fetch history of charge payments to John Mathews.,,,charge,,,John Mathews,,
+TRANSACTION_HISTORY,List transactions with Priya Sharma this quarter.,,this quarter,,,,Priya Sharma,,
+TRANSACTION_HISTORY,"Show fee of 2,000 GBP from 1st June to 30th June.",,from 1st June to 30th June,fee,"2,000",GBP,,,
+TRANSACTION_HISTORY,What transactions happened yesterday on current account?,current account,yesterday,,,,,,
+TRANSACTION_HISTORY,I want to see payment activity from 1st June to 30th June.,,from 1st June to 30th June,payment,,,,,
+TRANSACTION_HISTORY,Get transaction history for current account between last month.,current account,last month,,,,,,
+TRANSACTION_HISTORY,Any successful transactions on current account this quarter?,current account,this quarter,,,,,,successful
+TRANSACTION_HISTORY,Show me what came in and out of current account today.,current account,today,,,,,,
+TRANSACTION_HISTORY,List cancelled refund transactions last week.,,last week,refund,,,,,cancelled
+TRANSACTION_HISTORY,List successful deposit transactions from 1st June to 30th June.,,from 1st June to 30th June,deposit,,,,,successful
+TRANSACTION_HISTORY,I want to see interest activity last month.,,last month,interest,,,,,
+TRANSACTION_HISTORY,Get all credit transactions to John Mathews in USD.,,,credit,,USD,John Mathews,,
+TRANSACTION_HISTORY,Get transaction history for business account between last week.,business account,last week,,,,,,
+TRANSACTION_HISTORY,Fetch history of fee payments to ABC Suppliers Pvt Ltd.,,,fee,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Show transactions today for current account.,current account,today,,,,,,
+TRANSACTION_HISTORY,List failed credit transactions from 1st June to 30th June.,,from 1st June to 30th June,credit,,,,,failed
+TRANSACTION_HISTORY,Show me what came in and out of account ending 3359 yesterday.,account ending 3359,yesterday,,,,,,
+TRANSACTION_HISTORY,Get all withdrawal transactions to Priya Sharma in EUR.,,,withdrawal,,EUR,Priya Sharma,,
+TRANSACTION_HISTORY,List transactions with Global Traders Ltd this quarter.,,this quarter,,,,Global Traders Ltd,,
+TRANSACTION_HISTORY,Get all charge transactions to Global Traders Ltd in GBP.,,,charge,,GBP,Global Traders Ltd,,
+TRANSACTION_HISTORY,Any rejected transactions on current account last month?,current account,last month,,,,,,rejected
+TRANSACTION_HISTORY,Get transaction history for business account between last month.,business account,last month,,,,,,
+TRANSACTION_HISTORY,Get all interest transactions to John Mathews in GBP.,,,interest,,GBP,John Mathews,,
+TRANSACTION_HISTORY,Show my payment transactions for account ending 3359 last month.,account ending 3359,last month,payment,,,,,
+TRANSACTION_HISTORY,Show all failed transactions yesterday.,,yesterday,,,,,,failed
+TRANSACTION_HISTORY,List transactions with ABC Suppliers Pvt Ltd today.,,today,,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,I want to see charge activity this quarter.,,this quarter,charge,,,,,
+TRANSACTION_HISTORY,How many interest transactions did I have from 1st June to 30th June?,,from 1st June to 30th June,interest,,,,,
+TRANSACTION_HISTORY,Get all withdrawal transactions to Global Traders Ltd in USD.,,,withdrawal,,USD,Global Traders Ltd,,
+TRANSACTION_HISTORY,Get all refund transactions to ABC Suppliers Pvt Ltd in USD.,,,refund,,USD,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,I want to see deposit activity today.,,today,deposit,,,,,
+TRANSACTION_HISTORY,Show transactions this quarter for current account.,current account,this quarter,,,,,,
+TRANSACTION_HISTORY,Show transactions from 1st June to 30th June for savings account.,savings account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of current account last month.,current account,last month,,,,,,
+TRANSACTION_HISTORY,How many transfer transactions did I have last month?,,last month,transfer,,,,,
+TRANSACTION_HISTORY,List transactions with ABC Suppliers Pvt Ltd last month.,,last month,,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,"Show refund of 2,000 EUR yesterday.",,yesterday,refund,"2,000",EUR,,,
+TRANSACTION_HISTORY,Show transactions yesterday for business account.,business account,yesterday,,,,,,
+TRANSACTION_HISTORY,How many charge transactions did I have from 1st June to 30th June?,,from 1st June to 30th June,charge,,,,,
+TRANSACTION_HISTORY,What transactions happened last week on current account?,current account,last week,,,,,,
+TRANSACTION_HISTORY,List reversed interest transactions yesterday.,,yesterday,interest,,,,,reversed
+TRANSACTION_HISTORY,Get all interest transactions to Global Traders Ltd in INR.,,,interest,,INR,Global Traders Ltd,,
+TRANSACTION_HISTORY,How many payment transactions did I have yesterday?,,yesterday,payment,,,,,
+TRANSACTION_HISTORY,How many interest transactions did I have this quarter?,,this quarter,interest,,,,,
+TRANSACTION_HISTORY,List transactions with ABC Suppliers Pvt Ltd last week.,,last week,,,,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,How many withdrawal transactions did I have this quarter?,,this quarter,withdrawal,,,,,
+TRANSACTION_HISTORY,Show all cancelled transactions last month.,,last month,,,,,,cancelled
+TRANSACTION_HISTORY,Show my fee transactions for savings account yesterday.,savings account,yesterday,fee,,,,,
+TRANSACTION_HISTORY,I want to see transfer activity last week.,,last week,transfer,,,,,
+TRANSACTION_HISTORY,I want to see fee activity today.,,today,fee,,,,,
+TRANSACTION_HISTORY,Show transactions this quarter for account ending 3359.,account ending 3359,this quarter,,,,,,
+TRANSACTION_HISTORY,Show me what came in and out of savings account today.,savings account,today,,,,,,
+TRANSACTION_HISTORY,I want to see interest activity today.,,today,interest,,,,,
+TRANSACTION_HISTORY,List reversed transfer transactions yesterday.,,yesterday,transfer,,,,,reversed
+TRANSACTION_HISTORY,How many charge transactions did I have last week?,,last week,charge,,,,,
+TRANSACTION_HISTORY,Fetch history of deposit payments to John Mathews.,,,deposit,,,John Mathews,,
+TRANSACTION_HISTORY,Show my withdrawal transactions for account ending 3359 last month.,account ending 3359,last month,withdrawal,,,,,
+TRANSACTION_HISTORY,"Show transfer of 2,000 INR last month.",,last month,transfer,"2,000",INR,,,
+TRANSACTION_HISTORY,Show transactions last week for current account.,current account,last week,,,,,,
+TRANSACTION_HISTORY,Any reversed transactions on current account last week?,current account,last week,,,,,,reversed
+TRANSACTION_HISTORY,Get all payment transactions to ABC Suppliers Pvt Ltd in GBP.,,,payment,,GBP,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,How many refund transactions did I have last month?,,last month,refund,,,,,
+TRANSACTION_HISTORY,Fetch history of charge payments to Priya Sharma.,,,charge,,,Priya Sharma,,
+TRANSACTION_HISTORY,List failed transfer transactions today.,,today,transfer,,,,,failed
+TRANSACTION_HISTORY,Show transactions today for account ending 3359.,account ending 3359,today,,,,,,
+TRANSACTION_HISTORY,List cancelled payment transactions from 1st June to 30th June.,,from 1st June to 30th June,payment,,,,,cancelled
+TRANSACTION_HISTORY,List failed transfer transactions last month.,,last month,transfer,,,,,failed
+TRANSACTION_HISTORY,Get transaction history for current account between from 1st June to 30th June.,current account,from 1st June to 30th June,,,,,,
+TRANSACTION_HISTORY,Get transaction history for business account between today.,business account,today,,,,,,
+TRANSACTION_HISTORY,Get all charge transactions to ABC Suppliers Pvt Ltd in EUR.,,,charge,,EUR,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,Any cancelled transactions on account ending 3359 today?,account ending 3359,today,,,,,,cancelled
+TRANSACTION_HISTORY,Show interest of 50000 INR this quarter.,,this quarter,interest,50000,INR,,,
+TRANSACTION_HISTORY,I want to see withdrawal activity this quarter.,,this quarter,withdrawal,,,,,
+TRANSACTION_HISTORY,Show my debit transactions for current account today.,current account,today,debit,,,,,
+TRANSACTION_HISTORY,How many refund transactions did I have this quarter?,,this quarter,refund,,,,,
+TRANSACTION_HISTORY,Any failed transactions on account ending 3359 last month?,account ending 3359,last month,,,,,,failed
+TRANSACTION_HISTORY,Show my interest transactions for business account last week.,business account,last week,interest,,,,,
+TRANSACTION_HISTORY,How many transfer transactions did I have this quarter?,,this quarter,transfer,,,,,
+TRANSACTION_HISTORY,Show my payment transactions for current account last month.,current account,last month,payment,,,,,
+TRANSACTION_HISTORY,I want to see debit activity from 1st June to 30th June.,,from 1st June to 30th June,debit,,,,,
+TRANSACTION_HISTORY,Get all debit transactions to John Mathews in EUR.,,,debit,,EUR,John Mathews,,
+TRANSACTION_HISTORY,List rejected deposit transactions yesterday.,,yesterday,deposit,,,,,rejected
+TRANSACTION_HISTORY,I want to see payment activity last month.,,last month,payment,,,,,
+TRANSACTION_HISTORY,Get all deposit transactions to ABC Suppliers Pvt Ltd in INR.,,,deposit,,INR,ABC Suppliers Pvt Ltd,,
+TRANSACTION_HISTORY,How many debit transactions did I have this quarter?,,this quarter,debit,,,,,
+TRANSACTION_HISTORY,Any reversed transactions on savings account last month?,savings account,last month,,,,,,reversed
+TRANSACTION_HISTORY,List cancelled payment transactions today.,,today,payment,,,,,cancelled
+TRANSACTION_HISTORY,Any reversed transactions on business account from 1st June to 30th June?,business account,from 1st June to 30th June,,,,,,reversed
+TRANSACTION_HISTORY,Show debit of 500 EUR yesterday.,,yesterday,debit,500,EUR,,,
+TRANSACTION_HISTORY,Show my credit transactions for current account yesterday.,current account,yesterday,credit,,,,,
+TRANSACTION_HISTORY,Show credit of 50000 INR yesterday.,,yesterday,credit,50000,INR,,,
+TRANSACTION_HISTORY,List reversed deposit transactions last month.,,last month,deposit,,,,,reversed
+TRANSACTION_HISTORY,Show my transfer transactions for account ending 3359 today.,account ending 3359,today,transfer,,,,,
+TRANSACTION_HISTORY,List rejected interest transactions last month.,,last month,interest,,,,,rejected
+TRANSACTION_HISTORY,List transactions with John Mathews yesterday.,,yesterday,,,,John Mathews,,
+TRANSACTION_HISTORY,Show my payment transactions for account ending 3359 last week.,account ending 3359,last week,payment,,,,,
+TRANSACTION_HISTORY,Show my deposit transactions for current account yesterday.,current account,yesterday,deposit,,,,,
+TRANSACTION_HISTORY,Show my interest transactions for account ending 3359 last month.,account ending 3359,last month,interest,,,,,
+TRANSACTION_HISTORY,List failed payment transactions today.,,today,payment,,,,,failed
+TRANSACTION_HISTORY,Show my refund transactions for account ending 3359 today.,account ending 3359,today,refund,,,,,

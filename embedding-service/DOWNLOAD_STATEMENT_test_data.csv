@@ -1,0 +1,501 @@
+intent_code,text,account,time,format,statement_type,currency,delivery_method
+DOWNLOAD_STATEMENT,Generate a XLSX statement for business account.,business account,,XLSX,,,
+DOWNLOAD_STATEMENT,Email me the account statement for this quarter in EUR.,,this quarter,,account statement,EUR,Email
+DOWNLOAD_STATEMENT,Get text statement for account ending 3359 year to date.,account ending 3359,year to date,text,,,
+DOWNLOAD_STATEMENT,Mail the statement for savings account to me from 1st June to 30th June.,savings account,from 1st June to 30th June,,,,
+DOWNLOAD_STATEMENT,Send the transaction statement to my email for for July 2026.,,for July 2026,,transaction statement,,email
+DOWNLOAD_STATEMENT,Send over the account statement in Excel format year to date.,,year to date,Excel,account statement,,
+DOWNLOAD_STATEMENT,Can you get me a XLSX copy of my statement last month?,,last month,XLSX,,,
+DOWNLOAD_STATEMENT,Give me a printable statement for business account.,business account,,,,,print
+DOWNLOAD_STATEMENT,Email the statement for savings account for July 2026.,savings account,for July 2026,,,,Email
+DOWNLOAD_STATEMENT,Export current account statement last month as Excel.,current account,last month,Excel,,,Export
+DOWNLOAD_STATEMENT,Send over the balance statement in CAMT format last month.,,last month,CAMT,balance statement,,
+DOWNLOAD_STATEMENT,Grab the statement for business account and save it as PDF.,business account,,PDF,,,save
+DOWNLOAD_STATEMENT,Send over the account statement in PDF format this quarter.,,this quarter,PDF,account statement,,
+DOWNLOAD_STATEMENT,Export current account statement for July 2026 as Excel.,current account,for July 2026,Excel,,,Export
+DOWNLOAD_STATEMENT,Pull the transaction statement for from 1st June to 30th June and send as PDF.,,from 1st June to 30th June,PDF,transaction statement,,
+DOWNLOAD_STATEMENT,Get CSV statement for current account last month.,current account,last month,CSV,,,
+DOWNLOAD_STATEMENT,Send the detailed statement to my email for for July 2026.,,for July 2026,,detailed statement,,email
+DOWNLOAD_STATEMENT,Download the statement for savings account for July 2026.,savings account,for July 2026,,,,Download
+DOWNLOAD_STATEMENT,Print the statement for account ending 3359 from 1st June to 30th June.,account ending 3359,from 1st June to 30th June,,,,Print
+DOWNLOAD_STATEMENT,Download the transaction statement for current account in CAMT format.,current account,,CAMT,transaction statement,,Download
+DOWNLOAD_STATEMENT,Print the statement for savings account this quarter.,savings account,this quarter,,,,Print
+DOWNLOAD_STATEMENT,Mail the statement for current account to me from 1st June to 30th June.,current account,from 1st June to 30th June,,,,
+DOWNLOAD_STATEMENT,Download detailed statement in XLSX for from 1st June to 30th June.,,from 1st June to 30th June,XLSX,detailed statement,,Download
+DOWNLOAD_STATEMENT,Export savings account statement for July 2026 as Excel.,savings account,for July 2026,Excel,,,Export
+DOWNLOAD_STATEMENT,Send the account statement to my email for year to date.,,year to date,,account statement,,email
+DOWNLOAD_STATEMENT,Give me a printable statement for current account.,current account,,,,,print
+DOWNLOAD_STATEMENT,Generate a text statement for savings account.,savings account,,text,,,
+DOWNLOAD_STATEMENT,Grab the statement for savings account and save it as PDF.,savings account,,PDF,,,save
+DOWNLOAD_STATEMENT,Send the transaction statement to my email for from 1st June to 30th June.,,from 1st June to 30th June,,transaction statement,,email
+DOWNLOAD_STATEMENT,Print the statement for business account for July 2026.,business account,for July 2026,,,,Print
+DOWNLOAD_STATEMENT,Save my detailed statement as MT940.,,,MT940,detailed statement,,Save
+DOWNLOAD_STATEMENT,Download the account statement for current account in Excel format.,current account,,Excel,account statement,,Download
+DOWNLOAD_STATEMENT,Download balance statement in XLSX for for July 2026.,,for July 2026,XLSX,balance statement,,Download
+DOWNLOAD_STATEMENT,I'd like to export current account activity as CSV.,current account,,CSV,,,export
+DOWNLOAD_STATEMENT,Mail the statement for current account to me last month.,current account,last month,,,,
+DOWNLOAD_STATEMENT,Download the account statement for business account in CAMT format.,business account,,CAMT,account statement,,Download
+DOWNLOAD_STATEMENT,Download account statement in MT940 for from 1st June to 30th June.,,from 1st June to 30th June,MT940,account statement,,Download
+DOWNLOAD_STATEMENT,Mail the statement for account ending 3359 to me last month.,account ending 3359,last month,,,,
+DOWNLOAD_STATEMENT,I'd like to export savings account activity as CAMT.,savings account,,CAMT,,,export
+DOWNLOAD_STATEMENT,Export business account statement this quarter as CSV.,business account,this quarter,CSV,,,Export
+DOWNLOAD_STATEMENT,Print the statement for savings account last month.,savings account,last month,,,,Print
+DOWNLOAD_STATEMENT,Prepare a CSV statement covering last month.,,last month,CSV,,,
+DOWNLOAD_STATEMENT,Generate a CAMT statement for business account.,business account,,CAMT,,,
+DOWNLOAD_STATEMENT,Print the statement for current account last month.,current account,last month,,,,Print
+DOWNLOAD_STATEMENT,I'd like to export savings account activity as MT940.,savings account,,MT940,,,export
+DOWNLOAD_STATEMENT,Send over the detailed statement in PDF format this quarter.,,this quarter,PDF,detailed statement,,
+DOWNLOAD_STATEMENT,Download transaction statement in XLSX for year to date.,,year to date,XLSX,transaction statement,,Download
+DOWNLOAD_STATEMENT,Mail the statement for savings account to me for July 2026.,savings account,for July 2026,,,,
+DOWNLOAD_STATEMENT,Mail the statement for business account to me for July 2026.,business account,for July 2026,,,,
+DOWNLOAD_STATEMENT,Get CAMT statement for business account year to date.,business account,year to date,CAMT,,,
+DOWNLOAD_STATEMENT,Get CSV statement for business account this quarter.,business account,this quarter,CSV,,,
+DOWNLOAD_STATEMENT,Send over the detailed statement in CSV format from 1st June to 30th June.,,from 1st June to 30th June,CSV,detailed statement,,
+DOWNLOAD_STATEMENT,Prepare a text statement covering from 1st June to 30th June.,,from 1st June to 30th June,text,,,
+DOWNLOAD_STATEMENT,Can you get me a MT940 copy of my statement for July 2026?,,for July 2026,MT940,,,
+DOWNLOAD_STATEMENT,Download balance statement in XLSX for from 1st June to 30th June.,,from 1st June to 30th June,XLSX,balance statement,,Download
+DOWNLOAD_STATEMENT,Export savings account statement this quarter as Excel.,savings account,this quarter,Excel,,,Export
+DOWNLOAD_STATEMENT,Get MT940 statement for current account last month.,current account,last month,MT940,,,
+DOWNLOAD_STATEMENT,Grab the statement for account ending 3359 and save it as Excel.,account ending 3359,,Excel,,,save
+DOWNLOAD_STATEMENT,Can you get me a CAMT copy of my statement for July 2026?,,for July 2026,CAMT,,,
+DOWNLOAD_STATEMENT,Get CAMT statement for current account from 1st June to 30th June.,current account,from 1st June to 30th June,CAMT,,,
+DOWNLOAD_STATEMENT,I'd like to export account ending 3359 activity as text.,account ending 3359,,text,,,export
+DOWNLOAD_STATEMENT,Email me the balance statement for year to date in USD.,,year to date,,balance statement,USD,Email
+DOWNLOAD_STATEMENT,I'd like to export business account activity as XLSX.,business account,,XLSX,,,export
+DOWNLOAD_STATEMENT,Send the account statement to my email for for July 2026.,,for July 2026,,account statement,,email
+DOWNLOAD_STATEMENT, the statement for account ending 3359 year to date.,account ending 3359,year to date,,,,
+DOWNLOAD_STATEMENT,Give me a printable statement for savings account.,savings account,,,,,print
+DOWNLOAD_STATEMENT,Download the account statement for current account in CSV format.,current account,,CSV,account statement,,Download
+DOWNLOAD_STATEMENT,Prepare a PDF statement covering from 1st June to 30th June.,,from 1st June to 30th June,PDF,,,
+DOWNLOAD_STATEMENT,Mail the statement for current account to me for July 2026.,current account,for July 2026,,,,
+DOWNLOAD_STATEMENT,Export account ending 3359 statement for July 2026 as XLSX.,account ending 3359,for July 2026,XLSX,,,Export
+DOWNLOAD_STATEMENT,Can you get me a PDF copy of my statement from 1st June to 30th June?,,from 1st June to 30th June,PDF,,,
+DOWNLOAD_STATEMENT,Give me a printable statement for account ending 3359.,account ending 3359,,,,,print
+DOWNLOAD_STATEMENT,Prepare a MT940 statement covering this quarter.,,this quarter,MT940,,,
+DOWNLOAD_STATEMENT,Send over the balance statement in CSV format this quarter.,,this quarter,CSV,balance statement,,
+DOWNLOAD_STATEMENT,Pull the balance statement for year to date and send as XLSX.,,year to date,XLSX,balance statement,,
+DOWNLOAD_STATEMENT,Grab the statement for account ending 3359 and save it as CAMT.,account ending 3359,,CAMT,,,save
+DOWNLOAD_STATEMENT,Get MT940 statement for savings account last month.,savings account,last month,MT940,,,
+DOWNLOAD_STATEMENT,Export savings account statement for July 2026 as XLSX.,savings account,for July 2026,XLSX,,,Export
+DOWNLOAD_STATEMENT,Print the statement for account ending 3359 last month.,account ending 3359,last month,,,,Print
+DOWNLOAD_STATEMENT,Generate a CSV statement for current account.,current account,,CSV,,,
+DOWNLOAD_STATEMENT,Export account ending 3359 statement this quarter as CAMT.,account ending 3359,this quarter,CAMT,,,Export
+DOWNLOAD_STATEMENT,Can you get me a Excel copy of my statement this quarter?,,this quarter,Excel,,,
+DOWNLOAD_STATEMENT,Download detailed statement in MT940 for for July 2026.,,for July 2026,MT940,detailed statement,,Download
+DOWNLOAD_STATEMENT,Generate a text statement for current account.,current account,,text,,,
+DOWNLOAD_STATEMENT,I'd like to export account ending 3359 activity as PDF.,account ending 3359,,PDF,,,export
+DOWNLOAD_STATEMENT,Export the statement for current account this quarter.,current account,this quarter,,,,Export
+DOWNLOAD_STATEMENT,Save my detailed statement as XLSX.,,,XLSX,detailed statement,,Save
+DOWNLOAD_STATEMENT,Mail the statement for savings account to me year to date.,savings account,year to date,,,,
+DOWNLOAD_STATEMENT,Mail the statement for account ending 3359 to me this quarter.,account ending 3359,this quarter,,,,
+DOWNLOAD_STATEMENT,Mail the statement for current account to me this quarter.,current account,this quarter,,,,
+DOWNLOAD_STATEMENT,Send the balance statement to my email for this quarter.,,this quarter,,balance statement,,email
+DOWNLOAD_STATEMENT,Print the statement for account ending 3359 year to date.,account ending 3359,year to date,,,,Print
+DOWNLOAD_STATEMENT,Download account statement in text for last month.,,last month,text,account statement,,Download
+DOWNLOAD_STATEMENT,Email me the transaction statement for last month in EUR.,,last month,,transaction statement,EUR,Email
+DOWNLOAD_STATEMENT,Send the transaction statement to my email for last month.,,last month,,transaction statement,,email
+DOWNLOAD_STATEMENT,Download transaction statement in XLSX for this quarter.,,this quarter,XLSX,transaction statement,,Download
+DOWNLOAD_STATEMENT,Send over the transaction statement in MT940 format for July 2026.,,for July 2026,MT940,transaction statement,,
+DOWNLOAD_STATEMENT,I'd like to export savings account activity as Excel.,savings account,,Excel,,,export
+DOWNLOAD_STATEMENT,Generate a CAMT statement for current account.,current account,,CAMT,,,
+DOWNLOAD_STATEMENT,Print the statement for business account from 1st June to 30th June.,business account,from 1st June to 30th June,,,,Print
+DOWNLOAD_STATEMENT,Pull the transaction statement for year to date and send as XLSX.,,year to date,XLSX,transaction statement,,
+DOWNLOAD_STATEMENT,I need the account statement for current account in text.,current account,,text,account statement,,
+DOWNLOAD_STATEMENT,Pull the balance statement for for July 2026 and send as PDF.,,for July 2026,PDF,balance statement,,
+DOWNLOAD_STATEMENT,Export business account statement for July 2026 as CSV.,business account,for July 2026,CSV,,,Export
+DOWNLOAD_STATEMENT,Download the detailed statement for account ending 3359 in text format.,account ending 3359,,text,detailed statement,,Download
+DOWNLOAD_STATEMENT,Print the statement for business account year to date.,business account,year to date,,,,Print
+DOWNLOAD_STATEMENT,Grab the statement for current account and save it as XLSX.,current account,,XLSX,,,save
+DOWNLOAD_STATEMENT,Get XLSX statement for current account year to date.,current account,year to date,XLSX,,,
+DOWNLOAD_STATEMENT,Download the balance statement for savings account in CSV format.,savings account,,CSV,balance statement,,Download
+DOWNLOAD_STATEMENT, the statement for current account year to date.,current account,year to date,,,,
+DOWNLOAD_STATEMENT,Can you get me a XLSX copy of my statement this quarter?,,this quarter,XLSX,,,
+DOWNLOAD_STATEMENT,Download account statement in MT940 for this quarter.,,this quarter,MT940,account statement,,Download
+DOWNLOAD_STATEMENT,Download the statement for savings account this quarter.,savings account,this quarter,,,,Download
+DOWNLOAD_STATEMENT,Email me the detailed statement for for July 2026 in INR.,,for July 2026,,detailed statement,INR,Email
+DOWNLOAD_STATEMENT,Generate a CAMT statement for account ending 3359.,account ending 3359,,CAMT,,,
+DOWNLOAD_STATEMENT,Export current account statement year to date as CSV.,current account,year to date,CSV,,,Export
+DOWNLOAD_STATEMENT,Get Excel statement for business account year to date.,business account,year to date,Excel,,,
+DOWNLOAD_STATEMENT,I need the account statement for savings account in MT940.,savings account,,MT940,account statement,,
+DOWNLOAD_STATEMENT,Save my balance statement as CSV.,,,CSV,balance statement,,Save
+DOWNLOAD_STATEMENT,Download transaction statement in XLSX for from 1st June to 30th June.,,from 1st June to 30th June,XLSX,transaction statement,,Download
+DOWNLOAD_STATEMENT,Download detailed statement in Excel for for July 2026.,,for July 2026,Excel,detailed statement,,Download
+DOWNLOAD_STATEMENT,Print the statement for account ending 3359 for July 2026.,account ending 3359,for July 2026,,,,Print
+DOWNLOAD_STATEMENT,Print the statement for business account this quarter.,business account,this quarter,,,,Print
+DOWNLOAD_STATEMENT,Mail the statement for business account to me this quarter.,business account,this quarter,,,,
+DOWNLOAD_STATEMENT,I need the transaction statement for account ending 3359 in PDF.,account ending 3359,,PDF,transaction statement,,
+DOWNLOAD_STATEMENT,Save my account statement as Excel.,,,Excel,account statement,,Save
+DOWNLOAD_STATEMENT,I'd like to export savings account activity as PDF.,savings account,,PDF,,,export
+DOWNLOAD_STATEMENT,I need the balance statement for business account in text.,business account,,text,balance statement,,
+DOWNLOAD_STATEMENT,Download detailed statement in MT940 for from 1st June to 30th June.,,from 1st June to 30th June,MT940,detailed statement,,Download
+DOWNLOAD_STATEMENT,I'd like to export current account activity as XLSX.,current account,,XLSX,,,export
+DOWNLOAD_STATEMENT,Download the account statement for savings account in PDF format.,savings account,,PDF,account statement,,Download
+DOWNLOAD_STATEMENT,I need the account statement for account ending 3359 in CAMT.,account ending 3359,,CAMT,account statement,,
+DOWNLOAD_STATEMENT,Can you get me a XLSX copy of my statement year to date?,,year to date,XLSX,,,
+DOWNLOAD_STATEMENT,Mail the statement for business account to me year to date.,business account,year to date,,,,
+DOWNLOAD_STATEMENT,Grab the statement for savings account and save it as CAMT.,savings account,,CAMT,,,save
+DOWNLOAD_STATEMENT,Download detailed statement in MT940 for last month.,,last month,MT940,detailed statement,,Download
+DOWNLOAD_STATEMENT,Can you get me a Excel copy of my statement from 1st June to 30th June?,,from 1st June to 30th June,Excel,,,
+DOWNLOAD_STATEMENT,Download the transaction statement for account ending 3359 in MT940 format.,account ending 3359,,MT940,transaction statement,,Download
+DOWNLOAD_STATEMENT,Print the statement for savings account from 1st June to 30th June.,savings account,from 1st June to 30th June,,,,Print
+DOWNLOAD_STATEMENT, the statement for current account last month.,current account,last month,,,,
+DOWNLOAD_STATEMENT,Can you get me a MT940 copy of my statement this quarter?,,this quarter,MT940,,,
+DOWNLOAD_STATEMENT,Save my balance statement as CAMT.,,,CAMT,balance statement,,Save
+DOWNLOAD_STATEMENT,I'd like to export account ending 3359 activity as MT940.,account ending 3359,,MT940,,,export
+DOWNLOAD_STATEMENT,Print the statement for current account from 1st June to 30th June.,current account,from 1st June to 30th June,,,,Print
+DOWNLOAD_STATEMENT,Download the balance statement for savings account in MT940 format.,savings account,,MT940,balance statement,,Download
+DOWNLOAD_STATEMENT,Can you get me a MT940 copy of my statement last month?,,last month,MT940,,,
+DOWNLOAD_STATEMENT,Prepare a MT940 statement covering last month.,,last month,MT940,,,
+DOWNLOAD_STATEMENT,Mail the statement for account ending 3359 to me year to date.,account ending 3359,year to date,,,,
+DOWNLOAD_STATEMENT,Prepare a PDF statement covering year to date.,,year to date,PDF,,,
+DOWNLOAD_STATEMENT,Pull the transaction statement for for July 2026 and send as text.,,for July 2026,text,transaction statement,,
+DOWNLOAD_STATEMENT,Email me the transaction statement for from 1st June to 30th June in EUR.,,from 1st June to 30th June,,transaction statement,EUR,Email
+DOWNLOAD_STATEMENT,Get CSV statement for account ending 3359 for July 2026.,account ending 3359,for July 2026,CSV,,,
+DOWNLOAD_STATEMENT,Download balance statement in Excel for for July 2026.,,for July 2026,Excel,balance statement,,Download
+DOWNLOAD_STATEMENT,Generate a XLSX statement for account ending 3359.,account ending 3359,,XLSX,,,
+DOWNLOAD_STATEMENT,Download transaction statement in CSV for from 1st June to 30th June.,,from 1st June to 30th June,CSV,transaction statement,,Download
+DOWNLOAD_STATEMENT,Send over the transaction statement in CAMT format year to date.,,year to date,CAMT,transaction statement,,
+DOWNLOAD_STATEMENT,Export account ending 3359 statement last month as Excel.,account ending 3359,last month,Excel,,,Export
+DOWNLOAD_STATEMENT,Pull the transaction statement for this quarter and send as text.,,this quarter,text,transaction statement,,
+DOWNLOAD_STATEMENT,Send over the account statement in MT940 format from 1st June to 30th June.,,from 1st June to 30th June,MT940,account statement,,
+DOWNLOAD_STATEMENT,Download transaction statement in text for year to date.,,year to date,text,transaction statement,,Download
+DOWNLOAD_STATEMENT,Generate a MT940 statement for current account.,current account,,MT940,,,
+DOWNLOAD_STATEMENT,Download account statement in Excel for this quarter.,,this quarter,Excel,account statement,,Download
+DOWNLOAD_STATEMENT,Export business account statement for July 2026 as XLSX.,business account,for July 2026,XLSX,,,Export
+DOWNLOAD_STATEMENT,Download account statement in Excel for year to date.,,year to date,Excel,account statement,,Download
+DOWNLOAD_STATEMENT,Save my account statement as CSV.,,,CSV,account statement,,Save
+DOWNLOAD_STATEMENT,Send over the balance statement in text format for July 2026.,,for July 2026,text,balance statement,,
+DOWNLOAD_STATEMENT,Email me the balance statement for from 1st June to 30th June in INR.,,from 1st June to 30th June,,balance statement,INR,Email
+DOWNLOAD_STATEMENT,Get CAMT statement for account ending 3359 last month.,account ending 3359,last month,CAMT,,,
+DOWNLOAD_STATEMENT,Print the statement for business account last month.,business account,last month,,,,Print
+DOWNLOAD_STATEMENT,Download the transaction statement for business account in Excel format.,business account,,Excel,transaction statement,,Download
+DOWNLOAD_STATEMENT,Email me the transaction statement for last month in USD.,,last month,,transaction statement,USD,Email
+DOWNLOAD_STATEMENT,Pull the transaction statement for from 1st June to 30th June and send as MT940.,,from 1st June to 30th June,MT940,transaction statement,,
+DOWNLOAD_STATEMENT,Email me the account statement for from 1st June to 30th June in USD.,,from 1st June to 30th June,,account statement,USD,Email
+DOWNLOAD_STATEMENT,Get CAMT statement for current account year to date.,current account,year to date,CAMT,,,
+DOWNLOAD_STATEMENT,Prepare a PDF statement covering for July 2026.,,for July 2026,PDF,,,
+DOWNLOAD_STATEMENT,Email me the detailed statement for for July 2026 in GBP.,,for July 2026,,detailed statement,GBP,Email
+DOWNLOAD_STATEMENT,I need the transaction statement for current account in text.,current account,,text,transaction statement,,
+DOWNLOAD_STATEMENT,Download the account statement for current account in CAMT format.,current account,,CAMT,account statement,,Download
+DOWNLOAD_STATEMENT,Print the statement for savings account year to date.,savings account,year to date,,,,Print
+DOWNLOAD_STATEMENT,Get XLSX statement for savings account this quarter.,savings account,this quarter,XLSX,,,
+DOWNLOAD_STATEMENT,Grab the statement for current account and save it as CSV.,current account,,CSV,,,save
+DOWNLOAD_STATEMENT,Get XLSX statement for savings account year to date.,savings account,year to date,XLSX,,,
+DOWNLOAD_STATEMENT,Can you get me a CSV copy of my statement for July 2026?,,for July 2026,CSV,,,
+DOWNLOAD_STATEMENT,I need the balance statement for account ending 3359 in PDF.,account ending 3359,,PDF,balance statement,,
+DOWNLOAD_STATEMENT,Download the transaction statement for current account in text format.,current account,,text,transaction statement,,Download
+DOWNLOAD_STATEMENT,Grab the statement for savings account and save it as text.,savings account,,text,,,save
+DOWNLOAD_STATEMENT,Save my transaction statement as CAMT.,,,CAMT,transaction statement,,Save
+DOWNLOAD_STATEMENT,Pull the account statement for from 1st June to 30th June and send as text.,,from 1st June to 30th June,text,account statement,,
+DOWNLOAD_STATEMENT,Get MT940 statement for account ending 3359 last month.,account ending 3359,last month,MT940,,,
+DOWNLOAD_STATEMENT,Email me the detailed statement for from 1st June to 30th June in EUR.,,from 1st June to 30th June,,detailed statement,EUR,Email
+DOWNLOAD_STATEMENT,I'd like to export business account activity as text.,business account,,text,,,export
+DOWNLOAD_STATEMENT,Export savings account statement year to date as text.,savings account,year to date,text,,,Export
+DOWNLOAD_STATEMENT,I'd like to export current account activity as MT940.,current account,,MT940,,,export
+DOWNLOAD_STATEMENT,I need the transaction statement for business account in text.,business account,,text,transaction statement,,
+DOWNLOAD_STATEMENT,Send the balance statement to my email for last month.,,last month,,balance statement,,email
+DOWNLOAD_STATEMENT,Download detailed statement in Excel for year to date.,,year to date,Excel,detailed statement,,Download
+DOWNLOAD_STATEMENT,Grab the statement for savings account and save it as CSV.,savings account,,CSV,,,save
+DOWNLOAD_STATEMENT,Get CSV statement for business account from 1st June to 30th June.,business account,from 1st June to 30th June,CSV,,,
+DOWNLOAD_STATEMENT,Export account ending 3359 statement last month as PDF.,account ending 3359,last month,PDF,,,Export
+DOWNLOAD_STATEMENT,Print the statement for account ending 3359 this quarter.,account ending 3359,this quarter,,,,Print
+DOWNLOAD_STATEMENT,Generate a MT940 statement for account ending 3359.,account ending 3359,,MT940,,,
+DOWNLOAD_STATEMENT,Download the statement for business account year to date.,business account,year to date,,,,Download
+DOWNLOAD_STATEMENT,Download the statement for current account from 1st June to 30th June.,current account,from 1st June to 30th June,,,,Download
+DOWNLOAD_STATEMENT,Download the account statement for business account in MT940 format.,business account,,MT940,account statement,,Download
+DOWNLOAD_STATEMENT,Send the balance statement to my email for from 1st June to 30th June.,,from 1st June to 30th June,,balance statement,,email
+DOWNLOAD_STATEMENT,I'd like to export business account activity as CSV.,business account,,CSV,,,export
+DOWNLOAD_STATEMENT,Email the statement for savings account from 1st June to 30th June.,savings account,from 1st June to 30th June,,,,Email
+DOWNLOAD_STATEMENT,Download balance statement in MT940 for last month.,,last month,MT940,balance statement,,Download
+DOWNLOAD_STATEMENT,Grab the statement for savings account and save it as XLSX.,savings account,,XLSX,,,save
+DOWNLOAD_STATEMENT,Export business account statement year to date as CAMT.,business account,year to date,CAMT,,,Export
+DOWNLOAD_STATEMENT,I need the detailed statement for business account in PDF.,business account,,PDF,detailed statement,,
+DOWNLOAD_STATEMENT,Download the balance statement for business account in CAMT format.,business account,,CAMT,balance statement,,Download
+DOWNLOAD_STATEMENT,Grab the statement for account ending 3359 and save it as PDF.,account ending 3359,,PDF,,,save
+DOWNLOAD_STATEMENT,Get text statement for business account for July 2026.,business account,for July 2026,text,,,
+DOWNLOAD_STATEMENT,Can you get me a PDF copy of my statement year to date?,,year to date,PDF,,,
+DOWNLOAD_STATEMENT,Get CSV statement for savings account year to date.,savings account,year to date,CSV,,,
+DOWNLOAD_STATEMENT,Send over the detailed statement in MT940 format from 1st June to 30th June.,,from 1st June to 30th June,MT940,detailed statement,,
+DOWNLOAD_STATEMENT,Download account statement in MT940 for for July 2026.,,for July 2026,MT940,account statement,,Download
+DOWNLOAD_STATEMENT,Send over the balance statement in MT940 format year to date.,,year to date,MT940,balance statement,,
+DOWNLOAD_STATEMENT,Download account statement in text for this quarter.,,this quarter,text,account statement,,Download
+DOWNLOAD_STATEMENT,Export savings account statement this quarter as MT940.,savings account,this quarter,MT940,,,Export
+DOWNLOAD_STATEMENT,Prepare a Excel statement covering from 1st June to 30th June.,,from 1st June to 30th June,Excel,,,
+DOWNLOAD_STATEMENT,Prepare a MT940 statement covering for July 2026.,,for July 2026,MT940,,,
+DOWNLOAD_STATEMENT,Grab the statement for business account and save it as MT940.,business account,,MT940,,,save
+DOWNLOAD_STATEMENT,Save the statement for business account for July 2026.,business account,for July 2026,,,,Save
+DOWNLOAD_STATEMENT,Save my detailed statement as text.,,,text,detailed statement,,Save
+DOWNLOAD_STATEMENT,Email me the balance statement for year to date in INR.,,year to date,,balance statement,INR,Email
+DOWNLOAD_STATEMENT,Get text statement for current account from 1st June to 30th June.,current account,from 1st June to 30th June,text,,,
+DOWNLOAD_STATEMENT,Pull the balance statement for year to date and send as text.,,year to date,text,balance statement,,
+DOWNLOAD_STATEMENT,Get PDF statement for business account for July 2026.,business account,for July 2026,PDF,,,
+DOWNLOAD_STATEMENT,Send over the detailed statement in XLSX format year to date.,,year to date,XLSX,detailed statement,,
+DOWNLOAD_STATEMENT,Prepare a CSV statement covering year to date.,,year to date,CSV,,,
+DOWNLOAD_STATEMENT,Prepare a CAMT statement covering last month.,,last month,CAMT,,,
+DOWNLOAD_STATEMENT,I need the balance statement for business account in CSV.,business account,,CSV,balance statement,,
+DOWNLOAD_STATEMENT,Send the account statement to my email for from 1st June to 30th June.,,from 1st June to 30th June,,account statement,,email
+DOWNLOAD_STATEMENT,Export the statement for current account last month.,current account,last month,,,,Export
+DOWNLOAD_STATEMENT,Mail the statement for savings account to me this quarter.,savings account,this quarter,,,,
+DOWNLOAD_STATEMENT,Download transaction statement in CSV for year to date.,,year to date,CSV,transaction statement,,Download
+DOWNLOAD_STATEMENT,I need the balance statement for savings account in CAMT.,savings account,,CAMT,balance statement,,
+DOWNLOAD_STATEMENT,Prepare a text statement covering for July 2026.,,for July 2026,text,,,
+DOWNLOAD_STATEMENT,Send over the account statement in PDF format from 1st June to 30th June.,,from 1st June to 30th June,PDF,account statement,,
+DOWNLOAD_STATEMENT,Email me the balance statement for from 1st June to 30th June in GBP.,,from 1st June to 30th June,,balance statement,GBP,Email
+DOWNLOAD_STATEMENT,Prepare a text statement covering this quarter.,,this quarter,text,,,
+DOWNLOAD_STATEMENT,Export the statement for business account year to date.,business account,year to date,,,,Export
+DOWNLOAD_STATEMENT,Grab the statement for account ending 3359 and save it as XLSX.,account ending 3359,,XLSX,,,save
+DOWNLOAD_STATEMENT,Pull the detailed statement for for July 2026 and send as Excel.,,for July 2026,Excel,detailed statement,,
+DOWNLOAD_STATEMENT,Save my transaction statement as MT940.,,,MT940,transaction statement,,Save
+DOWNLOAD_STATEMENT,Generate a PDF statement for business account.,business account,,PDF,,,
+DOWNLOAD_STATEMENT,Download the account statement for account ending 3359 in MT940 format.,account ending 3359,,MT940,account statement,,Download
+DOWNLOAD_STATEMENT,I need the transaction statement for account ending 3359 in MT940.,account ending 3359,,MT940,transaction statement,,
+DOWNLOAD_STATEMENT,Download transaction statement in CSV for for July 2026.,,for July 2026,CSV,transaction statement,,Download
+DOWNLOAD_STATEMENT,Pull the detailed statement for from 1st June to 30th June and send as PDF.,,from 1st June to 30th June,PDF,detailed statement,,
+DOWNLOAD_STATEMENT,I'd like to export account ending 3359 activity as XLSX.,account ending 3359,,XLSX,,,export
+DOWNLOAD_STATEMENT,Download the detailed statement for current account in PDF format.,current account,,PDF,detailed statement,,Download
+DOWNLOAD_STATEMENT,Pull the balance statement for year to date and send as PDF.,,year to date,PDF,balance statement,,
+DOWNLOAD_STATEMENT,Generate a Excel statement for account ending 3359.,account ending 3359,,Excel,,,
+DOWNLOAD_STATEMENT,Prepare a CSV statement covering this quarter.,,this quarter,CSV,,,
+DOWNLOAD_STATEMENT,Export account ending 3359 statement this quarter as text.,account ending 3359,this quarter,text,,,Export
+DOWNLOAD_STATEMENT,Download the account statement for savings account in CAMT format.,savings account,,CAMT,account statement,,Download
+DOWNLOAD_STATEMENT,Export savings account statement year to date as Excel.,savings account,year to date,Excel,,,Export
+DOWNLOAD_STATEMENT,Send the transaction statement to my email for year to date.,,year to date,,transaction statement,,email
+DOWNLOAD_STATEMENT,Save my detailed statement as PDF.,,,PDF,detailed statement,,Save
+DOWNLOAD_STATEMENT,Get CSV statement for current account this quarter.,current account,this quarter,CSV,,,
+DOWNLOAD_STATEMENT,Download transaction statement in Excel for for July 2026.,,for July 2026,Excel,transaction statement,,Download
+DOWNLOAD_STATEMENT,I need the account statement for account ending 3359 in XLSX.,account ending 3359,,XLSX,account statement,,
+DOWNLOAD_STATEMENT,Can you get me a CSV copy of my statement last month?,,last month,CSV,,,
+DOWNLOAD_STATEMENT,Export the statement for current account year to date.,current account,year to date,,,,Export
+DOWNLOAD_STATEMENT,Prepare a XLSX statement covering this quarter.,,this quarter,XLSX,,,
+DOWNLOAD_STATEMENT,I need the balance statement for current account in Excel.,current account,,Excel,balance statement,,
+DOWNLOAD_STATEMENT,Export business account statement year to date as XLSX.,business account,year to date,XLSX,,,Export
+DOWNLOAD_STATEMENT,Send over the detailed statement in text format last month.,,last month,text,detailed statement,,
+DOWNLOAD_STATEMENT, the statement for current account from 1st June to 30th June.,current account,from 1st June to 30th June,,,,
+DOWNLOAD_STATEMENT,Export business account statement from 1st June to 30th June as Excel.,business account,from 1st June to 30th June,Excel,,,Export
+DOWNLOAD_STATEMENT,Can you get me a Excel copy of my statement for July 2026?,,for July 2026,Excel,,,
+DOWNLOAD_STATEMENT,Send over the balance statement in CSV format last month.,,last month,CSV,balance statement,,
+DOWNLOAD_STATEMENT,Download the statement for account ending 3359 year to date.,account ending 3359,year to date,,,,Download
+DOWNLOAD_STATEMENT,Save my detailed statement as CAMT.,,,CAMT,detailed statement,,Save
+DOWNLOAD_STATEMENT,Export account ending 3359 statement from 1st June to 30th June as Excel.,account ending 3359,from 1st June to 30th June,Excel,,,Export
+DOWNLOAD_STATEMENT,Grab the statement for current account and save it as Excel.,current account,,Excel,,,save
+DOWNLOAD_STATEMENT,Pull the account statement for this quarter and send as Excel.,,this quarter,Excel,account statement,,
+DOWNLOAD_STATEMENT,I need the detailed statement for business account in CAMT.,business account,,CAMT,detailed statement,,
+DOWNLOAD_STATEMENT,Email me the detailed statement for last month in GBP.,,last month,,detailed statement,GBP,Email
+DOWNLOAD_STATEMENT,Email the statement for business account for July 2026.,business account,for July 2026,,,,Email
+DOWNLOAD_STATEMENT,Download detailed statement in text for this quarter.,,this quarter,text,detailed statement,,Download
+DOWNLOAD_STATEMENT,Email me the detailed statement for last month in USD.,,last month,,detailed statement,USD,Email
+DOWNLOAD_STATEMENT,Can you get me a CSV copy of my statement from 1st June to 30th June?,,from 1st June to 30th June,CSV,,,
+DOWNLOAD_STATEMENT,Export savings account statement from 1st June to 30th June as MT940.,savings account,from 1st June to 30th June,MT940,,,Export
+DOWNLOAD_STATEMENT,Prepare a CAMT statement covering from 1st June to 30th June.,,from 1st June to 30th June,CAMT,,,
+DOWNLOAD_STATEMENT,Send over the detailed statement in PDF format year to date.,,year to date,PDF,detailed statement,,
+DOWNLOAD_STATEMENT,Download balance statement in CSV for this quarter.,,this quarter,CSV,balance statement,,Download
+DOWNLOAD_STATEMENT,Generate a CSV statement for savings account.,savings account,,CSV,,,
+DOWNLOAD_STATEMENT,Save my balance statement as PDF.,,,PDF,balance statement,,Save
+DOWNLOAD_STATEMENT,Send the account statement to my email for last month.,,last month,,account statement,,email
+DOWNLOAD_STATEMENT,Download the detailed statement for savings account in XLSX format.,savings account,,XLSX,detailed statement,,Download
+DOWNLOAD_STATEMENT,Download the account statement for savings account in text format.,savings account,,text,account statement,,Download
+DOWNLOAD_STATEMENT,Download detailed statement in CAMT for for July 2026.,,for July 2026,CAMT,detailed statement,,Download
+DOWNLOAD_STATEMENT,I'd like to export current account activity as Excel.,current account,,Excel,,,export
+DOWNLOAD_STATEMENT,I need the transaction statement for savings account in Excel.,savings account,,Excel,transaction statement,,
+DOWNLOAD_STATEMENT,Get MT940 statement for savings account this quarter.,savings account,this quarter,MT940,,,
+DOWNLOAD_STATEMENT,Can you get me a XLSX copy of my statement from 1st June to 30th June?,,from 1st June to 30th June,XLSX,,,
+DOWNLOAD_STATEMENT,Save my account statement as MT940.,,,MT940,account statement,,Save
+DOWNLOAD_STATEMENT,Print the statement for current account year to date.,current account,year to date,,,,Print
+DOWNLOAD_STATEMENT,Can you get me a CAMT copy of my statement from 1st June to 30th June?,,from 1st June to 30th June,CAMT,,,
+DOWNLOAD_STATEMENT,Send over the transaction statement in PDF format year to date.,,year to date,PDF,transaction statement,,
+DOWNLOAD_STATEMENT,Export current account statement this quarter as Excel.,current account,this quarter,Excel,,,Export
+DOWNLOAD_STATEMENT,Get XLSX statement for business account year to date.,business account,year to date,XLSX,,,
+DOWNLOAD_STATEMENT,Get Excel statement for business account last month.,business account,last month,Excel,,,
+DOWNLOAD_STATEMENT,Save my transaction statement as text.,,,text,transaction statement,,Save
+DOWNLOAD_STATEMENT,Send the transaction statement to my email for this quarter.,,this quarter,,transaction statement,,email
+DOWNLOAD_STATEMENT,Generate a XLSX statement for current account.,current account,,XLSX,,,
+DOWNLOAD_STATEMENT,Send over the account statement in CSV format this quarter.,,this quarter,CSV,account statement,,
+DOWNLOAD_STATEMENT,Send over the balance statement in MT940 format last month.,,last month,MT940,balance statement,,
+DOWNLOAD_STATEMENT,Download the statement for business account last month.,business account,last month,,,,Download
+DOWNLOAD_STATEMENT,Grab the statement for current account and save it as PDF.,current account,,PDF,,,save
+DOWNLOAD_STATEMENT,I need the balance statement for current account in CAMT.,current account,,CAMT,balance statement,,
+DOWNLOAD_STATEMENT,Download the detailed statement for business account in Excel format.,business account,,Excel,detailed statement,,Download
+DOWNLOAD_STATEMENT,Email me the transaction statement for this quarter in USD.,,this quarter,,transaction statement,USD,Email
+DOWNLOAD_STATEMENT,Generate a PDF statement for account ending 3359.,account ending 3359,,PDF,,,
+DOWNLOAD_STATEMENT,Save the statement for account ending 3359 from 1st June to 30th June.,account ending 3359,from 1st June to 30th June,,,,Save
+DOWNLOAD_STATEMENT,Pull the transaction statement for last month and send as MT940.,,last month,MT940,transaction statement,,
+DOWNLOAD_STATEMENT,Pull the detailed statement for this quarter and send as CAMT.,,this quarter,CAMT,detailed statement,,
+DOWNLOAD_STATEMENT,Send over the transaction statement in text format this quarter.,,this quarter,text,transaction statement,,
+DOWNLOAD_STATEMENT,Download transaction statement in CAMT for year to date.,,year to date,CAMT,transaction statement,,Download
+DOWNLOAD_STATEMENT,Download transaction statement in CSV for this quarter.,,this quarter,CSV,transaction statement,,Download
+DOWNLOAD_STATEMENT,Send the detailed statement to my email for this quarter.,,this quarter,,detailed statement,,email
+DOWNLOAD_STATEMENT,I'd like to export current account activity as PDF.,current account,,PDF,,,export
+DOWNLOAD_STATEMENT,Download the transaction statement for current account in PDF format.,current account,,PDF,transaction statement,,Download
+DOWNLOAD_STATEMENT,Email me the account statement for for July 2026 in USD.,,for July 2026,,account statement,USD,Email
+DOWNLOAD_STATEMENT,Get text statement for current account year to date.,current account,year to date,text,,,
+DOWNLOAD_STATEMENT,Prepare a Excel statement covering for July 2026.,,for July 2026,Excel,,,
+DOWNLOAD_STATEMENT,I need the account statement for business account in CAMT.,business account,,CAMT,account statement,,
+DOWNLOAD_STATEMENT,Save my detailed statement as Excel.,,,Excel,detailed statement,,Save
+DOWNLOAD_STATEMENT,Download account statement in CAMT for for July 2026.,,for July 2026,CAMT,account statement,,Download
+DOWNLOAD_STATEMENT,Send over the balance statement in CAMT format year to date.,,year to date,CAMT,balance statement,,
+DOWNLOAD_STATEMENT,I need the balance statement for account ending 3359 in Excel.,account ending 3359,,Excel,balance statement,,
+DOWNLOAD_STATEMENT,I need the balance statement for business account in CAMT.,business account,,CAMT,balance statement,,
+DOWNLOAD_STATEMENT,Save the statement for business account this quarter.,business account,this quarter,,,,Save
+DOWNLOAD_STATEMENT,Prepare a CSV statement covering for July 2026.,,for July 2026,CSV,,,
+DOWNLOAD_STATEMENT,Email me the balance statement for for July 2026 in EUR.,,for July 2026,,balance statement,EUR,Email
+DOWNLOAD_STATEMENT,Download transaction statement in PDF for year to date.,,year to date,PDF,transaction statement,,Download
+DOWNLOAD_STATEMENT,Mail the statement for business account to me last month.,business account,last month,,,,
+DOWNLOAD_STATEMENT,Prepare a Excel statement covering this quarter.,,this quarter,Excel,,,
+DOWNLOAD_STATEMENT,Can you get me a text copy of my statement year to date?,,year to date,text,,,
+DOWNLOAD_STATEMENT,Grab the statement for business account and save it as XLSX.,business account,,XLSX,,,save
+DOWNLOAD_STATEMENT,Download the transaction statement for savings account in PDF format.,savings account,,PDF,transaction statement,,Download
+DOWNLOAD_STATEMENT,Can you get me a XLSX copy of my statement for July 2026?,,for July 2026,XLSX,,,
+DOWNLOAD_STATEMENT,Save my balance statement as Excel.,,,Excel,balance statement,,Save
+DOWNLOAD_STATEMENT,Can you get me a text copy of my statement last month?,,last month,text,,,
+DOWNLOAD_STATEMENT,Grab the statement for business account and save it as CAMT.,business account,,CAMT,,,save
+DOWNLOAD_STATEMENT,I need the transaction statement for current account in Excel.,current account,,Excel,transaction statement,,
+DOWNLOAD_STATEMENT,Send the detailed statement to my email for from 1st June to 30th June.,,from 1st June to 30th June,,detailed statement,,email
+DOWNLOAD_STATEMENT,I'd like to export business account activity as MT940.,business account,,MT940,,,export
+DOWNLOAD_STATEMENT,Grab the statement for account ending 3359 and save it as text.,account ending 3359,,text,,,save
+DOWNLOAD_STATEMENT,Get PDF statement for account ending 3359 for July 2026.,account ending 3359,for July 2026,PDF,,,
+DOWNLOAD_STATEMENT,I'd like to export current account activity as CAMT.,current account,,CAMT,,,export
+DOWNLOAD_STATEMENT,Export business account statement for July 2026 as text.,business account,for July 2026,text,,,Export
+DOWNLOAD_STATEMENT,Pull the account statement for year to date and send as PDF.,,year to date,PDF,account statement,,
+DOWNLOAD_STATEMENT,Email me the detailed statement for year to date in EUR.,,year to date,,detailed statement,EUR,Email
+DOWNLOAD_STATEMENT,Email the statement for account ending 3359 this quarter.,account ending 3359,this quarter,,,,Email
+DOWNLOAD_STATEMENT,Get PDF statement for savings account this quarter.,savings account,this quarter,PDF,,,
+DOWNLOAD_STATEMENT,Prepare a Excel statement covering last month.,,last month,Excel,,,
+DOWNLOAD_STATEMENT,Save the statement for current account this quarter.,current account,this quarter,,,,Save
+DOWNLOAD_STATEMENT,Grab the statement for current account and save it as MT940.,current account,,MT940,,,save
+DOWNLOAD_STATEMENT,I'd like to export business account activity as PDF.,business account,,PDF,,,export
+DOWNLOAD_STATEMENT,Email the statement for business account this quarter.,business account,this quarter,,,,Email
+DOWNLOAD_STATEMENT,Pull the transaction statement for from 1st June to 30th June and send as CAMT.,,from 1st June to 30th June,CAMT,transaction statement,,
+DOWNLOAD_STATEMENT,Mail the statement for account ending 3359 to me for July 2026.,account ending 3359,for July 2026,,,,
+DOWNLOAD_STATEMENT,Get MT940 statement for account ending 3359 this quarter.,account ending 3359,this quarter,MT940,,,
+DOWNLOAD_STATEMENT,Can you get me a Excel copy of my statement year to date?,,year to date,Excel,,,
+DOWNLOAD_STATEMENT,Pull the transaction statement for from 1st June to 30th June and send as CSV.,,from 1st June to 30th June,CSV,transaction statement,,
+DOWNLOAD_STATEMENT,Send over the account statement in PDF format year to date.,,year to date,PDF,account statement,,
+DOWNLOAD_STATEMENT,Download the account statement for account ending 3359 in PDF format.,account ending 3359,,PDF,account statement,,Download
+DOWNLOAD_STATEMENT,Download account statement in text for for July 2026.,,for July 2026,text,account statement,,Download
+DOWNLOAD_STATEMENT,Export current account statement this quarter as PDF.,current account,this quarter,PDF,,,Export
+DOWNLOAD_STATEMENT,Download account statement in CSV for year to date.,,year to date,CSV,account statement,,Download
+DOWNLOAD_STATEMENT,Mail the statement for business account to me from 1st June to 30th June.,business account,from 1st June to 30th June,,,,
+DOWNLOAD_STATEMENT,Send over the detailed statement in text format this quarter.,,this quarter,text,detailed statement,,
+DOWNLOAD_STATEMENT,Generate a CSV statement for business account.,business account,,CSV,,,
+DOWNLOAD_STATEMENT,I need the balance statement for savings account in XLSX.,savings account,,XLSX,balance statement,,
+DOWNLOAD_STATEMENT,Pull the account statement for for July 2026 and send as MT940.,,for July 2026,MT940,account statement,,
+DOWNLOAD_STATEMENT,Prepare a CAMT statement covering for July 2026.,,for July 2026,CAMT,,,
+DOWNLOAD_STATEMENT,Download transaction statement in text for this quarter.,,this quarter,text,transaction statement,,Download
+DOWNLOAD_STATEMENT,Prepare a CAMT statement covering year to date.,,year to date,CAMT,,,
+DOWNLOAD_STATEMENT,Pull the balance statement for year to date and send as Excel.,,year to date,Excel,balance statement,,
+DOWNLOAD_STATEMENT,Get CAMT statement for savings account year to date.,savings account,year to date,CAMT,,,
+DOWNLOAD_STATEMENT,Download the detailed statement for savings account in CAMT format.,savings account,,CAMT,detailed statement,,Download
+DOWNLOAD_STATEMENT,Pull the balance statement for from 1st June to 30th June and send as text.,,from 1st June to 30th June,text,balance statement,,
+DOWNLOAD_STATEMENT,Save my transaction statement as XLSX.,,,XLSX,transaction statement,,Save
+DOWNLOAD_STATEMENT,Send over the transaction statement in text format for July 2026.,,for July 2026,text,transaction statement,,
+DOWNLOAD_STATEMENT,Download the balance statement for savings account in XLSX format.,savings account,,XLSX,balance statement,,Download
+DOWNLOAD_STATEMENT,Generate a Excel statement for savings account.,savings account,,Excel,,,
+DOWNLOAD_STATEMENT,Pull the account statement for year to date and send as CSV.,,year to date,CSV,account statement,,
+DOWNLOAD_STATEMENT,I need the detailed statement for current account in Excel.,current account,,Excel,detailed statement,,
+DOWNLOAD_STATEMENT,Send over the transaction statement in XLSX format from 1st June to 30th June.,,from 1st June to 30th June,XLSX,transaction statement,,
+DOWNLOAD_STATEMENT,Grab the statement for business account and save it as Excel.,business account,,Excel,,,save
+DOWNLOAD_STATEMENT,Export the statement for account ending 3359 for July 2026.,account ending 3359,for July 2026,,,,Export
+DOWNLOAD_STATEMENT,Email me the account statement for year to date in INR.,,year to date,,account statement,INR,Email
+DOWNLOAD_STATEMENT,Save my account statement as PDF.,,,PDF,account statement,,Save
+DOWNLOAD_STATEMENT,Download the statement for account ending 3359 last month.,account ending 3359,last month,,,,Download
+DOWNLOAD_STATEMENT,Generate a XLSX statement for savings account.,savings account,,XLSX,,,
+DOWNLOAD_STATEMENT,Send the detailed statement to my email for last month.,,last month,,detailed statement,,email
+DOWNLOAD_STATEMENT,Prepare a MT940 statement covering from 1st June to 30th June.,,from 1st June to 30th June,MT940,,,
+DOWNLOAD_STATEMENT,Get CSV statement for current account for July 2026.,current account,for July 2026,CSV,,,
+DOWNLOAD_STATEMENT,I need the transaction statement for savings account in CSV.,savings account,,CSV,transaction statement,,
+DOWNLOAD_STATEMENT,Send over the transaction statement in CAMT format this quarter.,,this quarter,CAMT,transaction statement,,
+DOWNLOAD_STATEMENT,Email me the account statement for from 1st June to 30th June in EUR.,,from 1st June to 30th June,,account statement,EUR,Email
+DOWNLOAD_STATEMENT,Export savings account statement for July 2026 as PDF.,savings account,for July 2026,PDF,,,Export
+DOWNLOAD_STATEMENT, the statement for savings account this quarter.,savings account,this quarter,,,,
+DOWNLOAD_STATEMENT,Get CSV statement for savings account for July 2026.,savings account,for July 2026,CSV,,,
+DOWNLOAD_STATEMENT,Download account statement in PDF for from 1st June to 30th June.,,from 1st June to 30th June,PDF,account statement,,Download
+DOWNLOAD_STATEMENT,Download transaction statement in PDF for for July 2026.,,for July 2026,PDF,transaction statement,,Download
+DOWNLOAD_STATEMENT,I need the transaction statement for account ending 3359 in XLSX.,account ending 3359,,XLSX,transaction statement,,
+DOWNLOAD_STATEMENT,Export business account statement last month as MT940.,business account,last month,MT940,,,Export
+DOWNLOAD_STATEMENT,Export account ending 3359 statement this quarter as XLSX.,account ending 3359,this quarter,XLSX,,,Export
+DOWNLOAD_STATEMENT,I'd like to export savings account activity as XLSX.,savings account,,XLSX,,,export
+DOWNLOAD_STATEMENT,Prepare a Excel statement covering year to date.,,year to date,Excel,,,
+DOWNLOAD_STATEMENT,Prepare a CAMT statement covering this quarter.,,this quarter,CAMT,,,
+DOWNLOAD_STATEMENT,Export the statement for savings account year to date.,savings account,year to date,,,,Export
+DOWNLOAD_STATEMENT,Get CSV statement for current account year to date.,current account,year to date,CSV,,,
+DOWNLOAD_STATEMENT,Save my balance statement as MT940.,,,MT940,balance statement,,Save
+DOWNLOAD_STATEMENT,Get CAMT statement for savings account last month.,savings account,last month,CAMT,,,
+DOWNLOAD_STATEMENT,Pull the transaction statement for this quarter and send as CSV.,,this quarter,CSV,transaction statement,,
+DOWNLOAD_STATEMENT,Send over the transaction statement in XLSX format this quarter.,,this quarter,XLSX,transaction statement,,
+DOWNLOAD_STATEMENT,Download detailed statement in CAMT for last month.,,last month,CAMT,detailed statement,,Download
+DOWNLOAD_STATEMENT,I'd like to export account ending 3359 activity as CSV.,account ending 3359,,CSV,,,export
+DOWNLOAD_STATEMENT,Print the statement for current account this quarter.,current account,this quarter,,,,Print
+DOWNLOAD_STATEMENT,Get PDF statement for business account last month.,business account,last month,PDF,,,
+DOWNLOAD_STATEMENT,Export business account statement from 1st June to 30th June as PDF.,business account,from 1st June to 30th June,PDF,,,Export
+DOWNLOAD_STATEMENT,Email the statement for savings account last month.,savings account,last month,,,,Email
+DOWNLOAD_STATEMENT,I need the balance statement for current account in MT940.,current account,,MT940,balance statement,,
+DOWNLOAD_STATEMENT,Get XLSX statement for business account this quarter.,business account,this quarter,XLSX,,,
+DOWNLOAD_STATEMENT,I need the account statement for savings account in CSV.,savings account,,CSV,account statement,,
+DOWNLOAD_STATEMENT,Download transaction statement in text for from 1st June to 30th June.,,from 1st June to 30th June,text,transaction statement,,Download
+DOWNLOAD_STATEMENT,Save my account statement as CAMT.,,,CAMT,account statement,,Save
+DOWNLOAD_STATEMENT, the statement for business account for July 2026.,business account,for July 2026,,,,
+DOWNLOAD_STATEMENT,Get CAMT statement for savings account for July 2026.,savings account,for July 2026,CAMT,,,
+DOWNLOAD_STATEMENT,Can you get me a PDF copy of my statement this quarter?,,this quarter,PDF,,,
+DOWNLOAD_STATEMENT,Send over the detailed statement in MT940 format for July 2026.,,for July 2026,MT940,detailed statement,,
+DOWNLOAD_STATEMENT,Get CSV statement for business account year to date.,business account,year to date,CSV,,,
+DOWNLOAD_STATEMENT,Send over the balance statement in Excel format year to date.,,year to date,Excel,balance statement,,
+DOWNLOAD_STATEMENT,Download account statement in XLSX for from 1st June to 30th June.,,from 1st June to 30th June,XLSX,account statement,,Download
+DOWNLOAD_STATEMENT,I'd like to export business account activity as CAMT.,business account,,CAMT,,,export
+DOWNLOAD_STATEMENT,Export business account statement year to date as PDF.,business account,year to date,PDF,,,Export
+DOWNLOAD_STATEMENT,Can you get me a CAMT copy of my statement year to date?,,year to date,CAMT,,,
+DOWNLOAD_STATEMENT,I need the account statement for business account in PDF.,business account,,PDF,account statement,,
+DOWNLOAD_STATEMENT,Grab the statement for savings account and save it as MT940.,savings account,,MT940,,,save
+DOWNLOAD_STATEMENT,I'd like to export savings account activity as CSV.,savings account,,CSV,,,export
+DOWNLOAD_STATEMENT,I'd like to export current account activity as text.,current account,,text,,,export
+DOWNLOAD_STATEMENT,Send over the balance statement in text format this quarter.,,this quarter,text,balance statement,,
+DOWNLOAD_STATEMENT,Send over the balance statement in Excel format last month.,,last month,Excel,balance statement,,
+DOWNLOAD_STATEMENT,Send over the balance statement in PDF format this quarter.,,this quarter,PDF,balance statement,,
+DOWNLOAD_STATEMENT,Grab the statement for account ending 3359 and save it as CSV.,account ending 3359,,CSV,,,save
+DOWNLOAD_STATEMENT,Send over the account statement in CAMT format for July 2026.,,for July 2026,CAMT,account statement,,
+DOWNLOAD_STATEMENT,Download balance statement in text for this quarter.,,this quarter,text,balance statement,,Download
+DOWNLOAD_STATEMENT,Download the balance statement for current account in CSV format.,current account,,CSV,balance statement,,Download
+DOWNLOAD_STATEMENT,Can you get me a text copy of my statement from 1st June to 30th June?,,from 1st June to 30th June,text,,,
+DOWNLOAD_STATEMENT,Download the account statement for business account in Excel format.,business account,,Excel,account statement,,Download
+DOWNLOAD_STATEMENT,Get MT940 statement for current account this quarter.,current account,this quarter,MT940,,,
+DOWNLOAD_STATEMENT,Save the statement for account ending 3359 year to date.,account ending 3359,year to date,,,,Save
+DOWNLOAD_STATEMENT,Download account statement in Excel for from 1st June to 30th June.,,from 1st June to 30th June,Excel,account statement,,Download
+DOWNLOAD_STATEMENT,Pull the account statement for for July 2026 and send as PDF.,,for July 2026,PDF,account statement,,
+DOWNLOAD_STATEMENT,Email me the transaction statement for for July 2026 in USD.,,for July 2026,,transaction statement,USD,Email
+DOWNLOAD_STATEMENT,Export current account statement year to date as Excel.,current account,year to date,Excel,,,Export
+DOWNLOAD_STATEMENT,Prepare a CSV statement covering from 1st June to 30th June.,,from 1st June to 30th June,CSV,,,
+DOWNLOAD_STATEMENT,Email me the transaction statement for year to date in GBP.,,year to date,,transaction statement,GBP,Email
+DOWNLOAD_STATEMENT,Download the account statement for business account in text format.,business account,,text,account statement,,Download
+DOWNLOAD_STATEMENT,Pull the balance statement for from 1st June to 30th June and send as CAMT.,,from 1st June to 30th June,CAMT,balance statement,,
+DOWNLOAD_STATEMENT,Mail the statement for savings account to me last month.,savings account,last month,,,,
+DOWNLOAD_STATEMENT,I need the balance statement for savings account in text.,savings account,,text,balance statement,,
+DOWNLOAD_STATEMENT,Pull the detailed statement for for July 2026 and send as PDF.,,for July 2026,PDF,detailed statement,,
+DOWNLOAD_STATEMENT,I'd like to export business account activity as Excel.,business account,,Excel,,,export
+DOWNLOAD_STATEMENT,Export account ending 3359 statement this quarter as CSV.,account ending 3359,this quarter,CSV,,,Export
+DOWNLOAD_STATEMENT,Export account ending 3359 statement year to date as CAMT.,account ending 3359,year to date,CAMT,,,Export
+DOWNLOAD_STATEMENT,Email me the account statement for year to date in USD.,,year to date,,account statement,USD,Email
+DOWNLOAD_STATEMENT,Save my account statement as XLSX.,,,XLSX,account statement,,Save
+DOWNLOAD_STATEMENT,Email me the account statement for from 1st June to 30th June in INR.,,from 1st June to 30th June,,account statement,INR,Email
+DOWNLOAD_STATEMENT,Pull the account statement for last month and send as PDF.,,last month,PDF,account statement,,
+DOWNLOAD_STATEMENT,Send over the account statement in Excel format last month.,,last month,Excel,account statement,,
+DOWNLOAD_STATEMENT,Export business account statement last month as XLSX.,business account,last month,XLSX,,,Export
+DOWNLOAD_STATEMENT,Download account statement in CAMT for year to date.,,year to date,CAMT,account statement,,Download
+DOWNLOAD_STATEMENT,Export current account statement for July 2026 as CAMT.,current account,for July 2026,CAMT,,,Export
+DOWNLOAD_STATEMENT,Can you get me a text copy of my statement this quarter?,,this quarter,text,,,
+DOWNLOAD_STATEMENT,Save my balance statement as XLSX.,,,XLSX,balance statement,,Save
+DOWNLOAD_STATEMENT,Export savings account statement year to date as MT940.,savings account,year to date,MT940,,,Export
+DOWNLOAD_STATEMENT,Export business account statement last month as Excel.,business account,last month,Excel,,,Export
+DOWNLOAD_STATEMENT,Get Excel statement for savings account year to date.,savings account,year to date,Excel,,,
+DOWNLOAD_STATEMENT,Pull the detailed statement for from 1st June to 30th June and send as Excel.,,from 1st June to 30th June,Excel,detailed statement,,
+DOWNLOAD_STATEMENT,I need the balance statement for current account in XLSX.,current account,,XLSX,balance statement,,
+DOWNLOAD_STATEMENT,Generate a Excel statement for business account.,business account,,Excel,,,
+DOWNLOAD_STATEMENT,Save my detailed statement as CSV.,,,CSV,detailed statement,,Save
+DOWNLOAD_STATEMENT,I need the detailed statement for savings account in CAMT.,savings account,,CAMT,detailed statement,,
+DOWNLOAD_STATEMENT,Generate a CSV statement for account ending 3359.,account ending 3359,,CSV,,,
+DOWNLOAD_STATEMENT,Export account ending 3359 statement for July 2026 as CSV.,account ending 3359,for July 2026,CSV,,,Export
+DOWNLOAD_STATEMENT,Generate a text statement for business account.,business account,,text,,,
+DOWNLOAD_STATEMENT,Export business account statement from 1st June to 30th June as MT940.,business account,from 1st June to 30th June,MT940,,,Export
+DOWNLOAD_STATEMENT,Send over the detailed statement in CAMT format from 1st June to 30th June.,,from 1st June to 30th June,CAMT,detailed statement,,
+DOWNLOAD_STATEMENT,Get MT940 statement for business account from 1st June to 30th June.,business account,from 1st June to 30th June,MT940,,,
+DOWNLOAD_STATEMENT,Send over the detailed statement in CSV format for July 2026.,,for July 2026,CSV,detailed statement,,
+DOWNLOAD_STATEMENT,Export current account statement last month as CSV.,current account,last month,CSV,,,Export
+DOWNLOAD_STATEMENT,Get CAMT statement for business account this quarter.,business account,this quarter,CAMT,,,

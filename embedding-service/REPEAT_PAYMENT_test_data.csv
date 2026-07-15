@@ -1,0 +1,501 @@
+intent_code,text,amount,currency,beneficiary,account,time,reference
+REPEAT_PAYMENT,I want to redo the transfer to John Mathews from last month.,,,John Mathews,,last month,
+REPEAT_PAYMENT,Send the same payment as yesterday to Global Traders Ltd from savings account.,,,Global Traders Ltd,savings account,yesterday,
+REPEAT_PAYMENT,Repeat that payment yesterday.,,,,,yesterday,
+REPEAT_PAYMENT,Make the same payment again to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,,
+REPEAT_PAYMENT,Repeat my last payment to John Mathews.,,,John Mathews,,,
+REPEAT_PAYMENT,"Please resend 500 GBP to Global Traders Ltd, same as before.",500,GBP,Global Traders Ltd,,before,
+REPEAT_PAYMENT,Rerun payment TXN99231 to Global Traders Ltd.,,,Global Traders Ltd,,,TXN99231
+REPEAT_PAYMENT,I want to redo the transfer to Priya Sharma from 15th June.,,,Priya Sharma,,15th June,
+REPEAT_PAYMENT,"Send ABC Suppliers Pvt Ltd the same amount as last time, 3,750 rupees.","3,750",rupees,ABC Suppliers Pvt Ltd,,last time,
+REPEAT_PAYMENT,Recreate the payment from savings account made last month.,,,,savings account,last month,
+REPEAT_PAYMENT,Repeat payment invoice INV-778 before.,,,,,before,invoice INV-778
+REPEAT_PAYMENT,"Repeat the payment to Emily Davis two weeks ago, reference invoice INV-778.",,,Emily Davis,,two weeks ago,invoice INV-778
+REPEAT_PAYMENT,Duplicate the payment from 15th June to John Mathews.,,,John Mathews,,15th June,
+REPEAT_PAYMENT,"Redo the payment I made two weeks ago, reference TXN99231.",,,,,two weeks ago,TXN99231
+REPEAT_PAYMENT,Repeat previous payment made 15th June.,,,,,15th June,
+REPEAT_PAYMENT,"Resend 2,000 EUR to Emily Davis like two weeks ago.","2,000",EUR,Emily Davis,,two weeks ago,
+REPEAT_PAYMENT,"Repeat the payment from last month to Rajesh Kumar, amount 750 EUR.",750,EUR,Rajesh Kumar,,last month,
+REPEAT_PAYMENT,Repeat the transfer from savings account made before.,,,,savings account,before,
+REPEAT_PAYMENT,Recreate the payment from savings account made 15th June.,,,,savings account,15th June,
+REPEAT_PAYMENT,Make the same payment again to Priya Sharma.,,,Priya Sharma,,,
+REPEAT_PAYMENT,Can you repeat the payment to Global Traders Ltd last time?,,,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,Process the before payment to John Mathews again.,,,John Mathews,,before,
+REPEAT_PAYMENT,Repeat the payment with reference payment ID 4456.,,,,,,payment ID 4456
+REPEAT_PAYMENT,"Once more, send 2,000 GBP to Rajesh Kumar like yesterday.","2,000",GBP,Rajesh Kumar,,yesterday,
+REPEAT_PAYMENT,Redo my transfer from before to John Mathews.,,,John Mathews,,before,
+REPEAT_PAYMENT,Repeat payment invoice INV-778 yesterday.,,,,,yesterday,invoice INV-778
+REPEAT_PAYMENT,Repeat my last payment to the landlord.,,,the landlord,,,
+REPEAT_PAYMENT,Repeat my last payment to Priya Sharma.,,,Priya Sharma,,,
+REPEAT_PAYMENT,Repeat the transfer from current account made two weeks ago.,,,,current account,two weeks ago,
+REPEAT_PAYMENT,Rerun payment TXN99231 to Rajesh Kumar.,,,Rajesh Kumar,,,TXN99231
+REPEAT_PAYMENT,Repeat payment payment ID 4456 last month.,,,,,last month,payment ID 4456
+REPEAT_PAYMENT,"Repeat the payment to the landlord before, reference payment ID 4456.",,,the landlord,,before,payment ID 4456
+REPEAT_PAYMENT,"Resend 3,750 EUR to Emily Davis like last month.","3,750",EUR,Emily Davis,,last month,
+REPEAT_PAYMENT,Recreate the payment from current account made last week.,,,,current account,last week,
+REPEAT_PAYMENT,"Redo the payment I made before, reference payment ID 4456.",,,,,before,payment ID 4456
+REPEAT_PAYMENT,Send the same payment as two weeks ago to Global Traders Ltd from account ending 3359.,,,Global Traders Ltd,account ending 3359,two weeks ago,
+REPEAT_PAYMENT,Repeat the transfer from savings account made 15th June.,,,,savings account,15th June,
+REPEAT_PAYMENT,Send the same payment as yesterday to Priya Sharma from account ending 3359.,,,Priya Sharma,account ending 3359,yesterday,
+REPEAT_PAYMENT,"Redo the payment I made last month, reference payment ID 4456.",,,,,last month,payment ID 4456
+REPEAT_PAYMENT,Repeat previous payment made two weeks ago.,,,,,two weeks ago,
+REPEAT_PAYMENT,Send the same payment as last week to Priya Sharma from current account.,,,Priya Sharma,current account,last week,
+REPEAT_PAYMENT,I want to redo the transfer to ABC Suppliers Pvt Ltd from before.,,,ABC Suppliers Pvt Ltd,,before,
+REPEAT_PAYMENT,Repeat the payment with reference invoice INV-778.,,,,,,invoice INV-778
+REPEAT_PAYMENT,Rerun payment invoice INV-778 to Priya Sharma.,,,Priya Sharma,,,invoice INV-778
+REPEAT_PAYMENT,Repeat the transaction TXN99231 but change amount to 750 GBP.,750,GBP,,,,TXN99231
+REPEAT_PAYMENT,"Redo the payment I made two weeks ago, reference payment ID 4456.",,,,,two weeks ago,payment ID 4456
+REPEAT_PAYMENT,"Send Global Traders Ltd the same amount as before, 750 EUR.",750,EUR,Global Traders Ltd,,before,
+REPEAT_PAYMENT,Repeat the payment with reference TXN99231.,,,,,,TXN99231
+REPEAT_PAYMENT,Make the same payment again to Emily Davis.,,,Emily Davis,,,
+REPEAT_PAYMENT,"Repeat the payment to John Mathews last week, reference payment ID 4456.",,,John Mathews,,last week,payment ID 4456
+REPEAT_PAYMENT,Repeat that payment last time.,,,,,last time,
+REPEAT_PAYMENT,"Resend 1,25,000 INR to Global Traders Ltd like last month.","1,25,000",INR,Global Traders Ltd,,last month,
+REPEAT_PAYMENT,Resend the payment reference invoice INV-778 to Priya Sharma.,,,Priya Sharma,,,invoice INV-778
+REPEAT_PAYMENT,"Send Global Traders Ltd the same amount as last time, 3,750 USD.","3,750",USD,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,"Please resend 10,000.50 rupees to ABC Suppliers Pvt Ltd, same as last time.","10,000.50",rupees,ABC Suppliers Pvt Ltd,,last time,
+REPEAT_PAYMENT,Resend 500 EUR to Rajesh Kumar like last time.,500,EUR,Rajesh Kumar,,last time,
+REPEAT_PAYMENT,Do the same payment as last week to Global Traders Ltd.,,,Global Traders Ltd,,last week,
+REPEAT_PAYMENT,Send the same payment as before to John Mathews from savings account.,,,John Mathews,savings account,before,
+REPEAT_PAYMENT,Process the yesterday payment to John Mathews again.,,,John Mathews,,yesterday,
+REPEAT_PAYMENT,"Trigger that 15th June payment again, reference invoice INV-778.",,,,,15th June,invoice INV-778
+REPEAT_PAYMENT,Duplicate the payment from last week to John Mathews.,,,John Mathews,,last week,
+REPEAT_PAYMENT,Copy the payment before and send it again to Rajesh Kumar.,,,Rajesh Kumar,,before,
+REPEAT_PAYMENT,Send the same payment as last time to Priya Sharma from account ending 3359.,,,Priya Sharma,account ending 3359,last time,
+REPEAT_PAYMENT,Rerun payment invoice INV-778 to Rajesh Kumar.,,,Rajesh Kumar,,,invoice INV-778
+REPEAT_PAYMENT,I want to redo the transfer to ABC Suppliers Pvt Ltd from yesterday.,,,ABC Suppliers Pvt Ltd,,yesterday,
+REPEAT_PAYMENT,Copy the payment last month and send it again to Emily Davis.,,,Emily Davis,,last month,
+REPEAT_PAYMENT,"Once more, send 10,000.50 rupees to ABC Suppliers Pvt Ltd like before.","10,000.50",rupees,ABC Suppliers Pvt Ltd,,before,
+REPEAT_PAYMENT,I want to redo the transfer to Rajesh Kumar from 15th June.,,,Rajesh Kumar,,15th June,
+REPEAT_PAYMENT,Resend 500 rupees to Global Traders Ltd like two weeks ago.,500,rupees,Global Traders Ltd,,two weeks ago,
+REPEAT_PAYMENT,"Repeat the transaction instruction ID 8821 but change amount to 10,000.50 INR.","10,000.50",INR,,,,instruction ID 8821
+REPEAT_PAYMENT,Repeat the payment with reference instruction ID 8821.,,,,,,instruction ID 8821
+REPEAT_PAYMENT,Make the same payment again to John Mathews.,,,John Mathews,,,
+REPEAT_PAYMENT,Send the same payment as last month to Rajesh Kumar from savings account.,,,Rajesh Kumar,savings account,last month,
+REPEAT_PAYMENT,Process the two weeks ago payment to Emily Davis again.,,,Emily Davis,,two weeks ago,
+REPEAT_PAYMENT,Repeat payment instruction ID 8821 last time.,,,,,last time,instruction ID 8821
+REPEAT_PAYMENT,Resend the payment reference payment ID 4456 to Global Traders Ltd.,,,Global Traders Ltd,,,payment ID 4456
+REPEAT_PAYMENT,"Resend 10,000.50 rupees to John Mathews like last week.","10,000.50",rupees,John Mathews,,last week,
+REPEAT_PAYMENT,Do the same payment as yesterday to Emily Davis.,,,Emily Davis,,yesterday,
+REPEAT_PAYMENT,Duplicate the payment from before to Priya Sharma.,,,Priya Sharma,,before,
+REPEAT_PAYMENT,"Redo the payment I made yesterday, reference invoice INV-778.",,,,,yesterday,invoice INV-778
+REPEAT_PAYMENT,"Repeat the transaction invoice INV-778 but change amount to 1,25,000 rupees.","1,25,000",rupees,,,,invoice INV-778
+REPEAT_PAYMENT,Resend the payment reference instruction ID 8821 to Emily Davis.,,,Emily Davis,,,instruction ID 8821
+REPEAT_PAYMENT,Repeat payment invoice INV-778 last week.,,,,,last week,invoice INV-778
+REPEAT_PAYMENT,Redo my transfer from last week to Global Traders Ltd.,,,Global Traders Ltd,,last week,
+REPEAT_PAYMENT,Process the last week payment to the landlord again.,,,the landlord,,last week,
+REPEAT_PAYMENT,Repeat the transaction invoice INV-778 but change amount to 50000 EUR.,50000,EUR,,,,invoice INV-778
+REPEAT_PAYMENT,I want to redo the transfer to Emily Davis from two weeks ago.,,,Emily Davis,,two weeks ago,
+REPEAT_PAYMENT,Process the two weeks ago payment to Global Traders Ltd again.,,,Global Traders Ltd,,two weeks ago,
+REPEAT_PAYMENT,Repeat the transfer from current account made yesterday.,,,,current account,yesterday,
+REPEAT_PAYMENT,"Same payee, same amount as before — send it to Emily Davis.",,,Emily Davis,,before,
+REPEAT_PAYMENT,Can you repeat the payment to John Mathews last week?,,,John Mathews,,last week,
+REPEAT_PAYMENT,Rerun payment instruction ID 8821 to Global Traders Ltd.,,,Global Traders Ltd,,,instruction ID 8821
+REPEAT_PAYMENT,"Same payee, same amount as two weeks ago — send it to Priya Sharma.",,,Priya Sharma,,two weeks ago,
+REPEAT_PAYMENT,Process the before payment to the landlord again.,,,the landlord,,before,
+REPEAT_PAYMENT,Repeat payment TXN99231 last month.,,,,,last month,TXN99231
+REPEAT_PAYMENT,Rerun payment invoice INV-778 to the landlord.,,,the landlord,,,invoice INV-778
+REPEAT_PAYMENT,"Same payee, same amount as last week — send it to Global Traders Ltd.",,,Global Traders Ltd,,last week,
+REPEAT_PAYMENT,Repeat that payment 15th June.,,,,,15th June,
+REPEAT_PAYMENT,"Please resend 1,25,000 EUR to Global Traders Ltd, same as last week.","1,25,000",EUR,Global Traders Ltd,,last week,
+REPEAT_PAYMENT,"Repeat the payment to Global Traders Ltd last time, reference TXN99231.",,,Global Traders Ltd,,last time,TXN99231
+REPEAT_PAYMENT,Resend the payment reference payment ID 4456 to the landlord.,,,the landlord,,,payment ID 4456
+REPEAT_PAYMENT,Repeat previous payment made last time.,,,,,last time,
+REPEAT_PAYMENT,Make the same payment again to the landlord.,,,the landlord,,,
+REPEAT_PAYMENT,"Please resend 1,25,000 GBP to Rajesh Kumar, same as 15th June.","1,25,000",GBP,Rajesh Kumar,,15th June,
+REPEAT_PAYMENT,Copy the payment yesterday and send it again to John Mathews.,,,John Mathews,,yesterday,
+REPEAT_PAYMENT,Repeat the transfer from current account made last week.,,,,current account,last week,
+REPEAT_PAYMENT,Can you repeat the payment to ABC Suppliers Pvt Ltd 15th June?,,,ABC Suppliers Pvt Ltd,,15th June,
+REPEAT_PAYMENT,I want to redo the transfer to Rajesh Kumar from last week.,,,Rajesh Kumar,,last week,
+REPEAT_PAYMENT,Resend the payment reference invoice INV-778 to John Mathews.,,,John Mathews,,,invoice INV-778
+REPEAT_PAYMENT,"Repeat the payment to the landlord last week, reference TXN99231.",,,the landlord,,last week,TXN99231
+REPEAT_PAYMENT,Can you repeat the payment to Rajesh Kumar yesterday?,,,Rajesh Kumar,,yesterday,
+REPEAT_PAYMENT,Duplicate the payment from last time to John Mathews.,,,John Mathews,,last time,
+REPEAT_PAYMENT,Repeat the transfer from savings account made last month.,,,,savings account,last month,
+REPEAT_PAYMENT,Send the same payment as yesterday to the landlord from savings account.,,,the landlord,savings account,yesterday,
+REPEAT_PAYMENT,"Send Priya Sharma the same amount as before, 25000 USD.",25000,USD,Priya Sharma,,before,
+REPEAT_PAYMENT,Can you repeat the payment to Priya Sharma last month?,,,Priya Sharma,,last month,
+REPEAT_PAYMENT,Send the same payment as 15th June to John Mathews from account ending 3359.,,,John Mathews,account ending 3359,15th June,
+REPEAT_PAYMENT,"Resend 10,000.50 dollars to John Mathews like before.","10,000.50",dollars,John Mathews,,before,
+REPEAT_PAYMENT,Recreate the payment from current account made last time.,,,,current account,last time,
+REPEAT_PAYMENT,Repeat payment instruction ID 8821 before.,,,,,before,instruction ID 8821
+REPEAT_PAYMENT,Resend 500 INR to Priya Sharma like 15th June.,500,INR,Priya Sharma,,15th June,
+REPEAT_PAYMENT,Duplicate the payment from last month to the landlord.,,,the landlord,,last month,
+REPEAT_PAYMENT,Repeat the transaction instruction ID 8821 but change amount to 750 dollars.,750,dollars,,,,instruction ID 8821
+REPEAT_PAYMENT,Repeat the transaction invoice INV-778 but change amount to 50000 rupees.,50000,rupees,,,,invoice INV-778
+REPEAT_PAYMENT,Make the same payment again to Rajesh Kumar.,,,Rajesh Kumar,,,
+REPEAT_PAYMENT,"Resend 10,000.50 INR to the landlord like last time.","10,000.50",INR,the landlord,,last time,
+REPEAT_PAYMENT,"Repeat the payment to ABC Suppliers Pvt Ltd last time, reference invoice INV-778.",,,ABC Suppliers Pvt Ltd,,last time,invoice INV-778
+REPEAT_PAYMENT,Duplicate the payment from last week to Emily Davis.,,,Emily Davis,,last week,
+REPEAT_PAYMENT,Repeat that payment two weeks ago.,,,,,two weeks ago,
+REPEAT_PAYMENT,Rerun payment payment ID 4456 to Global Traders Ltd.,,,Global Traders Ltd,,,payment ID 4456
+REPEAT_PAYMENT,Resend 750 GBP to ABC Suppliers Pvt Ltd like before.,750,GBP,ABC Suppliers Pvt Ltd,,before,
+REPEAT_PAYMENT,Resend the payment reference invoice INV-778 to Emily Davis.,,,Emily Davis,,,invoice INV-778
+REPEAT_PAYMENT,"Trigger that before payment again, reference invoice INV-778.",,,,,before,invoice INV-778
+REPEAT_PAYMENT,Repeat the transfer from savings account made last time.,,,,savings account,last time,
+REPEAT_PAYMENT,"Redo the payment I made last month, reference instruction ID 8821.",,,,,last month,instruction ID 8821
+REPEAT_PAYMENT,"Repeat the payment from yesterday to Global Traders Ltd, amount 10,000.50 rupees.","10,000.50",rupees,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,Repeat payment TXN99231 two weeks ago.,,,,,two weeks ago,TXN99231
+REPEAT_PAYMENT,"Once more, send 750 USD to the landlord like 15th June.",750,USD,the landlord,,15th June,
+REPEAT_PAYMENT,Redo my transfer from 15th June to Global Traders Ltd.,,,Global Traders Ltd,,15th June,
+REPEAT_PAYMENT,Do the same payment as two weeks ago to John Mathews.,,,John Mathews,,two weeks ago,
+REPEAT_PAYMENT,Repeat that payment before.,,,,,before,
+REPEAT_PAYMENT,"Trigger that yesterday payment again, reference TXN99231.",,,,,yesterday,TXN99231
+REPEAT_PAYMENT,Repeat the transaction payment ID 4456 but change amount to 750 INR.,750,INR,,,,payment ID 4456
+REPEAT_PAYMENT,Copy the payment yesterday and send it again to Global Traders Ltd.,,,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,Send the same payment as 15th June to Global Traders Ltd from current account.,,,Global Traders Ltd,current account,15th June,
+REPEAT_PAYMENT,"Once more, send 1,25,000 EUR to Global Traders Ltd like last time.","1,25,000",EUR,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,Make the same payment again to Global Traders Ltd.,,,Global Traders Ltd,,,
+REPEAT_PAYMENT,"Repeat the payment from last month to ABC Suppliers Pvt Ltd, amount 50000 USD.",50000,USD,ABC Suppliers Pvt Ltd,,last month,
+REPEAT_PAYMENT,Repeat my last payment to Global Traders Ltd.,,,Global Traders Ltd,,,
+REPEAT_PAYMENT,"Repeat the payment to ABC Suppliers Pvt Ltd last week, reference TXN99231.",,,ABC Suppliers Pvt Ltd,,last week,TXN99231
+REPEAT_PAYMENT,"Once more, send 500 GBP to Global Traders Ltd like last week.",500,GBP,Global Traders Ltd,,last week,
+REPEAT_PAYMENT,I want to redo the transfer to the landlord from yesterday.,,,the landlord,,yesterday,
+REPEAT_PAYMENT,"Same payee, same amount as 15th June — send it to John Mathews.",,,John Mathews,,15th June,
+REPEAT_PAYMENT,"Resend 3,750 EUR to ABC Suppliers Pvt Ltd like 15th June.","3,750",EUR,ABC Suppliers Pvt Ltd,,15th June,
+REPEAT_PAYMENT,"Resend 1,25,000 INR to Priya Sharma like last week.","1,25,000",INR,Priya Sharma,,last week,
+REPEAT_PAYMENT,Process the two weeks ago payment to John Mathews again.,,,John Mathews,,two weeks ago,
+REPEAT_PAYMENT,Copy the payment 15th June and send it again to Emily Davis.,,,Emily Davis,,15th June,
+REPEAT_PAYMENT,Repeat payment instruction ID 8821 two weeks ago.,,,,,two weeks ago,instruction ID 8821
+REPEAT_PAYMENT,"Redo the payment I made last time, reference instruction ID 8821.",,,,,last time,instruction ID 8821
+REPEAT_PAYMENT,Recreate the payment from account ending 7821 made last week.,,,,account ending 7821,last week,
+REPEAT_PAYMENT,"Once more, send 500 dollars to the landlord like 15th June.",500,dollars,the landlord,,15th June,
+REPEAT_PAYMENT,"Repeat the payment to the landlord yesterday, reference instruction ID 8821.",,,the landlord,,yesterday,instruction ID 8821
+REPEAT_PAYMENT,"Same payee, same amount as yesterday — send it to Emily Davis.",,,Emily Davis,,yesterday,
+REPEAT_PAYMENT,"Repeat the payment from 15th June to the landlord, amount 500 EUR.",500,EUR,the landlord,,15th June,
+REPEAT_PAYMENT,Repeat the transaction invoice INV-778 but change amount to 750 USD.,750,USD,,,,invoice INV-778
+REPEAT_PAYMENT,Copy the payment yesterday and send it again to Rajesh Kumar.,,,Rajesh Kumar,,yesterday,
+REPEAT_PAYMENT,"Same payee, same amount as yesterday — send it to ABC Suppliers Pvt Ltd.",,,ABC Suppliers Pvt Ltd,,yesterday,
+REPEAT_PAYMENT,"Send Global Traders Ltd the same amount as before, 3,750 rupees.","3,750",rupees,Global Traders Ltd,,before,
+REPEAT_PAYMENT,Redo my transfer from 15th June to John Mathews.,,,John Mathews,,15th June,
+REPEAT_PAYMENT,"Redo the payment I made before, reference invoice INV-778.",,,,,before,invoice INV-778
+REPEAT_PAYMENT,"Please resend 750 dollars to John Mathews, same as two weeks ago.",750,dollars,John Mathews,,two weeks ago,
+REPEAT_PAYMENT,"Repeat the payment from two weeks ago to Emily Davis, amount 10,000.50 rupees.","10,000.50",rupees,Emily Davis,,two weeks ago,
+REPEAT_PAYMENT,Resend 500 INR to Priya Sharma like last month.,500,INR,Priya Sharma,,last month,
+REPEAT_PAYMENT,Rerun payment payment ID 4456 to Priya Sharma.,,,Priya Sharma,,,payment ID 4456
+REPEAT_PAYMENT,Recreate the payment from account ending 7821 made two weeks ago.,,,,account ending 7821,two weeks ago,
+REPEAT_PAYMENT,Redo my transfer from last week to Rajesh Kumar.,,,Rajesh Kumar,,last week,
+REPEAT_PAYMENT,Send the same payment as 15th June to the landlord from current account.,,,the landlord,current account,15th June,
+REPEAT_PAYMENT,Can you repeat the payment to Priya Sharma yesterday?,,,Priya Sharma,,yesterday,
+REPEAT_PAYMENT,Process the last week payment to John Mathews again.,,,John Mathews,,last week,
+REPEAT_PAYMENT,Do the same payment as 15th June to Priya Sharma.,,,Priya Sharma,,15th June,
+REPEAT_PAYMENT,Can you repeat the payment to John Mathews yesterday?,,,John Mathews,,yesterday,
+REPEAT_PAYMENT,"Please resend 25000 USD to John Mathews, same as yesterday.",25000,USD,John Mathews,,yesterday,
+REPEAT_PAYMENT,"Resend 10,000.50 EUR to Rajesh Kumar like two weeks ago.","10,000.50",EUR,Rajesh Kumar,,two weeks ago,
+REPEAT_PAYMENT,Can you repeat the payment to Rajesh Kumar last time?,,,Rajesh Kumar,,last time,
+REPEAT_PAYMENT,Do the same payment as two weeks ago to Global Traders Ltd.,,,Global Traders Ltd,,two weeks ago,
+REPEAT_PAYMENT,Resend the payment reference instruction ID 8821 to Rajesh Kumar.,,,Rajesh Kumar,,,instruction ID 8821
+REPEAT_PAYMENT,Redo my transfer from last week to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,last week,
+REPEAT_PAYMENT,Recreate the payment from account ending 3359 made two weeks ago.,,,,account ending 3359,two weeks ago,
+REPEAT_PAYMENT,"Repeat the transaction instruction ID 8821 but change amount to 3,750 GBP.","3,750",GBP,,,,instruction ID 8821
+REPEAT_PAYMENT,"Please resend 25000 EUR to Emily Davis, same as before.",25000,EUR,Emily Davis,,before,
+REPEAT_PAYMENT,"Please resend 1,25,000 GBP to the landlord, same as two weeks ago.","1,25,000",GBP,the landlord,,two weeks ago,
+REPEAT_PAYMENT,Repeat that payment last week.,,,,,last week,
+REPEAT_PAYMENT,Resend 500 EUR to ABC Suppliers Pvt Ltd like last time.,500,EUR,ABC Suppliers Pvt Ltd,,last time,
+REPEAT_PAYMENT,Send the same payment as two weeks ago to ABC Suppliers Pvt Ltd from current account.,,,ABC Suppliers Pvt Ltd,current account,two weeks ago,
+REPEAT_PAYMENT,"Resend 2,000 rupees to Emily Davis like before.","2,000",rupees,Emily Davis,,before,
+REPEAT_PAYMENT,Repeat previous payment made last month.,,,,,last month,
+REPEAT_PAYMENT,Do the same payment as yesterday to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,yesterday,
+REPEAT_PAYMENT,Recreate the payment from account ending 3359 made last month.,,,,account ending 3359,last month,
+REPEAT_PAYMENT,Redo my transfer from 15th June to Emily Davis.,,,Emily Davis,,15th June,
+REPEAT_PAYMENT,Copy the payment two weeks ago and send it again to Emily Davis.,,,Emily Davis,,two weeks ago,
+REPEAT_PAYMENT,"Please resend 750 INR to Global Traders Ltd, same as yesterday.",750,INR,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,Repeat the transfer from current account made before.,,,,current account,before,
+REPEAT_PAYMENT,Copy the payment last week and send it again to Priya Sharma.,,,Priya Sharma,,last week,
+REPEAT_PAYMENT,Duplicate the payment from last time to Global Traders Ltd.,,,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,Send the same payment as last month to ABC Suppliers Pvt Ltd from savings account.,,,ABC Suppliers Pvt Ltd,savings account,last month,
+REPEAT_PAYMENT,"Repeat the payment from before to Rajesh Kumar, amount 10,000.50 USD.","10,000.50",USD,Rajesh Kumar,,before,
+REPEAT_PAYMENT,Do the same payment as last month to John Mathews.,,,John Mathews,,last month,
+REPEAT_PAYMENT,Repeat previous payment made before.,,,,,before,
+REPEAT_PAYMENT,Redo my transfer from last month to Rajesh Kumar.,,,Rajesh Kumar,,last month,
+REPEAT_PAYMENT,Copy the payment last week and send it again to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,last week,
+REPEAT_PAYMENT,Do the same payment as last time to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,last time,
+REPEAT_PAYMENT,"Same payee, same amount as last time — send it to Priya Sharma.",,,Priya Sharma,,last time,
+REPEAT_PAYMENT,Duplicate the payment from last month to Rajesh Kumar.,,,Rajesh Kumar,,last month,
+REPEAT_PAYMENT,Duplicate the payment from two weeks ago to John Mathews.,,,John Mathews,,two weeks ago,
+REPEAT_PAYMENT,Repeat the transaction payment ID 4456 but change amount to 750 GBP.,750,GBP,,,,payment ID 4456
+REPEAT_PAYMENT,Process the last time payment to the landlord again.,,,the landlord,,last time,
+REPEAT_PAYMENT,Do the same payment as two weeks ago to Priya Sharma.,,,Priya Sharma,,two weeks ago,
+REPEAT_PAYMENT,"Send Rajesh Kumar the same amount as last week, 750 INR.",750,INR,Rajesh Kumar,,last week,
+REPEAT_PAYMENT,Resend 50000 INR to Emily Davis like last week.,50000,INR,Emily Davis,,last week,
+REPEAT_PAYMENT,Redo my transfer from yesterday to Emily Davis.,,,Emily Davis,,yesterday,
+REPEAT_PAYMENT,Process the before payment to Global Traders Ltd again.,,,Global Traders Ltd,,before,
+REPEAT_PAYMENT,"Send Rajesh Kumar the same amount as 15th June, 25000 USD.",25000,USD,Rajesh Kumar,,15th June,
+REPEAT_PAYMENT,Repeat the transfer from account ending 7821 made two weeks ago.,,,,account ending 7821,two weeks ago,
+REPEAT_PAYMENT,Repeat previous payment made yesterday.,,,,,yesterday,
+REPEAT_PAYMENT,"Please resend 500 USD to Emily Davis, same as last week.",500,USD,Emily Davis,,last week,
+REPEAT_PAYMENT,I want to redo the transfer to Rajesh Kumar from last month.,,,Rajesh Kumar,,last month,
+REPEAT_PAYMENT,"Once more, send 50000 dollars to Emily Davis like yesterday.",50000,dollars,Emily Davis,,yesterday,
+REPEAT_PAYMENT,Can you repeat the payment to Emily Davis before?,,,Emily Davis,,before,
+REPEAT_PAYMENT,"Please resend 750 EUR to Emily Davis, same as 15th June.",750,EUR,Emily Davis,,15th June,
+REPEAT_PAYMENT,Send the same payment as before to Global Traders Ltd from current account.,,,Global Traders Ltd,current account,before,
+REPEAT_PAYMENT,"Same payee, same amount as yesterday — send it to Global Traders Ltd.",,,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,Do the same payment as before to Rajesh Kumar.,,,Rajesh Kumar,,before,
+REPEAT_PAYMENT,Resend 50000 GBP to Priya Sharma like 15th June.,50000,GBP,Priya Sharma,,15th June,
+REPEAT_PAYMENT,"Repeat the payment to Emily Davis yesterday, reference TXN99231.",,,Emily Davis,,yesterday,TXN99231
+REPEAT_PAYMENT,"Resend 3,750 USD to John Mathews like two weeks ago.","3,750",USD,John Mathews,,two weeks ago,
+REPEAT_PAYMENT,Redo my transfer from last week to the landlord.,,,the landlord,,last week,
+REPEAT_PAYMENT,"Same payee, same amount as before — send it to Global Traders Ltd.",,,Global Traders Ltd,,before,
+REPEAT_PAYMENT,"Resend 10,000.50 USD to Global Traders Ltd like 15th June.","10,000.50",USD,Global Traders Ltd,,15th June,
+REPEAT_PAYMENT,"Repeat the payment to ABC Suppliers Pvt Ltd last time, reference TXN99231.",,,ABC Suppliers Pvt Ltd,,last time,TXN99231
+REPEAT_PAYMENT,Repeat my last payment to Emily Davis.,,,Emily Davis,,,
+REPEAT_PAYMENT,"Repeat the payment to Global Traders Ltd 15th June, reference instruction ID 8821.",,,Global Traders Ltd,,15th June,instruction ID 8821
+REPEAT_PAYMENT,Process the last month payment to ABC Suppliers Pvt Ltd again.,,,ABC Suppliers Pvt Ltd,,last month,
+REPEAT_PAYMENT,"Repeat the payment to the landlord two weeks ago, reference instruction ID 8821.",,,the landlord,,two weeks ago,instruction ID 8821
+REPEAT_PAYMENT,Repeat the transfer from current account made 15th June.,,,,current account,15th June,
+REPEAT_PAYMENT,Duplicate the payment from last time to Rajesh Kumar.,,,Rajesh Kumar,,last time,
+REPEAT_PAYMENT,Duplicate the payment from before to Rajesh Kumar.,,,Rajesh Kumar,,before,
+REPEAT_PAYMENT,Recreate the payment from current account made yesterday.,,,,current account,yesterday,
+REPEAT_PAYMENT,Repeat the transaction instruction ID 8821 but change amount to 25000 USD.,25000,USD,,,,instruction ID 8821
+REPEAT_PAYMENT,"Send John Mathews the same amount as before, 750 EUR.",750,EUR,John Mathews,,before,
+REPEAT_PAYMENT,Duplicate the payment from 15th June to Priya Sharma.,,,Priya Sharma,,15th June,
+REPEAT_PAYMENT,"Trigger that 15th June payment again, reference instruction ID 8821.",,,,,15th June,instruction ID 8821
+REPEAT_PAYMENT,Send the same payment as last month to John Mathews from current account.,,,John Mathews,current account,last month,
+REPEAT_PAYMENT,Repeat payment TXN99231 last week.,,,,,last week,TXN99231
+REPEAT_PAYMENT,Send the same payment as two weeks ago to Emily Davis from savings account.,,,Emily Davis,savings account,two weeks ago,
+REPEAT_PAYMENT,Can you repeat the payment to Priya Sharma last time?,,,Priya Sharma,,last time,
+REPEAT_PAYMENT,Recreate the payment from account ending 7821 made 15th June.,,,,account ending 7821,15th June,
+REPEAT_PAYMENT,Duplicate the payment from yesterday to Global Traders Ltd.,,,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,Repeat my last payment to Rajesh Kumar.,,,Rajesh Kumar,,,
+REPEAT_PAYMENT,Duplicate the payment from last week to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,last week,
+REPEAT_PAYMENT,"Repeat the payment from yesterday to John Mathews, amount 25000 GBP.",25000,GBP,John Mathews,,yesterday,
+REPEAT_PAYMENT,Duplicate the payment from before to the landlord.,,,the landlord,,before,
+REPEAT_PAYMENT,Repeat my last payment to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,,
+REPEAT_PAYMENT,"Redo the payment I made yesterday, reference instruction ID 8821.",,,,,yesterday,instruction ID 8821
+REPEAT_PAYMENT,Do the same payment as before to Global Traders Ltd.,,,Global Traders Ltd,,before,
+REPEAT_PAYMENT,"Repeat the payment from yesterday to Rajesh Kumar, amount 2,000 USD.","2,000",USD,Rajesh Kumar,,yesterday,
+REPEAT_PAYMENT,"Repeat the transaction invoice INV-778 but change amount to 1,25,000 USD.","1,25,000",USD,,,,invoice INV-778
+REPEAT_PAYMENT,"Trigger that last time payment again, reference TXN99231.",,,,,last time,TXN99231
+REPEAT_PAYMENT,Copy the payment yesterday and send it again to Emily Davis.,,,Emily Davis,,yesterday,
+REPEAT_PAYMENT,Redo my transfer from last time to Global Traders Ltd.,,,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,"Trigger that two weeks ago payment again, reference payment ID 4456.",,,,,two weeks ago,payment ID 4456
+REPEAT_PAYMENT,Can you repeat the payment to the landlord two weeks ago?,,,the landlord,,two weeks ago,
+REPEAT_PAYMENT,Rerun payment instruction ID 8821 to Emily Davis.,,,Emily Davis,,,instruction ID 8821
+REPEAT_PAYMENT,Repeat the transaction invoice INV-778 but change amount to 750 GBP.,750,GBP,,,,invoice INV-778
+REPEAT_PAYMENT,"Resend 2,000 INR to ABC Suppliers Pvt Ltd like two weeks ago.","2,000",INR,ABC Suppliers Pvt Ltd,,two weeks ago,
+REPEAT_PAYMENT,"Please resend 50000 GBP to Priya Sharma, same as last month.",50000,GBP,Priya Sharma,,last month,
+REPEAT_PAYMENT,Do the same payment as last month to Global Traders Ltd.,,,Global Traders Ltd,,last month,
+REPEAT_PAYMENT,I want to redo the transfer to John Mathews from before.,,,John Mathews,,before,
+REPEAT_PAYMENT,Can you repeat the payment to Emily Davis two weeks ago?,,,Emily Davis,,two weeks ago,
+REPEAT_PAYMENT,"Same payee, same amount as last month — send it to Global Traders Ltd.",,,Global Traders Ltd,,last month,
+REPEAT_PAYMENT,Repeat the transaction invoice INV-778 but change amount to 500 dollars.,500,dollars,,,,invoice INV-778
+REPEAT_PAYMENT,Duplicate the payment from last time to the landlord.,,,the landlord,,last time,
+REPEAT_PAYMENT,Do the same payment as last time to Priya Sharma.,,,Priya Sharma,,last time,
+REPEAT_PAYMENT,Redo my transfer from two weeks ago to Priya Sharma.,,,Priya Sharma,,two weeks ago,
+REPEAT_PAYMENT,Duplicate the payment from last time to Priya Sharma.,,,Priya Sharma,,last time,
+REPEAT_PAYMENT,"Send Priya Sharma the same amount as last month, 750 GBP.",750,GBP,Priya Sharma,,last month,
+REPEAT_PAYMENT,Copy the payment last time and send it again to Global Traders Ltd.,,,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,Repeat payment instruction ID 8821 15th June.,,,,,15th June,instruction ID 8821
+REPEAT_PAYMENT,"Redo the payment I made last week, reference instruction ID 8821.",,,,,last week,instruction ID 8821
+REPEAT_PAYMENT,"Repeat the payment to the landlord yesterday, reference invoice INV-778.",,,the landlord,,yesterday,invoice INV-778
+REPEAT_PAYMENT,"Please resend 3,750 GBP to John Mathews, same as last month.","3,750",GBP,John Mathews,,last month,
+REPEAT_PAYMENT,"Trigger that two weeks ago payment again, reference TXN99231.",,,,,two weeks ago,TXN99231
+REPEAT_PAYMENT,Copy the payment last time and send it again to the landlord.,,,the landlord,,last time,
+REPEAT_PAYMENT,Copy the payment last month and send it again to John Mathews.,,,John Mathews,,last month,
+REPEAT_PAYMENT,Resend 25000 INR to Global Traders Ltd like before.,25000,INR,Global Traders Ltd,,before,
+REPEAT_PAYMENT,Do the same payment as last month to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,last month,
+REPEAT_PAYMENT,Repeat payment payment ID 4456 before.,,,,,before,payment ID 4456
+REPEAT_PAYMENT,Redo my transfer from last week to John Mathews.,,,John Mathews,,last week,
+REPEAT_PAYMENT,Resend the payment reference payment ID 4456 to Priya Sharma.,,,Priya Sharma,,,payment ID 4456
+REPEAT_PAYMENT,"Same payee, same amount as yesterday — send it to the landlord.",,,the landlord,,yesterday,
+REPEAT_PAYMENT,"Repeat the payment to Priya Sharma last time, reference invoice INV-778.",,,Priya Sharma,,last time,invoice INV-778
+REPEAT_PAYMENT,Repeat payment payment ID 4456 two weeks ago.,,,,,two weeks ago,payment ID 4456
+REPEAT_PAYMENT,I want to redo the transfer to Rajesh Kumar from yesterday.,,,Rajesh Kumar,,yesterday,
+REPEAT_PAYMENT,"Resend 3,750 dollars to ABC Suppliers Pvt Ltd like two weeks ago.","3,750",dollars,ABC Suppliers Pvt Ltd,,two weeks ago,
+REPEAT_PAYMENT,Repeat the transfer from account ending 7821 made 15th June.,,,,account ending 7821,15th June,
+REPEAT_PAYMENT,Repeat the transaction TXN99231 but change amount to 25000 dollars.,25000,dollars,,,,TXN99231
+REPEAT_PAYMENT,Process the last time payment to John Mathews again.,,,John Mathews,,last time,
+REPEAT_PAYMENT,Do the same payment as before to Priya Sharma.,,,Priya Sharma,,before,
+REPEAT_PAYMENT,"Once more, send 50000 rupees to Global Traders Ltd like last month.",50000,rupees,Global Traders Ltd,,last month,
+REPEAT_PAYMENT,"Please resend 2,000 INR to Priya Sharma, same as before.","2,000",INR,Priya Sharma,,before,
+REPEAT_PAYMENT,"Please resend 750 EUR to John Mathews, same as before.",750,EUR,John Mathews,,before,
+REPEAT_PAYMENT,"Repeat the payment to John Mathews last month, reference invoice INV-778.",,,John Mathews,,last month,invoice INV-778
+REPEAT_PAYMENT,"Redo the payment I made before, reference instruction ID 8821.",,,,,before,instruction ID 8821
+REPEAT_PAYMENT,"Repeat the payment to Rajesh Kumar last time, reference TXN99231.",,,Rajesh Kumar,,last time,TXN99231
+REPEAT_PAYMENT,Rerun payment invoice INV-778 to John Mathews.,,,John Mathews,,,invoice INV-778
+REPEAT_PAYMENT,Resend 50000 rupees to Rajesh Kumar like yesterday.,50000,rupees,Rajesh Kumar,,yesterday,
+REPEAT_PAYMENT,Redo my transfer from before to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,before,
+REPEAT_PAYMENT,Repeat previous payment made last week.,,,,,last week,
+REPEAT_PAYMENT,Duplicate the payment from 15th June to the landlord.,,,the landlord,,15th June,
+REPEAT_PAYMENT,"Repeat the payment to ABC Suppliers Pvt Ltd last week, reference instruction ID 8821.",,,ABC Suppliers Pvt Ltd,,last week,instruction ID 8821
+REPEAT_PAYMENT,"Resend 3,750 USD to Global Traders Ltd like 15th June.","3,750",USD,Global Traders Ltd,,15th June,
+REPEAT_PAYMENT,"Once more, send 750 rupees to Emily Davis like last time.",750,rupees,Emily Davis,,last time,
+REPEAT_PAYMENT,Redo my transfer from last time to Rajesh Kumar.,,,Rajesh Kumar,,last time,
+REPEAT_PAYMENT,I want to redo the transfer to John Mathews from yesterday.,,,John Mathews,,yesterday,
+REPEAT_PAYMENT,"Send Global Traders Ltd the same amount as before, 500 USD.",500,USD,Global Traders Ltd,,before,
+REPEAT_PAYMENT,I want to redo the transfer to the landlord from last time.,,,the landlord,,last time,
+REPEAT_PAYMENT,Can you repeat the payment to ABC Suppliers Pvt Ltd last month?,,,ABC Suppliers Pvt Ltd,,last month,
+REPEAT_PAYMENT,"Repeat the payment to Rajesh Kumar before, reference instruction ID 8821.",,,Rajesh Kumar,,before,instruction ID 8821
+REPEAT_PAYMENT,"Send Global Traders Ltd the same amount as two weeks ago, 25000 EUR.",25000,EUR,Global Traders Ltd,,two weeks ago,
+REPEAT_PAYMENT,"Send the landlord the same amount as last week, 50000 USD.",50000,USD,the landlord,,last week,
+REPEAT_PAYMENT,Copy the payment last month and send it again to Rajesh Kumar.,,,Rajesh Kumar,,last month,
+REPEAT_PAYMENT,Repeat the transaction TXN99231 but change amount to 500 USD.,500,USD,,,,TXN99231
+REPEAT_PAYMENT,"Resend 1,25,000 dollars to the landlord like yesterday.","1,25,000",dollars,the landlord,,yesterday,
+REPEAT_PAYMENT,Copy the payment last time and send it again to Emily Davis.,,,Emily Davis,,last time,
+REPEAT_PAYMENT,Do the same payment as last time to John Mathews.,,,John Mathews,,last time,
+REPEAT_PAYMENT,Copy the payment last month and send it again to the landlord.,,,the landlord,,last month,
+REPEAT_PAYMENT,Resend 500 USD to Rajesh Kumar like yesterday.,500,USD,Rajesh Kumar,,yesterday,
+REPEAT_PAYMENT,Process the 15th June payment to John Mathews again.,,,John Mathews,,15th June,
+REPEAT_PAYMENT,Repeat the transaction instruction ID 8821 but change amount to 50000 INR.,50000,INR,,,,instruction ID 8821
+REPEAT_PAYMENT,Can you repeat the payment to John Mathews before?,,,John Mathews,,before,
+REPEAT_PAYMENT,Can you repeat the payment to Emily Davis last month?,,,Emily Davis,,last month,
+REPEAT_PAYMENT,Resend the payment reference invoice INV-778 to the landlord.,,,the landlord,,,invoice INV-778
+REPEAT_PAYMENT,"Send John Mathews the same amount as two weeks ago, 1,25,000 EUR.","1,25,000",EUR,John Mathews,,two weeks ago,
+REPEAT_PAYMENT,I want to redo the transfer to Rajesh Kumar from before.,,,Rajesh Kumar,,before,
+REPEAT_PAYMENT,"Repeat the payment to John Mathews last time, reference payment ID 4456.",,,John Mathews,,last time,payment ID 4456
+REPEAT_PAYMENT,Resend the payment reference payment ID 4456 to John Mathews.,,,John Mathews,,,payment ID 4456
+REPEAT_PAYMENT,Do the same payment as last time to Emily Davis.,,,Emily Davis,,last time,
+REPEAT_PAYMENT,Send the same payment as last time to the landlord from account ending 3359.,,,the landlord,account ending 3359,last time,
+REPEAT_PAYMENT,"Please resend 1,25,000 EUR to the landlord, same as yesterday.","1,25,000",EUR,the landlord,,yesterday,
+REPEAT_PAYMENT,Redo my transfer from last time to the landlord.,,,the landlord,,last time,
+REPEAT_PAYMENT,Repeat the transfer from account ending 7821 made last time.,,,,account ending 7821,last time,
+REPEAT_PAYMENT,"Please resend 2,000 GBP to ABC Suppliers Pvt Ltd, same as two weeks ago.","2,000",GBP,ABC Suppliers Pvt Ltd,,two weeks ago,
+REPEAT_PAYMENT,Resend the payment reference payment ID 4456 to Rajesh Kumar.,,,Rajesh Kumar,,,payment ID 4456
+REPEAT_PAYMENT,"Trigger that last week payment again, reference instruction ID 8821.",,,,,last week,instruction ID 8821
+REPEAT_PAYMENT,"Repeat the payment to Global Traders Ltd last month, reference payment ID 4456.",,,Global Traders Ltd,,last month,payment ID 4456
+REPEAT_PAYMENT,"Same payee, same amount as last month — send it to ABC Suppliers Pvt Ltd.",,,ABC Suppliers Pvt Ltd,,last month,
+REPEAT_PAYMENT,Resend the payment reference instruction ID 8821 to Priya Sharma.,,,Priya Sharma,,,instruction ID 8821
+REPEAT_PAYMENT,Resend 500 EUR to John Mathews like two weeks ago.,500,EUR,John Mathews,,two weeks ago,
+REPEAT_PAYMENT,I want to redo the transfer to Priya Sharma from last time.,,,Priya Sharma,,last time,
+REPEAT_PAYMENT,"Repeat the payment from last time to Global Traders Ltd, amount 2,000 EUR.","2,000",EUR,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,Repeat the transfer from account ending 7821 made yesterday.,,,,account ending 7821,yesterday,
+REPEAT_PAYMENT,"Trigger that last month payment again, reference TXN99231.",,,,,last month,TXN99231
+REPEAT_PAYMENT,"Redo the payment I made last week, reference payment ID 4456.",,,,,last week,payment ID 4456
+REPEAT_PAYMENT,Recreate the payment from account ending 7821 made before.,,,,account ending 7821,before,
+REPEAT_PAYMENT,"Please resend 750 rupees to Rajesh Kumar, same as 15th June.",750,rupees,Rajesh Kumar,,15th June,
+REPEAT_PAYMENT,"Repeat the payment to Rajesh Kumar before, reference payment ID 4456.",,,Rajesh Kumar,,before,payment ID 4456
+REPEAT_PAYMENT,"Send Global Traders Ltd the same amount as before, 10,000.50 dollars.","10,000.50",dollars,Global Traders Ltd,,before,
+REPEAT_PAYMENT,I want to redo the transfer to Global Traders Ltd from 15th June.,,,Global Traders Ltd,,15th June,
+REPEAT_PAYMENT,"Same payee, same amount as two weeks ago — send it to the landlord.",,,the landlord,,two weeks ago,
+REPEAT_PAYMENT,Repeat payment payment ID 4456 15th June.,,,,,15th June,payment ID 4456
+REPEAT_PAYMENT,"Trigger that last week payment again, reference invoice INV-778.",,,,,last week,invoice INV-778
+REPEAT_PAYMENT,"Once more, send 10,000.50 dollars to the landlord like two weeks ago.","10,000.50",dollars,the landlord,,two weeks ago,
+REPEAT_PAYMENT,"Redo the payment I made last month, reference invoice INV-778.",,,,,last month,invoice INV-778
+REPEAT_PAYMENT,Do the same payment as last week to Emily Davis.,,,Emily Davis,,last week,
+REPEAT_PAYMENT,Can you repeat the payment to John Mathews last time?,,,John Mathews,,last time,
+REPEAT_PAYMENT,"Send ABC Suppliers Pvt Ltd the same amount as last month, 25000 GBP.",25000,GBP,ABC Suppliers Pvt Ltd,,last month,
+REPEAT_PAYMENT,Redo my transfer from last month to the landlord.,,,the landlord,,last month,
+REPEAT_PAYMENT,Rerun payment instruction ID 8821 to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,,instruction ID 8821
+REPEAT_PAYMENT,"Repeat the transaction payment ID 4456 but change amount to 10,000.50 USD.","10,000.50",USD,,,,payment ID 4456
+REPEAT_PAYMENT,"Same payee, same amount as before — send it to John Mathews.",,,John Mathews,,before,
+REPEAT_PAYMENT,"Resend 10,000.50 USD to the landlord like last week.","10,000.50",USD,the landlord,,last week,
+REPEAT_PAYMENT,"Please resend 2,000 EUR to Global Traders Ltd, same as two weeks ago.","2,000",EUR,Global Traders Ltd,,two weeks ago,
+REPEAT_PAYMENT,Redo my transfer from last month to Priya Sharma.,,,Priya Sharma,,last month,
+REPEAT_PAYMENT,Send the same payment as last week to the landlord from account ending 3359.,,,the landlord,account ending 3359,last week,
+REPEAT_PAYMENT,Send the same payment as last month to Rajesh Kumar from account ending 7821.,,,Rajesh Kumar,account ending 7821,last month,
+REPEAT_PAYMENT,Rerun payment TXN99231 to John Mathews.,,,John Mathews,,,TXN99231
+REPEAT_PAYMENT,"Redo the payment I made last month, reference TXN99231.",,,,,last month,TXN99231
+REPEAT_PAYMENT,Resend 750 EUR to Global Traders Ltd like last time.,750,EUR,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,Send the same payment as two weeks ago to ABC Suppliers Pvt Ltd from account ending 7821.,,,ABC Suppliers Pvt Ltd,account ending 7821,two weeks ago,
+REPEAT_PAYMENT,Duplicate the payment from 15th June to Rajesh Kumar.,,,Rajesh Kumar,,15th June,
+REPEAT_PAYMENT,Duplicate the payment from last month to Priya Sharma.,,,Priya Sharma,,last month,
+REPEAT_PAYMENT,"Redo the payment I made last week, reference TXN99231.",,,,,last week,TXN99231
+REPEAT_PAYMENT,Send the same payment as yesterday to Global Traders Ltd from account ending 3359.,,,Global Traders Ltd,account ending 3359,yesterday,
+REPEAT_PAYMENT,Process the 15th June payment to ABC Suppliers Pvt Ltd again.,,,ABC Suppliers Pvt Ltd,,15th June,
+REPEAT_PAYMENT,"Resend 10,000.50 dollars to Priya Sharma like last month.","10,000.50",dollars,Priya Sharma,,last month,
+REPEAT_PAYMENT,Send the same payment as yesterday to Global Traders Ltd from current account.,,,Global Traders Ltd,current account,yesterday,
+REPEAT_PAYMENT,"Repeat the payment to Rajesh Kumar last week, reference TXN99231.",,,Rajesh Kumar,,last week,TXN99231
+REPEAT_PAYMENT,Repeat the transfer from account ending 3359 made 15th June.,,,,account ending 3359,15th June,
+REPEAT_PAYMENT,Send the same payment as last week to Rajesh Kumar from account ending 7821.,,,Rajesh Kumar,account ending 7821,last week,
+REPEAT_PAYMENT,Send the same payment as yesterday to the landlord from account ending 3359.,,,the landlord,account ending 3359,yesterday,
+REPEAT_PAYMENT,Do the same payment as yesterday to John Mathews.,,,John Mathews,,yesterday,
+REPEAT_PAYMENT,Recreate the payment from account ending 7821 made last month.,,,,account ending 7821,last month,
+REPEAT_PAYMENT,Send the same payment as yesterday to John Mathews from account ending 7821.,,,John Mathews,account ending 7821,yesterday,
+REPEAT_PAYMENT,"Please resend 50000 USD to Rajesh Kumar, same as 15th June.",50000,USD,Rajesh Kumar,,15th June,
+REPEAT_PAYMENT,"Repeat the payment to Priya Sharma before, reference invoice INV-778.",,,Priya Sharma,,before,invoice INV-778
+REPEAT_PAYMENT,I want to redo the transfer to ABC Suppliers Pvt Ltd from last week.,,,ABC Suppliers Pvt Ltd,,last week,
+REPEAT_PAYMENT,"Redo the payment I made last week, reference invoice INV-778.",,,,,last week,invoice INV-778
+REPEAT_PAYMENT,Resend 25000 EUR to Rajesh Kumar like last month.,25000,EUR,Rajesh Kumar,,last month,
+REPEAT_PAYMENT,"Send John Mathews the same amount as yesterday, 750 GBP.",750,GBP,John Mathews,,yesterday,
+REPEAT_PAYMENT,Rerun payment invoice INV-778 to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,,invoice INV-778
+REPEAT_PAYMENT,"Redo the payment I made 15th June, reference payment ID 4456.",,,,,15th June,payment ID 4456
+REPEAT_PAYMENT,"Resend 2,000 GBP to Rajesh Kumar like two weeks ago.","2,000",GBP,Rajesh Kumar,,two weeks ago,
+REPEAT_PAYMENT,"Resend 2,000 dollars to Priya Sharma like yesterday.","2,000",dollars,Priya Sharma,,yesterday,
+REPEAT_PAYMENT,Resend 25000 INR to John Mathews like last week.,25000,INR,John Mathews,,last week,
+REPEAT_PAYMENT,Send the same payment as last month to ABC Suppliers Pvt Ltd from account ending 7821.,,,ABC Suppliers Pvt Ltd,account ending 7821,last month,
+REPEAT_PAYMENT,Can you repeat the payment to Global Traders Ltd last week?,,,Global Traders Ltd,,last week,
+REPEAT_PAYMENT,Copy the payment before and send it again to Emily Davis.,,,Emily Davis,,before,
+REPEAT_PAYMENT,Do the same payment as two weeks ago to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,two weeks ago,
+REPEAT_PAYMENT,I want to redo the transfer to Priya Sharma from two weeks ago.,,,Priya Sharma,,two weeks ago,
+REPEAT_PAYMENT,Do the same payment as last month to Rajesh Kumar.,,,Rajesh Kumar,,last month,
+REPEAT_PAYMENT,Process the last time payment to Emily Davis again.,,,Emily Davis,,last time,
+REPEAT_PAYMENT,Repeat payment TXN99231 last time.,,,,,last time,TXN99231
+REPEAT_PAYMENT,"Repeat the payment to Emily Davis last month, reference payment ID 4456.",,,Emily Davis,,last month,payment ID 4456
+REPEAT_PAYMENT,Process the last time payment to Global Traders Ltd again.,,,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,Send the same payment as 15th June to John Mathews from account ending 7821.,,,John Mathews,account ending 7821,15th June,
+REPEAT_PAYMENT,I want to redo the transfer to ABC Suppliers Pvt Ltd from two weeks ago.,,,ABC Suppliers Pvt Ltd,,two weeks ago,
+REPEAT_PAYMENT,Recreate the payment from savings account made before.,,,,savings account,before,
+REPEAT_PAYMENT,Can you repeat the payment to Global Traders Ltd yesterday?,,,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,I want to redo the transfer to the landlord from two weeks ago.,,,the landlord,,two weeks ago,
+REPEAT_PAYMENT,Recreate the payment from savings account made last time.,,,,savings account,last time,
+REPEAT_PAYMENT,Resend 750 GBP to the landlord like last week.,750,GBP,the landlord,,last week,
+REPEAT_PAYMENT,Duplicate the payment from two weeks ago to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,two weeks ago,
+REPEAT_PAYMENT,"Repeat the transaction TXN99231 but change amount to 10,000.50 EUR.","10,000.50",EUR,,,,TXN99231
+REPEAT_PAYMENT,"Please resend 25000 INR to the landlord, same as last time.",25000,INR,the landlord,,last time,
+REPEAT_PAYMENT,"Repeat the payment from last time to ABC Suppliers Pvt Ltd, amount 25000 INR.",25000,INR,ABC Suppliers Pvt Ltd,,last time,
+REPEAT_PAYMENT,"Same payee, same amount as before — send it to Rajesh Kumar.",,,Rajesh Kumar,,before,
+REPEAT_PAYMENT,"Repeat the payment from yesterday to Emily Davis, amount 50000 USD.",50000,USD,Emily Davis,,yesterday,
+REPEAT_PAYMENT,Recreate the payment from account ending 3359 made 15th June.,,,,account ending 3359,15th June,
+REPEAT_PAYMENT,Can you repeat the payment to the landlord last week?,,,the landlord,,last week,
+REPEAT_PAYMENT,Copy the payment two weeks ago and send it again to Priya Sharma.,,,Priya Sharma,,two weeks ago,
+REPEAT_PAYMENT,Process the before payment to ABC Suppliers Pvt Ltd again.,,,ABC Suppliers Pvt Ltd,,before,
+REPEAT_PAYMENT,Redo my transfer from 15th June to the landlord.,,,the landlord,,15th June,
+REPEAT_PAYMENT,"Please resend 25000 INR to Priya Sharma, same as last time.",25000,INR,Priya Sharma,,last time,
+REPEAT_PAYMENT,"Redo the payment I made last time, reference invoice INV-778.",,,,,last time,invoice INV-778
+REPEAT_PAYMENT,Can you repeat the payment to ABC Suppliers Pvt Ltd last week?,,,ABC Suppliers Pvt Ltd,,last week,
+REPEAT_PAYMENT,"Same payee, same amount as 15th June — send it to the landlord.",,,the landlord,,15th June,
+REPEAT_PAYMENT,Repeat the transfer from savings account made yesterday.,,,,savings account,yesterday,
+REPEAT_PAYMENT,"Same payee, same amount as last time — send it to Global Traders Ltd.",,,Global Traders Ltd,,last time,
+REPEAT_PAYMENT,"Redo the payment I made two weeks ago, reference instruction ID 8821.",,,,,two weeks ago,instruction ID 8821
+REPEAT_PAYMENT,"Once more, send 3,750 dollars to Priya Sharma like last time.","3,750",dollars,Priya Sharma,,last time,
+REPEAT_PAYMENT,"Redo the payment I made 15th June, reference instruction ID 8821.",,,,,15th June,instruction ID 8821
+REPEAT_PAYMENT,"Same payee, same amount as yesterday — send it to Priya Sharma.",,,Priya Sharma,,yesterday,
+REPEAT_PAYMENT,I want to redo the transfer to Global Traders Ltd from before.,,,Global Traders Ltd,,before,
+REPEAT_PAYMENT,"Once more, send 50000 INR to the landlord like last time.",50000,INR,the landlord,,last time,
+REPEAT_PAYMENT,Resend 50000 INR to the landlord like last week.,50000,INR,the landlord,,last week,
+REPEAT_PAYMENT,Process the yesterday payment to Global Traders Ltd again.,,,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,Send the same payment as last month to the landlord from account ending 7821.,,,the landlord,account ending 7821,last month,
+REPEAT_PAYMENT,"Send ABC Suppliers Pvt Ltd the same amount as before, 10,000.50 USD.","10,000.50",USD,ABC Suppliers Pvt Ltd,,before,
+REPEAT_PAYMENT,"Send Priya Sharma the same amount as last month, 1,25,000 dollars.","1,25,000",dollars,Priya Sharma,,last month,
+REPEAT_PAYMENT,"Once more, send 500 rupees to Priya Sharma like yesterday.",500,rupees,Priya Sharma,,yesterday,
+REPEAT_PAYMENT,"Repeat the payment to Emily Davis 15th June, reference instruction ID 8821.",,,Emily Davis,,15th June,instruction ID 8821
+REPEAT_PAYMENT,Send the same payment as two weeks ago to the landlord from account ending 3359.,,,the landlord,account ending 3359,two weeks ago,
+REPEAT_PAYMENT,Can you repeat the payment to John Mathews last month?,,,John Mathews,,last month,
+REPEAT_PAYMENT,"Repeat the payment from last week to Global Traders Ltd, amount 1,25,000 EUR.","1,25,000",EUR,Global Traders Ltd,,last week,
+REPEAT_PAYMENT,Duplicate the payment from before to ABC Suppliers Pvt Ltd.,,,ABC Suppliers Pvt Ltd,,before,
+REPEAT_PAYMENT,Duplicate the payment from 15th June to Global Traders Ltd.,,,Global Traders Ltd,,15th June,
+REPEAT_PAYMENT,Rerun payment instruction ID 8821 to the landlord.,,,the landlord,,,instruction ID 8821
+REPEAT_PAYMENT,"Once more, send 50000 EUR to John Mathews like before.",50000,EUR,John Mathews,,before,
+REPEAT_PAYMENT,"Repeat the payment to Rajesh Kumar last month, reference payment ID 4456.",,,Rajesh Kumar,,last month,payment ID 4456
+REPEAT_PAYMENT,Resend 750 dollars to Global Traders Ltd like yesterday.,750,dollars,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,Copy the payment before and send it again to Priya Sharma.,,,Priya Sharma,,before,
+REPEAT_PAYMENT,"Repeat the payment from last week to the landlord, amount 3,750 dollars.","3,750",dollars,the landlord,,last week,
+REPEAT_PAYMENT,"Repeat the transaction instruction ID 8821 but change amount to 2,000 INR.","2,000",INR,,,,instruction ID 8821
+REPEAT_PAYMENT,"Once more, send 500 EUR to Global Traders Ltd like yesterday.",500,EUR,Global Traders Ltd,,yesterday,
+REPEAT_PAYMENT,Redo my transfer from last time to Priya Sharma.,,,Priya Sharma,,last time,
+REPEAT_PAYMENT,Recreate the payment from account ending 7821 made yesterday.,,,,account ending 7821,yesterday,
+REPEAT_PAYMENT,"Same payee, same amount as last month — send it to Emily Davis.",,,Emily Davis,,last month,
+REPEAT_PAYMENT,"Repeat the payment from 15th June to Global Traders Ltd, amount 500 USD.",500,USD,Global Traders Ltd,,15th June,
+REPEAT_PAYMENT,Process the last time payment to ABC Suppliers Pvt Ltd again.,,,ABC Suppliers Pvt Ltd,,last time,
+REPEAT_PAYMENT,Repeat the transfer from account ending 3359 made last time.,,,,account ending 3359,last time,
+REPEAT_PAYMENT,"Repeat the payment to John Mathews last week, reference TXN99231.",,,John Mathews,,last week,TXN99231
+REPEAT_PAYMENT,"Repeat the transaction TXN99231 but change amount to 3,750 GBP.","3,750",GBP,,,,TXN99231
+REPEAT_PAYMENT,Resend the payment reference payment ID 4456 to Emily Davis.,,,Emily Davis,,,payment ID 4456
+REPEAT_PAYMENT,"Resend 10,000.50 USD to ABC Suppliers Pvt Ltd like before.","10,000.50",USD,ABC Suppliers Pvt Ltd,,before,
+REPEAT_PAYMENT,"Please resend 750 USD to John Mathews, same as last time.",750,USD,John Mathews,,last time,
+REPEAT_PAYMENT,"Once more, send 750 EUR to the landlord like before.",750,EUR,the landlord,,before,
+REPEAT_PAYMENT,Duplicate the payment from before to John Mathews.,,,John Mathews,,before,
+REPEAT_PAYMENT,Send the same payment as before to Priya Sharma from account ending 3359.,,,Priya Sharma,account ending 3359,before,
+REPEAT_PAYMENT,Resend the payment reference instruction ID 8821 to Global Traders Ltd.,,,Global Traders Ltd,,,instruction ID 8821
+REPEAT_PAYMENT,I want to redo the transfer to Emily Davis from last month.,,,Emily Davis,,last month,
+REPEAT_PAYMENT,"Resend 2,000 GBP to Priya Sharma like two weeks ago.","2,000",GBP,Priya Sharma,,two weeks ago,
+REPEAT_PAYMENT,Redo my transfer from last month to Global Traders Ltd.,,,Global Traders Ltd,,last month,
+REPEAT_PAYMENT,Repeat the transaction payment ID 4456 but change amount to 50000 EUR.,50000,EUR,,,,payment ID 4456
+REPEAT_PAYMENT,"Trigger that yesterday payment again, reference invoice INV-778.",,,,,yesterday,invoice INV-778
+REPEAT_PAYMENT,Recreate the payment from account ending 3359 made last week.,,,,account ending 3359,last week,
+REPEAT_PAYMENT,"Repeat the payment from 15th June to Rajesh Kumar, amount 10,000.50 rupees.","10,000.50",rupees,Rajesh Kumar,,15th June,
+REPEAT_PAYMENT,Rerun payment invoice INV-778 to Emily Davis.,,,Emily Davis,,,invoice INV-778
+REPEAT_PAYMENT,Repeat the transfer from account ending 7821 made last month.,,,,account ending 7821,last month,
+REPEAT_PAYMENT,Send the same payment as before to ABC Suppliers Pvt Ltd from current account.,,,ABC Suppliers Pvt Ltd,current account,before,
+REPEAT_PAYMENT,Resend 25000 dollars to Global Traders Ltd like last week.,25000,dollars,Global Traders Ltd,,last week,
+REPEAT_PAYMENT,"Repeat the payment to John Mathews before, reference payment ID 4456.",,,John Mathews,,before,payment ID 4456
